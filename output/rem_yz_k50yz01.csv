@@ -1,0 +1,48 @@
+Composition,
+Date Added,2018-04-03
+Formula,
+Grain Size Description,<75.0um
+Grain Size,45.0 - 75.0
+Locality,
+Minimum Wavelength,320
+Sample Name,Hebei olivine 45-75 um
+Maximum Wavelength,880
+Database of Origin,ReLab
+Other Information,
+References,
+Resolution,20.0
+Material Class,Mineral
+Sample Description,For a photometric study
+Sample ID,K50YZ01
+Original Sample ID,YZ-REM-001
+Viewing Geometry,50.0° / 0.0°
+Wavelength,Response
+320.0,372.537
+340.0,459.63
+360.0,562.143
+380.0,636.256
+400.0,665.322
+420.0,702.5
+440.0,716.409
+460.0,732.478
+480.0,760.983
+500.0,778.436
+520.0,804.356
+540.0,821.529
+560.0,833.935
+580.0,829.275
+600.0,821.978
+620.0,805.992
+640.0,800.169
+660.0,804.165
+680.0,803.023
+700.0,783.114
+720.0,765.445
+740.0,736.078
+760.0,707.515
+780.0,677.392
+800.0,650.158
+820.0,635.966
+840.0,611.799
+860.0,596.485
+880.0,588.165

@@ -1,0 +1,48 @@
+Composition,
+Date Added,2018-03-27
+Formula,
+Grain Size Description,<20.0um
+Grain Size,10.0 - 20.0
+Locality,
+Minimum Wavelength,320
+Sample Name,Synthetic ilmenite 10-20 um
+Maximum Wavelength,880
+Database of Origin,ReLab
+Other Information,
+References,
+Resolution,20.0
+Material Class,Mineral
+Sample Description,For a photometric study
+Sample ID,K35YZ09
+Original Sample ID,YZ-REM-009
+Viewing Geometry,35.0° / 0.0°
+Wavelength,Response
+320.0,33.472
+340.0,44.24
+360.0,50.605
+380.0,48.574
+400.0,47.019
+420.0,44.543
+440.0,42.341
+460.0,40.923
+480.0,40.106
+500.0,39.956
+520.0,39.789
+540.0,40.124
+560.0,40.48
+580.0,40.958
+600.0,41.245
+620.0,41.814
+640.0,42.085
+660.0,42.349
+680.0,42.829
+700.0,43.315
+720.0,43.609
+740.0,44.126
+760.0,44.69
+780.0,45.407
+800.0,46.472
+820.0,47.912
+840.0,50.059
+860.0,52.886
+880.0,56.467

@@ -1,0 +1,44 @@
+Composition,
+Date Added,2008-01-18
+Formula,
+Grain Size Description,<45.0um
+Grain Size,0.0 - 45.0
+Locality,
+Minimum Wavelength,280
+Sample Name,En 70 Fs 30 (B) <45 um
+Maximum Wavelength,400
+Database of Origin,ReLab
+Other Information,
+References,
+Resolution,5.0
+Material Class,Mineral
+Sample Description,"PGG from Don Lindsley.  See Klima, R. L. et al. (2007) Meteoritics & Planetary Science 42, 235-253."
+Sample ID,C5DL26A
+Original Sample ID,DL-CMP-026-A
+Viewing Geometry,30.0° / 0.0°
+Wavelength,Response
+280.0,136.11
+285.0,126.92
+290.0,125.56
+295.0,125.61
+300.0,128.78
+305.0,133.6
+310.0,141.48
+315.0,151.93
+320.0,165.63
+325.0,181.9
+330.0,203.05
+335.0,227.28
+340.0,256.79
+345.0,285.92
+350.0,320.53
+355.0,356.3
+360.0,393.23
+365.0,430.77
+370.0,466.9
+375.0,493.21
+380.0,515.15
+385.0,531.47
+390.0,548.88
+395.0,555.63
+400.0,572.67

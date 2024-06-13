@@ -1,0 +1,48 @@
+Composition,
+Date Added,2018-04-03
+Formula,
+Grain Size Description,<63.0um
+Grain Size,45.0 - 63.0
+Locality,
+Minimum Wavelength,320
+Sample Name,Synthetic ilmenite 45-63 um
+Maximum Wavelength,880
+Database of Origin,ReLab
+Other Information,
+References,
+Resolution,20.0
+Material Class,Mineral
+Sample Description,For a photometric study
+Sample ID,K60YZ04
+Original Sample ID,YZ-REM-004
+Viewing Geometry,60.0° / 0.0°
+Wavelength,Response
+320.0,69.696
+340.0,69.911
+360.0,67.536
+380.0,64.49
+400.0,61.186
+420.0,57.832
+440.0,54.946
+460.0,53.17
+480.0,52.086
+500.0,51.556
+520.0,51.577
+540.0,51.89
+560.0,52.264
+580.0,52.837
+600.0,53.434
+620.0,53.99
+640.0,54.47
+660.0,54.826
+680.0,55.366
+700.0,55.667
+720.0,56.199
+740.0,56.767
+760.0,57.167
+780.0,57.773
+800.0,58.269
+820.0,59.161
+840.0,60.348
+860.0,61.485
+880.0,62.947

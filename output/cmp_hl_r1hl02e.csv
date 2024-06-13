@@ -1,0 +1,43 @@
+Composition,
+Date Added,2006-03-23
+Formula,
+Grain Size Description,<0.0um
+Grain Size,0.0 - 0.0
+Locality,
+Minimum Wavelength,300
+Sample Name,SRS-99
+Maximum Wavelength,2600
+Database of Origin,ReLab
+Other Information,
+References,
+Resolution,100.0
+Material Class,Other
+Sample Description,99% Spectralon standard   
+Sample ID,R1HL02E
+Original Sample ID,HL-CMP-002
+Viewing Geometry,10.0° / 0.0°
+Wavelength,Response
+300.0,1201.67
+400.0,1180.56
+500.0,1184.11
+600.0,1182.62
+700.0,1182.99
+800.0,1184.34
+900.0,1172.89
+1000.0,1187.89
+1100.0,1196.8
+1200.0,1196.42
+1300.0,1200.51
+1400.0,1194.76
+1500.0,1183.95
+1600.0,1179.24
+1700.0,1176.24
+1800.0,1177.71
+1900.0,1178.85
+2000.0,1181.33
+2100.0,1183.61
+2200.0,1182.46
+2300.0,1185.32
+2400.0,1184.85
+2500.0,1189.37
+2600.0,1206.9

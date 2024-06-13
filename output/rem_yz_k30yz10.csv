@@ -1,0 +1,48 @@
+Composition,
+Date Added,2018-03-27
+Formula,
+Grain Size Description,<45.0um
+Grain Size,0.0 - 45.0
+Locality,
+Minimum Wavelength,320
+Sample Name,Tanzanian orthopyroxene <45 um
+Maximum Wavelength,880
+Database of Origin,ReLab
+Other Information,
+References,
+Resolution,20.0
+Material Class,Mineral
+Sample Description,For a photometric study
+Sample ID,K30YZ10
+Original Sample ID,YZ-REM-010
+Viewing Geometry,30.0° / 0.0°
+Wavelength,Response
+320.0,378.14
+340.0,469.508
+360.0,565.817
+380.0,631.562
+400.0,678.078
+420.0,708.668
+440.0,714.668
+460.0,734.708
+480.0,738.902
+500.0,753.88
+520.0,768.821
+540.0,772.917
+560.0,783.081
+580.0,797.568
+600.0,812.679
+620.0,818.357
+640.0,828.692
+660.0,834.024
+680.0,840.547
+700.0,838.618
+720.0,831.619
+740.0,799.116
+760.0,754.685
+780.0,680.358
+800.0,605.372
+820.0,531.008
+840.0,462.393
+860.0,409.079
+880.0,373.781
