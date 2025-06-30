@@ -41,13 +41,13 @@ def get_sample_type(id, source, genType1, gen_type_2, type1, type2, subtype):
 
     if genType1 in material_classes: return genType1
 
-    if 'mixture' in gen_type_2.lower(): return "Mixture"
+    if 'mixture' in gen_type_2.lower(): return 'Mixture'
     
-    if genType1 in sediments: return "Sediment"
-    if genType1 in organics: return "Organic"
-    if genType1 in minerals: return "Mineral"
-    if genType1 in rocks: return "Rock"
-    if genType1 in synthetics: return "Synthetic"
+    if genType1 in sediments: return 'Sediment'
+    if genType1 in organics: return 'Organic'
+    if genType1 in minerals: return 'Mineral'
+    if genType1 in rocks: return 'Rock'
+    if genType1 in synthetics: return 'Synthetic'
 
     if 'quartz kbr' in subtype.lower(): return 'Rock'
 
@@ -72,7 +72,7 @@ def load_sample_data():
     # apply algorithm to all samples, store metadata
     for sample in range(1, sample_cat.nrows):
 
-        # retrive sample metadata
+        # retrieve sample metadata
         sample_id      = sample_cat.cell_value(rowx=sample, colx=0)
         sample_name    = sample_cat.cell_value(rowx=sample, colx=1)
         source         = sample_cat.cell_value(rowx=sample, colx=5)
@@ -212,8 +212,8 @@ if __name__ == "__main__":
             MICRON_TO_NM = 1000
             data = [
                 [
-                    str(float( Decimal(line.split("\t")[0]) * MICRON_TO_NM )),
-                    #str(float( Decimal(line.split("\t")[1]) * MICRON_TO_NM )) # <-- Reflectance should be 0..1 (not multiplied by 1000)
+                    str(float(Decimal(line.split("\t")[0]) * MICRON_TO_NM )),
+                    str(float(Decimal(line.split("\t")[1]))) # <-- Reflectance should be 0..1 (not multiplied by 1000)
                 ]
                 for line in lines
             ]
