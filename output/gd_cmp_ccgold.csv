@@ -1,0 +1,47 @@
+Composition,
+Date Added,1986-12-12
+Formula,
+Grain Size Description,<0.0um
+Grain Size,Unknown
+Locality,
+Minimum Wavelength,220
+Sample Name,Nicolet diffuse gold
+Maximum Wavelength,5000
+Database of Origin,RELAB
+Other Information,Diffuse Gold
+References,
+Resolution,20.0
+Material class,Reference
+Sample Description,Used as a standard for Nicolet FT-IR measurements   
+Sample ID,CCGOLD
+Original Sample ID,GD-CMP-003
+Viewing Geometry,30.0° / 0.0°
+Wavelength,Response
+220.0,0.275
+240.0,0.316
+260.0,0.356
+280.0,0.378
+300.0,0.377
+315.0,0.373
+320.0,0.371
+340.0,0.361
+360.0,0.363
+380.0,0.378
+400.0,0.387
+450.0,0.387
+500.0,0.477
+550.0,0.817
+600.0,0.919
+650.0,0.955
+700.0,0.97
+750.0,0.974
+800.0,0.98
+850.0,0.982
+900.0,0.984
+950.0,0.985
+1000.0,0.986
+1500.0,0.99
+2000.0,0.991
+3000.0,0.993
+4000.0,0.994
+5000.0,0.994

@@ -1,0 +1,48 @@
+Composition,
+Date Added,2011-12-16
+Formula,
+Grain Size Description,<0.0um
+Grain Size,Unknown
+Locality,
+Minimum Wavelength,280
+Sample Name,Halon (1991)
+Maximum Wavelength,420
+Database of Origin,RELAB
+Other Information,Halon 
+References,
+Resolution,5.0
+Material class,Reference
+Sample Description,
+Sample ID,R5HL01
+Original Sample ID,HL-CMP-001
+Viewing Geometry,30.0° / 0.0°
+Wavelength,Response
+280.0,1.07875
+285.0,1.00703
+290.0,0.99068
+295.0,0.98861
+300.0,0.99221
+305.0,0.9939
+310.0,0.99771
+315.0,0.9983
+320.0,1.00267
+325.0,1.00145
+330.0,1.00508
+335.0,1.0063
+340.0,1.00775
+345.0,1.01183
+350.0,1.01736
+355.0,1.0128
+360.0,1.01901
+365.0,1.01398
+370.0,1.01455
+375.0,1.01616
+380.0,1.01695
+385.0,1.01809
+390.0,1.02178
+395.0,1.02025
+400.0,1.02334
+405.0,1.02397
+410.0,1.02617
+415.0,1.0243
+420.0,1.02715

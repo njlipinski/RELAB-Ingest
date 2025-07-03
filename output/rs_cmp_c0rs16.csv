@@ -1,0 +1,65 @@
+Composition,
+Date Added,1985-05-24
+Formula,
+Grain Size Description,<0.0um
+Grain Size,Whole Object
+Locality,
+Minimum Wavelength,400
+Sample Name,Basalt Slab 
+Maximum Wavelength,850
+Database of Origin,RELAB
+Other Information,Basalt
+References,
+Resolution,10.0
+Material class,Rock
+Sample Description,Basalt slab from same rosck as red Taos powder  
+Sample ID,C0RS16
+Original Sample ID,RS-CMP-016
+Viewing Geometry,-20.0° / -35.0°
+Wavelength,Response
+400.0,0.07512
+410.0,0.07638
+420.0,0.07734
+430.0,0.07845
+440.0,0.07923
+450.0,0.07987
+460.0,0.08146
+470.0,0.08222
+480.0,0.08249
+490.0,0.08309
+500.0,0.08454
+510.0,0.08584
+520.0,0.08757
+530.0,0.08909
+540.0,0.09127
+550.0,0.09323
+560.0,0.09481
+570.0,0.09652
+580.0,0.09847
+590.0,0.10036
+600.0,0.10209
+610.0,0.10355
+620.0,0.10451
+630.0,0.10573
+640.0,0.10648
+650.0,0.10773
+660.0,0.10892
+670.0,0.11046
+680.0,0.11134
+690.0,0.11243
+700.0,0.11358
+710.0,0.11454
+720.0,0.1149
+730.0,0.11542
+740.0,0.11585
+750.0,0.11641
+760.0,0.11646
+770.0,0.11606
+780.0,0.1159
+790.0,0.11525
+800.0,0.11495
+810.0,0.1147
+820.0,0.11428
+830.0,0.11302
+840.0,0.11209
+850.0,0.11167

@@ -1,0 +1,48 @@
+Composition,
+Date Added,2018-03-27
+Formula,
+Grain Size Description,<45.0um
+Grain Size,"(0.0, 45.0)"
+Locality,Mexico
+Minimum Wavelength,320
+Sample Name,Mexican labradorite <45 um
+Maximum Wavelength,880
+Database of Origin,RELAB
+Other Information,Plagioclase Labradorite
+References,
+Resolution,20.0
+Material class,Mineral
+Sample Description,For a photometric study
+Sample ID,K50YZ08
+Original Sample ID,YZ-REM-008
+Viewing Geometry,50.0° / 0.0°
+Wavelength,Response
+320.0,0.66612
+340.0,0.711635
+360.0,0.714572
+380.0,0.721733
+400.0,0.730849
+420.0,0.740823
+440.0,0.754714
+460.0,0.771833
+480.0,0.777982
+500.0,0.783422
+520.0,0.798476
+540.0,0.814685
+560.0,0.829889
+580.0,0.847197
+600.0,0.859859
+620.0,0.863122
+640.0,0.86532
+660.0,0.871498
+680.0,0.871173
+700.0,0.876407
+720.0,0.879513
+740.0,0.884706
+760.0,0.883786
+780.0,0.888408
+800.0,0.883146
+820.0,0.88316
+840.0,0.884602
+860.0,0.882923
+880.0,0.880902

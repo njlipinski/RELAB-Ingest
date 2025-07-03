@@ -1,0 +1,40 @@
+Composition,
+Date Added,1985-10-15
+Formula,
+Grain Size Description,<108.0um
+Grain Size,"(45.0, 108.0)"
+Locality,"Baie St Paul,Quebec "
+Minimum Wavelength,700
+Sample Name,Ilmenite 45 
+Maximum Wavelength,1700
+Database of Origin,RELAB
+Other Information,Ilmenite
+References,
+Resolution,50.0
+Material class,Mineral
+Sample Description,None  
+Sample ID,D1PI03
+Original Sample ID,PI-CMP-003
+Viewing Geometry,15.0° / -15.0°
+Wavelength,Response
+700.0,0.08744
+750.0,0.08641
+800.0,0.08808
+850.0,0.08771
+900.0,0.08667
+950.0,0.08596
+1000.0,0.08409
+1050.0,0.08343
+1100.0,0.08251
+1150.0,0.08125
+1200.0,0.08032
+1250.0,0.07987
+1300.0,0.08021
+1350.0,0.07944
+1400.0,0.07912
+1450.0,0.07992
+1500.0,0.08058
+1550.0,0.08095
+1600.0,0.08147
+1650.0,0.08148
+1700.0,0.08146

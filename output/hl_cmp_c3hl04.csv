@@ -1,0 +1,50 @@
+Composition,
+Date Added,2009-05-08
+Formula,
+Grain Size Description,<0.0um
+Grain Size,Unknown
+Locality,
+Minimum Wavelength,400
+Sample Name,SRS-20
+Maximum Wavelength,700
+Database of Origin,RELAB
+Other Information,Spectralon
+References,
+Resolution,10.0
+Material class,Reference
+Sample Description,20% Spectralon standard   
+Sample ID,C3HL04
+Original Sample ID,HL-CMP-004
+Viewing Geometry,30.0° / 0.0°
+Wavelength,Response
+400.0,0.17403
+410.0,0.17444
+420.0,0.1743
+430.0,0.17506
+440.0,0.1751
+450.0,0.17544
+460.0,0.17559
+470.0,0.17603
+480.0,0.17616
+490.0,0.17648
+500.0,0.17685
+510.0,0.17706
+520.0,0.17715
+530.0,0.17718
+540.0,0.17752
+550.0,0.1775
+560.0,0.1776
+570.0,0.17775
+580.0,0.17785
+590.0,0.17803
+600.0,0.17807
+610.0,0.17836
+620.0,0.17844
+630.0,0.17859
+640.0,0.17842
+650.0,0.17871
+660.0,0.17904
+670.0,0.17944
+680.0,0.17972
+690.0,0.1799
+700.0,0.17993

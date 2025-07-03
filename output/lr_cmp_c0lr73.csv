@@ -1,0 +1,55 @@
+Composition,
+Date Added,1999-12-16
+Formula,
+Grain Size Description,<45.0um
+Grain Size,"(20.0, 45.0)"
+Locality,"Apollo 12 site, Moon"
+Minimum Wavelength,490
+Sample Name,"12001,874 20-45 um"
+Maximum Wavelength,525
+Database of Origin,RELAB
+Other Information,
+References,
+Resolution,1.0
+Material class,Mixture
+Sample Description,
+Sample ID,C0LR73
+Original Sample ID,LR-CMP-073
+Viewing Geometry,30.0° / 0.0°
+Wavelength,Response
+490.0,0.05275
+491.0,0.05295
+492.0,0.05306
+493.0,0.05327
+494.0,0.05339
+495.0,0.05352
+496.0,0.0537
+497.0,0.05383
+498.0,0.05391
+499.0,0.05406
+500.0,0.0542
+501.0,0.05435
+502.0,0.05448
+503.0,0.0546
+504.0,0.05473
+505.0,0.05477
+506.0,0.05497
+507.0,0.05503
+508.0,0.05517
+509.0,0.0554
+510.0,0.05549
+511.0,0.0557
+512.0,0.05587
+513.0,0.056
+514.0,0.05613
+515.0,0.05633
+516.0,0.05649
+517.0,0.05666
+518.0,0.05685
+519.0,0.05702
+520.0,0.05711
+521.0,0.05728
+522.0,0.05743
+523.0,0.0576
+524.0,0.05772
+525.0,0.05786

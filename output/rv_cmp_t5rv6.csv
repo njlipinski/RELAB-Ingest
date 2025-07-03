@@ -1,0 +1,24 @@
+Composition,
+Date Added,1987-08-04
+Formula,
+Grain Size Description,<75.0um
+Grain Size,"(45.0, 75.0)"
+Locality,"Mauna Kea , Hawaii"
+Minimum Wavelength,529
+Sample Name,Cinder 45-75
+Maximum Wavelength,908
+Database of Origin,RELAB
+Other Information,Cinder
+References,
+Resolution,93.0
+Material class,Rock
+Sample Description,Maroon cinder separate used by j mustard for goniometric series   Also sample in Relan C3-C 
+Sample ID,T5RV6
+Original Sample ID,RV-CMP-006
+Viewing Geometry,30.0° / 0.0°
+Wavelength,Response
+529.0,0.041
+622.0,0.0615
+683.0,0.0951
+777.0,0.1409
+908.0,0.1769

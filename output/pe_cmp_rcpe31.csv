@@ -1,0 +1,49 @@
+Composition,
+Date Added,1987-12-17
+Formula,
+Grain Size Description,<75.0um
+Grain Size,"(45.0, 75.0)"
+Locality,"Webster, NC "
+Minimum Wavelength,710
+Sample Name,Web 75
+Maximum Wavelength,1290
+Database of Origin,RELAB
+Other Information,"Webster Enstatite Wo 1% En 87% Fs 12%, Enstatite "
+References,
+Resolution,20.0
+Material class,Mineral
+Sample Description,Enstatite: Wo 1% En 87% Fs 12%  
+Sample ID,RCPE31
+Original Sample ID,PE-CMP-031
+Viewing Geometry,40.0° / -35.0°
+Wavelength,Response
+710.0,0.5741
+730.0,0.5709
+750.0,0.5379
+770.0,0.4755
+790.0,0.3976
+810.0,0.3226
+830.0,0.2617
+850.0,0.2172
+870.0,0.1873
+890.0,0.1699
+910.0,0.1647
+930.0,0.1698
+950.0,0.1871
+970.0,0.2205
+990.0,0.2712
+1010.0,0.3355
+1030.0,0.4078
+1050.0,0.4795
+1070.0,0.5435
+1090.0,0.5941
+1110.0,0.6342
+1130.0,0.662
+1150.0,0.6806
+1170.0,0.6926
+1190.0,0.7007
+1210.0,0.7044
+1230.0,0.7084
+1250.0,0.7099
+1270.0,0.7077
+1290.0,0.7023

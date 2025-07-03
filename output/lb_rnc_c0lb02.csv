@@ -1,0 +1,44 @@
+Composition,
+Date Added,2022-10-17
+Formula,
+Grain Size Description,<1.0um
+Grain Size,"(0.0, 1.0)"
+Locality,Manufactured by Sigma Aldrich
+Minimum Wavelength,200
+Sample Name,Carbon nanopowder (amorphous)
+Maximum Wavelength,320
+Database of Origin,RELAB
+Other Information,Carbon
+References,
+Resolution,5.0
+Material class,Synthetic
+Sample Description,SA-633100-Lot09029TE
+Sample ID,C0LB02
+Original Sample ID,LB-RNC-002
+Viewing Geometry,30.0° / 0.0°
+Wavelength,Response
+200.0,0.006425
+205.0,0.005953
+210.0,0.005746
+215.0,0.005684
+220.0,0.005799
+225.0,0.005757
+230.0,0.005803
+235.0,0.005795
+240.0,0.005641
+245.0,0.005556
+250.0,0.005554
+255.0,0.005541
+260.0,0.005691
+265.0,0.005827
+270.0,0.005839
+275.0,0.006038
+280.0,0.006346
+285.0,0.006689
+290.0,0.007255
+295.0,0.007711
+300.0,0.007874
+305.0,0.007835
+310.0,0.007837
+315.0,0.007902
+320.0,0.007981

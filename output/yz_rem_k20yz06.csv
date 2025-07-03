@@ -1,0 +1,48 @@
+Composition,
+Date Added,2018-03-27
+Formula,
+Grain Size Description,<45.0um
+Grain Size,"(0.0, 45.0)"
+Locality,"Hebei Province, China"
+Minimum Wavelength,320
+Sample Name,Hebei olivine <45 um
+Maximum Wavelength,880
+Database of Origin,RELAB
+Other Information,Olivine Fo95
+References,
+Resolution,20.0
+Material class,Mineral
+Sample Description,For a photometric study
+Sample ID,K20YZ06
+Original Sample ID,YZ-REM-006
+Viewing Geometry,20.0° / 0.0°
+Wavelength,Response
+320.0,0.449755
+340.0,0.528614
+360.0,0.604245
+380.0,0.675323
+400.0,0.700729
+420.0,0.738539
+440.0,0.755855
+460.0,0.767973
+480.0,0.794985
+500.0,0.809829
+520.0,0.831105
+540.0,0.842094
+560.0,0.854145
+580.0,0.852183
+600.0,0.852313
+620.0,0.844647
+640.0,0.842296
+660.0,0.846359
+680.0,0.845574
+700.0,0.835115
+720.0,0.82195
+740.0,0.804716
+760.0,0.782618
+780.0,0.759955
+800.0,0.73919
+820.0,0.722027
+840.0,0.709905
+860.0,0.699225
+880.0,0.689717

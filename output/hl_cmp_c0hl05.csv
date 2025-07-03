@@ -1,0 +1,50 @@
+Composition,
+Date Added,2022-10-14
+Formula,
+Grain Size Description,<0.0um
+Grain Size,Unknown
+Locality,Labsphere 
+Minimum Wavelength,200
+Sample Name,SRS-10-010
+Maximum Wavelength,350
+Database of Origin,RELAB
+Other Information,Spectralon
+References,
+Resolution,5.0
+Material class,Reference
+Sample Description,10% Spectralon standard   
+Sample ID,C0HL05
+Original Sample ID,HL-CMP-005
+Viewing Geometry,30.0° / 0.0°
+Wavelength,Response
+200.0,0.072513
+205.0,0.072954
+210.0,0.073076
+215.0,0.073158
+220.0,0.072838
+225.0,0.072974
+230.0,0.072727
+235.0,0.07291
+240.0,0.072929
+245.0,0.073117
+250.0,0.073093
+255.0,0.073292
+260.0,0.073252
+265.0,0.073373
+270.0,0.073293
+275.0,0.073036
+280.0,0.072815
+285.0,0.072149
+290.0,0.070912
+295.0,0.070013
+300.0,0.069775
+305.0,0.069573
+310.0,0.069558
+315.0,0.069484
+320.0,0.069582
+325.0,0.069563
+330.0,0.069659
+335.0,0.069546
+340.0,0.069657
+345.0,0.069702
+350.0,0.070022

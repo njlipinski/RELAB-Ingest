@@ -1,0 +1,45 @@
+Composition,
+Date Added,2022-03-17
+Formula,
+Grain Size Description,<75.0um
+Grain Size,"(45.0, 75.0)"
+Locality,"Meteorite Hill, Antarctica"
+Minimum Wavelength,380
+Sample Name,"MET 00639,16 45-75 um"
+Maximum Wavelength,880
+Database of Origin,RELAB
+Other Information,CM2 
+References,
+Resolution,20.0
+Material class,Rock
+Sample Description,
+Sample ID,CEMP226G
+Original Sample ID,MP-TXH-226-G
+Viewing Geometry,70.0° / 0.0°
+Wavelength,Response
+380.0,0.022444
+400.0,0.0218
+420.0,0.021602
+440.0,0.021553
+460.0,0.021581
+480.0,0.021676
+500.0,0.021806
+520.0,0.021905
+540.0,0.021961
+560.0,0.022008
+580.0,0.022075
+600.0,0.022134
+620.0,0.022164
+640.0,0.022216
+660.0,0.022273
+680.0,0.022347
+700.0,0.02241
+720.0,0.022527
+740.0,0.022687
+760.0,0.022869
+780.0,0.022994
+800.0,0.023225
+820.0,0.023393
+840.0,0.023545
+860.0,0.023708
+880.0,0.023799

@@ -1,20 +1,22 @@
 import xlrd
 import csv
 from decimal import Decimal
+import os
+os.makedirs("output", exist_ok=True)
 
 from relab_preprocess_vars import (
     material_classes, meteorites, sediments, organics, minerals, rocks, 
     synthetics, minerals_o, mixtures_o, organics_o, rocks_o, sediments_o
 )
 
-sample_cat_dir = "../RelabDatabase2023Dec31/catalogues/Sample_Catalogue.xls"
-spectra_cat_dir = "../RelabDatabase2023Dec31/catalogues/Spectra_Catalogue.xls"
-chem_analyses_dir = "../RelabDatabase2023Dec31/catalogues/Chem_Analyses.xls"
-data_dir = "../RelabDatabase2023Dec31/data/"
+sample_cat_dir = "../RelabDatabase2024Dec31/catalogues/Sample_Catalogue.xls"
+spectra_cat_dir = "../RelabDatabase2024Dec31/catalogues/Spectra_Catalogue.xls"
+chem_analyses_dir = "../RelabDatabase2024Dec31/catalogues/Chem_Analyses.xls"
+data_dir = "../RelabDatabase2024Dec31/data/"
 
 
-# classifies the material class of sample based on metadata
-# changed to "Sample type" -- VISOR has fields for both but Sample type is used for consistency
+# classifies the sample type of sample based on metadata
+# changed to "Sample type" -- VISOR has additonal field for "Material class" but Sample type is used for consistency
 def get_sample_type(id, source, genType1, gen_type_2, type1, type2, subtype):
 
     # hard coded id classifications
@@ -83,15 +85,16 @@ def load_sample_data():
         sub_type       = sample_cat.cell_value(rowx=sample, colx=10)
         min_grain_size = sample_cat.cell_value(rowx=sample, colx=12)
         max_grain_size = sample_cat.cell_value(rowx=sample, colx=13)
+        origin         = sample_cat.cell_value(rowx=sample, colx=16)
         # location       = sample_cat.cell_value(rowx=sample, colx=17)
         location       = 'RELAB' # Changed from ReLab
         chem_num       = sample_cat.cell_value(rowx=sample, colx=18)
         text           = sample_cat.cell_value(rowx=sample, colx=19)
 
-        # classify material class
-        m_class = get_sample_type(sample_id, source, gen_type_1, gen_type_2, type_1, type_2, sub_type)
+        # classify sample type
+        s_type = get_sample_type(sample_id, source, gen_type_1, gen_type_2, type_1, type_2, sub_type)
 
-        if m_class:
+        if s_type:
             sample_data[sample_id] = {
                 "chem_number": str(int(chem_num)) if chem_num != "" else "",
                 "max_grain_size": str(max_grain_size),
@@ -99,6 +102,9 @@ def load_sample_data():
                 "Location": location,
                 "sample_name": sample_name,
                 "MaterialClass": gen_type_1,
+                "SampleType": s_type,
+                "SubType": sub_type,
+                "Origin": origin,
                 "SampleDescription": text
             }
         
@@ -130,105 +136,161 @@ def load_chem_analysis():
 if __name__ == "__main__":
     
     output_cnt = 0
-    
-    sample_data = load_sample_data()
-    chem_analysis = load_chem_analysis()
-    
-    spectra_cat = xlrd.open_workbook(spectra_cat_dir).sheet_by_index(0)
-    
-    # get relevant data from specta catalogue under sample_id 
-    for spectra in range(1, spectra_cat.nrows):
+    error_log_path = "ingest_error_log.txt"
+    with open(error_log_path, "w", encoding="utf-8") as error_log:
         
-        spectra_data = {}
+        sample_data = load_sample_data()
+        chem_analysis = load_chem_analysis()
+        
+        spectra_cat = xlrd.open_workbook(spectra_cat_dir).sheet_by_index(0)
+        
+        # get relevant data from specta catalogue under sample_id 
+        for spectra in range(1, spectra_cat.nrows):
+            
+            spectra_data = {}
 
-        # get spectra info
-        spectra_id = spectra_cat.cell_value(rowx=spectra, colx=0)
-        min_wavelength = int(spectra_cat.cell_value(rowx=spectra, colx=5))
-        max_wavelength = int(spectra_cat.cell_value(rowx=spectra, colx=6))
-        resolution = spectra_cat.cell_value(rowx=spectra, colx=7)
-        date_added = spectra_cat.cell_value(rowx=spectra, colx=2)
-        source_angle = spectra_cat.cell_value(rowx=spectra, colx=8)
-        detect_angle = spectra_cat.cell_value(rowx=spectra, colx=9)
-        
-        date_added = xlrd.xldate_as_datetime(date_added, 1).date().isoformat()
-        view_geo = f'{source_angle}° / {detect_angle}°' if (source_angle!="NA" and detect_angle!="NA") else ""
+            # get spectra info
+            spectra_id = spectra_cat.cell_value(rowx=spectra, colx=0)
+            min_wavelength = int(spectra_cat.cell_value(rowx=spectra, colx=5))
+            max_wavelength = int(spectra_cat.cell_value(rowx=spectra, colx=6))
+            resolution = spectra_cat.cell_value(rowx=spectra, colx=7)
+            date_added = spectra_cat.cell_value(rowx=spectra, colx=2)
+            source_angle = spectra_cat.cell_value(rowx=spectra, colx=8)
+            detect_angle = spectra_cat.cell_value(rowx=spectra, colx=9)
+            reference = spectra_cat.cell_value(rowx=spectra, colx=22)
+            
+            date_added = xlrd.xldate_as_datetime(date_added, 1).date().isoformat()
+            view_geo = f'{source_angle}° / {detect_angle}°' if (source_angle!="NA" and detect_angle!="NA") else "unknown"
 
-        # get sample info
-        sample_id = spectra_cat.cell_value(rowx=spectra, colx=1)
-        
-        try:
-            spectra_sample_data = sample_data[sample_id]
-        except:
-            # skip spectra whose id is not classified
-            continue
-        
-        # skip spectra whose material class was not classified
-        if (spectra_sample_data['MaterialClass'] == ''): continue
+            # get sample info
+            sample_id = spectra_cat.cell_value(rowx=spectra, colx=1)
+            
+            try:
+                spectra_sample_data = sample_data[sample_id]
+            except Exception as e:
+                # skip spectra whose id is not classified
+                error_log.write(f'Could not find sample data for {sample_id} (row {spectra}): {e}\n')
+                continue
+            
+            # skip spectra whose sample type was not classified
+            if (spectra_sample_data['SampleType'] == ''): continue
 
-        # get chem analysis info
-        chem_num = spectra_sample_data["chem_number"]
-        other_info = chem_analysis[chem_num]["OtherInfo"] if (chem_num!="0" and chem_num!='') else ""
-        refs = chem_analysis[chem_num]["References"] if (chem_num!="0" and chem_num!='') else ""
+            # get chem analysis info
+            sub_type_info = spectra_sample_data["SubType"]
+            chem_num = spectra_sample_data["chem_number"]
+            other_info = chem_analysis[chem_num]["OtherInfo"] if (chem_num!="0" and chem_num!='') else ""
+            refs = chem_analysis[chem_num]["References"] if (chem_num!="0" and chem_num!='') else ""
 
-        header = [
-	    ["Sample ID", spectra_id],
-	    ["Sample Name", spectra_sample_data["sample_name"]],
-	    ["Material class", ""],
-	    ["Sample type", spectra_sample_data["MaterialClass"]], # Changed from "Material Class"
-	    ["Date Added", date_added],
-            ["Formula", ""],
-            ["Sample Description", spectra_sample_data["SampleDescription"]],
-            ["Database of Origin", spectra_sample_data["Location"]],
-	    ["Locality", ""],
-            ["Grain Size Description", f'<{spectra_sample_data["max_grain_size"]}um'],
-            ["Grain Size", f'({spectra_sample_data["min_grain_size"]}_ {spectra_sample_data["max_grain_size"]})'], #Edited for consistency
-	    ["Viewing Geometry", view_geo],
-            ["Resolution", resolution],
-            ["Wavelength", "Response"],
-            ["Minimum Wavelength", min_wavelength],
-            ["Maximum Wavelength", max_wavelength],
-	    ["Composition", ""],
-            ["References", refs],
-            ["Original Sample ID", sample_id],
-            ["Other Information", other_info],
-	    ["Image", ""]
-        ]
-        
-        # compute location of spectral data
-        pi_initials = sample_id.split("-")[1].lower()
-        sub_folder_name = sample_id.split("-")[0].lower()
-        file_path = f'{data_dir}{pi_initials}/{sub_folder_name}/{spectra_id.lower()}.txt'
-        
-        try:
-            # read spectral data
-            lines = open(file_path).read().splitlines()
-            lines = lines[2:] # remove first two lines
-        except:
-            print(f'Could not find directory {file_path}')
-            continue
+            # prepare grain size metadata
+            grain_size = 'Unknown'
+            min_grain = spectra_sample_data["min_grain_size"]
+            max_grain = spectra_sample_data["max_grain_size"]
+            sample_name = spectra_sample_data["sample_name"]
+            name_lower = str(sample_name).lower()
+            keywords = ["chip", "slab", "rock", "cube"]
+            try:
+                min_val = float(min_grain)
+                max_val = float(max_grain)
+                if any(keyword in name_lower for keyword in keywords):
+                    grain_size = "Whole Object"
+                elif min_val == 0.0 and max_val == 0.0:
+                    grain_size = "Unknown"
+                elif min_val > 0.0 and (max_val == 0.0 or max_grain == ""):
+                    grain_size = str(min_val)
+                elif max_val > 0.0 and min_grain == "": # range can be from 0 to max
+                    grain_size = str(max_val)
+                else:
+                    grain_size = f"({min_val}, {max_val})" # default case, min-max
+            except ValueError as e:
+                if any(keyword in name_lower for keyword in keywords):
+                    grain_size = "Whole Object"
+                else:
+                    grain_size = "Unknown"
 
-        try:
-            # convert data from microns to nms
-            MICRON_TO_NM = 1000
-            data = [
-                [
-                    str(float(Decimal(line.split("\t")[0]) * MICRON_TO_NM )),
-                    str(float(Decimal(line.split("\t")[1]))) # <-- Reflectance should be 0..1 (not multiplied by 1000)
-                ]
-                for line in lines
+            #composite header strings
+            other_info_str = ""
+            other_info = other_info or ""
+            sub_type_info = sub_type_info or ""
+            if other_info != "":
+                other_info_str += other_info
+            if other_info != "" and sub_type_info != "":
+                other_info_str += ", "
+            if sub_type_info != "":
+                other_info_str += sub_type_info
+
+            ref_str = ""
+            refs = refs or ""
+            reference = reference or ""
+            if refs != "":
+                ref_str += refs
+            if refs != "" and reference != "":
+                ref_str += ", "
+            if reference != "":
+                ref_str += reference
+
+            # prepare header
+            header = [
+                ["Composition", ""],
+                ["Date Added", date_added or ""],
+                ["Formula", ""],
+                ["Grain Size Description", f'<{spectra_sample_data["max_grain_size"]}um' or ""],
+                ["Grain Size", grain_size or ""],
+                ["Locality", spectra_sample_data["Origin"] or ""],
+                ["Minimum Wavelength", min_wavelength or ""],
+                ["Sample Name", spectra_sample_data["sample_name"] or ""],
+                ["Maximum Wavelength", max_wavelength or ""],
+                ["Database of Origin", spectra_sample_data["Location"] or ""],
+                ["Other Information", other_info_str or ""],
+                ["References", ref_str or ""],
+                ["Resolution", resolution or ""],
+                ["Material class", spectra_sample_data["SampleType"] or ""],
+                ["Sample Description", spectra_sample_data["SampleDescription"] or ""],
+                ["Sample ID", spectra_id or ""],
+                ["Original Sample ID", sample_id or ""],
+                ["Viewing Geometry", view_geo or ""],
+                ["Wavelength", "Response"] # Wavelength must go at end of header; used by split_data_and_metadata function during ingest
             ]
-        except:
-            print(f'Error parsing data at {file_path}')
-            continue
+            
+            # compute location of spectral data
+            pi_initials = sample_id.split("-")[1].lower()
+            sub_folder_name = sample_id.split("-")[0].lower()
+            file_path = f'{data_dir}{pi_initials}/{sub_folder_name}/{spectra_id.lower()}.txt'
+            
+            try:
+                # read spectral data
+                lines = open(file_path).read().splitlines()
+                lines = lines[2:] # remove first two lines
+            except Exception as e:
+                print(f'Could not find directory {file_path}')
+                error_log.write(f'Could not find directory {file_path} (row {spectra}): {e}\n')
+                continue
 
-        output_dest = f'output/{sub_folder_name}_{pi_initials}_{spectra_id.lower()}.csv'
-        with open(output_dest, 'w', newline='', encoding="utf-8") as csvfile:
-            writer = csv.writer(csvfile)
-            writer.writerows(header)
-            writer.writerows(data)
-        
-        print(f'Successfully wrote {output_dest}')
-        output_cnt+=1
-    
+            try:
+                # convert data from microns to nms
+                MICRON_TO_NM = 1000
+                data = [
+                    [
+                        str(float(Decimal(line.split("\t")[0]) * MICRON_TO_NM )),
+                        str(float(Decimal(line.split("\t")[1]))) # <-- Reflectance should be 0..1 (not multiplied by 1000)
+                    ]
+                    for line in lines
+                ]
+            except Exception as e:
+                print(f'Error parsing data at {file_path}')
+                error_log.write(f'Error parsing data at {file_path} (row {spectra}): {e}\n')
+                continue
+
+            output_dest = f'output/{sub_folder_name}_{pi_initials}_{spectra_id.lower()}.csv'
+            try:
+                with open(output_dest, 'w', newline='', encoding="utf-8") as csvfile:
+                    writer = csv.writer(csvfile)
+                    writer.writerows(header)
+                    writer.writerows(data)
+                print(f'Successfully wrote {output_dest}')
+                output_cnt+=1
+            except Exception as e:
+                error_log.write(f'Error writing CSV {output_dest} (row {spectra}): {e}\n')
+                
     print("")
     print(f'Wrote {output_cnt} files.')
+    print(f'Errors logged to {error_log_path}')

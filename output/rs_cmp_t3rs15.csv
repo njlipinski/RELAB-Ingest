@@ -1,0 +1,60 @@
+Composition,
+Date Added,1985-06-27
+Formula,
+Grain Size Description,<250.0um
+Grain Size,"(0.0, 250.0)"
+Locality,"Taos, N.M."
+Minimum Wavelength,400
+Sample Name,Taos basalt at 300C
+Maximum Wavelength,800
+Database of Origin,RELAB
+Other Information,Basalt Heated
+References,
+Resolution,10.0
+Material class,Rock
+Sample Description,Powder Formed By Scraping off Taos Basalt   
+Sample ID,T3RS15
+Original Sample ID,RS-CMP-015-300
+Viewing Geometry,30.0° / 0.0°
+Wavelength,Response
+400.0,0.05188
+410.0,0.05378
+420.0,0.05481
+430.0,0.05614
+440.0,0.06014
+450.0,0.06307
+460.0,0.06736
+470.0,0.07181
+480.0,0.0746
+490.0,0.07589
+500.0,0.07829
+510.0,0.08098
+520.0,0.08464
+530.0,0.08976
+540.0,0.09612
+550.0,0.10302
+560.0,0.1079
+570.0,0.11399
+580.0,0.1195
+590.0,0.12434
+600.0,0.12835
+610.0,0.13184
+620.0,0.13504
+630.0,0.13851
+640.0,0.14215
+650.0,0.14548
+660.0,0.14952
+670.0,0.15382
+680.0,0.15819
+690.0,0.16227
+700.0,0.16613
+710.0,0.16904
+720.0,0.17133
+730.0,0.17337
+740.0,0.17412
+750.0,0.17524
+760.0,0.17575
+770.0,0.17647
+780.0,0.1769
+790.0,0.17723
+800.0,0.17711

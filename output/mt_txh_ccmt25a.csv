@@ -1,0 +1,30 @@
+Composition,
+Date Added,2021-12-20
+Formula,
+Grain Size Description,<25.0um
+Grain Size,"(0.0, 25.0)"
+Locality,"Tagish Lake, Canada "
+Minimum Wavelength,350
+Sample Name,Tagish Lake ET01-B + PMO-5c <25 um
+Maximum Wavelength,850
+Database of Origin,RELAB
+Other Information,
+References,
+Resolution,50.0
+Material class,Rock
+Sample Description,
+Sample ID,CCMT25A
+Original Sample ID,MT-TXH-025-A
+Viewing Geometry,45.0° / 30.0°
+Wavelength,Response
+350.0,0.027282
+400.0,0.029383
+450.0,0.031919
+500.0,0.034278
+550.0,0.036658
+600.0,0.038481
+650.0,0.040093
+700.0,0.041828
+750.0,0.043224
+800.0,0.044422
+850.0,0.045741

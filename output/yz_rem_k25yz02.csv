@@ -1,0 +1,48 @@
+Composition,
+Date Added,2018-04-02
+Formula,
+Grain Size Description,<75.0um
+Grain Size,"(45.0, 75.0)"
+Locality,"Qinghai Province, China"
+Minimum Wavelength,320
+Sample Name,Qinghai orthopyroxene 45-75 um
+Maximum Wavelength,880
+Database of Origin,RELAB
+Other Information,Pyroxene Orthopyroxene
+References,
+Resolution,20.0
+Material class,Mineral
+Sample Description,For a photometric study
+Sample ID,K25YZ02
+Original Sample ID,YZ-REM-002
+Viewing Geometry,25.0° / 0.0°
+Wavelength,Response
+320.0,0.114579
+340.0,0.121541
+360.0,0.177868
+380.0,0.241665
+400.0,0.270981
+420.0,0.299329
+440.0,0.316856
+460.0,0.326971
+480.0,0.346411
+500.0,0.375289
+520.0,0.406644
+540.0,0.41878
+560.0,0.425068
+580.0,0.427947
+600.0,0.428989
+620.0,0.43003
+640.0,0.435242
+660.0,0.442661
+680.0,0.455191
+700.0,0.464185
+720.0,0.474166
+740.0,0.47103
+760.0,0.452162
+780.0,0.416144
+800.0,0.368205
+820.0,0.317573
+840.0,0.272575
+860.0,0.239215
+880.0,0.217379

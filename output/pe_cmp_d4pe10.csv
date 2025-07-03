@@ -1,0 +1,59 @@
+Composition,
+Date Added,1984-12-11
+Formula,
+Grain Size Description,<250.0um
+Grain Size,"(0.0, 250.0)"
+Locality,"Near Bamble, Norway "
+Minimum Wavelength,637
+Sample Name,Enstatite 
+Maximum Wavelength,2587
+Database of Origin,RELAB
+Other Information,Enstatite 
+References,
+Resolution,50.0
+Material class,Mineral
+Sample Description,"Ordered from Ward's, prepared by DAC  "
+Sample ID,D4PE10
+Original Sample ID,PE-CMP-010
+Viewing Geometry,30.0° / 0.0°
+Wavelength,Response
+637.0,0.52971
+687.0,0.53386
+737.0,0.50333
+787.0,0.3912
+837.0,0.27472
+887.0,0.22011
+937.0,0.22448
+987.0,0.2993
+1037.0,0.43523
+1087.0,0.54334
+1137.0,0.59155
+1187.0,0.61512
+1237.0,0.62925
+1287.0,0.63582
+1337.0,0.62668
+1387.0,0.57478
+1437.0,0.55305
+1487.0,0.50998
+1537.0,0.45901
+1587.0,0.41149
+1637.0,0.36952
+1687.0,0.33703
+1737.0,0.31344
+1787.0,0.29817
+1837.0,0.29307
+1887.0,0.29246
+1937.0,0.30458
+1987.0,0.3304
+2037.0,0.36412
+2087.0,0.40592
+2137.0,0.45216
+2187.0,0.49007
+2237.0,0.52094
+2287.0,0.49153
+2337.0,0.54156
+2387.0,0.54902
+2437.0,0.55455
+2487.0,0.55169
+2537.0,0.54775
+2587.0,0.54304

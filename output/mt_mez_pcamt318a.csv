@@ -1,0 +1,26 @@
+Composition,
+Date Added,2022-01-05
+Formula,
+Grain Size Description,<125.0um
+Grain Size,"(0.0, 125.0)"
+Locality,"Tagish Lake, Canada "
+Minimum Wavelength,400
+Sample Name,Tagish Lake TNI 10/1/03 <125 um
+Maximum Wavelength,700
+Database of Origin,RELAB
+Other Information,Unusual CI
+References,
+Resolution,50.0
+Material class,Rock
+Sample Description,
+Sample ID,PCAMT318A
+Original Sample ID,MT-MEZ-318-A
+Viewing Geometry,30.0° / 0.0°
+Wavelength,Response
+400.0,0.021605
+450.0,0.023959
+500.0,0.025824
+550.0,0.027559
+600.0,0.028664
+650.0,0.029529
+700.0,0.030492

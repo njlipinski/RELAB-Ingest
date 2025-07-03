@@ -1,0 +1,48 @@
+Composition,
+Date Added,2018-03-27
+Formula,
+Grain Size Description,<20.0um
+Grain Size,"(10.0, 20.0)"
+Locality,Synthetic 
+Minimum Wavelength,320
+Sample Name,Synthetic ilmenite 10-20 um
+Maximum Wavelength,880
+Database of Origin,RELAB
+Other Information,Ilmenite FeTiO3
+References,
+Resolution,20.0
+Material class,Synthetic
+Sample Description,For a photometric study
+Sample ID,K35YZ09
+Original Sample ID,YZ-REM-009
+Viewing Geometry,35.0° / 0.0°
+Wavelength,Response
+320.0,0.033472
+340.0,0.04424
+360.0,0.050605
+380.0,0.048574
+400.0,0.047019
+420.0,0.044543
+440.0,0.042341
+460.0,0.040923
+480.0,0.040106
+500.0,0.039956
+520.0,0.039789
+540.0,0.040124
+560.0,0.04048
+580.0,0.040958
+600.0,0.041245
+620.0,0.041814
+640.0,0.042085
+660.0,0.042349
+680.0,0.042829
+700.0,0.043315
+720.0,0.043609
+740.0,0.044126
+760.0,0.04469
+780.0,0.045407
+800.0,0.046472
+820.0,0.047912
+840.0,0.050059
+860.0,0.052886
+880.0,0.056467

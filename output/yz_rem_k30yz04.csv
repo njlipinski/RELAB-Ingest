@@ -1,0 +1,48 @@
+Composition,
+Date Added,2018-04-02
+Formula,
+Grain Size Description,<63.0um
+Grain Size,"(45.0, 63.0)"
+Locality,Synthetic 
+Minimum Wavelength,320
+Sample Name,Synthetic ilmenite 45-63 um
+Maximum Wavelength,880
+Database of Origin,RELAB
+Other Information,Ilmenite FeTiO3
+References,
+Resolution,20.0
+Material class,Synthetic
+Sample Description,For a photometric study
+Sample ID,K30YZ04
+Original Sample ID,YZ-REM-004
+Viewing Geometry,30.0° / 0.0°
+Wavelength,Response
+320.0,0.048977
+340.0,0.05495
+360.0,0.060854
+380.0,0.05904
+400.0,0.057465
+420.0,0.054941
+440.0,0.052441
+460.0,0.050699
+480.0,0.049541
+500.0,0.049207
+520.0,0.049057
+540.0,0.049213
+560.0,0.049497
+580.0,0.049988
+600.0,0.050469
+620.0,0.05087
+640.0,0.05136
+660.0,0.051646
+680.0,0.052334
+700.0,0.052901
+720.0,0.053372
+740.0,0.053589
+760.0,0.05398
+780.0,0.05432
+800.0,0.054875
+820.0,0.055756
+840.0,0.056608
+860.0,0.058046
+880.0,0.059558
