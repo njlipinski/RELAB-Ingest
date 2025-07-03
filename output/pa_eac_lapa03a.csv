@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-10-31
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Mauna Kea, Hawaii "
 Minimum Wavelength,300
 Sample Name,PAL101
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Richard Morris sample #HWMK 600   Sepearated from bulk without comminution. 
 Sample ID,LAPA03A
 Original Sample ID,PA-EAC-003-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.02739
 305.0,0.02553

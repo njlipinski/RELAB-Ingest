@@ -2,7 +2,7 @@ Composition,
 Date Added,2018-06-15
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,"Victoria, Australia "
 Minimum Wavelength,833
 Sample Name,"Murchison <75 um pellet for UV irradiation (5 mm diameter, 600 psi)"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BIR1MB064V
 Original Sample ID,MB-TXH-064-V
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.34,0.08386
 833.47,0.083484

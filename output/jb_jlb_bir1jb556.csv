@@ -2,7 +2,7 @@ Composition,
 Date Added,2002-10-06
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(0.0, 63.0)"
+Grain Size,(0.0 - 63.0)
 Locality,
 Minimum Wavelength,833
 Sample Name,Lane gypsum <63
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Rewashed 11/01
 Sample ID,BIR1JB556
 Original Sample ID,JB-JLB-556
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.72258
 833.5,0.72287

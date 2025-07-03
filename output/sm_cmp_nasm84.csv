@@ -2,7 +2,7 @@ Composition,
 Date Added,1991-08-22
 Formula,
 Grain Size Description,<500.0um
-Grain Size,"(0.0, 500.0)"
+Grain Size,(0.0 - 500.0)
 Locality,Cape Smith
 Minimum Wavelength,900
 Sample Name,Actinolite & Talc 
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,NASM84
 Original Sample ID,SM-CMP-084
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.1,0.36822
 900.3,0.36388

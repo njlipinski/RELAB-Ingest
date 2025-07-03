@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-10-05
 Formula,
 Grain Size Description,<35.0um
-Grain Size,"(0.0, 35.0)"
+Grain Size,(0.0 - 35.0)
 Locality,"Scott Glacier, Antarctica"
 Minimum Wavelength,800
 Sample Name,"SCO 06043,6 (CM1) <35 um (Q10668)"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Infrared & visible characterization of CM meteorites
 Sample ID,BIR1MT197
 Original Sample ID,MT-JMS-197
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.04674
 800.0,0.04646

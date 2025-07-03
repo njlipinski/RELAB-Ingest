@@ -2,7 +2,7 @@ Composition,
 Date Added,2007-07-11
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,Mexico
 Minimum Wavelength,2000
 Sample Name,Bytownite from Mexico <250 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,For lunar simulant
 Sample ID,BIR1HK007A
 Original Sample ID,HK-H1T-007-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1999.7,0.41122
 2000.5,0.4112

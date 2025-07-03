@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-10-05
 Formula,
 Grain Size Description,<35.0um
-Grain Size,"(0.0, 35.0)"
+Grain Size,(0.0 - 35.0)
 Locality,"Pecora Escarpment, Antarctica"
 Minimum Wavelength,320
 Sample Name,"PCA 91008,31 (CM2) <35 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Infrared & visible characterization of CM meteorites
 Sample ID,BKR2MT198
 Original Sample ID,MT-JMS-198
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.0179
 325.0,0.01814

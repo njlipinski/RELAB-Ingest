@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-04-25
 Formula,
 Grain Size Description,<0.2um
-Grain Size,"(0.0, 0.2)"
+Grain Size,(0.0 - 0.2)
 Locality,"Wyoming, USA"
 Minimum Wavelength,300
 Sample Name,Will Gates #13 montmorillonite Swy-2 from Wyoming
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectroscopy of phyllosilicates
 Sample ID,BKR1JB898
 Original Sample ID,JB-JLB-898
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.12886
 305.0,0.14251

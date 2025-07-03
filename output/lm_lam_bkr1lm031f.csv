@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-01-08
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,"Allan Hills, Antarctica"
 Minimum Wavelength,280
 Sample Name,"ALHA78113,82-5 aubrite: Predominantly dark material"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1LM031F
 Original Sample ID,LM-LAM-031-F
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.07601
 285.0,0.07735

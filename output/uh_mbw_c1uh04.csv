@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-07-10
 Formula,
 Grain Size Description,<2000.0um
-Grain Size,"(0.0, 2000.0)"
+Grain Size,(0.0 - 2000.0)
 Locality,"Askja volcano, Iceland"
 Minimum Wavelength,320
 Sample Name,Askja_Oda_Teph_5254

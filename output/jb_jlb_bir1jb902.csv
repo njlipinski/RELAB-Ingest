@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-02-07
 Formula,
 Grain Size Description,<0.2um
-Grain Size,"(0.0, 0.2)"
+Grain Size,(0.0 - 0.2)
 Locality,"Nibost, Scotland, UK"
 Minimum Wavelength,800
 Sample Name,Smectite #17 from Nibost by Will Gates
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectroscopy of Mars analog materials
 Sample ID,BIR1JB902
 Original Sample ID,JB-JLB-902
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.18404
 800.0,0.18319

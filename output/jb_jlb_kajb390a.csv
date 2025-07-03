@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-11-24
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Near Mauna Iki, W. of Kilauea, HI"
 Minimum Wavelength,400
 Sample Name,Mauna Iki orange soil <45 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Orange soil just below 1 mm of brown surface soil  
 Sample ID,KAJB390A
 Original Sample ID,JB-JLB-390-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 400.0,0.03049
 405.0,0.03247

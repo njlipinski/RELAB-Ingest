@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-09-16
 Formula,
 Grain Size Description,<33.0um
-Grain Size,"(0.0, 33.0)"
+Grain Size,(0.0 - 33.0)
 Locality,"Apollo 14 site, Moon"
 Minimum Wavelength,1428
 Sample Name,"14003,96 Median size 16.7 um"
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Size-fractionated lunar dust sample (NLSI)
 Sample ID,BIR1LR234
 Original Sample ID,LR-DSM-234
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.12408
 1428.8,0.12414

@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-01-30
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,Saponite 300C 
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Heated for 1 week in a vacuum glass tube.   
 Sample ID,LASA53
 Original Sample ID,SA-TXH-053
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.11203
 305.0,0.12179

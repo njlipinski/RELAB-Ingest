@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-10-05
 Formula,
 Grain Size Description,<30.0um
-Grain Size,"(2.0, 30.0)"
+Grain Size,(2.0 - 30.0)
 Locality,Unknown 
 Minimum Wavelength,800
 Sample Name,TRM-1
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BIR1JM085
 Original Sample ID,JM-JRM-085
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.36488
 800.0,0.36509

@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-08-17
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,Sigma-Aldrich
 Minimum Wavelength,833
 Sample Name,FeCl3 hexahydrate <250 um (JB1638a)
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,
 Sample ID,BIR2JBG38A
 Original Sample ID,JB-JLB-G38-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.4,0.77214
 833.5,0.76802

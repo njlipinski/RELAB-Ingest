@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-11-24
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Near Mauna Iki, W. of Kilauea, HI"
 Minimum Wavelength,900
 Sample Name,Mauna Iki brown-grey soil <45 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Brown-grey soil/sand, magnetic  "
 Sample ID,NAJB386A
 Original Sample ID,JB-JLB-386-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.0,0.1287
 900.3,0.1294

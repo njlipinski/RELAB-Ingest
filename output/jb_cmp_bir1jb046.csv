@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-02-01
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,
 Minimum Wavelength,800
 Sample Name,Synthetic Ferrihydrite <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Remeasurement for characterizing change over time
 Sample ID,BIR1JB046
 Original Sample ID,JB-CMP-046
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.1843
 800.0,0.18459

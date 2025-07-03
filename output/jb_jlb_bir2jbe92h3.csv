@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-12-04
 Formula,
 Grain Size Description,<2000.0um
-Grain Size,"(1000.0, 2000.0)"
+Grain Size,(1000.0 - 2000.0)
 Locality,"White Sands National Monument, New Mexico"
 Minimum Wavelength,833
 Sample Name,D3_T1_F7h R3 >1000 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Gypsum project
 Sample ID,BIR2JBE92H3
 Original Sample ID,JB-JLB-E92-H3
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.17783
 833.5,0.17773

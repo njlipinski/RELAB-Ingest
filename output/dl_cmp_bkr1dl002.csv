@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-04-30
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,Synthetic 
 Minimum Wavelength,300
 Sample Name,En 80 Fs 20 (E)
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"Grain size unknown.  PGG.  From Don Lindsley.  See Klima, R. L. et al. (2007) Meteoritics & Planetary Science 42, 235-253."
 Sample ID,BKR1DL002
 Original Sample ID,DL-CMP-002
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.18846
 305.0,0.19354

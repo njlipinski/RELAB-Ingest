@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-07-27
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(0.0, 150.0)"
+Grain Size,(0.0 - 150.0)
 Locality,"Mtwara, Tanzania"
 Minimum Wavelength,320
 Sample Name,Rupota
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"Ordinary chondrite powder studied by Jarosevich, Meteoritics, 323-337, 1990.  Almost all metal removed.  USNM 7073"
 Sample ID,BKR1TB121
 Original Sample ID,TB-TJM-121
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.07296
 330.0,0.0793

@@ -2,7 +2,7 @@ Composition,
 Date Added,1990-12-16
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,Apollo 17
 Minimum Wavelength,351
 Sample Name,"72215,101"
@@ -15,7 +15,7 @@ Material class,Returned Planetary Samples
 Sample Description,"No info. on this sample yet.  Bulk, exp. scl., and ""powder"" runs"
 Sample ID,CLS624
 Original Sample ID,LS-JBA-267
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 351.0,0.334
 356.0,0.344

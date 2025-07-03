@@ -2,7 +2,7 @@ Composition,
 Date Added,2018-12-17
 Formula,
 Grain Size Description,<120.0um
-Grain Size,"(0.0, 120.0)"
+Grain Size,(0.0 - 120.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,SC-1-1 CPX (not pyroxene)
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BKR1DD150
 Original Sample ID,DD-MDD-150
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.324145
 305.0,0.328762

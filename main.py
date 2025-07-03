@@ -160,7 +160,7 @@ if __name__ == "__main__":
             reference = spectra_cat.cell_value(rowx=spectra, colx=22)
             
             date_added = xlrd.xldate_as_datetime(date_added, 1).date().isoformat()
-            view_geo = f'{source_angle}° / {detect_angle}°' if (source_angle!="NA" and detect_angle!="NA") else "unknown"
+            view_geo = f'{source_angle}° / {detect_angle}°' if (source_angle!="NA" and detect_angle!="NA") else "Unknown"
 
             # get sample info
             sample_id = spectra_cat.cell_value(rowx=spectra, colx=1)
@@ -200,7 +200,7 @@ if __name__ == "__main__":
                 elif max_val > 0.0 and min_grain == "": # range can be from 0 to max
                     grain_size = str(max_val)
                 else:
-                    grain_size = f"({min_val}, {max_val})" # default case, min-max
+                    grain_size = f"({min_val} - {max_val})" # default case, min - max
             except ValueError as e:
                 if any(keyword in name_lower for keyword in keywords):
                     grain_size = "Whole Object"

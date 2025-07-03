@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-11-17
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(63.0, 125.0)"
+Grain Size,(63.0 - 125.0)
 Locality,
 Minimum Wavelength,1800
 Sample Name,Glass 
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,Wet sieved with water.   For ilmenite absorption study 
 Sample ID,GS033B
 Original Sample ID,GS-CMP-033-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.28302
 1800.7,0.28238

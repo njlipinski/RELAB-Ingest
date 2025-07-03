@@ -2,7 +2,7 @@ Composition,
 Date Added,2003-06-19
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Yamato Mtns, Antarctica "
 Minimum Wavelength,833
 Sample Name,"Y-000593,90 Nakhlite <125 um"
@@ -15,7 +15,7 @@ Material class,Meteorites
 Sample Description,
 Sample ID,BNR1MT023
 Original Sample ID,MT-TXH-023
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.14608
 833.5,0.1462

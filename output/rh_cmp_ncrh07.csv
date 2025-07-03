@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-12-05
 Formula,
 Grain Size Description,<1180.0um
-Grain Size,"(500.0, 1180.0)"
+Grain Size,(500.0 - 1180.0)
 Locality,Unknown 
 Minimum Wavelength,300
 Sample Name,Coarse Hematit
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Coarse hematite used in second round of high temp experiments   
 Sample ID,NCRH07
 Original Sample ID,RH-CMP-007
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.04414
 305.0,0.04153

@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-04-22
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,"Casa Grandu Area, Chihuahua, Mexico"
 Minimum Wavelength,800
 Sample Name,Bytownite <75 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Large bytownite crystal from Shimizu
 Sample ID,BIR1PL114E
 Original Sample ID,PL-H1T-114-E
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.47627
 800.0,0.47504

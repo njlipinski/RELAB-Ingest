@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-02-07
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Miller Range, Antarctica"
 Minimum Wavelength,1428
 Sample Name,"MIL 05029,12 <125 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BIR1TB265
 Original Sample ID,TB-MDD-265
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.191563
 1428.82,0.192304

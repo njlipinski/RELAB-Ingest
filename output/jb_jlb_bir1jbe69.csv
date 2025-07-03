@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-10-25
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(90.0, 150.0)"
+Grain Size,(90.0 - 150.0)
 Locality,
 Minimum Wavelength,833
 Sample Name,90 wt% gypsum + 10 wt% quartz
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,BIR1JBE69
 Original Sample ID,JB-JLB-E69
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.40973
 833.5,0.40893

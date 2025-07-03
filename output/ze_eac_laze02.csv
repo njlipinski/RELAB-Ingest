@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-02-03
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Isle Royale, Lake Superior, MI"
 Minimum Wavelength,300
 Sample Name,ZEO102
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Smithsonian Inst NMNH #82505  
 Sample ID,LAZE02
 Original Sample ID,ZE-EAC-002
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.11635
 305.0,0.12928

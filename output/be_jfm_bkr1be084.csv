@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-10-16
 Formula,
 Grain Size Description,<106.0um
-Grain Size,"(75.0, 106.0)"
+Grain Size,(75.0 - 106.0)
 Locality,"San Carlos, Gila Co., AZ"
 Minimum Wavelength,280
 Sample Name,OLV-SC 75-106 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Mineral mixtures and deriving abundance using VNIR spectroscopy (PGG, MDAP, Active missions, Student)"
 Sample ID,BKR1BE084
 Original Sample ID,BE-JFM-084
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.05149
 285.0,0.04593

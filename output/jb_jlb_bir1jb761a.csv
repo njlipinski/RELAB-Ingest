@@ -2,7 +2,7 @@ Composition,
 Date Added,2007-05-25
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Flagstaff Hill, California"
 Minimum Wavelength,1000
 Sample Name,Ferrosaponite GDS604B <125 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Chocolate clay collected by Jim Post, contributed by Gregg Swayze; Spectroscopy of clay minerals (MDAP, MFRP, Active Missions)"
 Sample ID,BIR1JB761A
 Original Sample ID,JB-JLB-761-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.22185
 1000.2,0.2219

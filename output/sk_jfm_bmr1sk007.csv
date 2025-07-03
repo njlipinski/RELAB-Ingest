@@ -2,7 +2,7 @@ Composition,
 Date Added,2018-05-01
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Antarctica
 Minimum Wavelength,1351
 Sample Name,SK9122US
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,BMR1SK007
 Original Sample ID,SK-JFM-007
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1351.36,0.204825
 1351.71,0.204601

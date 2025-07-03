@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-03-24
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"Allan Hills, Antarctica"
 Minimum Wavelength,320
 Sample Name,"ALH 83102,101 <25 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1MT368A
 Original Sample ID,MT-MDL-368-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.027958
 330.0,0.028982

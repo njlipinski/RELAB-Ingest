@@ -2,7 +2,7 @@ Composition,
 Date Added,2006-07-05
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(125.0, 150.0)"
+Grain Size,(125.0 - 150.0)
 Locality,Murchison
 Minimum Wavelength,1428
 Sample Name,Murchison IOM 150-125 um
@@ -15,7 +15,7 @@ Material class,Organic
 Sample Description,Insoluble organic matter.  High purity organic residue.
 Sample ID,BMR1OG002
 Original Sample ID,OG-CMA-002
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.01214
 1428.8,0.01155

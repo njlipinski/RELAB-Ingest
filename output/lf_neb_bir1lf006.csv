@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-11-08
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(710.0, 1000.0)"
+Grain Size,(710.0 - 1000.0)
 Locality,"Hampton Corners, NY. Wards P/N: 46E 3828 (42º 44' 29.25""N 77º 58' 13.73""W)"
 Minimum Wavelength,833
 Sample Name,Halite
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Purchased from Wards Natural Sciences. GPS coordinates estimated from Google Earth. Crushed and dry seived.
 Sample ID,BIR1LF006
 Original Sample ID,LF-NEB-006
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.11247
 833.5,0.11263

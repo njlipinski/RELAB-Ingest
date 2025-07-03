@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-07-08
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,"Elephant Moraine, Antarctica"
 Minimum Wavelength,1800
 Sample Name,EETA79005 
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,MATB26
 Original Sample ID,TB-RPB-026
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.10748
 1800.7,0.10764

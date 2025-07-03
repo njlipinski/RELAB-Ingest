@@ -2,7 +2,7 @@ Composition,
 Date Added,1994-12-16
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,"Kherson, Ukraine"
 Minimum Wavelength,500
 Sample Name,Mighei

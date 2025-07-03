@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-10-05
 Formula,
 Grain Size Description,<35.0um
-Grain Size,"(0.0, 35.0)"
+Grain Size,(0.0 - 35.0)
 Locality,"Allan Hills, Antarctica"
 Minimum Wavelength,800
 Sample Name,"ALHA 81002,33 (CM2) <35 um (Q10625)"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Infrared & visible characterization of CM meteorites
 Sample ID,BIR1MT196
 Original Sample ID,MT-JMS-196
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.02766
 800.0,0.02794

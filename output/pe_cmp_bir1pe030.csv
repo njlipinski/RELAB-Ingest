@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-12-14
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Webster, NC "
 Minimum Wavelength,1667
 Sample Name,Web 45
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Series of separates to be used as raw materials for J. Sunshines  Senior thesis Enstatite: Wo 1% En 87% Fs 12%
 Sample ID,BIR1PE030
 Original Sample ID,PE-CMP-030
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1666.7,0.32727
 1667.3,0.32709

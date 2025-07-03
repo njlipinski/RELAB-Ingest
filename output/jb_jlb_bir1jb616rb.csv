@@ -2,7 +2,7 @@ Composition,
 Date Added,2016-07-25
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(125.0, 250.0)"
+Grain Size,(125.0 - 250.0)
 Locality,"Molokai, Hawaii"
 Minimum Wavelength,833
 Sample Name,Molokai soil 125-250 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,BIR1JB616RB
 Original Sample ID,JB-JLB-616-RB
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.4,0.19249
 833.5,0.19335

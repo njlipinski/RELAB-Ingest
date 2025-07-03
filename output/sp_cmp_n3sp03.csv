@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-07-08
 Formula,
 Grain Size Description,<80.0um
-Grain Size,"(50.0, 80.0)"
+Grain Size,(50.0 - 80.0)
 Locality,Hawaii
 Minimum Wavelength,300
 Sample Name,Hawaiian Palagonite 50-80 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,A 0-10B 10-50C 50-80 uM   
 Sample ID,N3SP03
 Original Sample ID,SP-CMP-003-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03254
 305.0,0.03238

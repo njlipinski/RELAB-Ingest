@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-06-05
 Formula,
 Grain Size Description,<35.0um
-Grain Size,"(0.0, 35.0)"
+Grain Size,(0.0 - 35.0)
 Locality,France
 Minimum Wavelength,320
 Sample Name,Orgueil <35 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Spectra of carbonaceous chondrites
 Sample ID,BKR1MT191
 Original Sample ID,MT-JMS-191
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.01773
 325.0,0.01815

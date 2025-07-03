@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-08-19
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic 
 Minimum Wavelength,280
 Sample Name,Crushed glass beads <45 um crushed using a stainless steel grinder
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,For Mg-Spinel (ALHA81005/M3 OOS analog) synthesis
 Sample ID,BKR1SP035A
 Original Sample ID,SP-AHT-035-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.76893
 285.0,0.65079

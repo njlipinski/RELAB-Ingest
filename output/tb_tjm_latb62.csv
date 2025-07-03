@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-12-13
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Argentina 
 Minimum Wavelength,320
 Sample Name,D'Orbigny 
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,LATB62
 Original Sample ID,TB-TJM-062
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.05142
 330.0,0.0613

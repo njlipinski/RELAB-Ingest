@@ -2,7 +2,7 @@ Composition,
 Date Added,2006-10-11
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Yadz, Iran"
 Minimum Wavelength,300
 Sample Name,SPT112
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Obtained from Minerals Unlimite   Dry-sieved. 
 Sample ID,BKR2SF026A
 Original Sample ID,SF-EAC-026-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.02636
 305.0,0.02236

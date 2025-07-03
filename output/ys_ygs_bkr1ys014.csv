@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-02-24
 Formula,
 Grain Size Description,<0.5um
-Grain Size,"(0.5, 0.5)"
+Grain Size,(0.5 - 0.5)
 Locality,Synthetic 
 Minimum Wavelength,320
 Sample Name,Spherical silica 0.5
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,
 Sample ID,BKR1YS014
 Original Sample ID,YS-YGS-014
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.97529
 330.0,0.97129

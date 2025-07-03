@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-05-15
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Turkey
 Minimum Wavelength,280
 Sample Name,"Bentonite from Turkish clay Peker, Clay-B purified by Steve Hillier"
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectroscopy of clay minerals
 Sample ID,BKR1JB876
 Original Sample ID,JB-JLB-876
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.33913
 285.0,0.26512

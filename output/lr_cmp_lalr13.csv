@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-11-03
 Formula,
 Grain Size Description,<20.0um
-Grain Size,"(10.0, 20.0)"
+Grain Size,(10.0 - 20.0)
 Locality,"Apollo 15 site, Moon"
 Minimum Wavelength,300
 Sample Name,"15041,211"
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,(C1) In a Nicolet dish.(C2) In a RELAB dish.  
 Sample ID,LALR13
 Original Sample ID,LR-CMP-013
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.02698
 305.0,0.02723

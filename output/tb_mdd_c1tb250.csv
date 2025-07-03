@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-01-17
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Lewis Cliff, Antarctica "
 Minimum Wavelength,320
 Sample Name,"LEW 85320,127 <125 um"

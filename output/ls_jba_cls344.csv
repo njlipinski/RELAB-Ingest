@@ -2,7 +2,7 @@ Composition,
 Date Added,1985-07-02
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,Apollo 14 
 Minimum Wavelength,351
 Sample Name,"14082,22"
@@ -15,7 +15,7 @@ Material class,Returned Planetary Samples
 Sample Description,Apollo 14 BrecciaNASA #14082  Less than 250 microns 
 Sample ID,CLS344
 Original Sample ID,LS-JBA-074
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 351.0,0.4377
 354.0,0.443567

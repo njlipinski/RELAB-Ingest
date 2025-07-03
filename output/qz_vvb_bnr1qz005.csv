@@ -2,7 +2,7 @@ Composition,
 Date Added,2006-04-28
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Japan
 Minimum Wavelength,1000
 Sample Name,Quartz <125 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Originally from Nikko Exploration and Development (NED) and reprapared for Vladimir Busarev.
 Sample ID,BNR1QZ005
 Original Sample ID,QZ-VVB-005
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.44093
 1000.2,0.44095

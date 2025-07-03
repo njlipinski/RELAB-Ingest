@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-09-24
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(106.0, 125.0)"
+Grain Size,(106.0 - 125.0)
 Locality,Purchased from vendor
 Minimum Wavelength,800
 Sample Name,MGC 106-125 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"For modeling of mixtures (PGG, Active missions)"
 Sample ID,BIR1BE227
 Original Sample ID,BE-JFM-227
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.40677
 800.0,0.40545

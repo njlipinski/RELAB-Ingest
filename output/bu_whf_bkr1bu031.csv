@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-12-04
 Formula,
 Grain Size Description,<400.0um
-Grain Size,"(0.0, 400.0)"
+Grain Size,(0.0 - 400.0)
 Locality,"Narbona Pass Maar, NM"
 Minimum Wavelength,300
 Sample Name,NPM-011B
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Gray basaltic tuff from east flank of maar
 Sample ID,BKR1BU031
 Original Sample ID,BU-WHF-031
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.08028
 305.0,0.08469

@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-02-23
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Yellowstone National Park, WY"
 Minimum Wavelength,320
 Sample Name,Chocolate Pots - 1
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Interaction of iron oxides with organisms (MFRP, NAI)"
 Sample ID,BKR1JB644A
 Original Sample ID,JB-JLB-644-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.02396
 325.0,0.02332

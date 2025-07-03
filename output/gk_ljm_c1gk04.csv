@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-03-13
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(0.0, 150.0)"
+Grain Size,(0.0 - 150.0)
 Locality,"Paleolake Tecopa near Shoshone, California"
 Minimum Wavelength,320
 Sample Name,T27 (Bed between the Green beds and Tuff beds) <150 um

@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-04-11
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Kauai, Hawaii"
 Minimum Wavelength,800
 Sample Name,Kauai stop 5 pink top soil <45 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Spectroscopy of Mars analog materials
 Sample ID,BIR1JBA84A
 Original Sample ID,JB-JLB-A84-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.11489
 800.0,0.11309

@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-03-09
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,Asph #1 
@@ -15,7 +15,7 @@ Material class,Organic
 Sample Description,Unaltered asphaltite for shock experiment.  
 Sample ID,NCAS02
 Original Sample ID,AS-LXM-002
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.01133
 305.0,0.01152

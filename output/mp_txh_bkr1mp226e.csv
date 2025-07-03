@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-12-02
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"Meteorite Hill, Antarctica"
 Minimum Wavelength,300
 Sample Name,"MET 00639,16 <25 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1MP226E
 Original Sample ID,MP-TXH-226-E
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.01881
 305.0,0.018652

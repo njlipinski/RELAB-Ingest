@@ -2,7 +2,7 @@ Composition,
 Date Added,2006-02-13
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Badajoz, Spain"
 Minimum Wavelength,300
 Sample Name,Olivenza (LL5) <125 um

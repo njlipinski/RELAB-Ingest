@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-09-02
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic (Brophy collection)
 Minimum Wavelength,910
 Sample Name,Synthetic K-jarosite 1B <45 um
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"Spectroscopy of sulfate minerals (MFRP, NAI, ASTID)"
 Sample ID,BIR1JB674A
 Original Sample ID,JB-JLB-674-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 910.1,0.28697
 910.2,0.287

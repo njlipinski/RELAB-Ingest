@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-08-06
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(63.0, 75.0)"
+Grain Size,(63.0 - 75.0)
 Locality,Unknown 
 Minimum Wavelength,320
 Sample Name,Px 63-75 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BKR1PX019E
 Original Sample ID,PX-JJG-019-E
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.13649
 330.0,0.1652

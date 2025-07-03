@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-09-30
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,Bt-4
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Natural Schwertmannite  (A) Unsieved
 Sample ID,995F130A
 Original Sample ID,JB-CMP-130-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.02666
 305.0,0.02016

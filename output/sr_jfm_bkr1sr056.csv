@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-08-27
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(710.0, 1000.0)"
+Grain Size,(710.0 - 1000.0)
 Locality,
 Minimum Wavelength,320
 Sample Name,BUR-2080C
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,From ASU TES spectral library to contribute to the CRISM spectral library for Mars
 Sample ID,BKR1SR056
 Original Sample ID,SR-JFM-056
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.2029
 325.0,0.20608

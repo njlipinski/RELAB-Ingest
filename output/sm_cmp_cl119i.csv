@@ -2,7 +2,7 @@ Composition,
 Date Added,1989-12-11
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,Cape Smith
 Minimum Wavelength,2200
 Sample Name,Actinolite

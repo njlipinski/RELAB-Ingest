@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-06-26
 Formula,
 Grain Size Description,<2000.0um
-Grain Size,"(250.0, 2000.0)"
+Grain Size,(250.0 - 2000.0)
 Locality,"Atacama, Chile"
 Minimum Wavelength,300
 Sample Name,C-2 from Mark Claire >250 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,BKR1JBE48C
 Original Sample ID,JB-JLB-E48-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.29685
 305.0,0.29833

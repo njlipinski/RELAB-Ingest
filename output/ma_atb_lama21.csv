@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-12-06
 Formula,
 Grain Size Description,<200.0um
-Grain Size,"(125.0, 200.0)"
+Grain Size,(125.0 - 200.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,P-2
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Mars analog  
 Sample ID,LAMA21
 Original Sample ID,MA-ATB-021
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.02665
 305.0,0.02509

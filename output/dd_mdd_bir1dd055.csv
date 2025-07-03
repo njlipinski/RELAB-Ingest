@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-01-07
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Miller Range, Antarctica"
 Minimum Wavelength,1667
 Sample Name,"MIL03346,49 cpx separate <45 um"
@@ -15,7 +15,7 @@ Material class,Meteorites
 Sample Description,
 Sample ID,BIR1DD055
 Original Sample ID,DD-MDD-055
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1666.7,0.16543
 1667.3,0.16548

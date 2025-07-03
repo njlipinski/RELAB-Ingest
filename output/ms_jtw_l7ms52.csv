@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-08-08
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,"Wiluna dist., Australia "
 Minimum Wavelength,300
 Sample Name,Millbillillie No.7
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Partially laser-irradiated under condition 3.   
 Sample ID,L7MS52
 Original Sample ID,MS-JTW-052-7
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.16414
 305.0,0.16295

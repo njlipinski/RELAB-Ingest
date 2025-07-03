@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-01-09
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Lonar Crater, India"
 Minimum Wavelength,800
 Sample Name,Basalt - Powder <45 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Spectral library of Mars analogue materials.
 Sample ID,BIR1BE013
 Original Sample ID,BE-JFM-013
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.91,0.211382
 800.03,0.211382

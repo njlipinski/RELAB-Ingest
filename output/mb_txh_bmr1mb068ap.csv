@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-08-31
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"Elephant Moraine, Antarctica"
 Minimum Wavelength,1428
 Sample Name,"EET 87503,97 (How) <25 um pellet"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BMR1MB068AP
 Original Sample ID,MB-TXH-068-AP
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.23294
 1428.8,0.23425

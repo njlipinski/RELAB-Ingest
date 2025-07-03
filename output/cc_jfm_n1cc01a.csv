@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-01-02
 Formula,
 Grain Size Description,<5.0um
-Grain Size,"(0.0, 5.0)"
+Grain Size,(0.0 - 5.0)
 Locality,"Haleakalea, Hawaii"
 Minimum Wavelength,900
 Sample Name,HK-3b 
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Soil derived from weathered basalt, sorted by dry sieving.  "
 Sample ID,N1CC01A
 Original Sample ID,CC-JFM-001-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.4,0.08609
 901.1,0.08592

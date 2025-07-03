@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-09-22
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(710.0, 1000.0)"
+Grain Size,(710.0 - 1000.0)
 Locality,
 Minimum Wavelength,1000
 Sample Name,WAR-0482
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,From ASU TES spectral library to contribute to the CRISM spectral library for Mars
 Sample ID,BIR1SR073
 Original Sample ID,SR-JFM-073
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.17031
 1000.2,0.17026

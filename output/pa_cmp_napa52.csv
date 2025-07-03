@@ -2,7 +2,7 @@ Composition,
 Date Added,1991-08-21
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,"Quebec, CAN "
 Minimum Wavelength,900
 Sample Name,Mueller 12BA
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,NAPA52
 Original Sample ID,PA-CMP-052
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.1,0.11689
 900.3,0.11713

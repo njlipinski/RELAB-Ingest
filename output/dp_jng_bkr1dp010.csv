@@ -2,7 +2,7 @@ Composition,
 Date Added,2007-05-02
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Rajasthan, India"
 Minimum Wavelength,300
 Sample Name,M-L6-550C (Rangala L6) chondrules <125 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Asteroid-meteorite comparison
 Sample ID,BKR1DP010
 Original Sample ID,DP-JNG-010
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.0979
 305.0,0.10518

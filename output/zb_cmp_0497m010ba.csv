@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-04-03
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,Nain
 Minimum Wavelength,1800
 Sample Name,Nain labradorite
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,0497M010BA
 Original Sample ID,ZB-CMP-012-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.41548
 1800.7,0.41527

@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-01-26
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Cornwall, England "
 Minimum Wavelength,300
 Sample Name,Lizardite 600C
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Heated for 1 week in a vacuum glass tube.   
 Sample ID,LALZ06
 Original Sample ID,LZ-TXH-006
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.14292
 305.0,0.14769

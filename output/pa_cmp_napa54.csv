@@ -2,7 +2,7 @@ Composition,
 Date Added,1991-08-21
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,"Wrightwood, CA"
 Minimum Wavelength,900
 Sample Name,Actinolite
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Actinolite from Wrightwood, CA  "
 Sample ID,NAPA54
 Original Sample ID,PA-CMP-054
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.1,0.44725
 900.3,0.44354

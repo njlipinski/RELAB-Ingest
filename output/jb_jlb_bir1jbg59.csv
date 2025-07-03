@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-05-30
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Melissa Lane
 Minimum Wavelength,833
 Sample Name,"Aragonite medium grains <125 um (JB1659, Melissa Lane C70)"
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BIR1JBG59
 Original Sample ID,JB-JLB-G59
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.4,0.61991
 833.5,0.62121

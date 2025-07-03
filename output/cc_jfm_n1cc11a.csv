@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-07-18
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"Dripping Springs Mtn, Gila Co., AZ"
 Minimum Wavelength,900
 Sample Name,Jarosite
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Dry  Crystals scraped off with some contamination by gossan matrix.
 Sample ID,N1CC11A
 Original Sample ID,CC-JFM-011-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.4,0.24242
 901.1,0.24274

@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-01-06
 Formula,
 Grain Size Description,<20.0um
-Grain Size,"(15.0, 20.0)"
+Grain Size,(15.0 - 20.0)
 Locality,"Pu'u Nene cinder cone, Hawaii "
 Minimum Wavelength,900
 Sample Name,JSC Mars-1
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Mars analog soil curated by JSC   
 Sample ID,S2CC18D
 Original Sample ID,CC-JFM-018-D
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.4,0.20133
 901.1,0.20103

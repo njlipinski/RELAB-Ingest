@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-01-28
 Formula,
 Grain Size Description,<500.0um
-Grain Size,"(106.0, 500.0)"
+Grain Size,(106.0 - 500.0)
 Locality,Iceland
 Minimum Wavelength,1333
 Sample Name,Icel009D 106-500 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"Earth analogues for hydrothermal enviornments seen by CRISM (Active missions, Student)"
 Sample ID,BMR1BE184
 Original Sample ID,BE-JFM-184
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1333.2,0.05263
 1333.4,0.05118

@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-06-22
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic 
 Minimum Wavelength,800
 Sample Name,"Crushed glass beads <45 um (C-D epoxy, DCM treated)"
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"Mounted in C-D epoxy, epoxy dissolved in dichloromethane (DCM).  Residual epoxy flakes"
 Sample ID,BIR1SP039
 Original Sample ID,SP-AHT-039
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.4884
 800.0,0.48844

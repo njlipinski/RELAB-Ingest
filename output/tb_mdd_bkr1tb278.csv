@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-02-07
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Reckling Peak, Antarctica"
 Minimum Wavelength,320
 Sample Name,"RKP 80256,22 <125 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1TB278
 Original Sample ID,TB-MDD-278
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.056993
 330.0,0.06053

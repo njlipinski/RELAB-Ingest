@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-08-15
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(150.0, 250.0)"
+Grain Size,(150.0 - 250.0)
 Locality,Clay Minerals Society
 Minimum Wavelength,300
 Sample Name,Nau-1 >150 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1JBE90C
 Original Sample ID,JB-JLB-E90-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03709
 305.0,0.03404

@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-04-09
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,"Elephant Moraine, Antarctica"
 Minimum Wavelength,1428
 Sample Name,"EET 87531,135 <75um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Howardite ground and sieved powder for Dawn mission
 Sample ID,BMR1MT203A
 Original Sample ID,MT-D2M-203-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.24642
 1428.8,0.24612

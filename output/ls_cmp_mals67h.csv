@@ -2,7 +2,7 @@ Composition,
 Date Added,1996-02-26
 Formula,
 Grain Size Description,<20.0um
-Grain Size,"(0.0, 20.0)"
+Grain Size,(0.0 - 20.0)
 Locality,"Apollo 16 site, Moon"
 Minimum Wavelength,1800
 Sample Name,"67701,199 <20 um"
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,For study of lunar soil optical alteration.  
 Sample ID,MALS67H
 Original Sample ID,LS-CMP-067-H
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.26396
 1800.7,0.26452

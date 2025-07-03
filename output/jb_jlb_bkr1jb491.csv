@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-05-13
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(90.0, 125.0)"
+Grain Size,(90.0 - 125.0)
 Locality,Norway
 Minimum Wavelength,280
 Sample Name,M3 Clinopyroxene 90-125 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"From Jan Harloff, Berlin  "
 Sample ID,BKR1JB491
 Original Sample ID,JB-JLB-491
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.09367
 285.0,0.06504

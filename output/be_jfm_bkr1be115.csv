@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-03-04
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(45.0, 75.0)"
+Grain Size,(45.0 - 75.0)
 Locality,Medicine Lake and Germany
 Minimum Wavelength,280
 Sample Name,70% NG-1 + 30% BAS 79-3b (45-75 um)
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Mineral mixtures and deriving abundance using VNIR spectroscopy (PGG, MDAP, Active missions, Student)"
 Sample ID,BKR1BE115
 Original Sample ID,BE-JFM-115
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.03097
 285.0,0.02721

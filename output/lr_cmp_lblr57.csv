@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-09-03
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(20.0, 45.0)"
+Grain Size,(20.0 - 45.0)
 Locality,"Apollo 17 site, Moon"
 Minimum Wavelength,300
 Sample Name,"71061,158"
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Clean water sieved for LSCC (Taylor project).
 Sample ID,LBLR57
 Original Sample ID,LR-CMP-057
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.04684
 305.0,0.05302

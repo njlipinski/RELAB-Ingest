@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-08-11
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,Pyroxene
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,NAMS15
 Original Sample ID,MS-CMP-015
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.09874
 305.0,0.09434

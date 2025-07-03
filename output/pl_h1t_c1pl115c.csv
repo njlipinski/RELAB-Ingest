@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-06-03
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Crystal Bay, Minn "
 Minimum Wavelength,280
 Sample Name,Crystal Bay bytownite <125 um

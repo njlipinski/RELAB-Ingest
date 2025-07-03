@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-03-25
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Apollo 15 site, Moon"
 Minimum Wavelength,280
 Sample Name,"15058,276 plagioclase"

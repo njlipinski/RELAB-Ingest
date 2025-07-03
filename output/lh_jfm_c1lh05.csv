@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-06-07
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,"Rio Tinto, Spain"
 Minimum Wavelength,320
 Sample Name,0404000za <250 um

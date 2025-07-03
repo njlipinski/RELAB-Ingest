@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-11-17
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(45.0, 125.0)"
+Grain Size,(45.0 - 125.0)
 Locality,Synthetic
 Minimum Wavelength,280
 Sample Name,PL012_45-125 (0.66 +/- 0.2 wt% FeO)

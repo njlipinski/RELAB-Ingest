@@ -2,7 +2,7 @@ Composition,
 Date Added,2003-08-08
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Tagish Lake, Canada "
 Minimum Wavelength,833
 Sample Name,Tagish Lake ET01-B
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Relatively fresh portion  
 Sample ID,BNR1MT011
 Original Sample ID,MT-MEZ-011
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.01462
 833.5,0.01469

@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-06-25
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic 
 Minimum Wavelength,300
 Sample Name,MIX532
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,Palagonite (PAL102 <45um) 40% + Diaspore (OOH012 <45um) 60%   Palagonite from Ted Roush (#91-16)
 Sample ID,LAMX42
 Original Sample ID,MX-EAC-042
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.09949
 305.0,0.10452

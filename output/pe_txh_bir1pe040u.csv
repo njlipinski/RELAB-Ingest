@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-11-02
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,"Ani-jima, Bonin Islands, Japan"
 Minimum Wavelength,714
 Sample Name,Ani-jima bronzite <75 um pellet
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BIR1PE040U
 Original Sample ID,PE-TXH-040-U
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 714.2,0.34668
 714.3,0.34598

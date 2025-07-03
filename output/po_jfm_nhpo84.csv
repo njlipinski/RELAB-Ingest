@@ -2,7 +2,7 @@ Composition,
 Date Added,1993-07-14
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,"Jackson Cty, NC "
 Minimum Wavelength,300
 Sample Name,Serpentine separate <250 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,NHPO84
 Original Sample ID,PO-JFM-084-H
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.09075
 305.0,0.09771

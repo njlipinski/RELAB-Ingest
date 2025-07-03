@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-09-20
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Sierra Gorda, Antofagaste, Chile"
 Minimum Wavelength,800
 Sample Name,Ferrinatrite VZ0106 <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectroscopy of sulfate minerals
 Sample ID,BIR1JBA59
 Original Sample ID,JB-JLB-A59
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.32626
 800.0,0.32592

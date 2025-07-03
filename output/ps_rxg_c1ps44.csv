@@ -2,7 +2,7 @@ Composition,
 Date Added,1989-10-06
 Formula,
 Grain Size Description,<2000.0um
-Grain Size,"(0.0, 2000.0)"
+Grain Size,(0.0 - 2000.0)
 Locality,"Kelso Dunes, Mojave Desert, CA"
 Minimum Wavelength,300
 Sample Name,P-89-44 

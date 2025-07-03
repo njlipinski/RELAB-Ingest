@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-02-04
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Poonah, Maharashtra, India"
 Minimum Wavelength,1800
 Sample Name,ZEO112
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Smithsonian Inst NMNH #R4301-1  
 Sample ID,MAZE12
 Original Sample ID,ZE-EAC-012
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.30043
 1800.7,0.30089

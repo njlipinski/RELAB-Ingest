@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-07-08
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(25.0, 75.0)"
+Grain Size,(25.0 - 75.0)
 Locality,"Riverside Co., California "
 Minimum Wavelength,280
 Sample Name,Magnesite (CC-06B)
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Reflectance spectra unmixing of hydrated and mafic minerals (PGG, MDAP, Active missions, Student)"
 Sample ID,BKR1BE044
 Original Sample ID,BE-JFM-044
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.69966
 285.0,0.69008

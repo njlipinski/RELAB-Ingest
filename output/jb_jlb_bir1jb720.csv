@@ -2,7 +2,7 @@ Composition,
 Date Added,2007-01-18
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic
 Minimum Wavelength,1000
 Sample Name,T10: (KH3)(FeAl2)(SO4)2(OH)6 <45 um
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"Spectroscopy of sulfate minerals (MDAP, MFRP)"
 Sample ID,BIR1JB720
 Original Sample ID,JB-JLB-720
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.50513
 1000.2,0.50528

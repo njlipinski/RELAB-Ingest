@@ -2,7 +2,7 @@ Composition,
 Date Added,1991-10-04
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,
 Minimum Wavelength,700
 Sample Name,Allende 
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,A- Unprocessed
 Sample ID,NAMS40
 Original Sample ID,MS-CMP-040-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 700.2,0.09639
 700.4,0.09641

@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-11-08
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(710.0, 1000.0)"
+Grain Size,(710.0 - 1000.0)
 Locality,Morocco (31º26.010'N 05º09.034'W)
 Minimum Wavelength,300
 Sample Name,Basalt
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Collected at top of farthest edge from outflow. Bulk rock. Crushed and dry sieved.
 Sample ID,BKR1LF003
 Original Sample ID,LF-NEB-003
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.06372
 305.0,0.06497

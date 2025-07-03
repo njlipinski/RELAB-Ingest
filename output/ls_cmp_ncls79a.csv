@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-09-27
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Apollo 17 site, Moon"
 Minimum Wavelength,300
 Sample Name,"76295,126"
@@ -15,7 +15,7 @@ Material class,Returned Planetary Samples
 Sample Description,"Glass produced by fusing 76295,118 on Mo strips in Ar atmosphere.   "
 Sample ID,NCLS79A
 Original Sample ID,LS-CMP-079-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.09681
 305.0,0.10196

@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-03-02
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Keeler, Inyo County, CA "
 Minimum Wavelength,300
 Sample Name,CRB213Bk <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Baked/dehydrated in air at 115C for 20 min.   22.92% weight loss. 
 Sample ID,LACB33C
 Original Sample ID,CB-EAC-033-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.72306
 305.0,0.73185

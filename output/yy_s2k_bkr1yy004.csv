@@ -2,7 +2,7 @@ Composition,
 Date Added,2022-07-18
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,Japan 
 Minimum Wavelength,300
 Sample Name,Amphibole <250 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BKR1YY004
 Original Sample ID,YY-S2K-004
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.047646
 305.0,0.045093

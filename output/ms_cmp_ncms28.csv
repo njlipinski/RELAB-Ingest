@@ -2,7 +2,7 @@ Composition,
 Date Added,1991-07-25
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,
 Minimum Wavelength,1000
 Sample Name,"Kerite, 19"
@@ -15,7 +15,7 @@ Material class,Organic
 Sample Description,
 Sample ID,NCMS28
 Original Sample ID,MS-CMP-028
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.17281
 1000.4,0.17296

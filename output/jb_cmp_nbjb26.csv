@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-10-17
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(45.0, 75.0)"
+Grain Size,(45.0 - 75.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,Nontronite 45-75 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,NBJB26
 Original Sample ID,JB-CMP-026-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03315
 305.0,0.03102

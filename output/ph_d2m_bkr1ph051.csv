@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-06-29
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,"Queen Alexandria Range, Antarctica"
 Minimum Wavelength,300
 Sample Name,QUE97077
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1PH051
 Original Sample ID,PH-D2M-051
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.02396
 305.0,0.02342

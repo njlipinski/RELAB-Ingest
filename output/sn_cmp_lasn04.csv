@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-07-08
 Formula,
 Grain Size Description,<10.0um
-Grain Size,"(0.0, 10.0)"
+Grain Size,(0.0 - 10.0)
 Locality,"Mauna Kea, Hawaii "
 Minimum Wavelength,300
 Sample Name,Basalt (Ext Ethanol)
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Extended exposure to ethanol.   
 Sample ID,LASN04
 Original Sample ID,SN-CMP-004
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.17837
 305.0,0.17725

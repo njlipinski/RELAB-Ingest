@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-12-14
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Near Bamble, Norway "
 Minimum Wavelength,1667
 Sample Name,Enstatite 
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Ordered from Ward's, prepared by DAC  "
 Sample ID,BIR1PE011
 Original Sample ID,PE-CMP-011
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1666.7,0.3387
 1667.3,0.33855

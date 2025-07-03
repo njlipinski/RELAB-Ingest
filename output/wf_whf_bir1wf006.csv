@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-03-05
 Formula,
 Grain Size Description,<400.0um
-Grain Size,"(0.0, 400.0)"
+Grain Size,(0.0 - 400.0)
 Locality,"Crazy Hills, Washington"
 Minimum Wavelength,833
 Sample Name,CH-09
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Sub-glacial eruption product
 Sample ID,BIR1WF006
 Original Sample ID,WF-WHF-006
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.24025
 833.5,0.24017

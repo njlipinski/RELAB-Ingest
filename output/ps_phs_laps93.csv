@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-08-25
 Formula,
 Grain Size Description,<495.0um
-Grain Size,"(250.0, 495.0)"
+Grain Size,(250.0 - 495.0)
 Locality,South America 
 Minimum Wavelength,350
 Sample Name,Non-Magnetic #2 
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,LAPS93
 Original Sample ID,PS-PHS-093
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 350.0,0.04138
 355.0,0.04326

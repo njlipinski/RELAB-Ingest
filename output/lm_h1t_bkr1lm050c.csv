@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-04-01
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Northwest Africa
 Minimum Wavelength,280
 Sample Name,NWA482 <125 um
@@ -15,7 +15,7 @@ Material class,Meteorites
 Sample Description,0.148 g
 Sample ID,BKR1LM050C
 Original Sample ID,LM-H1T-050-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.23131
 285.0,0.20595

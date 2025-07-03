@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-02-12
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(32.0, 63.0)"
+Grain Size,(32.0 - 63.0)
 Locality,"Mahalona River, Indonesia"
 Minimum Wavelength,833
 Sample Name,MAH-02-D
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Bedload sediment from the Mahalona River, Sample #2 - 32-63 microns"
 Sample ID,BIR1LT053
 Original Sample ID,LT-JFM-053
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.16846
 833.5,0.16975

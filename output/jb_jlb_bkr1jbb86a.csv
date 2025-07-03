@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-09-25
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(20.0, 45.0)"
+Grain Size,(20.0 - 45.0)
 Locality,Mauna Kea
 Minimum Wavelength,300
 Sample Name,Palagonitic soil 91-16 20-45 um (dry-sieved)
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Roush mixture project
 Sample ID,BKR1JBB86A
 Original Sample ID,JB-JLB-B86-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.02969
 305.0,0.0278

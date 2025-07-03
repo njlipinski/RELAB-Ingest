@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-12-16
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"om drill hole #66, Wairakei, New Zealand"
 Minimum Wavelength,1800
 Sample Name,ZEO105
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Smithsonian Inst NMNH #137255   
 Sample ID,MAZE05
 Original Sample ID,ZE-EAC-005
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.25404
 1800.7,0.25698

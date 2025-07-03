@@ -2,7 +2,7 @@ Composition,
 Date Added,1991-08-22
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,"Moses Rock Dike, Mexican Hat, Utah"
 Minimum Wavelength,900
 Sample Name,Act-15 (sic)
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Single crystals found in matrix of Moses Rock Dike Utramafic Diatreme   Tough, compact crystal, clear but dark(Really one or more pyroxenes)"
 Sample ID,NBPA47
 Original Sample ID,PA-CMP-047
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.1,0.25668
 900.3,0.25818

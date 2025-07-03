@@ -2,7 +2,7 @@ Composition,
 Date Added,2007-05-22
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"Anjar, Gujarat, India"
 Minimum Wavelength,2000
 Sample Name,DB-A-21 F-1 <25 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Mission Planning (Chandrayaan)
 Sample ID,BIR1DP005E
 Original Sample ID,DP-JNG-005-E
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1999.7,0.20919
 2000.5,0.20913

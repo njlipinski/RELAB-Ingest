@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-05-30
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(90.0, 150.0)"
+Grain Size,(90.0 - 150.0)
 Locality,"Enver Murad; Kohnstedt quarry, Germany"
 Minimum Wavelength,833
 Sample Name,50% jarosite + 50% gypsum mixture (JB1687) 90-150 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,BIR1JBG87
 Original Sample ID,JB-JLB-G87
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.4,0.46947
 833.5,0.47148

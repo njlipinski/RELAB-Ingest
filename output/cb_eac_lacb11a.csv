@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-01-05
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Unknown 
 Minimum Wavelength,300
 Sample Name,CRB111 <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,LACB11A
 Original Sample ID,CB-EAC-011-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.72409
 305.0,0.71652

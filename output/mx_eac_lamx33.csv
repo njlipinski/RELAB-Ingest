@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-11-05
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,MIX263
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,OLV003 (<45 um) 75% + MET101 (<45 um) 25%   Metal from iron meteorite 
 Sample ID,LAMX33
 Original Sample ID,MX-EAC-033
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.19432
 305.0,0.19741

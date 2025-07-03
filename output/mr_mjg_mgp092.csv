@@ -2,7 +2,7 @@ Composition,
 Date Added,1987-07-01
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,"Olviopol, Kherson, Ukraine"
 Minimum Wavelength,350
 Sample Name,Meghei (Mighei) 
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"tvj, ps=<0.075mm  Fell June 18, 1889"
 Sample ID,MGP092
 Original Sample ID,MR-MJG-108
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 350.0,0.031997
 355.0,0.032294

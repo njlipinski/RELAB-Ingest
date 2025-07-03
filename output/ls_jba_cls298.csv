@@ -2,7 +2,7 @@ Composition,
 Date Added,1985-07-02
 Formula,
 Grain Size Description,<90.0um
-Grain Size,"(0.0, 90.0)"
+Grain Size,(0.0 - 90.0)
 Locality,Luna 24 
 Minimum Wavelength,351
 Sample Name,"24077,27"
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Luna 24 Drill Core  
 Sample ID,CLS298
 Original Sample ID,LS-JBA-141
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 351.0,0.1006
 354.0,0.1022

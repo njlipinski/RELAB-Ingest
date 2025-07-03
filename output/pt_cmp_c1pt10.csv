@@ -2,7 +2,7 @@ Composition,
 Date Added,1987-06-23
 Formula,
 Grain Size Description,<500.0um
-Grain Size,"(0.0, 500.0)"
+Grain Size,(0.0 - 500.0)
 Locality,Unknown 
 Minimum Wavelength,320
 Sample Name,PT-08 powder

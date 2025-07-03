@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-06-17
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(38.0, 63.0)"
+Grain Size,(38.0 - 63.0)
 Locality,"Chihuahua, Mexico"
 Minimum Wavelength,1428
 Sample Name,Labradorite 38-63 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"See Byrne et al. 2015, LPS XLVI, Abstract 1501"
 Sample ID,BMR1CK003
 Original Sample ID,CK-JFM-003
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.37,0.371527
 1428.57,0.371126

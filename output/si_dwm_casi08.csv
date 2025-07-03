@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-02-02
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(150.0, 1000.0)"
+Grain Size,(150.0 - 1000.0)
 Locality,Equatorial Pacific
 Minimum Wavelength,300
 Sample Name,Silica standard op21

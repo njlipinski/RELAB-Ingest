@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-07-07
 Formula,
 Grain Size Description,<90.0um
-Grain Size,"(45.0, 90.0)"
+Grain Size,(45.0 - 90.0)
 Locality,"Happy Canyon, TX"
 Minimum Wavelength,300
 Sample Name,MET200
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"Opaque free, washed in HCl, we sieved with acetone.  "
 Sample ID,LAEA03A
 Original Sample ID,EA-EAC-003-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.33853
 305.0,0.34529

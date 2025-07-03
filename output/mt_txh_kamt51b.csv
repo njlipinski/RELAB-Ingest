@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-12-10
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(45.0, 75.0)"
+Grain Size,(45.0 - 75.0)
 Locality,Hughes
 Minimum Wavelength,900
 Sample Name,Hughes 026 45-75 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,AMNH Cat #4883  Weathered.
 Sample ID,KAMT51B
 Original Sample ID,MT-TXH-051-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.0,0.05529
 900.3,0.05546

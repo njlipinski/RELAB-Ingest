@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-02-03
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Castel de Decimo, Roma, Lazio, Italy"
 Minimum Wavelength,300
 Sample Name,ZEO108
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Smithsonian Inst NMNH #138649   
 Sample ID,LAZE08
 Original Sample ID,ZE-EAC-008
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.53811
 305.0,0.54418

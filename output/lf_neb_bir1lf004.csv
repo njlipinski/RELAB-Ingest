@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-11-08
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(710.0, 1000.0)"
+Grain Size,(710.0 - 1000.0)
 Locality,"Pomaia, Italy; Wards P/N: 46E 3783 (43º 25' 23.75""N 10º 33' 19.09""E)"
 Minimum Wavelength,833
 Sample Name,Gypsum
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Purchased from Wards Natural Sciences. GPS coordinates estimated from Google Earth. Crushed and dry seived.
 Sample ID,BIR1LF004
 Original Sample ID,LF-NEB-004
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.27052
 833.5,0.27141

@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-01-13
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Bates Nunataks, Antarctica "
 Minimum Wavelength,1428
 Sample Name,"BTN 78004,46 <125 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BIR1TB216
 Original Sample ID,TB-MDD-216
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.12097
 1428.82,0.121135

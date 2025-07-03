@@ -2,7 +2,7 @@ Composition,
 Date Added,2007-07-20
 Formula,
 Grain Size Description,<10.0um
-Grain Size,"(0.0, 10.0)"
+Grain Size,(0.0 - 10.0)
 Locality,Skim sample (~3 cm penetration) taken from near Station 9 boulder
 Minimum Wavelength,300
 Sample Name,"69941,41 <10 um"
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,LSCC
 Sample ID,BKR1LR139A
 Original Sample ID,LR-SKN-139-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.0543
 305.0,0.06163

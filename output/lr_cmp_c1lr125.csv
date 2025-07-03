@@ -2,7 +2,7 @@ Composition,
 Date Added,2003-10-01
 Formula,
 Grain Size Description,<20.0um
-Grain Size,"(10.0, 20.0)"
+Grain Size,(10.0 - 20.0)
 Locality,"Luna 20 site, Moon"
 Minimum Wavelength,300
 Sample Name,Luna 20 10-20 um

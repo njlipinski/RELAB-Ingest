@@ -2,7 +2,7 @@ Composition,
 Date Added,1996-03-06
 Formula,
 Grain Size Description,<370.0um
-Grain Size,"(200.0, 370.0)"
+Grain Size,(200.0 - 370.0)
 Locality,Anarctica (formerly named as Asuka-31)
 Minimum Wavelength,300
 Sample Name,A-881757
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"A-881757 Lunar Gabbrocontaining Plag, Pyroxene and Ilmenite  "
 Sample ID,LAMB29
 Original Sample ID,MB-CMP-029-M1
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.04145
 305.0,0.0436

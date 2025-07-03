@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-11-24
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Kilauea Crater, HI"
 Minimum Wavelength,900
 Sample Name,Kil-1 <125 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"From orange layer in wall of largest canyon, S. end of Kilauea Crater, HI  "
 Sample ID,NAJB369
 Original Sample ID,JB-JLB-369
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.0,0.13205
 900.3,0.13269

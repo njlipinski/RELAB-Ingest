@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-12-09
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(45.0, 125.0)"
+Grain Size,(45.0 - 125.0)
 Locality,Synthetic
 Minimum Wavelength,800
 Sample Name,PL016_45-125 (0.28 +/- 0.06 wt% FeO)
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"Sintered at ~1400 C, FeO content from microprobe analyses (2σ=0.06 on reference)"
 Sample ID,BIR2PL126D
 Original Sample ID,PL-CMP-126-D
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.40503
 800.0,0.40454

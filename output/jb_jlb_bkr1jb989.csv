@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-05-19
 Formula,
 Grain Size Description,<2000.0um
-Grain Size,"(0.0, 2000.0)"
+Grain Size,(0.0 - 2000.0)
 Locality,Lurther Beagle for project with Walter Goetz
 Minimum Wavelength,280
 Sample Name,MMS sand < 2 mm
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Spectroscopy of Mars analogs (MFRP, Active Missions, Prop Prep)"
 Sample ID,BKR1JB989
 Original Sample ID,JB-JLB-989
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.06453
 285.0,0.04815

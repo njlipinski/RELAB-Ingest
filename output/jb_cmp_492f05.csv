@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-07-28
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,100% H-exchanged SWy-1
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,492F05
 Original Sample ID,JB-CMP-005
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.15348
 305.0,0.18149

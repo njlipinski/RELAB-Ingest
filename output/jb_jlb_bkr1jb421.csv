@@ -2,7 +2,7 @@ Composition,
 Date Added,2006-02-09
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,
 Minimum Wavelength,320
 Sample Name,Altered Ferrihydrite
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Ferrihydrite (46) + DTA to 300C in flowing air
 Sample ID,BKR1JB421
 Original Sample ID,JB-JLB-421
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.02779
 325.0,0.02887

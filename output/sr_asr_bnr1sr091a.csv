@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-07-11
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(0.0, 63.0)"
+Grain Size,(0.0 - 63.0)
 Locality,
 Minimum Wavelength,1000
 Sample Name,"Serpentine #2370 Vial S Starndard target material 125-250 um, ground into <63 um"
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Impact dehydration study (NASA Origins / PGG)
 Sample ID,BNR1SR091A
 Original Sample ID,SR-ASR-091-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.29836
 1000.2,0.29832

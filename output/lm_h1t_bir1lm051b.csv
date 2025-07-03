@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-04-02
 Formula,
 Grain Size Description,<500.0um
-Grain Size,"(125.0, 500.0)"
+Grain Size,(125.0 - 500.0)
 Locality,"Dhofar, Oman"
 Minimum Wavelength,800
 Sample Name,Dhofar 307 125-500 um
@@ -15,7 +15,7 @@ Material class,Meteorites
 Sample Description,
 Sample ID,BIR1LM051B
 Original Sample ID,LM-H1T-051-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.15159
 800.0,0.15228

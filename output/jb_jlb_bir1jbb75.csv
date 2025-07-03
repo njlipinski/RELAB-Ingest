@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-08-07
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,"Alcaparra Mine, Chile"
 Minimum Wavelength,800
 Sample Name,Rhomboclase ML-S85 <250 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Lane sulfate spectroscopy project
 Sample ID,BIR1JBB75
 Original Sample ID,JB-JLB-B75
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.24431
 800.0,0.24455

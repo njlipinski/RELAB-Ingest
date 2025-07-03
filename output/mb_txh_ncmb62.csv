@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-04-14
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Entre Rios, Argentina "
 Minimum Wavelength,300
 Sample Name,Nogoya <125 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,NCMB62
 Original Sample ID,MB-TXH-062-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.01681
 305.0,0.01822

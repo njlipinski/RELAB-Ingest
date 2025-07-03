@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-03-31
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Morocco
 Minimum Wavelength,833
 Sample Name,Morocco aragonite <45 um (JB1640a)
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BIR1JBG40A
 Original Sample ID,JB-JLB-G40-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.4,0.47382
 833.5,0.47473

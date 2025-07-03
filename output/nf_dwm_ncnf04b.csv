@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-05-19
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,"Ceara Rise, Atlantic Ocean"
 Minimum Wavelength,350
 Sample Name,927A 9H-3 137-138 B 
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Red stain color   CaCO3 37.9% 
 Sample ID,NCNF04B
 Original Sample ID,NF-DWM-004-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 350.0,0.04608
 355.0,0.04747

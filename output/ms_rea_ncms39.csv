@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-06-28
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(0.0, 150.0)"
+Grain Size,(0.0 - 150.0)
 Locality,Germany 
 Minimum Wavelength,300
 Sample Name,95WUOB1 
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Ortenbery basalt.Unaltered olivine tholeiite.   
 Sample ID,NCMS39
 Original Sample ID,MS-REA-039
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.09307
 305.0,0.08797

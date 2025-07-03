@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-03-09
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Fuertaventura, Canary Is, Spain"
 Minimum Wavelength,300
 Sample Name,JB1563a: Fuertaventura tephra <45 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,BKR1JBF63A
 Original Sample ID,JB-JLB-F63-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.02369
 305.0,0.02403

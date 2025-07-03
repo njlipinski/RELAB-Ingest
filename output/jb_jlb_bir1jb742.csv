@@ -2,7 +2,7 @@ Composition,
 Date Added,2007-03-09
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Boa Vista Mine, Minas Gerais, Brazil"
 Minimum Wavelength,1000
 Sample Name,Strengite P16
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Spectroscopy of phosphate minerals (MDAP, MFRP)"
 Sample ID,BIR1JB742
 Original Sample ID,JB-JLB-742
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.24061
 1000.2,0.24054

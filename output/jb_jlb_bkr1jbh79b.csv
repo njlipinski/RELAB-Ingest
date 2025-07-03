@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-03-08
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(250.0, 1000.0)"
+Grain Size,(250.0 - 1000.0)
 Locality,Synthetic by Dominik Talla
 Minimum Wavelength,300
 Sample Name,JB1779b: 10% Mg 90% Fe monohydrated sulfate >250 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BKR1JBH79B
 Original Sample ID,JB-JLB-H79-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.116213
 305.0,0.121598

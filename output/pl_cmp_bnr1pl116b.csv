@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-12-06
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,Synthetic
 Minimum Wavelength,800
 Sample Name,LC009-B_0-25
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,0.3% FeO
 Sample ID,BNR1PL116B
 Original Sample ID,PL-CMP-116-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.44762
 800.0,0.44778

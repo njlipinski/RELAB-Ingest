@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-09-06
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Queen Alexandra Range, Antarctica"
 Minimum Wavelength,300
 Sample Name,"QUE 99058,6 <45 um"

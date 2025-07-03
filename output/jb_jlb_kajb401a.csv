@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-11-24
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"PuuNene site, HI"
 Minimum Wavelength,400
 Sample Name,"Porous tephra, dark red <45"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"From hill above PuuNene site, off saddle road, HI  "
 Sample ID,KAJB401A
 Original Sample ID,JB-JLB-401-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 400.0,0.02734
 405.0,0.02804

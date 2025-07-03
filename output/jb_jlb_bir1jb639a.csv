@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-01-05
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Purchased
 Minimum Wavelength,1000
 Sample Name,S3 celestine
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Multi-spectral analyses of sulfate minerals
 Sample ID,BIR1JB639A
 Original Sample ID,JB-JLB-639-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.54123
 1000.2,0.54123

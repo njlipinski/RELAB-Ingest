@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-03-07
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Fuertaventura, Canary Is, Spain"
 Minimum Wavelength,833
 Sample Name,JB1559d: Fuertaventura tephra gently ground <125 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,BIR1JBF59D
 Original Sample ID,JB-JLB-F59-D
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.4,0.35032
 833.5,0.35092

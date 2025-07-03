@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-02-03
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,Sardinia
 Minimum Wavelength,900
 Sample Name,4512 Smithsonite
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,NASH81
 Original Sample ID,SH-SJG-081
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.0,0.37953
 900.3,0.37929

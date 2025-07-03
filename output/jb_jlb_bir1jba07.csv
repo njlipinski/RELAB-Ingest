@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-10-06
 Formula,
 Grain Size Description,<0.05um
-Grain Size,"(0.0, 0.05)"
+Grain Size,(0.0 - 0.05)
 Locality,Purchased from Aldrich
 Minimum Wavelength,909
 Sample Name,Carbon nanopowder <50 nm
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"Spectroscopy of carbon-clay mixtures (MDAP, MFRP, Active Missions, Prop Prep)"
 Sample ID,BIR1JBA07
 Original Sample ID,JB-JLB-A07
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 909.0,0.00683
 909.2,0.00664

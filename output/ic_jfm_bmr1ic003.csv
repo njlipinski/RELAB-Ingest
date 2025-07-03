@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-06-24
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,Iceland
 Minimum Wavelength,1428
 Sample Name,RGG-2014-Hilti-18.5
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,BMR1IC003
 Original Sample ID,IC-JFM-003
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.22325
 1428.6,0.2239

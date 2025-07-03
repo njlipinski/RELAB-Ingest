@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-04-12
 Formula,
 Grain Size Description,<500.0um
-Grain Size,"(75.0, 500.0)"
+Grain Size,(75.0 - 500.0)
 Locality,
 Minimum Wavelength,320
 Sample Name,MST-16
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"Basalt crystallized at 1130C; probably ~10% pigeonite crystals.   Fine grained, very glassy basalt. "
 Sample ID,LAMM13
 Original Sample ID,MM-MJR-013
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.02788
 330.0,0.02747

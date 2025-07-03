@@ -2,7 +2,7 @@ Composition,
 Date Added,2006-02-01
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,
 Minimum Wavelength,800
 Sample Name,"Altered Ferrihydrite JB046 + 5% alanine, 300C in N2"
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Ferrihydrite (46) + 5 wt% alanine, DTA to 300C in N2  "
 Sample ID,BIR1JB423A
 Original Sample ID,JB-JLB-423-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.16749
 800.0,0.16763

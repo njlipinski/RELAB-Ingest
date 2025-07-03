@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-11-24
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Haleakala Crater, Maui, HI"
 Minimum Wavelength,400
 Sample Name,Hal-5 <45 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Yellow-orange-pink soil   Site 4 near cinder cone off sliding sands trail 
 Sample ID,KAJB397A
 Original Sample ID,JB-JLB-397-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 400.0,0.06778
 405.0,0.07078

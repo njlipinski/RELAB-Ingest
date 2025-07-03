@@ -2,7 +2,7 @@ Composition,
 Date Added,2022-03-16
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(75.0, 125.0)"
+Grain Size,(75.0 - 125.0)
 Locality,"Apollo 16 site, Station 2, Moon"
 Minimum Wavelength,1428
 Sample Name,62231.52 bulk 75-125 um (remixed)
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Three separates (LS-BWD-162, 163, and 164) were remixed."
 Sample ID,BIR3LS165
 Original Sample ID,LS-BWD-165
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.112065
 1428.82,0.112323

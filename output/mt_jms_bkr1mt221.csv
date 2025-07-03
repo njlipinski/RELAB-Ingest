@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-04-16
 Formula,
 Grain Size Description,<35.0um
-Grain Size,"(0.0, 35.0)"
+Grain Size,(0.0 - 35.0)
 Locality,"Yamato Mountain Range, Antarctica"
 Minimum Wavelength,300
 Sample Name,Y-791198 (CM2) <35 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"Fo 100: 3.8, Fo 90: 4.5, Fo 80: 8.8 vol%"
 Sample ID,BKR1MT221
 Original Sample ID,MT-JMS-221
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.02129
 305.0,0.02164

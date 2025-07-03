@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-07-19
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,HM-2 synthetic glass

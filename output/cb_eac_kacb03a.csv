@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-12-29
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Bamle, Telemark, Norway "
 Minimum Wavelength,900
 Sample Name,CRB103 <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,KACB03A
 Original Sample ID,CB-EAC-003-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.0,0.324
 900.3,0.324

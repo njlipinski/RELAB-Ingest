@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-03-06
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(250.0, 1000.0)"
+Grain Size,(250.0 - 1000.0)
 Locality,Sultanate of Oman
 Minimum Wavelength,320
 Sample Name,97RU4c

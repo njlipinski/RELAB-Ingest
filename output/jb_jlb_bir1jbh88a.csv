@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-11-01
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Laija, Atacama, Chile"
 Minimum Wavelength,833
 Sample Name,JB1788a: Leija-2 soil <125 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,BIR1JBH88A
 Original Sample ID,JB-JLB-H88-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.39,0.30682
 833.45,0.308079

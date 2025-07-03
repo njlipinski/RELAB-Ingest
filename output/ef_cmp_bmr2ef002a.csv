@@ -2,7 +2,7 @@ Composition,
 Date Added,2022-08-29
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"Chihuahua, Mexico"
 Minimum Wavelength,1428
 Sample Name,EFCM_ChBytownite <25 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BMR2EF002A
 Original Sample ID,EF-CMP-002-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.398864
 1428.82,0.398989

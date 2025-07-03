@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-03-29
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,Sudbury 
 Minimum Wavelength,300
 Sample Name,I1 matrix+clasts
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Friction melt (200 mg)  Bulk rock 
 Sample ID,NCFM03
 Original Sample ID,FM-JGS-003
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.10584
 305.0,0.10903

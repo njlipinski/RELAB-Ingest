@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-05-19
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic 
 Minimum Wavelength,1667
 Sample Name,Fo 60
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"See Dyar, M. D. et al. (2009) American Mineralogist, 94, 883-898."
 Sample ID,BIR1DD040
 Original Sample ID,DD-MDD-040
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1666.7,0.33792
 1667.3,0.33787

@@ -2,7 +2,7 @@ Composition,
 Date Added,1991-09-06
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(0.0, 150.0)"
+Grain Size,(0.0 - 150.0)
 Locality,"West Cummington, MA "
 Minimum Wavelength,900
 Sample Name,Act 8 
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Pure actinolite from Brown University teaching collection, 338.199  Large, single crystals ground to a powder "
 Sample ID,NBPA40
 Original Sample ID,PA-CMP-040
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.1,0.30998
 900.3,0.30582

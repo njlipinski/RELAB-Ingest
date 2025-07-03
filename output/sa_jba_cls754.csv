@@ -2,7 +2,7 @@ Composition,
 Date Added,1990-12-16
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,
 Minimum Wavelength,366
 Sample Name,#40 Dunite
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,10 #40Dunite  
 Sample ID,CLS754
 Original Sample ID,SA-JBA-041
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 366.0,0.007
 371.0,0.008

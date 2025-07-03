@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-06-24
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(45.0, 125.0)"
+Grain Size,(45.0 - 125.0)
 Locality,Western US/Mexico
 Minimum Wavelength,800
 Sample Name,SS (An 68) 45-125 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Plagioclase series
 Sample ID,BIR2PL057D
 Original Sample ID,PL-HYM-057-D
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.42366
 800.0,0.42388

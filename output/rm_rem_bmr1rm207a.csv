@@ -2,7 +2,7 @@ Composition,
 Date Added,2016-12-14
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Elephant Moraine, Antarctica"
 Minimum Wavelength,1428
 Sample Name,"EET 87542,42 <125 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BMR1RM207A
 Original Sample ID,RM-REM-207-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.22513
 1428.8,0.22606

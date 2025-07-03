@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-12-17
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Pine Valley, Eureka Co., NV"
 Minimum Wavelength,1800
 Sample Name,ZEO123
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Smithsonian Inst NMNH #122858   
 Sample ID,MAZE23
 Original Sample ID,ZE-EAC-023
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.27187
 1800.7,0.27074

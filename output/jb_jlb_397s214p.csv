@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-03-25
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,
 Minimum Wavelength,900
 Sample Name,Olivine <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,From F. Freund  
 Sample ID,397S214P
 Original Sample ID,JB-JLB-214-P
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.4,0.32054
 901.1,0.32095

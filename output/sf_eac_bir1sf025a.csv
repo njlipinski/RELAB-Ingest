@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-12-17
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Island Mtn Mine, Trinity Co., CA "
 Minimum Wavelength,1000
 Sample Name,SPT111
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Obtained from Mineral Unlimted  Dry-sieved. 
 Sample ID,BIR1SF025A
 Original Sample ID,SF-EAC-025-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.27005
 1000.2,0.26999

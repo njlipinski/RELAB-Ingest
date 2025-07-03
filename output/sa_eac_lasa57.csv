@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-08-02
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Menzenberg, Rheinish Prussia, Germany "
 Minimum Wavelength,300
 Sample Name,SAP101
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Obtained from Smithsonian Institution (#C3810)  Dry-sieved. 
 Sample ID,LASA57
 Original Sample ID,SA-EAC-057
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.06882
 305.0,0.07073

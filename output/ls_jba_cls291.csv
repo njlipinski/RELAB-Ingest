@@ -2,7 +2,7 @@ Composition,
 Date Added,1985-07-02
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,Apollo 12 
 Minimum Wavelength,351
 Sample Name,"12042,41C "
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Apollo 12 SoilNASA#12042  
 Sample ID,CLS291
 Original Sample ID,LS-JBA-036-P1
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 351.0,0.1126
 354.0,0.112567

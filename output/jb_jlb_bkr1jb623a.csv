@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-02-13
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Getchell Mine, near Golconda, Humbolt Co., Nevada"
 Minimum Wavelength,320
 Sample Name,Melissa Lane S78
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BKR1JB623A
 Original Sample ID,JB-JLB-623-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.13982
 325.0,0.1438

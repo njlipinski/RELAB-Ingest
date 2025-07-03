@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-04-19
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic 
 Minimum Wavelength,300
 Sample Name,"Wo 60 En 20 Fs 20 (EFW22-2, 50% pyx, 45% wo, 5% glass) <45 um"
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,PGG from Turnock
 Sample ID,BKR1DL042A
 Original Sample ID,DL-CMP-042-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.06376
 305.0,0.06841

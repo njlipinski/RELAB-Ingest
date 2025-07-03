@@ -2,7 +2,7 @@ Composition,
 Date Added,2006-04-14
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic 
 Minimum Wavelength,300
 Sample Name,Fa 60 Fo 40 <45 um
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"From Don Lindsley.  See Dyar, M. D. et al. (2009) American Mineralogist, 94, 883-898."
 Sample ID,BKR1DD094
 Original Sample ID,DD-MDD-094
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.07018
 305.0,0.06634

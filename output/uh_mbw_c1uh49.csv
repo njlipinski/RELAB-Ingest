@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-04-20
 Formula,
 Grain Size Description,<4000.0um
-Grain Size,"(0.0, 4000.0)"
+Grain Size,(0.0 - 4000.0)
 Locality,"Hverfjall tuff cone slope, Krafla volanic system, Iceland"
 Minimum Wavelength,320
 Sample Name,Tuff_1517

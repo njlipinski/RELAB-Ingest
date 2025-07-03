@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-08-31
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic 
 Minimum Wavelength,800
 Sample Name,CrSP1_2_L45
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"Stoichiometric spinel, 1500 C, IW, Cr-bearing Mg-spinel"
 Sample ID,BIR1SP093B
 Original Sample ID,SP-CMP-093-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.49156
 800.0,0.49192

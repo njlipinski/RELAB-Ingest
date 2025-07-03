@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-10-17
 Formula,
 Grain Size Description,<3000.0um
-Grain Size,"(500.0, 3000.0)"
+Grain Size,(500.0 - 3000.0)
 Locality,"Phenaimatha, India"
 Minimum Wavelength,800
 Sample Name,PV-3d
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Spectral reflectance and emittance of rocks and minerals
 Sample ID,BIR1AN010D
 Original Sample ID,AN-G1M-010-D
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.03861
 800.0,0.03917

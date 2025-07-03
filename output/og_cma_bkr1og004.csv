@@ -2,7 +2,7 @@ Composition,
 Date Added,2006-07-05
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(55.0, 63.0)"
+Grain Size,(55.0 - 63.0)
 Locality,Murchison
 Minimum Wavelength,320
 Sample Name,Murchison IOM 55-63 um
@@ -15,7 +15,7 @@ Material class,Organic
 Sample Description,Insoluble organic matter.  High purity organic residue.
 Sample ID,BKR1OG004
 Original Sample ID,OG-CMA-004
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.01037
 330.0,0.01275

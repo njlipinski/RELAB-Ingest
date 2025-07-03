@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-07-30
 Formula,
 Grain Size Description,<500.0um
-Grain Size,"(0.0, 500.0)"
+Grain Size,(0.0 - 500.0)
 Locality,Beni Boussera (Morocco) 
 Minimum Wavelength,300
 Sample Name,C powder <500 um

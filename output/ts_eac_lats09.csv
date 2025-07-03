@@ -2,7 +2,7 @@ Composition,
 Date Added,1996-01-06
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,"Alberta, Canada "
 Minimum Wavelength,900
 Sample Name,TAR0924-20-37 
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Depth interval 11.4-11.6m; second run sample TAR209, 45um fraction  Original bitumen content(%wt)8.17 "
 Sample ID,LATS09
 Original Sample ID,TS-EAC-009
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.1,0.06018
 900.3,0.05945

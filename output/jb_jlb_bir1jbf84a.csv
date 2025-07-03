@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-07-14
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Purchased from Sigma-Aldrich
 Minimum Wavelength,833
 Sample Name,NaNO3 <125 um
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,
 Sample ID,BIR1JBF84A
 Original Sample ID,JB-JLB-F84-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.39,0.528949
 833.45,0.531824

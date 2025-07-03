@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-06-27
 Formula,
 Grain Size Description,<2000.0um
-Grain Size,"(250.0, 2000.0)"
+Grain Size,(250.0 - 2000.0)
 Locality,"Atacama, Chile"
 Minimum Wavelength,833
 Sample Name,OE60 from Mark Claire >250 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,BIR1JBE49C
 Original Sample ID,JB-JLB-E49-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.11383
 833.5,0.11475

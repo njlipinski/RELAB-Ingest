@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-10-29
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,JB626d: Dehydrated rozenite (JB626b) part szomolnokite <125 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BKR1JB626D
 Original Sample ID,JB-JLB-626-D
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.091238
 305.0,0.089597

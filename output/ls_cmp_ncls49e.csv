@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-07-04
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,Apollo 11 
 Minimum Wavelength,300
 Sample Name,"10084,1780 <25 um"
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Apollo 11 sample #10084.1780  
 Sample ID,NCLS49E
 Original Sample ID,LS-CMP-049-E
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.02875
 305.0,0.03206

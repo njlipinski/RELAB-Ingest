@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-09-30
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic
 Minimum Wavelength,280
 Sample Name,Synthetic ilmenite <45 um from Lindsay Keller
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,From Lindsay Keller for space weathering experiment
 Sample ID,BKR1IL007
 Original Sample ID,IL-LPK-007
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.05801
 285.0,0.05982

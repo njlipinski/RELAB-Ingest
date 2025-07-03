@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-07-15
 Formula,
 Grain Size Description,<400.0um
-Grain Size,"(0.0, 400.0)"
+Grain Size,(0.0 - 400.0)
 Locality,"North Menan Buffe, Madison County, Idaho"
 Minimum Wavelength,300
 Sample Name,NMB12-07
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"Palagonite tuff from within southeast rim of tuff cone, highly altered"
 Sample ID,BKR1BU009
 Original Sample ID,BU-WHF-009
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.05089
 305.0,0.04636

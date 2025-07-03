@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-01-28
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Calaveris Co., CA"
 Minimum Wavelength,300
 Sample Name,Chlorite 200C 
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Heated for 1 week in a vacuum glass tube.   
 Sample ID,LACL27
 Original Sample ID,CL-TXH-027
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.13516
 305.0,0.15185

@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-12-12
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Dry Valleys, Antarctica"
 Minimum Wavelength,300
 Sample Name,Wright Valley Core 11 crushed grains
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Collected by Everett Gibson
 Sample ID,BKR1JBC18
 Original Sample ID,JB-JLB-C18
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.102
 305.0,0.10438

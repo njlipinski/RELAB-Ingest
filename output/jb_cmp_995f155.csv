@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-10-03
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(90.0, 125.0)"
+Grain Size,(90.0 - 125.0)
 Locality,
 Minimum Wavelength,350
 Sample Name,Quartz 90-125 um (dry)
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Dry sieved  
 Sample ID,995F155
 Original Sample ID,JB-CMP-155
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 350.0,0.79188
 355.0,0.79808

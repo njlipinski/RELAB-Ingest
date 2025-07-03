@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-04-08
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(25.0, 125.0)"
+Grain Size,(25.0 - 125.0)
 Locality,"Allan Hills, Antarctica "
 Minimum Wavelength,320
 Sample Name,"ALH 76005,113 (Polymict Eucrite) 25-125 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1TB155
 Original Sample ID,TB-THB-155
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.107944
 325.0,0.111365

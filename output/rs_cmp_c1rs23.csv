@@ -2,7 +2,7 @@ Composition,
 Date Added,1986-04-01
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,
 Minimum Wavelength,350
 Sample Name,UK-3

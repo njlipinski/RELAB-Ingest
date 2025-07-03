@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-07-10
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(25.0, 45.0)"
+Grain Size,(25.0 - 45.0)
 Locality,Synthetic 
 Minimum Wavelength,280
 Sample Name,MS01 25-45 um
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"<5 um crystal size (Cosmochemistry, Student)"
 Sample ID,BKR1PL099
 Original Sample ID,PL-CMP-099
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.63475
 285.0,0.61103

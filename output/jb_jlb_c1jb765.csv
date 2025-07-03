@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-03-26
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Devon Island
 Minimum Wavelength,280
 Sample Name,Glauconite from Devon Island <125 um

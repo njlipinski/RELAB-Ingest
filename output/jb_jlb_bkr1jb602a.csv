@@ -2,7 +2,7 @@ Composition,
 Date Added,2003-10-14
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Hlodufell Tuya, Iceland"
 Minimum Wavelength,320
 Sample Name,"Altered pillow lavea, Hlodufell Tuya <45 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"Altered pillow lava, crushed <45 um"
 Sample ID,BKR1JB602A
 Original Sample ID,JB-JLB-602-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.02117
 325.0,0.02294

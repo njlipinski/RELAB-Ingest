@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-06-15
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Mancos Shale (Ordovician) 
 Minimum Wavelength,300
 Sample Name,ILS104
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Illite-smectite mixed layer (60:40 ordered)   Acquired from Source Clay Minerals Repository #ISMt-2 
 Sample ID,LAIL04
 Original Sample ID,IL-EAC-004
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.18622
 305.0,0.19545

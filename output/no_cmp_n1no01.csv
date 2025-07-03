@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-05-24
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,JPL 
 Minimum Wavelength,660
 Sample Name,Neodymium Oxide 
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,
 Sample ID,N1NO01
 Original Sample ID,NO-CMP-001
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 660.1,0.31197
 660.1,0.31196

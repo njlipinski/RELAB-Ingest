@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-10-01
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Pecora Escarpment, Antarctica "
 Minimum Wavelength,1667
 Sample Name,"PCA 82501,24 (Eucrite) <125 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BMR1MP124
 Original Sample ID,MP-TXH-124
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1666.7,0.18362
 1667.3,0.18353

@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-10-20
 Formula,
 Grain Size Description,<20.0um
-Grain Size,"(0.0, 20.0)"
+Grain Size,(0.0 - 20.0)
 Locality,Iceland
 Minimum Wavelength,800
 Sample Name,IC-1A
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Spectral reflectance and emittance of rocks and minerals
 Sample ID,BIR1AN026A
 Original Sample ID,AN-G1M-026-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.38095
 800.0,0.38051

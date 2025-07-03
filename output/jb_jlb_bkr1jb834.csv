@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-12-12
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Synthetic
 Minimum Wavelength,280
 Sample Name,Synthetic copiapite HSC-128
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"Spectroscopy of sulfate minerals (MDAP, MFRP, Active Missions)"
 Sample ID,BKR1JB834
 Original Sample ID,JB-JLB-834
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.02798
 285.0,0.01748

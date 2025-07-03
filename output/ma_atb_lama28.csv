@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-04-21
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(40.0, 75.0)"
+Grain Size,(40.0 - 75.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,Ast-Carb 11 
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,(Chlorite 50% + Olivine 25% + Fe2O3 25%) 95% + CaCO3 5%   <75 um fraction after intermittent laser irradiation. 
 Sample ID,LAMA28
 Original Sample ID,MA-ATB-028
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.04967
 305.0,0.05201

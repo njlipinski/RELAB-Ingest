@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-10-03
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Lake Hoare, Antarctica"
 Minimum Wavelength,350
 Sample Name,C-4b <45 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Depth 8 to 9 cm   
 Sample ID,1095F106
 Original Sample ID,JB-CMP-106-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 350.0,0.24277
 355.0,0.25276

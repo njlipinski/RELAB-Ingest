@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-07-19
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Lewis Cliff, Antarctica"
 Minimum Wavelength,1428
 Sample Name,"LEW 87004,27 <125 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BMR1RM205A
 Original Sample ID,RM-REM-205-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.19803
 1428.8,0.1993

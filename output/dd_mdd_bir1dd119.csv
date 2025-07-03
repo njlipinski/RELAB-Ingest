@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-05-20
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Yamato Mountain Range, Antarctica"
 Minimum Wavelength,1428
 Sample Name,"Y-984028,45 interior pyroxene"
@@ -15,7 +15,7 @@ Material class,Meteorites
 Sample Description,"Mini-consortium (MFRP, Student)"
 Sample ID,BIR1DD119
 Original Sample ID,DD-MDD-119
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.32172
 1428.8,0.32003

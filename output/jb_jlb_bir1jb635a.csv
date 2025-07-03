@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-01-05
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Purchased
 Minimum Wavelength,1000
 Sample Name,DD110 misenite
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Multi-spectral analyses of sulfate minerals
 Sample ID,BIR1JB635A
 Original Sample ID,JB-JLB-635-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.48869
 1000.2,0.48848

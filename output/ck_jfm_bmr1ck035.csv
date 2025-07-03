@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-06-19
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(38.0, 63.0)"
+Grain Size,(38.0 - 63.0)
 Locality,
 Minimum Wavelength,1428
 Sample Name,GMM108 Byt12.5-Diop12.5-Hwgl75
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"12.5 vol% bytownite, 12.5 vol% diopside, 75 vol% Hawaii glass, See Berlanga 2017, LPS XLVIII, Abstract 2255 "
 Sample ID,BMR1CK035
 Original Sample ID,CK-JFM-035
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.37,0.176715
 1428.57,0.177088

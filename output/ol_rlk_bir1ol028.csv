@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-01-29
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"San Carlos, AZ"
 Minimum Wavelength,1428
 Sample Name,San Carlos olivine <125 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BIR1OL028
 Original Sample ID,OL-RLK-028
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.316376
 1428.82,0.316914

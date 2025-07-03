@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-02-29
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic 
 Minimum Wavelength,1800
 Sample Name,MST-1 ox1 
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,Laboratory crystallized and oxidized SNC-like basalt  Oxidized basalt (~10% crystallized: pigeonite) for 1 day at 700C in air.
 Sample ID,MAMM09
 Original Sample ID,MM-MJR-009
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.07682
 1800.7,0.07605

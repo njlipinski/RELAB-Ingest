@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-03-24
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Wyoming 
 Minimum Wavelength,300
 Sample Name,SWy-1 montmorillonite
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,From Clay Minerals Society source clays repository  
 Sample ID,397F013
 Original Sample ID,JB-CMP-013
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.1826
 305.0,0.21893

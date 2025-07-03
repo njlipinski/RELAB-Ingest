@@ -2,7 +2,7 @@ Composition,
 Date Added,2003-01-31
 Formula,
 Grain Size Description,<20.0um
-Grain Size,"(10.0, 20.0)"
+Grain Size,(10.0 - 20.0)
 Locality,"Apollo 16 site, Moon"
 Minimum Wavelength,300
 Sample Name,"61141,84"

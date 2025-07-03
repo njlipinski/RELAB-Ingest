@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-05-10
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,Purchased from Sigma
 Minimum Wavelength,280
 Sample Name,Salt crystals of perchlorate KClO4 <250 um

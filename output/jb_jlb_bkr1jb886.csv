@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-04-19
 Formula,
 Grain Size Description,<0.15um
-Grain Size,"(0.0, 0.15)"
+Grain Size,(0.0 - 0.15)
 Locality,"Gumeracha, South Australia, Australia"
 Minimum Wavelength,300
 Sample Name,Will Gates #1 montmorillonite from Gumeracha
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectroscopy of phyllosilicates
 Sample ID,BKR1JB886
 Original Sample ID,JB-JLB-886
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.21483
 305.0,0.2411

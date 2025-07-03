@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-07-30
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Tata Province, Morocco"
 Minimum Wavelength,833
 Sample Name,Tissint/2-3-3a bulk powder <45 um
@@ -15,7 +15,7 @@ Material class,Meteorites
 Sample Description,
 Sample ID,BIR1MT223P
 Original Sample ID,MT-JFM-223-P
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.17951
 833.5,0.18022

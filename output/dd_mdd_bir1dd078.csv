@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-12-15
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,
 Minimum Wavelength,800
 Sample Name,DH-101-D green olivine
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,4.5 % ferric iron
 Sample ID,BIR1DD078
 Original Sample ID,DD-MDD-078
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.40511
 800.0,0.40413

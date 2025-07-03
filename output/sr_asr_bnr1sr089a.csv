@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-07-15
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(0.0, 63.0)"
+Grain Size,(0.0 - 63.0)
 Locality,
 Minimum Wavelength,1000
 Sample Name,"Serpentine #2370 Vial J Fines off foil, ground into <63 um"
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Impact dehydration study (NASA Origins / PGG)
 Sample ID,BNR1SR089A
 Original Sample ID,SR-ASR-089-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.17088
 1000.2,0.17083

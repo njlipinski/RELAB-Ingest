@@ -2,7 +2,7 @@ Composition,
 Date Added,1996-11-10
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Santorini, Greece "
 Minimum Wavelength,300
 Sample Name,Santorini altered soil <45 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,1096F180
 Original Sample ID,JB-JLB-180
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03186
 305.0,0.03188

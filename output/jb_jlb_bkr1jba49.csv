@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-09-30
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Unknown
 Minimum Wavelength,280
 Sample Name,Halloysite #902474
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,From Steve Hillier
 Sample ID,BKR1JBA49
 Original Sample ID,JB-JLB-A49
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.42414
 285.0,0.33746

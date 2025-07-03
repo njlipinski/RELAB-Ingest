@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-03-03
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,"Egersund Anorthosite Massif, Norway"
 Minimum Wavelength,800
 Sample Name,Egersund opx 5.2 pellet implanted with 1x10^17/cm2 H at 1 keV
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Implanted with 1x10^17/cm2 H at 1 keV, assuming room temperature and a few millitorr of H in the plasma chamber."
 Sample ID,BIR1KK040PH
 Original Sample ID,KK-KRK-040-PH
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.23801
 800.0,0.23733

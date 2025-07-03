@@ -2,7 +2,7 @@ Composition,
 Date Added,2006-10-11
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Skouriattisa, Cyprus"
 Minimum Wavelength,300
 Sample Name,SPT121
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Obtained from Minerals Unlimited  Dry-sieved. 
 Sample ID,BKR2SF035A
 Original Sample ID,SF-EAC-035-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.04732
 305.0,0.03709

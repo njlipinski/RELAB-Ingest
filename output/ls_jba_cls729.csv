@@ -2,7 +2,7 @@ Composition,
 Date Added,1990-12-16
 Formula,
 Grain Size Description,<180.0um
-Grain Size,"(0.0, 180.0)"
+Grain Size,(0.0 - 180.0)
 Locality,Apollo 15 
 Minimum Wavelength,547
 Sample Name,"15021,114D"
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Mare Soil collected 25m west of LM  
 Sample ID,CLS729
 Original Sample ID,LS-JBA-105-P2
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 547.0,0.431
 552.0,0.434

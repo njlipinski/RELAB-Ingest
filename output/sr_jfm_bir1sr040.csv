@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-05-13
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(710.0, 1000.0)"
+Grain Size,(710.0 - 1000.0)
 Locality,"Harcourt, Canada"
 Minimum Wavelength,2000
 Sample Name,WAR-6474
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,From ASU TES spectral library to contribute to the CRISM spectral library for Mars
 Sample ID,BIR1SR040
 Original Sample ID,SR-JFM-040
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 835.0,0.0295
 840.0,0.02988

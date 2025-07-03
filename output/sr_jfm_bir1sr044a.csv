@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-06-07
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(45.0, 150.0)"
+Grain Size,(45.0 - 150.0)
 Locality,"Essex Co., NY"
 Minimum Wavelength,1000
 Sample Name,WAR-0024
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,From ASU TES spectral library to contribute to the CRISM spectral library for Mars
 Sample ID,BIR1SR044A
 Original Sample ID,SR-JFM-044-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.12625
 1000.2,0.12632

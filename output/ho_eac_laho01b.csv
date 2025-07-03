@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-10-03
 Formula,
 Grain Size Description,<90.0um
-Grain Size,"(45.0, 90.0)"
+Grain Size,(45.0 - 90.0)
 Locality,Guyana
 Minimum Wavelength,320
 Sample Name,OOH001
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,LAHO01B
 Original Sample ID,HO-EAC-001-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.14963
 325.0,0.14905

@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-10-21
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,
 Minimum Wavelength,909
 Sample Name,CMS standard nontronite Nau-2 <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Spectroscopy of clay mineral mixtures (MDAP, MFRP, Active Missions)"
 Sample ID,BIR1JB791A
 Original Sample ID,JB-JLB-791-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 909.0,0.29276
 909.2,0.29309

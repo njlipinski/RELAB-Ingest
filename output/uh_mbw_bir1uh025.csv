@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-04-15
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(0.0, 150.0)"
+Grain Size,(0.0 - 150.0)
 Locality,"Southern edge of Vatnajokull icecap, Icaland"
 Minimum Wavelength,909
 Sample Name,Skaf_3133
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Weathering/alteration down-core in Martian analog environments (Prop Prep, Student)"
 Sample ID,BIR1UH025
 Original Sample ID,UH-MBW-025
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 909.0,0.06301
 909.2,0.06286

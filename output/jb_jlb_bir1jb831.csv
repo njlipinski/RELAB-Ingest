@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-12-24
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Synthetic
 Minimum Wavelength,909
 Sample Name,S26: Fe-Ca carbonate (45C)
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"Spectroscopy of carbonate minerals (MDAP, MFRP, Active Missions)"
 Sample ID,BIR1JB831
 Original Sample ID,JB-JLB-831
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 909.0,0.21191
 909.2,0.21211

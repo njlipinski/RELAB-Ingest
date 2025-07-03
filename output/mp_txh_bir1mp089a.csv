@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-09-12
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,Upper Volta 
 Minimum Wavelength,1428
 Sample Name,Bereba
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,no 1297.  
 Sample ID,BIR1MP089A
 Original Sample ID,MP-TXH-089-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.278963
 1428.82,0.28028

@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-11-03
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(32.0, 63.0)"
+Grain Size,(32.0 - 63.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,OL50/OP50 
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Olivine 50% + Orthopyroxene 50%   
 Sample ID,LAXT57
 Original Sample ID,XT-LXM-057
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.16148
 305.0,0.17206

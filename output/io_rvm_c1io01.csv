@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-03-28
 Formula,
 Grain Size Description,<180.0um
-Grain Size,"(0.0, 180.0)"
+Grain Size,(0.0 - 180.0)
 Locality,"Lincolnshire, UK"
 Minimum Wavelength,300
 Sample Name,LIO301

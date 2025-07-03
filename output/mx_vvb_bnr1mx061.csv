@@ -2,7 +2,7 @@ Composition,
 Date Added,2006-04-28
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,
 Minimum Wavelength,1000
 Sample Name,Quartz + Magnetite 20%
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,QZ-VVB-005 80 wt% + MG-VVB-001 20 wt%
 Sample ID,BNR1MX061
 Original Sample ID,MX-VVB-061
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.22339
 1000.2,0.22347

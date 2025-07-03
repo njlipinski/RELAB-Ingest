@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-08-08
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Sigulani Village, Tambani area, Malawi"
 Minimum Wavelength,300
 Sample Name,COR101
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Acquired from Mineral Unlimited.  Blantyre District 
 Sample ID,LACD01
 Original Sample ID,CD-EAC-001
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.19016
 305.0,0.20769

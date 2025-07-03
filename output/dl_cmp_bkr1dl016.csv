@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-09-03
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,Synthetic 
 Minimum Wavelength,300
 Sample Name,"Wo 5 En 76 Fs 19 (EFW21-101: 98% Px (Opx+Cpx), 2% glass+Crist)"
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,Grain size unknown.  PGG.  From Turnock.
 Sample ID,BKR1DL016
 Original Sample ID,DL-CMP-016
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.10852
 305.0,0.11606

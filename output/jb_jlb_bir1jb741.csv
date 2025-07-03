@@ -2,7 +2,7 @@ Composition,
 Date Added,2007-03-07
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Pleasant Valley pegmatite, Custer Co., SD"
 Minimum Wavelength,1000
 Sample Name,Ferro-alluaudite P14
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Spectroscopy of phosphate minerals (MDAP, MFRP)"
 Sample ID,BIR1JB741
 Original Sample ID,JB-JLB-741
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.14616
 1000.2,0.14624

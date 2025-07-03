@@ -2,7 +2,7 @@ Composition,
 Date Added,1991-01-09
 Formula,
 Grain Size Description,<20.0um
-Grain Size,"(0.0, 20.0)"
+Grain Size,(0.0 - 20.0)
 Locality,Mauna Kea 
 Minimum Wavelength,350
 Sample Name,Mauna Kea Maroon

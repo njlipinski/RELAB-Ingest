@@ -2,7 +2,7 @@ Composition,
 Date Added,1996-09-11
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"Station 6, Apollo 17 site, Moon "
 Minimum Wavelength,300
 Sample Name,"76015,191"
@@ -15,7 +15,7 @@ Material class,Returned Planetary Samples
 Sample Description,Powder from a chip from a boulder.Believed to be recrystallized   melt sheet from Serenetatis impact event. 
 Sample ID,LALS28X
 Original Sample ID,LS-CMP-028
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.16584
 305.0,0.16703

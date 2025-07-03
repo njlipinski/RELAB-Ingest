@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-04-07
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Kilauea, HI"
 Minimum Wavelength,320
 Sample Name,Schiffman #8300305
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1JB624B
 Original Sample ID,JB-JLB-624-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.04455
 325.0,0.04608

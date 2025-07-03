@@ -2,7 +2,7 @@ Composition,
 Date Added,2001-08-18
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Nain, Labrador, Newfoundland, Canada"
 Minimum Wavelength,300
 Sample Name,PLG104
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,LAPL32
 Original Sample ID,PL-EAC-032
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.41803
 305.0,0.45053

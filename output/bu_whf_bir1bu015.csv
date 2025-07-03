@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-07-18
 Formula,
 Grain Size Description,<400.0um
-Grain Size,"(0.0, 400.0)"
+Grain Size,(0.0 - 400.0)
 Locality,"Sinker Buffe, Swan Falls Dam Rd, Owyhee County, Idaho"
 Minimum Wavelength,833
 Sample Name,SB12-21
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Palagonite tuff from tuff cone
 Sample ID,BIR1BU015
 Original Sample ID,BU-WHF-015
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.19908
 833.5,0.19866

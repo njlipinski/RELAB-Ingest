@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-06-28
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(0.0, 150.0)"
+Grain Size,(0.0 - 150.0)
 Locality,Pennsylvania
 Minimum Wavelength,300
 Sample Name,95WUPAN1
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Pennsylvania nontronite (Smectite clay with Fe)   
 Sample ID,NCMS35
 Original Sample ID,MS-REA-035
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03053
 305.0,0.02666

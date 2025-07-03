@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-06-02
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,Melissa Lane
 Minimum Wavelength,833
 Sample Name,Sinjarite medium grains (JB1661a)
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,
 Sample ID,BIR2JBG61A
 Original Sample ID,JB-JLB-G61-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.4,0.55317
 833.5,0.55334

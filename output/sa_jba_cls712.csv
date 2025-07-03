@@ -2,7 +2,7 @@ Composition,
 Date Added,1990-12-16
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,
 Minimum Wavelength,351
 Sample Name,PLAG 11 NAIN 32-50
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"NAIN 32-50, expanded scale run.   "
 Sample ID,CLS712
 Original Sample ID,SA-JBA-011
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 351.0,0.485
 356.0,0.5

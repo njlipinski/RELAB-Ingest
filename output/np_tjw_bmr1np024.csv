@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-11-11
 Formula,
 Grain Size Description,<0.01um
-Grain Size,"(0.01, 0.01)"
+Grain Size,(0.01 - 0.01)
 Locality,Synthetic
 Minimum Wavelength,1428
 Sample Name,Sample 3 (DMSA + Iron Oxide nanopowder coated with Gentamycin + SMCC)
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"Antibiotics coating on iron oxide nanoparticles for treating infectious tissues or delivering drugs using magnetic field (NSF, Student)"
 Sample ID,BMR1NP024
 Original Sample ID,NP-TJW-024
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.04207
 1428.8,0.04261

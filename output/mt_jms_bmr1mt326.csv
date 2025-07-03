@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-07-21
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"near Amazraou, Morocco"
 Minimum Wavelength,1428
 Sample Name,NWA 725 (Acapulcoite) <45 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Monnig Meteorite Collection
 Sample ID,BMR1MT326
 Original Sample ID,MT-JMS-326
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.12541
 1428.8,0.12587

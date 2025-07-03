@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-04-10
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(75.0, 125.0)"
+Grain Size,(75.0 - 125.0)
 Locality,
 Minimum Wavelength,800
 Sample Name,FeSp6_5_75-125
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"Stoichiometric spinel, 1500 C, ~3.1 wt% FeO"
 Sample ID,BIR1SP077D
 Original Sample ID,SP-CMP-077-D
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.30388
 800.0,0.3033

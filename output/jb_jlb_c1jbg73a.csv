@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-08-25
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Nancy Hinman
 Minimum Wavelength,300
 Sample Name,Amorphous Fe-Si phase (Fe : Si = 0.125 : 1) <125 um (JB1673a)

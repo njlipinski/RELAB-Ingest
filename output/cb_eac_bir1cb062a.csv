@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-08-23
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Stauffer Mine, Green River, Wyoming"
 Minimum Wavelength,800
 Sample Name,CRB126 <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectral properties of carbonates
 Sample ID,BIR1CB062A
 Original Sample ID,CB-EAC-062-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.45471
 800.0,0.45307

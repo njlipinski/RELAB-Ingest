@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-12-07
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Clay Minerals Society 2020 Reynold's Cup
 Minimum Wavelength,833
 Sample Name,RC10-3 mineral mixture <125 um
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,
 Sample ID,BIR1JBH95
 Original Sample ID,JB-JLB-H95
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.39,0.102919
 833.45,0.105476

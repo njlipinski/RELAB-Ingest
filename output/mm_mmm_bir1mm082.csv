@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-07-24
 Formula,
 Grain Size Description,<30.0um
-Grain Size,"(0.0, 30.0)"
+Grain Size,(0.0 - 30.0)
 Locality,NASA Goddard Space Flight Center
 Minimum Wavelength,1428
 Sample Name,50% Mg + 50% Fe Smoke mixture
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,
 Sample ID,BIR1MM082
 Original Sample ID,MM-MMM-082
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.02935
 1428.8,0.02882

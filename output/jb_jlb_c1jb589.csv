@@ -2,7 +2,7 @@ Composition,
 Date Added,2003-03-05
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,JB563 (antigorite) 85 wt% + JB590 (Mg-carbonate) 2 wt% + JB129 (hematite) 10 wt%
 Minimum Wavelength,320
 Sample Name,Antigorite 88 wt% + Mg-carbonate 2 wt% + Hematite 10 wt%

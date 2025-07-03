@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-01-10
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Roberts Massif, Antarctica"
 Minimum Wavelength,320
 Sample Name,"RBT 03522,24 <125 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1TB200
 Original Sample ID,TB-MDD-200
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.047949
 330.0,0.051239

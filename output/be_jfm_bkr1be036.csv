@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-06-10
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(45.0, 75.0)"
+Grain Size,(45.0 - 75.0)
 Locality,
 Minimum Wavelength,280
 Sample Name,2% NG-1b 45-75 + 98% OLV-SCb 45-75
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Reflectance spectra unmixing of hydrated and mafic minerals (PGG, MDAP, Active missions, Student)"
 Sample ID,BKR1BE036
 Original Sample ID,BE-JFM-036
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.09934
 285.0,0.09688

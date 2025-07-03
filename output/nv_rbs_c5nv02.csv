@@ -2,7 +2,7 @@ Composition,
 Date Added,1989-01-27
 Formula,
 Grain Size Description,<2500.0um
-Grain Size,"(0.0, 2500.0)"
+Grain Size,(0.0 - 2500.0)
 Locality,"Cuprite, NV "
 Minimum Wavelength,300
 Sample Name,CN-9a 

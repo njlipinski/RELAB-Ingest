@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-08-30
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic
 Minimum Wavelength,800
 Sample Name,CRB S02 (Wing & Webber) <45 um
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,Synthesized by Boz Wing and Ben Webber at McGill University
 Sample ID,BIR1CB083A
 Original Sample ID,CB-EAC-083-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.52466
 800.0,0.52685

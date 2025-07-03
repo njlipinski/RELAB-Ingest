@@ -2,7 +2,7 @@ Composition,
 Date Added,2003-11-25
 Formula,
 Grain Size Description,<50.0um
-Grain Size,"(0.0, 50.0)"
+Grain Size,(0.0 - 50.0)
 Locality,"Abu Hommos, Alexandria, Egypt"
 Minimum Wavelength,300
 Sample Name,Nakhla olivine (+ augite?)
@@ -15,7 +15,7 @@ Material class,Meteorites
 Sample Description,"Separated by hand picking, then ground."
 Sample ID,BKR2DD018
 Original Sample ID,DD-MDD-018
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03965
 305.0,0.03807

@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-12-18
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,France
 Minimum Wavelength,833
 Sample Name,Grey Britany sea salt
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,BIR1SS035
 Original Sample ID,SS-CMP-035
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.34249
 833.5,0.34064

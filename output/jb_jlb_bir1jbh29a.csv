@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-08-04
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Painted Desert, sulfate hill near Tepees site"
 Minimum Wavelength,833
 Sample Name,JB1729a: Painted Desert Stop 2 subsurface soil <125 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,BIR1JBH29A
 Original Sample ID,JB-JLB-H29-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.39,0.280982
 833.45,0.279152

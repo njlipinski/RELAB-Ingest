@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-04-17
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,France & Tanzania
 Minimum Wavelength,300
 Sample Name,Orgueil + Ivuna (CI1) <75 um pellet in 5mm Cu dish @ 600 psi
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1MX064V
 Original Sample ID,MX-TXH-064-V
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.035419
 305.0,0.035837

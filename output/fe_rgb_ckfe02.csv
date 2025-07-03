@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-01-10
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,Unknown 
 Minimum Wavelength,340
 Sample Name,Fe2O3 

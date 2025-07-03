@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-06-06
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Lewis Cliff, Antarctica"
 Minimum Wavelength,1428
 Sample Name,"LEW 88679,13 <45 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,HED mixing model study
 Sample ID,BMR1RM124A
 Original Sample ID,RM-REM-124-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.10605
 1428.8,0.1061

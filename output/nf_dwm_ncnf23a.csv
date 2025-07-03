@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-04-29
 Formula,
 Grain Size Description,<50.0um
-Grain Size,"(0.0, 50.0)"
+Grain Size,(0.0 - 50.0)
 Locality,"Ceara Rise, Atlantic Ocean"
 Minimum Wavelength,350
 Sample Name,927A 30H-5 33-34 A
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Calcium carbonates dissolved.   
 Sample ID,NCNF23A
 Original Sample ID,NF-DWM-023-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 350.0,0.29164
 355.0,0.30438

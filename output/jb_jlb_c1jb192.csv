@@ -2,7 +2,7 @@ Composition,
 Date Added,1996-11-10
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Lake Hoare, Antarctica"
 Minimum Wavelength,300
 Sample Name,Lake Hoare core E-3

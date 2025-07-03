@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-02-15
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Tagish Lake, Canada "
 Minimum Wavelength,1428
 Sample Name,Tagish Lake TNI 10/1/03 <125 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BMR1MT318A
 Original Sample ID,MT-MEZ-318-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.02048
 1428.8,0.02157

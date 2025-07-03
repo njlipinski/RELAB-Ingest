@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-01-12
 Formula,
 Grain Size Description,<10.0um
-Grain Size,"(0.0, 10.0)"
+Grain Size,(0.0 - 10.0)
 Locality,Synthetic
 Minimum Wavelength,1428
 Sample Name,K-2289 glass #5 micronized <10 um
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,Lunar analog (LSI)
 Sample ID,BMR1GS039B
 Original Sample ID,GS-MDD-039-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.3813
 1428.8,0.38089

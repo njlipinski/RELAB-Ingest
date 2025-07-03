@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-12-09
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Synthetic
 Minimum Wavelength,833
 Sample Name,JSC-RN Mars soil simulant <125 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,JSC Rocknest analog mixture (MMS plus Gale Rocknest additions)
 Sample ID,BIR1JBH85
 Original Sample ID,JB-JLB-H85
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.39,0.275888
 833.45,0.273159

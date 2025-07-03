@@ -2,7 +2,7 @@ Composition,
 Date Added,1996-03-12
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,"Borga, Nyland, Finland"
 Minimum Wavelength,320
 Sample Name,Bjurbole middle 
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Coarse grains   
 Sample ID,LAMP27B
 Original Sample ID,MP-FPF-027-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.0673
 325.0,0.06864

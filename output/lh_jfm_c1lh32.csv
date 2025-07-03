@@ -2,7 +2,7 @@ Composition,
 Date Added,2006-10-12
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,"Rio Tinto, Spain"
 Minimum Wavelength,320
 Sample Name,WT-1 <75 um

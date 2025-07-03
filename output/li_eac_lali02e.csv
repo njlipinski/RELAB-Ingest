@@ -2,7 +2,7 @@ Composition,
 Date Added,1996-07-19
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"26 mi SE of S end of Dead Sea, Jordan "
 Minimum Wavelength,300
 Sample Name,JO-1E 
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,LALI02E
 Original Sample ID,LI-EAC-002-E
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03076
 305.0,0.0293

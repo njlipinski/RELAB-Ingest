@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-06-09
 Formula,
 Grain Size Description,<106.0um
-Grain Size,"(0.0, 106.0)"
+Grain Size,(0.0 - 106.0)
 Locality,USGS / Stillwater Mining Co.
 Minimum Wavelength,280
 Sample Name,Lunar soil simulant 5 (Highland) <106 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Lunar soil simulants
 Sample ID,BKR1JE005
 Original Sample ID,JE-JEE-005
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.23001
 285.0,0.18567

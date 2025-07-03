@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-07-10
 Formula,
 Grain Size Description,<50.0um
-Grain Size,"(0.0, 50.0)"
+Grain Size,(0.0 - 50.0)
 Locality,
 Minimum Wavelength,1000
 Sample Name,50D-4
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Contains trace quartz impurity based from XRD.
 Sample ID,BIR1NT013
 Original Sample ID,NT-MBW-013
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.41921
 1000.2,0.41925

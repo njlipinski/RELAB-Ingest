@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-05-25
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,
 Minimum Wavelength,1000
 Sample Name,HWMK101 palagonite <25 um

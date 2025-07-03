@@ -2,7 +2,7 @@ Composition,
 Date Added,2016-05-06
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Frisco Mine
 Minimum Wavelength,300
 Sample Name,chlorite 07 <125 um (JB1593a)
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Collected by J. Post (Post & Plummer, 1972)"
 Sample ID,BKR1JBF93A
 Original Sample ID,JB-JLB-F93-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.25892
 305.0,0.26009

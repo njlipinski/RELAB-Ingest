@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-12-17
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Margaretsville, Nova Scotia, Can"
 Minimum Wavelength,300
 Sample Name,ZEO121
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Smithsonian Inst NMNH #132753   
 Sample ID,LAZE21
 Original Sample ID,ZE-EAC-021
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.64951
 305.0,0.65327

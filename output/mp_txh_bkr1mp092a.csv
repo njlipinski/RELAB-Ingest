@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-09-18
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"Pesqueira, Pernambuco, Brazil "
 Minimum Wavelength,300
 Sample Name,Serra de Mage 
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,no 1606.  
 Sample ID,BKR1MP092A
 Original Sample ID,MP-TXH-092-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.27375
 305.0,0.28437

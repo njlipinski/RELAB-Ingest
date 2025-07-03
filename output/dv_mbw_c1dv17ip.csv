@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-06-14
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,"Beacon Valley, Antarctic Dry Valleys"
 Minimum Wavelength,320
 Sample Name,MS10_BV_04_int dolerite unaltered interior powder <75 um

@@ -2,7 +2,7 @@ Composition,
 Date Added,1993-09-02
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,100% Fe2(SO4)3 pH3.5 SWy-1
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Fe sulfur exchanged SWy-1
 Sample ID,C893FA117
 Original Sample ID,JB-CMP-117
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03058
 305.0,0.02669

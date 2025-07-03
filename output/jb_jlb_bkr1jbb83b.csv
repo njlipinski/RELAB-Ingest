@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-09-20
 Formula,
 Grain Size Description,<90.0um
-Grain Size,"(63.0, 90.0)"
+Grain Size,(63.0 - 90.0)
 Locality,"Bergen, Norway"
 Minimum Wavelength,300
 Sample Name,Bergen enstatite 63-90 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Roush mixture project
 Sample ID,BKR1JBB83B
 Original Sample ID,JB-JLB-B83-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.04979
 305.0,0.04801

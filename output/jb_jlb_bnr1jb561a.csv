@@ -2,7 +2,7 @@ Composition,
 Date Added,2002-11-18
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,
 Minimum Wavelength,833
 Sample Name,"Antigorite An-3, grinding reaction, 3 days"
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BNR1JB561A
 Original Sample ID,JB-JLB-561-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.4,0.2658
 833.5,0.26532

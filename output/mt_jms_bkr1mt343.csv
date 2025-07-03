@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-04-11
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Allan Hills, Antarctica"
 Minimum Wavelength,320
 Sample Name,"ALH 84025,33 (Brachinite) <45 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1MT343
 Original Sample ID,MT-JMS-343
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.058564
 330.0,0.065149

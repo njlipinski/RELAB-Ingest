@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-07-31
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,Unknown 
 Minimum Wavelength,1428
 Sample Name,Ol <25 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Forsterite 92.1% + enstatite 7.9%
 Sample ID,BMR1OL019A
 Original Sample ID,OL-JJG-019-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.32111
 1428.8,0.32116

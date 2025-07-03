@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-09-30
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,
 Minimum Wavelength,280
 Sample Name,25 wt% magnesite (JB946E) + 25 wt% nontronite (JB790A) + 50 wt% forsterite (JB945A)
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Spectroscopy of clay mineral mixtures (MDAP, MFRP, Active Missions)"
 Sample ID,BKR1JB965
 Original Sample ID,JB-JLB-965
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.17832
 285.0,0.14211

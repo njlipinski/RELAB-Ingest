@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-10-20
 Formula,
 Grain Size Description,<36.0um
-Grain Size,"(0.0, 36.0)"
+Grain Size,(0.0 - 36.0)
 Locality,"Phenaimatha, India"
 Minimum Wavelength,800
 Sample Name,PM-5a
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Spectral reflectance and emittance of rocks and minerals
 Sample ID,BIR1AN004A
 Original Sample ID,AN-G1M-004-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.31282
 800.0,0.31093

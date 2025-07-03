@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-10-08
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,
 Minimum Wavelength,833
 Sample Name,600% Fe-exchanged SWy-1 <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BIR1JB004A
 Original Sample ID,JB-CMP-004-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.4,0.36324
 833.5,0.36272

@@ -2,7 +2,7 @@ Composition,
 Date Added,2003-02-28
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Acid mine drainage product, CA"
 Minimum Wavelength,320
 Sample Name,Neutralized AMD material <45 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Fe-S-bearing alteration materials
 Sample ID,BKR1JB577A
 Original Sample ID,JB-JLB-577-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.04113
 325.0,0.04117

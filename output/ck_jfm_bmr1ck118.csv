@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-06-16
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,
 Minimum Wavelength,2000
 Sample Name,Lab93-Olv7
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Labradorite 93 + Olivine 7 referred to in Cheek and Pieters (2014), but not previously measured in RELAB"
 Sample ID,BMR1CK118
 Original Sample ID,CK-JFM-118
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1999.97,0.391652
 2000.16,0.391831

@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-08-30
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Unknown 
 Minimum Wavelength,800
 Sample Name,CRB702 <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectral properties of carbonates
 Sample ID,BIR1CB075A
 Original Sample ID,CB-EAC-075-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.11363
 800.0,0.11248

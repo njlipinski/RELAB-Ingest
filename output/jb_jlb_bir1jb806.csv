@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-10-24
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,
 Minimum Wavelength,1000
 Sample Name,50 wt% magnetite (JB764) + 50 wt% maghemite (JB301) <125 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Spectroscopy of clay minerals (MDAP, MFRP, Active Missions)"
 Sample ID,BIR1JB806
 Original Sample ID,JB-JLB-806
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.05212
 1000.2,0.05222

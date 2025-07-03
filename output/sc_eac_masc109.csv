@@ -2,7 +2,7 @@ Composition,
 Date Added,1996-06-28
 Formula,
 Grain Size Description,<90.0um
-Grain Size,"(45.0, 90.0)"
+Grain Size,(45.0 - 90.0)
 Locality,
 Minimum Wavelength,1800
 Sample Name,PYX117:MET101 
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,25:75 mixture of PYX117:MET101  
 Sample ID,MASC109
 Original Sample ID,SC-EAC-109
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.03916
 1800.7,0.03943

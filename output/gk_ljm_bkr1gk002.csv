@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-03-13
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(0.0, 150.0)"
+Grain Size,(0.0 - 150.0)
 Locality,"Paleolake Tecopa near Shoshone, California"
 Minimum Wavelength,320
 Sample Name,T45 (Tuff beds) <150 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1GK002
 Original Sample ID,GK-LJM-002
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.576274
 330.0,0.594337

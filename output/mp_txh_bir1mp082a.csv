@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-09-06
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"New South Wales, Australia"
 Minimum Wavelength,1428
 Sample Name,Binda 
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,USNM 1757.  
 Sample ID,BIR1MP082A
 Original Sample ID,MP-TXH-082-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.32963
 1428.82,0.329725

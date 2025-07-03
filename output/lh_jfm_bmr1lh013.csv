@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-06-23
 Formula,
 Grain Size Description,<4000.0um
-Grain Size,"(250.0, 4000.0)"
+Grain Size,(250.0 - 4000.0)
 Locality,"Rio Tinto, Spain"
 Minimum Wavelength,1667
 Sample Name,0401010 fresh silvery surface >250 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BMR1LH013
 Original Sample ID,LH-JFM-013
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1666.7,0.16213
 1667.3,0.16218

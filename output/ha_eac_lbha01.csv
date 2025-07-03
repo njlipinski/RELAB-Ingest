@@ -2,7 +2,7 @@ Composition,
 Date Added,2001-06-26
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Tintic District, UT"
 Minimum Wavelength,300
 Sample Name,HAL001
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,LBHA01
 Original Sample ID,HA-EAC-001
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.55315
 305.0,0.57248

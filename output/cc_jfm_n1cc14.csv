@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-07-18
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(25.0, 150.0)"
+Grain Size,(25.0 - 150.0)
 Locality,"Near Cerritos Bayos, Chile"
 Minimum Wavelength,900
 Sample Name,Dissolved Copiapite 
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Washed with distilled water, formed into crusty layer and flaked off.   When dry, sample consists of flakes.Purchased from Ward's."
 Sample ID,N1CC14
 Original Sample ID,CC-JFM-014
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.4,0.07347
 901.1,0.07337

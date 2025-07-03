@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-07-23
 Formula,
 Grain Size Description,<10.0um
-Grain Size,"(0.0, 10.0)"
+Grain Size,(0.0 - 10.0)
 Locality,"Szabolcs-Szatmar-Bereg, Hungary"
 Minimum Wavelength,320
 Sample Name,Kisvarsany <10 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1TB317
 Original Sample ID,TB-MDD-317
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.11181
 330.0,0.120424

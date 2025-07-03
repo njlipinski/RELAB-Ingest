@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-08-07
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Alma Pyrite Mine, Leona Heights, Oakland, Alameda County, California"
 Minimum Wavelength,800
 Sample Name,Mg-copiapite ML-S86 <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Lane sulfate spectroscopy project
 Sample ID,BIR1JBB73
 Original Sample ID,JB-JLB-B73
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.3402
 800.0,0.33971

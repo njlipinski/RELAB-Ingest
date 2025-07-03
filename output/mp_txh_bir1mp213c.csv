@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-01-30
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(125.0, 250.0)"
+Grain Size,(125.0 - 250.0)
 Locality,"Elephant Moraine, Antarctica"
 Minimum Wavelength,833
 Sample Name,"EET 83389,28 125-250 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BIR1MP213C
 Original Sample ID,MP-TXH-213-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.34,0.038412
 833.47,0.038584

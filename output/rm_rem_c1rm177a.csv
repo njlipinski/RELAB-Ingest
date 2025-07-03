@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-07-12
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Scott Glacier, Antarctica"
 Minimum Wavelength,300
 Sample Name,"SCO 06040,27 <125 um"

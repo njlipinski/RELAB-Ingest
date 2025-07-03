@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-04-14
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,"Allan Hills, Anarctica "
 Minimum Wavelength,300
 Sample Name,ALHA81002 
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,From Michael Zolensky's sample  
 Sample ID,NCMB50
 Original Sample ID,MB-TXH-050
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.0252
 305.0,0.02309

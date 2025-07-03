@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-04-03
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,New York
 Minimum Wavelength,900
 Sample Name,GFM-93 Limekiln 6 
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Black limestones  
 Sample ID,NCLK03
 Original Sample ID,LK-SJG-003
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.0,0.14983
 900.3,0.14821

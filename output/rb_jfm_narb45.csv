@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-07-13
 Formula,
 Grain Size Description,<30.0um
-Grain Size,"(0.0, 30.0)"
+Grain Size,(0.0 - 30.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,MG-91-48
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,High Al Olivine Tholectite Primitive Basalt   
 Sample ID,NARB45
 Original Sample ID,RB-JFM-045
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.09594
 305.0,0.10157

@@ -2,7 +2,7 @@ Composition,
 Date Added,2018-10-11
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Marsing, Idaho"
 Minimum Wavelength,833
 Sample Name,Marsing pink nodule opal <125 um (JB1603e)
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BIR1JBG03E
 Original Sample ID,JB-JLB-G03-E
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.39,0.368996
 833.45,0.369435

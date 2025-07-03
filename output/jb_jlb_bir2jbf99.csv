@@ -2,7 +2,7 @@ Composition,
 Date Added,2016-08-03
 Formula,
 Grain Size Description,<3000.0um
-Grain Size,"(0.0, 3000.0)"
+Grain Size,(0.0 - 3000.0)
 Locality,Transvaal
 Minimum Wavelength,833
 Sample Name,Transvaal vermiculite (JB1599) platy crystals
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BIR2JBF99
 Original Sample ID,JB-JLB-F99
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.4,0.29946
 833.5,0.29643

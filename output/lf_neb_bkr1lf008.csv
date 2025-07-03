@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-12-03
 Formula,
 Grain Size Description,<710.0um
-Grain Size,"(0.0, 710.0)"
+Grain Size,(0.0 - 710.0)
 Locality,"Panoche Hills, Ca, USA (36º 37' 08.18""N 120º 39' 15.98""W)"
 Minimum Wavelength,300
 Sample Name,Jarosite - CA
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Collected from excavated sub-surface deposit. Crushed and sieved to include all >700um size fractions.
 Sample ID,BKR1LF008
 Original Sample ID,LF-NEB-008
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.06369
 305.0,0.05799

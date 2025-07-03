@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-06-13
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(45.0, 125.0)"
+Grain Size,(45.0 - 125.0)
 Locality,"St. Urbain,  Quebec"
 Minimum Wavelength,300
 Sample Name,"St. Urbain anorthosite, 45-125 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Bulk anorthosite; from Stop 1-3 during Summer 2012 Grad field trip to Quebec
 Sample ID,BKR1PL144D
 Original Sample ID,PL-CMP-144-D
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.20076
 305.0,0.23226

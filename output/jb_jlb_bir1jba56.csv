@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-09-15
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Sierra Gorda, Antofagasta, Chile"
 Minimum Wavelength,800
 Sample Name,Amarantite R6254 <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectroscopy of sulfate minerals
 Sample ID,BIR1JBA56
 Original Sample ID,JB-JLB-A56
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.24793
 800.0,0.24724

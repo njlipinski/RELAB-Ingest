@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-09-12
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"Androniski, Lithuania "
 Minimum Wavelength,300
 Sample Name,Padvarninkai
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description, Loaned from Met. Colect. Univ. Tokyo through H. Takeda & A. Yamaguchi.
 Sample ID,BKR1MB096C
 Original Sample ID,MB-TXH-096-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.09827
 305.0,0.0985

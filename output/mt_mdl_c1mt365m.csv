@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-03-31
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(0.0, 63.0)"
+Grain Size,(0.0 - 63.0)
 Locality,"Miller Range, Antarctica"
 Minimum Wavelength,320
 Sample Name,"MIL 07010,31,35 metal-rich <63 um"

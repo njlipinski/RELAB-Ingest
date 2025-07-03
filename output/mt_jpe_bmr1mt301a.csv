@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-12-23
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Meteorite Hills, Antarctica"
 Minimum Wavelength,1428
 Sample Name,"MET 01212,14 powder <125 um (metals removed)"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BMR1MT301A
 Original Sample ID,MT-JPE-301-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.16645
 1428.8,0.16623

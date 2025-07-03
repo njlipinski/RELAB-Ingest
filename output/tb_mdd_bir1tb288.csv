@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-07-16
 Formula,
 Grain Size Description,<10.0um
-Grain Size,"(0.0, 10.0)"
+Grain Size,(0.0 - 10.0)
 Locality,"Uttar Pradesh, India"
 Minimum Wavelength,1428
 Sample Name,Bishunpur <10 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,USNM 7073
 Sample ID,BIR1TB288
 Original Sample ID,TB-MDD-288
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.094697
 1428.82,0.094088

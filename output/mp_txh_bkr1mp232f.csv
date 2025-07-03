@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-06-16
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(25.0, 45.0)"
+Grain Size,(25.0 - 45.0)
 Locality,"Queen Alexandra Range, Antarctica"
 Minimum Wavelength,300
 Sample Name,"QUE 97077,14 25-45 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1MP232F
 Original Sample ID,MP-TXH-232-F
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.019921
 305.0,0.019326

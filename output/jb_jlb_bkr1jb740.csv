@@ -2,7 +2,7 @@ Composition,
 Date Added,2007-03-09
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Palermo Mine, Fitzgibbon quarry, Alstead, NH"
 Minimum Wavelength,320
 Sample Name,Strunzite HMM 108175
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Spectroscopy of phosphate minerals (MDAP, MFRP)"
 Sample ID,BKR1JB740
 Original Sample ID,JB-JLB-740
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.04355
 325.0,0.04585

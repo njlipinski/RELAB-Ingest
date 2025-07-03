@@ -2,7 +2,7 @@ Composition,
 Date Added,1985-07-02
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,Apollo 17 Station 3 
 Minimum Wavelength,351
 Sample Name,"73221,4C"
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Skim sample (c. 1cm depth) in ""light mantle"" area   "
 Sample ID,CLS336
 Original Sample ID,LS-JBA-220-P1
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 351.0,0.177533
 354.0,0.176767

@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-04-28
 Formula,
 Grain Size Description,<212.0um
-Grain Size,"(0.0, 212.0)"
+Grain Size,(0.0 - 212.0)
 Locality,
 Minimum Wavelength,320
 Sample Name,Ilmenite <212 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BKR1ZL007
 Original Sample ID,ZL-ZAL-007
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.035833
 330.0,0.035401

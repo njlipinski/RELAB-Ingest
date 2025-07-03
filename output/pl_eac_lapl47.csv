@@ -2,7 +2,7 @@ Composition,
 Date Added,2001-09-06
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"near Crown Point, Essex Co., NY"
 Minimum Wavelength,300
 Sample Name,PLG120
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,LAPL47
 Original Sample ID,PL-EAC-047
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.57249
 305.0,0.59181

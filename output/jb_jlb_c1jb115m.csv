@@ -2,7 +2,7 @@ Composition,
 Date Added,2002-10-17
 Formula,
 Grain Size Description,<2000.0um
-Grain Size,"(0.0, 2000.0)"
+Grain Size,(0.0 - 2000.0)
 Locality,"Lake Hoare, Antarctica"
 Minimum Wavelength,320
 Sample Name,Magnetic portion of surface sand near Lake Hoare

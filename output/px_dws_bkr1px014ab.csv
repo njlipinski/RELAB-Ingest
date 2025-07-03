@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-04-22
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(50.0, 100.0)"
+Grain Size,(50.0 - 100.0)
 Locality,"Etta Mine, Pennington Co., SD"
 Minimum Wavelength,320
 Sample Name,"Spodumene (NMNH R3068) dried at 105C 24 hrs, washed with HCl & dried at 120C"
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Source asteroids for unequilibrated ordinary chondrites (UOC) (PGG, Cosmochemistry, Student)"
 Sample ID,BKR1PX014AB
 Original Sample ID,PX-DWS-014-AB
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.27403
 330.0,0.27953

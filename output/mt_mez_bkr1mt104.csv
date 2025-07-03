@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-09-04
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Allende, Mexico"
 Minimum Wavelength,280
 Sample Name,Allende dark inclusion MZA <125 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1MT104
 Original Sample ID,MT-MEZ-104
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.04248
 285.0,0.03684

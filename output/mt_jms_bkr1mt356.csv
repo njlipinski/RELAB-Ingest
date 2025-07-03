@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-02-24
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Northwest Africa
 Minimum Wavelength,320
 Sample Name,NWA 11756 (Ungrouped) <45 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1MT356
 Original Sample ID,MT-JMS-356
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.054589
 330.0,0.058387

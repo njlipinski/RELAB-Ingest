@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-12-09
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Biwabik, MN "
 Minimum Wavelength,300
 Sample Name,Goethite
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Purchased from Ward's   
 Sample ID,NCGO01
 Original Sample ID,GO-TXH-001
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03732
 305.0,0.03749

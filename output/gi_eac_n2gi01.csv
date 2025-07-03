@@ -2,7 +2,7 @@ Composition,
 Date Added,1994-11-18
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Fort Duchesne, Uintah County, Utah"
 Minimum Wavelength,900
 Sample Name,GIL101
@@ -15,7 +15,7 @@ Material class,Organic
 Sample Description,
 Sample ID,N2GI01
 Original Sample ID,GI-EAC-001
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.0,0.03526
 900.3,0.03503

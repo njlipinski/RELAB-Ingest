@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-10-04
 Formula,
 Grain Size Description,<90.0um
-Grain Size,"(45.0, 90.0)"
+Grain Size,(45.0 - 90.0)
 Locality,"Kafveltorp Quarry, Kopperberg, Sweden "
 Minimum Wavelength,300
 Sample Name,OLV008
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Sim. to PO-52; hard to separate by hand. Wet seived w/acetone.  FOR 92.7% -- FAY 7.3% 
 Sample ID,LAPO54
 Original Sample ID,PO-EAC-054
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.20345
 305.0,0.21374

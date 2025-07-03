@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-09-05
 Formula,
 Grain Size Description,<500.0um
-Grain Size,"(75.0, 500.0)"
+Grain Size,(75.0 - 500.0)
 Locality,
 Minimum Wavelength,1800
 Sample Name,MST-28r 
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,
 Sample ID,M3MM44
 Original Sample ID,MM-MJR-044
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.3,0.09686
 1800.6,0.09557

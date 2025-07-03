@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-04-04
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,"Houston, TX "
 Minimum Wavelength,300
 Sample Name,1546a 

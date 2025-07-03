@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-09-26
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Oage Mine, Ominato, Aomori Pref., Japan"
 Minimum Wavelength,280
 Sample Name,S77: Szomolnokite with some rozenite
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BKR1JB824
 Original Sample ID,JB-JLB-824
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.09842
 285.0,0.09358

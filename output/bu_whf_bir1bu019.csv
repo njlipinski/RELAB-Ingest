@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-07-25
 Formula,
 Grain Size Description,<400.0um
-Grain Size,"(0.0, 400.0)"
+Grain Size,(0.0 - 400.0)
 Locality,"Split Buffe, Craters of the Moon National Monument"
 Minimum Wavelength,833
 Sample Name,SplB12-01
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Gray tuff from south rim of tuff ring
 Sample ID,BIR1BU019
 Original Sample ID,BU-WHF-019
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.09231
 833.5,0.09217

@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-06-16
 Formula,
 Grain Size Description,<90.0um
-Grain Size,"(45.0, 90.0)"
+Grain Size,(45.0 - 90.0)
 Locality,Synthetic 
 Minimum Wavelength,300
 Sample Name,PHO101B 
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,Synthetic sample from J. T. Baker Chemical Co.  
 Sample ID,LAPH17B
 Original Sample ID,PH-EAC-017-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.5829
 305.0,0.59826

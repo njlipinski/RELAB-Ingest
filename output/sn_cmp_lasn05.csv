@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-07-15
 Formula,
 Grain Size Description,<10.0um
-Grain Size,"(0.0, 10.0)"
+Grain Size,(0.0 - 10.0)
 Locality,"Apollo 17 site, Moon"
 Minimum Wavelength,300
 Sample Name,"70181,138 Freon Limit Exp."
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Limited exposure to Freon   
 Sample ID,LASN05
 Original Sample ID,SN-CMP-005
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03848
 305.0,0.04071

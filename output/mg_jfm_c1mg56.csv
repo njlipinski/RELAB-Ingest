@@ -2,7 +2,7 @@ Composition,
 Date Added,2022-03-24
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,
 Minimum Wavelength,833
 Sample Name,BE-21
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Mg-rich carbonates from natural environments
 Sample ID,C1MG56
 Original Sample ID,MG-JFM-056
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.267558
 305.0,0.269354

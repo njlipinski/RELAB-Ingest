@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-06-16
 Formula,
 Grain Size Description,<32.0um
-Grain Size,"(0.0, 32.0)"
+Grain Size,(0.0 - 32.0)
 Locality,
 Minimum Wavelength,2000
 Sample Name,A5E5F90
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Anorthite 5 + Enstatite 5 + Forsterite 90 prepared by Ben Greenhagen.  See Greenhagen et al. (2020) European Lunar Symposium Abstract
 Sample ID,BMR1CK096
 Original Sample ID,CK-JFM-096
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1999.97,0.382949
 2000.16,0.382711

@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-10-15
 Formula,
 Grain Size Description,<35.0um
-Grain Size,"(0.0, 35.0)"
+Grain Size,(0.0 - 35.0)
 Locality,
 Minimum Wavelength,833
 Sample Name,Adelaide (C2-ung)
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"Not sieved, estimate grain size."
 Sample ID,BIR1MT276
 Original Sample ID,MT-KTH-276
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.05952
 833.5,0.05973

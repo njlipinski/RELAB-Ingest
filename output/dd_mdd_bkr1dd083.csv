@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-12-20
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,H30-B4 olivine
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,1.6 % ferric iron
 Sample ID,BKR1DD083
 Original Sample ID,DD-MDD-083
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.20511
 305.0,0.2084

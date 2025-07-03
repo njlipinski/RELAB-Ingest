@@ -2,7 +2,7 @@ Composition,
 Date Added,2002-11-08
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(125.0, 250.0)"
+Grain Size,(125.0 - 250.0)
 Locality,"Phalen Mine, Nova Scotia, Canada"
 Minimum Wavelength,300
 Sample Name,COAL16d

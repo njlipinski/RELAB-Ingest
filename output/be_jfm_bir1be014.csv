@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-03-06
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(45.0, 75.0)"
+Grain Size,(45.0 - 75.0)
 Locality,Germany (Clay Mineral Repository)
 Minimum Wavelength,1000
 Sample Name,NG-1 45-75 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Reflectance spectra unmixing of hydrated and mafic minerals (Student, MDAP, Active missions: CRISM)"
 Sample ID,BIR1BE014
 Original Sample ID,BE-JFM-014
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.26611
 1000.2,0.2661

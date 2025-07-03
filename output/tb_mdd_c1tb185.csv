@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-12-10
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Meteorite Hills, Antarctica"
 Minimum Wavelength,320
 Sample Name,"MET 01017,49 <125 um"

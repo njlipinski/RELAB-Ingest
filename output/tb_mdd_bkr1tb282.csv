@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-07-14
 Formula,
 Grain Size Description,<10.0um
-Grain Size,"(0.0, 10.0)"
+Grain Size,(0.0 - 10.0)
 Locality,"Maharashtra, India"
 Minimum Wavelength,320
 Sample Name,Andura <10 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,USNM 2028
 Sample ID,BKR1TB282
 Original Sample ID,TB-MDD-282
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.127336
 330.0,0.135415

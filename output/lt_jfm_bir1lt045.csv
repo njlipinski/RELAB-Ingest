@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-02-12
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(32.0, 63.0)"
+Grain Size,(32.0 - 63.0)
 Locality,"Mahalona River, Indonesia"
 Minimum Wavelength,833
 Sample Name,MAH-SUSP-D
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Suspended sediment from the Mahalona River - 32-63 microns
 Sample ID,BIR1LT045
 Original Sample ID,LT-JFM-045
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.16395
 833.5,0.16314

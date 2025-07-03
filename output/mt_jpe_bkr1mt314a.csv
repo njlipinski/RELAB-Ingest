@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-12-23
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Lewis Cliff, Antarctica"
 Minimum Wavelength,320
 Sample Name,LEW 86220 powder <125 um (metals removed)
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1MT314A
 Original Sample ID,MT-JPE-314-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.06684
 330.0,0.068

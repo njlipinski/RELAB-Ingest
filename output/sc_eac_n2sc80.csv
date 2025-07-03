@@ -2,7 +2,7 @@ Composition,
 Date Added,1994-11-19
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Johnson Matthey 
 Minimum Wavelength,900
 Sample Name,GRP102
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"Sample GRP102, Artificial amorphous graphite  "
 Sample ID,N2SC80
 Original Sample ID,SC-EAC-080
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.0,0.03445
 900.3,0.03614

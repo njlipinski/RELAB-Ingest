@@ -2,7 +2,7 @@ Composition,
 Date Added,2016-05-09
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(125.0, 250.0)"
+Grain Size,(125.0 - 250.0)
 Locality,"Burro Creek, AZ"
 Minimum Wavelength,833
 Sample Name,saponite PP#2 125-250 um (JB1545b)
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Collected by J. Post
 Sample ID,BIR1JBF45B
 Original Sample ID,JB-JLB-F45-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.4,0.40971
 833.5,0.41091

@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-12-13
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Broken Hill, NSW"
 Minimum Wavelength,300
 Sample Name,"Hisingerite S1 Broken Hill, non-magnetic <45 um (HCl washed)"

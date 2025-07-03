@@ -2,7 +2,7 @@ Composition,
 Date Added,1996-09-05
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"Apollo 17 site, Moon"
 Minimum Wavelength,300
 Sample Name,"72255,338"
@@ -15,7 +15,7 @@ Material class,Returned Planetary Samples
 Sample Description,Wet sieved with ethanol.  
 Sample ID,LALS99E
 Original Sample ID,LS-CMP-099-E
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.23217
 305.0,0.2385

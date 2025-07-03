@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-06-15
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(125.0, 250.0)"
+Grain Size,(125.0 - 250.0)
 Locality,Synthetic
 Minimum Wavelength,300
 Sample Name,Synthetic Fe-carbonate 125-250 um

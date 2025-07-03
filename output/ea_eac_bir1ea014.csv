@@ -2,7 +2,7 @@ Composition,
 Date Added,2006-05-03
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Murphys, Calaveras Co., CA"
 Minimum Wavelength,1000
 Sample Name,CLI101
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectral properties of possible Mars surface materials.
 Sample ID,BIR1EA014
 Original Sample ID,EA-EAC-014
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.30107
 1000.2,0.30112

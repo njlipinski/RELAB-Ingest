@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-07-31
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(38.0, 63.0)"
+Grain Size,(38.0 - 63.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,Bytownite 38-63 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"See Byrne et al. 2015, LPS XLVI, Abstract 1501, this is the same sample as PL-ECS-154-C"
 Sample ID,BKR1CK029
 Original Sample ID,CK-JFM-029
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.18601
 305.0,0.230798

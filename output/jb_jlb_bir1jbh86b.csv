@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-12-09
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(125.0, 250.0)"
+Grain Size,(125.0 - 250.0)
 Locality,Mauna Kea
 Minimum Wavelength,833
 Sample Name,JSC Mars-1 125-250 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,BIR1JBH86B
 Original Sample ID,JB-JLB-H86-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.39,0.142465
 833.45,0.142607

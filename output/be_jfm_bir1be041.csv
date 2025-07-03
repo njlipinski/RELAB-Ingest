@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-06-11
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"San Carlos, Gila Co., AZ"
 Minimum Wavelength,800
 Sample Name,OLV-SCa <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Reflectance spectra unmixing of hydrated and mafic minerals (PGG, MDAP, Active missions, Student)"
 Sample ID,BIR1BE041
 Original Sample ID,BE-JFM-041
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.44865
 800.0,0.44922

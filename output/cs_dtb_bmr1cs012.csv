@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-07-09
 Formula,
 Grain Size Description,<6000.0um
-Grain Size,"(1.0, 6000.0)"
+Grain Size,(1.0 - 6000.0)
 Locality,Exolith Lab
 Minimum Wavelength,1428
 Sample Name,CI_677_cycles
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Ivuna-like asteroid simulant, thermally cycled at 40-250C for 677 times"
 Sample ID,BMR1CS012
 Original Sample ID,CS-DTB-012
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.085553
 1428.82,0.085432

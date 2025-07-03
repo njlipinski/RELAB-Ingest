@@ -2,7 +2,7 @@ Composition,
 Date Added,1996-07-24
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Yamato Mountain Range, Antarctica "
 Minimum Wavelength,300
 Sample Name,"Y-793595,62 <125 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,LAMP32
 Original Sample ID,MP-TXH-032
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.02323
 305.0,0.02237

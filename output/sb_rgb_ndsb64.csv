@@ -2,7 +2,7 @@ Composition,
 Date Added,1993-03-26
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,"Lost Creek, Montana "
 Minimum Wavelength,900
 Sample Name,Annite
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Flourine-rich   Dyar and Burns, Amer. Min., 71, 955-965 (1986)"
 Sample ID,NDSB64
 Original Sample ID,SB-RGB-064
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.0,0.05892
 900.3,0.05884

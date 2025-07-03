@@ -2,7 +2,7 @@ Composition,
 Date Added,2018-10-19
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Polihua Trail, Lanai, Hawaii"
 Minimum Wavelength,300
 Sample Name,Lanai tephra PHT-5 <125 um (JB1625a)  Unground
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1JBG25A
 Original Sample ID,JB-JLB-G25-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.032041
 305.0,0.028645

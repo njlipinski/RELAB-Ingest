@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-03-10
 Formula,
 Grain Size Description,<2.0um
-Grain Size,"(0.0, 2.0)"
+Grain Size,(0.0 - 2.0)
 Locality,"Walsen Dike, Walse, Colorado"
 Minimum Wavelength,280
 Sample Name,WD03-20 part
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Spectroscopy of mixed-layer clay minerals.
 Sample ID,BKR1ER028
 Original Sample ID,ER-TGS-028
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.04596
 285.0,0.04209

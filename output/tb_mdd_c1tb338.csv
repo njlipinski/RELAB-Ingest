@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-07-28
 Formula,
 Grain Size Description,<10.0um
-Grain Size,"(0.0, 10.0)"
+Grain Size,(0.0 - 10.0)
 Locality,"North Dakota, USA"
 Minimum Wavelength,320
 Sample Name,Richardton <10 um

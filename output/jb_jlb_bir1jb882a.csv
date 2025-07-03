@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-05-20
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Unknown
 Minimum Wavelength,909
 Sample Name,"Cristobalite ""Sibelite"", M72, purified by Steve Hillier <45 um"
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectroscopy of clay minerals
 Sample ID,BIR1JB882A
 Original Sample ID,JB-JLB-882-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 909.0,0.48326
 909.2,0.48312

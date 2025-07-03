@@ -2,7 +2,7 @@ Composition,
 Date Added,2022-07-18
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,China
 Minimum Wavelength,833
 Sample Name,Olivine <250 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BIR1YY001
 Original Sample ID,YY-S2K-001
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.34,0.295028
 833.47,0.29489

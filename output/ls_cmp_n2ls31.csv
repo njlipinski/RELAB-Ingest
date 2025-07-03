@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-06-30
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,Apollo 11 
 Minimum Wavelength,900
 Sample Name,"10084,255"
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Apollo 11 Breccia NASA #10084   
 Sample ID,N2LS31
 Original Sample ID,LS-CMP-031
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.0,0.03829
 900.3,0.03887

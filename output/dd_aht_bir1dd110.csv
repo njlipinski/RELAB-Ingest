@@ -2,7 +2,7 @@ Composition,
 Date Added,2006-11-30
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"LaPaz Icefield, Antarctica"
 Minimum Wavelength,800
 Sample Name,"LAP04840,16 amphibole <45 um"
@@ -15,7 +15,7 @@ Material class,Meteorites
 Sample Description,
 Sample ID,BIR1DD110
 Original Sample ID,DD-AHT-110
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.08771
 800.0,0.08731

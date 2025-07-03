@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-09-22
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Bergen, Norway"
 Minimum Wavelength,909
 Sample Name,Enstatite dark <125 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Spectroscopy of synthetic ureilite mixtures (MDAP, MFRP, Active Missions, Prop Prep)"
 Sample ID,BIR1JBA14A
 Original Sample ID,JB-JLB-A14-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 909.0,0.12316
 909.2,0.1233

@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-03-30
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,Coal #4 
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,High-volatile bituminous coal A   
 Sample ID,NCCL18
 Original Sample ID,CL-LXM-018
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.01772
 305.0,0.01533

@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-11-30
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Queen Alexandra Range, Antarctica"
 Minimum Wavelength,280
 Sample Name,"QUE93351,10 (EL3) <45 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Asteroid-meteorite connection (NASA-F)
 Sample ID,BKR1MT128A
 Original Sample ID,MT-PFV-128-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.05474
 285.0,0.04435

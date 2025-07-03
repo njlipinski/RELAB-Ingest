@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-10-15
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Aroy, Langesundfjord, Norway"
 Minimum Wavelength,300
 Sample Name,PYX125
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Purchased from Minerals Unlimited   
 Sample ID,LAPX06
 Original Sample ID,PX-EAC-006
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.19977
 305.0,0.1992

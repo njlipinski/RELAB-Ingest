@@ -2,7 +2,7 @@ Composition,
 Date Added,1996-01-12
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"MacAlpine Hills, Antarctica "
 Minimum Wavelength,300
 Sample Name,"MAC 88100,30  <125 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,NCMP22
 Original Sample ID,MP-TXH-022
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.01832
 305.0,0.02006

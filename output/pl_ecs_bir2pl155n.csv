@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-10-25
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(38.0, 63.0)"
+Grain Size,(38.0 - 63.0)
 Locality,"Chihuahua, Mexico"
 Minimum Wavelength,1428
 Sample Name,Chihuahua labradorite 38-63 um wet-sieved
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BIR2PL155N
 Original Sample ID,PL-ECS-155-N
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.360148
 1428.82,0.360579

@@ -2,7 +2,7 @@ Composition,
 Date Added,2016-05-04
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"near I-80, California"
 Minimum Wavelength,300
 Sample Name,Fe-saponite-rich soil <125 um (JB1592a)

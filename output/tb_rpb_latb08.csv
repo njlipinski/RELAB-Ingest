@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-02-22
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,"Yamato Mtn Range, Antarctica"
 Minimum Wavelength,320
 Sample Name,"Y-75011,107 "
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Grain size is an estimate.  
 Sample ID,LATB08
 Original Sample ID,TB-RPB-008
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.14276
 330.0,0.14884

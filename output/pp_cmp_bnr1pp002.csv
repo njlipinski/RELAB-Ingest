@@ -2,7 +2,7 @@ Composition,
 Date Added,2002-11-15
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,
 Minimum Wavelength,741
 Sample Name,Pyrophyllite
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,None  
 Sample ID,BNR1PP002
 Original Sample ID,PP-CMP-002
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 740.7,0.74601
 741.0,0.74566

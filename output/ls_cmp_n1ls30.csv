@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-07-01
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,"Apollo 16, Station 2, Moon"
 Minimum Wavelength,1800
 Sample Name,"62231,14"
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Surface sample collected from southeast rim of Buster Crater  
 Sample ID,N1LS30
 Original Sample ID,LS-CMP-030
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.26182
 1800.7,0.26257

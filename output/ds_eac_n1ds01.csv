@@ -2,7 +2,7 @@ Composition,
 Date Added,1994-11-23
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Santa Barbara, CA"
 Minimum Wavelength,1800
 Sample Name,CA1 <125 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,N1DS01
 Original Sample ID,DS-EAC-001
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.36576
 1800.7,0.36581

@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-04-12
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,"Mixture - water added, dried, and ground"
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,JB011 0.7 : JB250 0.1 : JB182 0.1 : JB366 0.1   
 Sample ID,LAJB364F
 Original Sample ID,JB-JLB-364-F
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03923
 305.0,0.03546

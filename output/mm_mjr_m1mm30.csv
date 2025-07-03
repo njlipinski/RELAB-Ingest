@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-05-19
 Formula,
 Grain Size Description,<500.0um
-Grain Size,"(75.0, 500.0)"
+Grain Size,(75.0 - 500.0)
 Locality,Synthetic 
 Minimum Wavelength,1800
 Sample Name,MST-21
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"Crystallized at 1065C/1atm, then cooled rapidly (6-10C/hr) down to 800C.  Bimodal crystal distribution, fully crystalline."
 Sample ID,M1MM30
 Original Sample ID,MM-MJR-030
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.04154
 1800.7,0.04144

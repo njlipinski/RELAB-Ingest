@@ -2,7 +2,7 @@ Composition,
 Date Added,1996-01-06
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,"Alberta, Canada "
 Minimum Wavelength,900
 Sample Name,TAR0787-03
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Original bitumen content(%wt)6.9  TAR107 is 0-45um fracito of TAR07, TAR207 is 45um fraction of TAR07 "
 Sample ID,LATS07
 Original Sample ID,TS-EAC-007
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.1,0.0425
 900.3,0.04248

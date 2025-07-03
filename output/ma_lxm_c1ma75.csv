@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-04-07
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(100.0, 250.0)"
+Grain Size,(100.0 - 250.0)
 Locality,"Kaidun, South Yemen "
 Minimum Wavelength,300
 Sample Name,Kaidun 100-250 um

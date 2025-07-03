@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-10-03
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Stillwater Intrusion, Montana "
 Minimum Wavelength,300
 Sample Name,CHR102
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Acquired from Univ. of Hawaii mineral collection #10-3-10.  
 Sample ID,LACR12
 Original Sample ID,CR-EAC-012
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03597
 305.0,0.03929

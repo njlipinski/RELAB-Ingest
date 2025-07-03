@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-09-10
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Harz, Thuringia, Germany"
 Minimum Wavelength,833
 Sample Name,Harz gypsum <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BIR1JBE64A
 Original Sample ID,JB-JLB-E64-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.45906
 833.5,0.46033

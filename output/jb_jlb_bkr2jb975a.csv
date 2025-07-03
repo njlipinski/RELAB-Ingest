@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-05-26
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(0.0, 63.0)"
+Grain Size,(0.0 - 63.0)
 Locality,"Steinegg, Austria "
 Minimum Wavelength,280
 Sample Name,"Steinegg dark brown soil <63 um (crushed, dry-sieved, freeze-dried, and reground)"
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Clay-bearing soil from Franz Ottner, Boku (Spectroscopy of Mars analogs) (MDAP, MFRP, Active Missions, Prop Prep)"
 Sample ID,BKR2JB975A
 Original Sample ID,JB-JLB-975-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.05048
 285.0,0.0318

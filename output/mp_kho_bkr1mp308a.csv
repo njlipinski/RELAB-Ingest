@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-12-10
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Morocco
 Minimum Wavelength,300
 Sample Name,Tarda <125 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1MP308A
 Original Sample ID,MP-KHO-308-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.020723
 305.0,0.020782

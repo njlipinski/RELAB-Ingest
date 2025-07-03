@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-10-20
 Formula,
 Grain Size Description,<35.0um
-Grain Size,"(0.0, 35.0)"
+Grain Size,(0.0 - 35.0)
 Locality,"Miller Range, Antarctica"
 Minimum Wavelength,833
 Sample Name,MIL 090657 (CR2)
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"Not sieved, estimate grain size."
 Sample ID,BIR1MT282
 Original Sample ID,MT-KTH-282
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.07093
 833.5,0.07038

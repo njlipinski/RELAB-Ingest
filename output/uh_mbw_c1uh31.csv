@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-03-12
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,"Southern edge of Vatnajokull icecap, Iceland"
 Minimum Wavelength,320
 Sample Name,Skaf_8_10

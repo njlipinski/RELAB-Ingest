@@ -2,7 +2,7 @@ Composition,
 Date Added,2016-08-01
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Lewis Cliff, Antarctica"
 Minimum Wavelength,320
 Sample Name,LEW 86220 powder <125 um (treated with ETG)
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Treated with ethanolamine thioglycolate (ETG) for removing terrestrial weathering
 Sample ID,BKR1MT314T
 Original Sample ID,MT-JPE-314-T
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.11216
 330.0,0.11855

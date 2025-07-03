@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-01-30
 Formula,
 Grain Size Description,<10000.0um
-Grain Size,"(1000.0, 10000.0)"
+Grain Size,(1000.0 - 10000.0)
 Locality,"Durango, Mexico"
 Minimum Wavelength,800
 Sample Name,Light-green fluorapatite crystals
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Ward's #49-E-5855  Ca5(PO4)3F, some Ca repl. By Sr,Ba,Pb,Na,Ce,Y, some F repl. by OH,Cl (light-green grains hand-picked from crystals)"
 Sample ID,BIR1JB273D
 Original Sample ID,JB-JLB-273-D
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.10444
 800.0,0.10352

@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-10-31
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Summit of Mauna Kea, Hawaii "
 Minimum Wavelength,300
 Sample Name,PAL102
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Separated from bulk sample without comminution.   Te Roush sample #91-16. 
 Sample ID,LAPA04A
 Original Sample ID,PA-EAC-004-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03145
 305.0,0.03022

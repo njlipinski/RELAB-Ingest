@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-10-12
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Graves Nunataks 
 Minimum Wavelength,320
 Sample Name,GRA95209
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,MATB44
 Original Sample ID,TB-TJM-044
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.13263
 1800.7,0.13457

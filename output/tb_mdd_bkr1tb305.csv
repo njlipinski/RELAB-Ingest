@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-07-17
 Formula,
 Grain Size Description,<10.0um
-Grain Size,"(0.0, 10.0)"
+Grain Size,(0.0 - 10.0)
 Locality,"Sicilia, Italy"
 Minimum Wavelength,320
 Sample Name,Girgenti <10 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,USNM 1453
 Sample ID,BKR1TB305
 Original Sample ID,TB-MDD-305
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.132811
 330.0,0.146529

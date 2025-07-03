@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-10-06
 Formula,
 Grain Size Description,<30.0um
-Grain Size,"(2.0, 30.0)"
+Grain Size,(2.0 - 30.0)
 Locality,Unknown 
 Minimum Wavelength,800
 Sample Name,75% KGa-2 + 25% TR-M
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,BIR1JM105
 Original Sample ID,JM-JRM-105
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.47191
 800.0,0.47394

@@ -2,7 +2,7 @@ Composition,
 Date Added,2016-03-30
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Kilauea south solfatara bank, HI"
 Minimum Wavelength,300
 Sample Name,Peter Schiffman #9120301-B <125 um (Crushed & sieved)
@@ -15,7 +15,7 @@ Material class,Sediment
 Sample Description,
 Sample ID,BKR1JB630B
 Original Sample ID,JB-JLB-630-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.02871
 305.0,0.02779

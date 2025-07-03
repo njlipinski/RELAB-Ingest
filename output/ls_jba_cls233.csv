@@ -2,7 +2,7 @@ Composition,
 Date Added,1985-07-02
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,Apollo 15 Station 9a
 Minimum Wavelength,351
 Sample Name,"15601,77P "
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Near Hadley RilleNASA 15601   
 Sample ID,CLS233
 Original Sample ID,LS-JBA-130-M2
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 351.0,0.047
 354.0,0.047

@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-08-21
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(45.0, 75.0)"
+Grain Size,(45.0 - 75.0)
 Locality,"Antigonish Co., Nova Scotia, Canada"
 Minimum Wavelength,833
 Sample Name,Antigonish Co. siderite 45-75 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BIR1JBE62B
 Original Sample ID,JB-JLB-E62-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.25697
 833.5,0.25775

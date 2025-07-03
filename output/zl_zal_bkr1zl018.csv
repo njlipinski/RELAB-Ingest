@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-05-04
 Formula,
 Grain Size Description,<400.0um
-Grain Size,"(0.0, 400.0)"
+Grain Size,(0.0 - 400.0)
 Locality,
 Minimum Wavelength,320
 Sample Name,Exolith LMS-1 lunar highlands simulant <400 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,High-fidelity generic highlands lunar regolith simulant
 Sample ID,BKR1ZL018
 Original Sample ID,ZL-ZAL-018
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.254927
 330.0,0.264004

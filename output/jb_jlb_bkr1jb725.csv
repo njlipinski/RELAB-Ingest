@@ -2,7 +2,7 @@ Composition,
 Date Added,2007-01-23
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic
 Minimum Wavelength,320
 Sample Name,NAJ5-2: (Na0.53H3O0.47)(Fe1.8Al1.0)(SO4)2(OH)6 <45 um
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"Spectroscopy of sulfate minerals (MDAP, MFRP)"
 Sample ID,BKR1JB725
 Original Sample ID,JB-JLB-725
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.03222
 325.0,0.03307

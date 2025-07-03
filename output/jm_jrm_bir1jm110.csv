@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-08-16
 Formula,
 Grain Size Description,<30.0um
-Grain Size,"(1.0, 30.0)"
+Grain Size,(1.0 - 30.0)
 Locality,East Pacific Rise
 Minimum Wavelength,800
 Sample Name,Cy 82145 - FeX (Cyp-82-14-5)
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,HYDRO-MARS Fe/Mg-clays (+/- admixed salts and in some case FeOx)
 Sample ID,BIR1JM110
 Original Sample ID,JM-JRM-110
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.1371
 800.0,0.13538

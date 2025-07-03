@@ -2,7 +2,7 @@ Composition,
 Date Added,2016-01-07
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Morocco/Western Sahara
 Minimum Wavelength,320
 Sample Name,Jbilet Winselwan (CM2) <125 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1MT312A
 Original Sample ID,MT-DAK-312-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.02064
 305.0,0.02137

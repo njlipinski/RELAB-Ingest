@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-12-21
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Meteorite Hills, Antarctica"
 Minimum Wavelength,280
 Sample Name,"MET01182,7 (H3.8) <45 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Asteroid-meteorite connection (NASA-F)
 Sample ID,BKR1MT159A
 Original Sample ID,MT-PFV-159-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.06963
 285.0,0.05277

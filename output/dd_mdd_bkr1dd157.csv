@@ -2,7 +2,7 @@ Composition,
 Date Added,2018-12-21
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Don Lindsley Nov. 2016
 Minimum Wavelength,300
 Sample Name,Lindsley pigeonite 3_Wo8_x=30_F
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,
 Sample ID,BKR1DD157
 Original Sample ID,DD-MDD-157
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.107397
 305.0,0.100844

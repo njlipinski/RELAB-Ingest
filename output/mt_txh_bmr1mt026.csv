@@ -2,7 +2,7 @@ Composition,
 Date Added,2003-12-11
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Tagish Lake, Canada "
 Minimum Wavelength,2000
 Sample Name,"Tagish Lake heated at 200C (Vacuum, oxygen eater, 1 week)"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Heated in vacuum with oxygen eater for one week at Malcom Rutherford's lab.
 Sample ID,BMR1MT026
 Original Sample ID,MT-TXH-026
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1999.7,0.04444
 2000.5,0.04443

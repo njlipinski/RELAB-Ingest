@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-03-24
 Formula,
 Grain Size Description,<2.0um
-Grain Size,"(0.0, 2.0)"
+Grain Size,(0.0 - 2.0)
 Locality,"Sampor, Slovakia"
 Minimum Wavelength,300
 Sample Name,Smectite 175
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Sedimenation fractionation  
 Sample ID,397F175
 Original Sample ID,JB-JLB-175
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03713
 305.0,0.02895

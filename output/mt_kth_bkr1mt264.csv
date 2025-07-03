@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-10-23
 Formula,
 Grain Size Description,<35.0um
-Grain Size,"(0.0, 35.0)"
+Grain Size,(0.0 - 35.0)
 Locality,"Languedoc-Roussillon, France"
 Minimum Wavelength,300
 Sample Name,Alais (CI1)
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"Not sieved, estimate grain size."
 Sample ID,BKR1MT264
 Original Sample ID,MT-KTH-264
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.01771
 305.0,0.01659

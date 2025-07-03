@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-12-27
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Quintette Coal Mine, BC, Canada "
 Minimum Wavelength,900
 Sample Name,C19Bk24 
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Baked for 24 hours at 410C.   
 Sample ID,KACL47
 Original Sample ID,CL-EAC-047
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.0,0.04627
 900.3,0.04637

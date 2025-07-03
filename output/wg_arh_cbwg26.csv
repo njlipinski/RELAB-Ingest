@@ -2,7 +2,7 @@ Composition,
 Date Added,1996-07-10
 Formula,
 Grain Size Description,<2000.0um
-Grain Size,"(0.0, 2000.0)"
+Grain Size,(0.0 - 2000.0)
 Locality,"Walnut Gulch Watershed, Tombstone, AZ "
 Minimum Wavelength,400
 Sample Name,Epitaph2

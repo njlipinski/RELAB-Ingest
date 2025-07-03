@@ -2,7 +2,7 @@ Composition,
 Date Added,2022-07-18
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,"Fukui Prefecture, Japan"
 Minimum Wavelength,300
 Sample Name,Actinolite with pyroxene and quartz <250 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,BKR1YY003
 Original Sample ID,YY-S2K-003
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.036923
 305.0,0.033639

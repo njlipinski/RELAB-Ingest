@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-08-15
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic 
 Minimum Wavelength,300
 Sample Name,FeSp7_1_L45
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"Stoichiometric spinel, 1500 C, IW"
 Sample ID,BKR1SP085B
 Original Sample ID,SP-CMP-085-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.46694
 305.0,0.47816

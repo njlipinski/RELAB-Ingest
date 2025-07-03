@@ -2,7 +2,7 @@ Composition,
 Date Added,1991-08-20
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(0.0, 150.0)"
+Grain Size,(0.0 - 150.0)
 Locality,"Chester, Vermont"
 Minimum Wavelength,900
 Sample Name,Act 11
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Pure actinolite from Brown University teaching collection   Large single crystals ground to a powder
 Sample ID,NAPA43
 Original Sample ID,PA-CMP-043
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.1,0.4361
 900.3,0.43446

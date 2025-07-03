@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-02-03
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,"Black Rock, Arkansas"
 Minimum Wavelength,900
 Sample Name,6529 Dolomite 
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,NASH80
 Original Sample ID,SH-SJG-080
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.0,0.35406
 900.3,0.35303

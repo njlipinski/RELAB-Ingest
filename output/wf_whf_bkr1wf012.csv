@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-07-11
 Formula,
 Grain Size Description,<400.0um
-Grain Size,"(0.0, 400.0)"
+Grain Size,(0.0 - 400.0)
 Locality,"Haleakala summit, Hawaii"
 Minimum Wavelength,300
 Sample Name,HK-3B
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,BKR1WF012
 Original Sample ID,WF-WHF-012
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.04486
 305.0,0.0364

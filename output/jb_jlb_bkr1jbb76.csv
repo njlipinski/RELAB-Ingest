@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-08-08
 Formula,
 Grain Size Description,<50.0um
-Grain Size,"(0.0, 50.0)"
+Grain Size,(0.0 - 50.0)
 Locality,"Alcaparra Mine, Chile"
 Minimum Wavelength,300
 Sample Name,Rhomboclase ML-S89 <50 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Lane sulfate spectroscopy project
 Sample ID,BKR1JBB76
 Original Sample ID,JB-JLB-B76
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.0387
 305.0,0.03679

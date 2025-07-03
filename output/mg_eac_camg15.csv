@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-09-25
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Walker Mine, Mother Lode District, CA "
 Minimum Wavelength,300
 Sample Name,MAG115

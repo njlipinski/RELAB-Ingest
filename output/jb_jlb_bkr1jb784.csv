@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-10-15
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Wyoming
 Minimum Wavelength,280
 Sample Name,CMS standard SWy-2 <125 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Spectroscopy of clay minerals (MDAP, MFRP, Active Missions)"
 Sample ID,BKR1JB784
 Original Sample ID,JB-JLB-784
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.08312
 285.0,0.07992

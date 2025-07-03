@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-10-10
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Kettle River, British Columbia, Canada"
 Minimum Wavelength,300
 Sample Name,PYX170
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,KR4011 xenolith   
 Sample ID,LAPP97
 Original Sample ID,PP-EAC-097
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.1118
 305.0,0.11934

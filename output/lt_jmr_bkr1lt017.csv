@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-03-30
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(5.0, 150.0)"
+Grain Size,(5.0 - 150.0)
 Locality,"Lake Towuti Core 9, Indonesia"
 Minimum Wavelength,300
 Sample Name,9B-1K-5-81.0cm
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Paleoclimate reconstruction of Lake Towuti
 Sample ID,BKR1LT017
 Original Sample ID,LT-JMR-017
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.02764
 305.0,0.02643

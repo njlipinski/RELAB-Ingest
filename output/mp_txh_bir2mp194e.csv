@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-06-09
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"Allan Hills, Antarctica"
 Minimum Wavelength,833
 Sample Name,"ALH 84031,4 <25 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,USNM 6531
 Sample ID,BIR2MP194E
 Original Sample ID,MP-TXH-194-E
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.34,0.040382
 833.47,0.041054

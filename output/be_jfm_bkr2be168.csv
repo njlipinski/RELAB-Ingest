@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-12-15
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(45.0, 250.0)"
+Grain Size,(45.0 - 250.0)
 Locality,Arizona & Germany
 Minimum Wavelength,280
 Sample Name,50% OLV-SC 125-250 um + 50% NG-1 45-75 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Spectral mixture modeling (PGG, Active missions, Student)"
 Sample ID,BKR2BE168
 Original Sample ID,BE-JFM-168
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.10775
 285.0,0.06445

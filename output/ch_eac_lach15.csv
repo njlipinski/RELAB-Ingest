@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-07-27
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Bardo Wroclaw, Poland "
 Minimum Wavelength,300
 Sample Name,CHM101
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Obtained from Smithsonian Institution (#R4568)  Dry-sieved. 
 Sample ID,LACH15
 Original Sample ID,CH-EAC-015
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.06268
 305.0,0.05953

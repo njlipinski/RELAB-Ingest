@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-02-28
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(45.0, 75.0)"
+Grain Size,(45.0 - 75.0)
 Locality,Labradorite-Mexico; Diopside-Madagascar
 Minimum Wavelength,800
 Sample Name,Plag85-Diopside15
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,85 vol% PL-CMP-147-C + 15 vol% PD-CMP-010-C
 Sample ID,BIR1MX102C
 Original Sample ID,MX-CMP-102-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.36766
 800.0,0.36881

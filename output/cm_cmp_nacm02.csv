@@ -2,7 +2,7 @@ Composition,
 Date Added,1993-11-29
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,"San Carlos, Ariz"
 Minimum Wavelength,950
 Sample Name,Olivine 
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Olivine for Clementine camera calibration   
 Sample ID,NACM02
 Original Sample ID,CM-CMP-002
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 950.2,0.29939
 950.5,0.29935

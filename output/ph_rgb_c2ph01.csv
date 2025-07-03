@@ -2,7 +2,7 @@ Composition,
 Date Added,1988-08-16
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,"Transvaal, RSA"
 Minimum Wavelength,300
 Sample Name,Hortonolite 

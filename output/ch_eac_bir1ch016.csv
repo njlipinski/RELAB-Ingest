@@ -2,7 +2,7 @@ Composition,
 Date Added,2006-04-27
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Chamois, France "
 Minimum Wavelength,1000
 Sample Name,CHM102
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Obtained from Smithsonian Institution (#R4558)  Dry-sieved. 
 Sample ID,BIR1CH016
 Original Sample ID,CH-EAC-016
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.16859
 1000.2,0.16859

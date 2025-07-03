@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-06-10
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(0.0, 150.0)"
+Grain Size,(0.0 - 150.0)
 Locality,"Don Quixote Pond, Dry Valleys, Antarctica"
 Minimum Wavelength,300
 Sample Name,Don Quixote Pond JB1151

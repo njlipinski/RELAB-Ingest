@@ -2,7 +2,7 @@ Composition,
 Date Added,2018-04-18
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"Victoria, Australia "
 Minimum Wavelength,833
 Sample Name,Murchison heated at 600C <25 um
@@ -15,7 +15,7 @@ Material class,Meteorites
 Sample Description,Heated for 1 week at 600C
 Sample ID,BIR1MB064G1
 Original Sample ID,MB-TXH-064-G1
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.34,0.030403
 833.47,0.030782

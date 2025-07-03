@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-02-22
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,"Lee County, SC"
 Minimum Wavelength,320
 Sample Name,Bishopville-red 

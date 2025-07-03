@@ -2,7 +2,7 @@ Composition,
 Date Added,1996-12-16
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,
 Minimum Wavelength,900
 Sample Name,"Ferrihydrite <45 um (used in low P,T measurements for 3 days?)"
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Rerun 11/17 with 11,57  (A) <45 um used in low P,T expt.(3 days)"
 Sample ID,N1CCF2
 Original Sample ID,JB-CMP-046-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.4,0.11657
 901.1,0.11728

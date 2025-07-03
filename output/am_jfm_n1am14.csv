@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-10-19
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,"Ceara Rise, western equatorial Atlantic "
 Minimum Wavelength,1800
 Sample Name,925B 15H s3 77-78 
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"4:B012.2'N, 43:B29.3'W, 3041m water depth   Plio-Pleistocene Age"
 Sample ID,N1AM14
 Original Sample ID,AM-JFM-014
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.43089
 1800.7,0.43053

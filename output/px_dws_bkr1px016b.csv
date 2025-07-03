@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-04-22
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(50.0, 100.0)"
+Grain Size,(50.0 - 100.0)
 Locality,"Napoui, New Caledonia"
 Minimum Wavelength,320
 Sample Name,Clinoenstatite (NMNH 163346) washed with HCl and dried at 120C
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Source asteroids for unequilibrated ordinary chondrites (UOC) (PGG, Cosmochemistry, Student)"
 Sample ID,BKR1PX016B
 Original Sample ID,PX-DWS-016-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.0589
 330.0,0.05703

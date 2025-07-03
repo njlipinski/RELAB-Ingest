@@ -2,7 +2,7 @@ Composition,
 Date Added,1991-08-20
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(0.0, 150.0)"
+Grain Size,(0.0 - 150.0)
 Locality,"Lake Wenetcher, WA"
 Minimum Wavelength,900
 Sample Name,Act 13
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Pure actinolite bought from Apple Valley minerals, Smithfield RI  Large single crystals ground to a powder"
 Sample ID,NAPA45
 Original Sample ID,PA-CMP-045
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.1,0.60698
 900.3,0.60515

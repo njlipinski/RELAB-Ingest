@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-10-13
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Adamawa Local Authority, Nigeria"
 Minimum Wavelength,320
 Sample Name,Mayo Belwa
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,LATB46
 Original Sample ID,TB-TJM-046
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.2896
 330.0,0.29279

@@ -2,7 +2,7 @@ Composition,
 Date Added,1993-05-03
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Lake Hoare, Antarctica"
 Minimum Wavelength,300
 Sample Name,DH2-8
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Antarctic sediment core, dive hole #2.  "
 Sample ID,493F92
 Original Sample ID,JB-CMP-092
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.08973
 305.0,0.09311

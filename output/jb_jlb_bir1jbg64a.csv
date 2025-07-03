@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-06-06
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Melissa Lane
 Minimum Wavelength,833
 Sample Name,"Stibnite fine grains <125 um (JB1664a, Melissa Lane I10)"
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BIR1JBG64A
 Original Sample ID,JB-JLB-G64-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.4,0.38068
 833.5,0.38027

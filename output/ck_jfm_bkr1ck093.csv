@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-11-30
 Formula,
 Grain Size Description,<32.0um
-Grain Size,"(0.0, 32.0)"
+Grain Size,(0.0 - 32.0)
 Locality,
 Minimum Wavelength,320
 Sample Name,A87.5 E12.5
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Anorthite 87.5 + Enstatite 12.5 prepared by Ben Greenhagen.  See Greenhagen et al. (2020) European Lunar Symposium Abstract
 Sample ID,BKR1CK093
 Original Sample ID,CK-JFM-093
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.595535
 330.0,0.654757

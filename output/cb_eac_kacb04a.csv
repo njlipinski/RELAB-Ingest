@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-12-29
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Gaspe Nord Co., Quebec, Canada "
 Minimum Wavelength,900
 Sample Name,CRB104 <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Lemieux Township, Gaspe Nord County, Gaspe Peninsula, Quebec, Canada  "
 Sample ID,KACB04A
 Original Sample ID,CB-EAC-004-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.0,0.2022
 900.3,0.20206

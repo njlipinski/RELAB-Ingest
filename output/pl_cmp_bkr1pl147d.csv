@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-06-07
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(45.0, 125.0)"
+Grain Size,(45.0 - 125.0)
 Locality,Mexico
 Minimum Wavelength,300
 Sample Name,GemLabr 1-12 45-125 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Twelve large (~2 cm) single labradorite crystals (yellow) crushed and wet sieved with DI water
 Sample ID,BKR1PL147D
 Original Sample ID,PL-CMP-147-D
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.13209
 305.0,0.16319

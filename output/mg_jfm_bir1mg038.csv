@@ -2,7 +2,7 @@ Composition,
 Date Added,2022-02-07
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,
 Minimum Wavelength,833
 Sample Name,S27
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,Fe-rich carbonate precipitates with Ca and Mg from abiotic experiments
 Sample ID,BIR1MG038
 Original Sample ID,MG-JFM-038
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.34,0.281757
 833.47,0.283478

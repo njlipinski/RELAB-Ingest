@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-03-01
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Miller Range Ice Field, Antarctica"
 Minimum Wavelength,800
 Sample Name,"MIL05035,43 pyroxene D <45 um"
@@ -15,7 +15,7 @@ Material class,Meteorites
 Sample Description,
 Sample ID,BIR1LM044
 Original Sample ID,LM-CMP-044
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.91,0.288458
 800.03,0.287816

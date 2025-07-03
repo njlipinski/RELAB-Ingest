@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-08-11
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Iceland
 Minimum Wavelength,1351
 Sample Name,RS0585
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Core sample from Icelandic lake Hvitarvatn
 Sample ID,BMR1RS785
 Original Sample ID,RS-REM-785
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1351.36,0.232685
 1351.71,0.235714

@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-12-08
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(250.0, 1000.0)"
+Grain Size,(250.0 - 1000.0)
 Locality,Mauna Kea
 Minimum Wavelength,300
 Sample Name,JSC Mars-1 >125 um

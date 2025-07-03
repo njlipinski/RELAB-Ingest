@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-11-10
 Formula,
 Grain Size Description,<90.0um
-Grain Size,"(45.0, 90.0)"
+Grain Size,(45.0 - 90.0)
 Locality,"Odessa, Texas USA "
 Minimum Wavelength,300
 Sample Name,MET101 Odessa 
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Odessa Meteorite metal powder ground and beatenwet sieved   Vial B6e
 Sample ID,LASC06
 Original Sample ID,SC-EAC-006
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.07363
 305.0,0.07405

@@ -2,7 +2,7 @@ Composition,
 Date Added,2006-07-26
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Rock dump, Soudan Mine, Soudan, Minnesota, USA"
 Minimum Wavelength,300
 Sample Name,GRE002 <45 um

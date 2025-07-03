@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-07-02
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,"Elephant Moraine, Actica"
 Minimum Wavelength,320
 Sample Name,EET90020

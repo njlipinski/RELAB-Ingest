@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-07-18
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"Ajo, Arizona"
 Minimum Wavelength,900
 Sample Name,Anhydrite 
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Dry  Crystalline hand sample with some small pyrite contamination mostly remo
 Sample ID,N1CC10A
 Original Sample ID,CC-JFM-010-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.4,0.32461
 901.1,0.32537

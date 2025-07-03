@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-07-10
 Formula,
 Grain Size Description,<35.0um
-Grain Size,"(0.0, 35.0)"
+Grain Size,(0.0 - 35.0)
 Locality,"Texas, US"
 Minimum Wavelength,833
 Sample Name,Murray <35 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Spectra of carbonaceous chondrites
 Sample ID,BIR2MT189
 Original Sample ID,MT-JMS-189
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.0545
 833.5,0.05372

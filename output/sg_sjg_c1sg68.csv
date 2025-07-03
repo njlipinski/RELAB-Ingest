@@ -2,7 +2,7 @@ Composition,
 Date Added,1988-12-06
 Formula,
 Grain Size Description,<90.0um
-Grain Size,"(0.0, 90.0)"
+Grain Size,(0.0 - 90.0)
 Locality,"Bilin, Bohemia"
 Minimum Wavelength,300
 Sample Name,10530 Aragonite <90 um

@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-10-15
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,"Sandford Cliffs, Antarctica"
 Minimum Wavelength,300
 Sample Name,"SAN 03472,9 <75 um"

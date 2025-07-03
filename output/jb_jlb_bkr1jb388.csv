@@ -2,7 +2,7 @@ Composition,
 Date Added,2003-05-04
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Near Mauna Iki, W. of Kilauea, HI (8/17/99)"
 Minimum Wavelength,320
 Sample Name,Mauna Iki gold glassy <125 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1JB388
 Original Sample ID,JB-JLB-388-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.03408
 325.0,0.03521

@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-10-05
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,"Piobbico, Italy "
 Minimum Wavelength,900
 Sample Name,THP-165 
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"Marine limestones and marls, Upper Albian Age.  Carbonates removed. "
 Sample ID,N2AM06
 Original Sample ID,AM-JFM-006-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.0,0.31034
 900.3,0.31034

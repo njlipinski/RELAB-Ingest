@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-04-06
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(0.0, 63.0)"
+Grain Size,(0.0 - 63.0)
 Locality,"Miller Range, Antarctica"
 Minimum Wavelength,320
 Sample Name,"MIL 090001,115 metal-rich <63 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1MT366M
 Original Sample ID,MT-MDL-366-M
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.023314
 330.0,0.023853

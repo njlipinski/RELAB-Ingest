@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-06-22
 Formula,
 Grain Size Description,<4000.0um
-Grain Size,"(250.0, 4000.0)"
+Grain Size,(250.0 - 4000.0)
 Locality,"Rio Tinto, Spain"
 Minimum Wavelength,320
 Sample Name,0401010 fresh silvery surface >250 um

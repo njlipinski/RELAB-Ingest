@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-04-06
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(63.0, 125.0)"
+Grain Size,(63.0 - 125.0)
 Locality,"Mount Wisting, Antarctica"
 Minimum Wavelength,320
 Sample Name,"WSG 95300,113 63-125 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1MT367B
 Original Sample ID,MT-MDL-367-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.032951
 330.0,0.033641

@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-04-13
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,France
 Minimum Wavelength,320
 Sample Name,Juvinas eucrite <250 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Reflectance spectra of HED glass (Prop Prep)
 Sample ID,BKR1TB153
 Original Sample ID,TB-RPB-153
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.07783
 330.0,0.07756

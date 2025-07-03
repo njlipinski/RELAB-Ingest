@@ -2,7 +2,7 @@ Composition,
 Date Added,2016-05-03
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Egypt
 Minimum Wavelength,833
 Sample Name,El-Quss Abu Said (CM2) <125 um pellet irradiated with pulse laser at 5 mJ
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BIR1MP131P05
 Original Sample ID,MP-KHO-131-P05
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.03344
 833.5,0.03471

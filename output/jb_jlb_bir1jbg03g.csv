@@ -2,7 +2,7 @@ Composition,
 Date Added,2018-10-11
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Marsing, Idaho"
 Minimum Wavelength,833
 Sample Name,Marsing white opal <125 um (JB1603g)
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BIR1JBG03G
 Original Sample ID,JB-JLB-G03-G
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.39,0.381906
 833.45,0.382212

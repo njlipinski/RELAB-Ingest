@@ -2,7 +2,7 @@ Composition,
 Date Added,2006-04-28
 Formula,
 Grain Size Description,<140.0um
-Grain Size,"(0.0, 140.0)"
+Grain Size,(0.0 - 140.0)
 Locality,"Urals, Russia"
 Minimum Wavelength,1000
 Sample Name,28m
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Separated from sample 28
 Sample ID,BNR1MG001
 Original Sample ID,MG-VVB-001
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.06175
 1000.2,0.06169

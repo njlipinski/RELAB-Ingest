@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-02-13
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,
 Minimum Wavelength,320
 Sample Name,MST-25_CO2

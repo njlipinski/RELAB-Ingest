@@ -2,7 +2,7 @@ Composition,
 Date Added,1996-09-11
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Apollo 17 site, Moon"
 Minimum Wavelength,300
 Sample Name,76015 Xt90+Gl10 
@@ -15,7 +15,7 @@ Material class,Returned Planetary Samples
 Sample Description,
 Sample ID,LALX03
 Original Sample ID,LX-CMP-003
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.13007
 305.0,0.13176

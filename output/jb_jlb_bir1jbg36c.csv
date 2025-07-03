@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-08-15
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,The Science Company
 Minimum Wavelength,833
 Sample Name,FeCl3 anhydrate bulk (JB1636c)
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,
 Sample ID,BIR1JBG36C
 Original Sample ID,JB-JLB-G36-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.4,0.41092
 833.5,0.41387

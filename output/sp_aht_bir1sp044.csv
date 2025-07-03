@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-11-02
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic 
 Minimum Wavelength,800
 Sample Name,Troctolite 5 <45 um
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,Mg-Spinel (ALHA81005/M3 OOS analog) synthesis by Juliane Gross
 Sample ID,BIR1SP044
 Original Sample ID,SP-AHT-044
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.35102
 800.0,0.3502

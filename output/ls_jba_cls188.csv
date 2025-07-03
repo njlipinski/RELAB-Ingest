@@ -2,7 +2,7 @@ Composition,
 Date Added,1985-07-02
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,Apollo 16 Station 2 
 Minimum Wavelength,351
 Sample Name,"62231,1P"
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Surface sample, SE rim Buster Crater  (May be nonmagnetic separate; not indicated in org. catalog data) "
 Sample ID,CLS188
 Original Sample ID,LS-JBA-158-P
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 375.0,0.10457
 378.0,0.10519

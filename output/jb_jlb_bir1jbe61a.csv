@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-08-23
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Selasvann, Norway"
 Minimum Wavelength,833
 Sample Name,Selasvann dolomite <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BIR1JBE61A
 Original Sample ID,JB-JLB-E61-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.35524
 833.5,0.35541

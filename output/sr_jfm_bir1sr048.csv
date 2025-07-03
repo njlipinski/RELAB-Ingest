@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-05-14
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(710.0, 1000.0)"
+Grain Size,(710.0 - 1000.0)
 Locality,"Lake St. John, Quebec, Canada"
 Minimum Wavelength,2000
 Sample Name,WAR-4524
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,From ASU TES spectral library to contribute to the CRISM spectral library for Mars
 Sample ID,BIR1SR048
 Original Sample ID,SR-JFM-048
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 835.0,0.0952
 840.0,0.09489

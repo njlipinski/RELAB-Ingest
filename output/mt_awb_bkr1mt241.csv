@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-10-11
 Formula,
 Grain Size Description,<40.0um
-Grain Size,"(0.0, 40.0)"
+Grain Size,(0.0 - 40.0)
 Locality,"Pecora Escarpment, Antarctica"
 Minimum Wavelength,300
 Sample Name,"PCA 02015,11 <40 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Breccia containing olivine-rich impact melt
 Sample ID,BKR1MT241
 Original Sample ID,MT-AWB-241
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.12295
 305.0,0.12585

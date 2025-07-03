@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-10-07
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic
 Minimum Wavelength,1428
 Sample Name,Synthetic ilmenite <45 um pellet pressed at 7000 psi
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,From Lindsay Keller for space weathering experiment
 Sample ID,BMR1IL007P
 Original Sample ID,IL-LPK-007-P
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.06209
 1428.8,0.06195

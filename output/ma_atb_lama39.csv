@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-04-26
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,Ast-Org 25
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,(Chlor 50% + Oliv 25% + Fe2O3 25%) 95% + Asphaltite 5%  For laser irradiation studies.
 Sample ID,LAMA39
 Original Sample ID,MA-ATB-039
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.04187
 305.0,0.04434

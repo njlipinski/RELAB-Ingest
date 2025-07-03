@@ -2,7 +2,7 @@ Composition,
 Date Added,2007-07-31
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,Bushveldt Complex 
 Minimum Wavelength,1428
 Sample Name,2504 Bushveldt Gabbro impacted at 5.742 km/s mixed w/o glass <250 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Impact effect (DDAP)
 Sample ID,BIR1SG105
 Original Sample ID,SG-BEC-105
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.20093
 1428.8,0.20116

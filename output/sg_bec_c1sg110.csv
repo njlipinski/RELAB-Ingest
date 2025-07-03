@@ -2,7 +2,7 @@ Composition,
 Date Added,2007-08-01
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Bushveldt Complex 
 Minimum Wavelength,320
 Sample Name,2504 Bushveldt Gabbro impacted at 5.742 km/s melt <45 um

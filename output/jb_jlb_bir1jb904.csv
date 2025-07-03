@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-02-09
 Formula,
 Grain Size Description,<0.1um
-Grain Size,"(0.0, 0.1)"
+Grain Size,(0.0 - 0.1)
 Locality,"Binjour Green, Queensland, Australia"
 Minimum Wavelength,800
 Sample Name,Smectite #19 from Binjour Green by Will Gates
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectroscopy of Mars analog materials
 Sample ID,BIR1JB904
 Original Sample ID,JB-JLB-904
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.34917
 800.0,0.34927

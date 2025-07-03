@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-06-06
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Split Rock, Minnesota"
 Minimum Wavelength,300
 Sample Name,PLG130
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BKR1PL053
 Original Sample ID,PL-EAC-053
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.37406
 305.0,0.42864

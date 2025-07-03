@@ -2,7 +2,7 @@ Composition,
 Date Added,1993-08-23
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Lewis Cliff, Antarctica "
 Minimum Wavelength,300
 Sample Name,"LEW87009,28 "

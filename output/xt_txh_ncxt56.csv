@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-11-28
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Eden Mills (Antigorite) 
 Minimum Wavelength,300
 Sample Name,Antigorite + Carbon 
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Antigorite 98.4 wt% + Lampblack 1.6 wt%   
 Sample ID,NCXT56
 Original Sample ID,XT-TXH-056
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.13469
 305.0,0.14047

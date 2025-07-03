@@ -2,7 +2,7 @@ Composition,
 Date Added,2018-10-18
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Polihua Trail, Lanai, Hawaii"
 Minimum Wavelength,300
 Sample Name,Lanai grey tephra PHT-1 <125 um (JB1621a)
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1JBG21A
 Original Sample ID,JB-JLB-G21-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.047829
 305.0,0.045128

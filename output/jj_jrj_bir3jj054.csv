@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-07-02
 Formula,
 Grain Size Description,<40.0um
-Grain Size,"(0.0, 40.0)"
+Grain Size,(0.0 - 40.0)
 Locality,"St. Urbain, Quebec, Canada"
 Minimum Wavelength,1000
 Sample Name,Andesine anorthosite #3520 shocked at 53.0 GPa
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BIR3JJ054
 Original Sample ID,JJ-JRJ-054
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.28173
 1000.2,0.28182

@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-07-28
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"411 level, Llallagua, Bolivia "
 Minimum Wavelength,300
 Sample Name,CRO101
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Obtained from Smithsonian Institution (#193910)   Dry-sieved. 
 Sample ID,LACR21
 Original Sample ID,CR-EAC-021
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.04688
 305.0,0.04507

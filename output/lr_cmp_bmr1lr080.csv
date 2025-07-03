@@ -2,7 +2,7 @@ Composition,
 Date Added,2002-11-21
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(20.0, 45.0)"
+Grain Size,(20.0 - 45.0)
 Locality,"Apollo 15 site, Moon"
 Minimum Wavelength,2000
 Sample Name,"15071,168"
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,BMR1LR080
 Original Sample ID,LR-CMP-080
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1999.7,0.09055
 2000.5,0.09067

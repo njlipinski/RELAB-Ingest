@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-07-14
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,Iceland
 Minimum Wavelength,280
 Sample Name,Hvalfj023A <25 um

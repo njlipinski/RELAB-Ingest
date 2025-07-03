@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-10-13
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Lee Co., South Carolina"
 Minimum Wavelength,320
 Sample Name,Bishopville 
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,LATB47
 Original Sample ID,TB-TJM-047
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.42744
 330.0,0.45185

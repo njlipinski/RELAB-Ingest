@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-04-27
 Formula,
 Grain Size Description,<2.0um
-Grain Size,"(0.0, 2.0)"
+Grain Size,(0.0 - 2.0)
 Locality,Northern California
 Minimum Wavelength,280
 Sample Name,AS 196 <2 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Clay-bearing soil from D. Beaudette, UCD (MFRP, Active Missions, Prop Prep)"
 Sample ID,BKR1JB978A
 Original Sample ID,JB-JLB-978-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.06894
 285.0,0.04228

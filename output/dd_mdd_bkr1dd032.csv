@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-04-07
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,"Allan Hills, Antarctica"
 Minimum Wavelength,300
 Sample Name,"ALHA77005,193 olivine (not pure)"
@@ -15,7 +15,7 @@ Material class,Meteorites
 Sample Description,
 Sample ID,BKR1DD032
 Original Sample ID,DD-MDD-032
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.0332
 305.0,0.0342

@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-03-03
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Atlin, BC, Canada "
 Minimum Wavelength,900
 Sample Name,CRB215Bk <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Baked/heated in air at 375C for 20 min.   21.21% weight loss. 
 Sample ID,KACB35C
 Original Sample ID,CB-EAC-035-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.0,0.35945
 900.3,0.35949

@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-09-21
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(45.0, 125.0)"
+Grain Size,(45.0 - 125.0)
 Locality,"Cerritos Bayos, Calama, Chili"
 Minimum Wavelength,800
 Sample Name,Roemerite C5602-1 45-125 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectroscopy of sulfate minerals
 Sample ID,BIR1JBA63
 Original Sample ID,JB-JLB-A63
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.30782
 800.0,0.30846

@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-04-18
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,"Egersund Anorthosite Massif, Norway"
 Minimum Wavelength,300
 Sample Name,Egersund orthopyroxene 5.2 <75 um pellet
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Untreated sample for simulated solar-wind and UV space weathering
 Sample ID,BKR1KK040P
 Original Sample ID,KK-KRK-040-P
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.11742
 305.0,0.11775

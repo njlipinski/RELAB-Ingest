@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-06-06
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(45.0, 125.0)"
+Grain Size,(45.0 - 125.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,Slavikite
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Yellow powder
 Sample ID,BKR1JBF18
 Original Sample ID,JB-JLB-F18
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.06841
 305.0,0.05211

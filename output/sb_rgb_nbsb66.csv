@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-07-02
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,? 
 Minimum Wavelength,900
 Sample Name,Epidote 
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,066-B is heated 14 days at 475c.   
 Sample ID,NBSB66
 Original Sample ID,SB-RGB-066-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.0,0.09464
 900.3,0.09488

@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-06-13
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(45.0, 125.0)"
+Grain Size,(45.0 - 125.0)
 Locality,Stillwater
 Minimum Wavelength,800
 Sample Name,"Stillwater anorthosite AN-II, 45-125 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Bulk anorthosite
 Sample ID,BIR1PL145D
 Original Sample ID,PL-CMP-145-D
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.25584
 800.0,0.25529

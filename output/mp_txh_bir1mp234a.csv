@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-12-10
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Wisconsin Range, Antarctica "
 Minimum Wavelength,1428
 Sample Name,"WIS 91600,70 <125 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BIR1MP234A
 Original Sample ID,MP-TXH-234-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.018462
 1428.82,0.01877

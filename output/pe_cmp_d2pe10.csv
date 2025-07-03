@@ -2,7 +2,7 @@ Composition,
 Date Added,1984-12-11
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,"Near Bamble, Norway "
 Minimum Wavelength,612
 Sample Name,Enstatite 

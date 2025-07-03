@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-02-27
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(0.0, 150.0)"
+Grain Size,(0.0 - 150.0)
 Locality,"Don Quixote Pond, Dry Valleys, Antarctica"
 Minimum Wavelength,833
 Sample Name,Don Quixote Pond JB1155
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Collected by Everett Gibson (Radial sampling, approximate particle size)"
 Sample ID,BIR1JBB55
 Original Sample ID,JB-JLB-B55
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.25031
 833.5,0.25073

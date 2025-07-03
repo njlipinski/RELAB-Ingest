@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-05-02
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Jeffrey Mine, Asbestos, Quebec"
 Minimum Wavelength,300
 Sample Name,Tochilinite 
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,From Roger Burns through Tom Burbine  
 Sample ID,NCTO01
 Original Sample ID,TO-TXH-001
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.17389
 305.0,0.18858

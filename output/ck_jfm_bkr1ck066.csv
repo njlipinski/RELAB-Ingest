@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-12-03
 Formula,
 Grain Size Description,<32.0um
-Grain Size,"(0.0, 32.0)"
+Grain Size,(0.0 - 32.0)
 Locality,Miyake-jima
 Minimum Wavelength,320
 Sample Name,A100
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,An95 prepared by Ben Greenhagen.  See Greenhagen et al. (2020) European Lunar Symposium Abstract
 Sample ID,BKR1CK066
 Original Sample ID,CK-JFM-066
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.66952
 330.0,0.726766

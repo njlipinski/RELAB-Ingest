@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-08-02
 Formula,
 Grain Size Description,<500.0um
-Grain Size,"(0.0, 500.0)"
+Grain Size,(0.0 - 500.0)
 Locality,"Cerro de Pusco, Peru"
 Minimum Wavelength,300
 Sample Name,Roemerite 113733 unsorted
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Lane sulfate spectroscopy project
 Sample ID,BKR2JBB64
 Original Sample ID,JB-JLB-B64
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.02662
 305.0,0.02317

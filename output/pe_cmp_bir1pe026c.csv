@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-02-07
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(45.0, 75.0)"
+Grain Size,(45.0 - 75.0)
 Locality,"Bamble, Norway"
 Minimum Wavelength,800
 Sample Name,Bamble Opx 45-75 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Splits of PE-CMP-014, -014, and -015 were further purifed by hand-picking. Smaller particle size ranges were generated from these by crushing and wet sieving in DI water"
 Sample ID,BIR1PE026C
 Original Sample ID,PE-CMP-026-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.17965
 800.0,0.17871

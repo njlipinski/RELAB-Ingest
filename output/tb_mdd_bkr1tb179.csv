@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-01-14
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Larkman Nunatak, Antarctica"
 Minimum Wavelength,320
 Sample Name,"LAR 12001,22 <125 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1TB179
 Original Sample ID,TB-MDD-179
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.037204
 330.0,0.038523

@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-11-24
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic
 Minimum Wavelength,320
 Sample Name,P82-70 glass <45 um
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"Analog to burnt lava andesite, Mt. Shasta Volcano (LSI)"
 Sample ID,BKR2GS040A
 Original Sample ID,GS-MDD-040-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.05268
 330.0,0.04542

@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-04-10
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic
 Minimum Wavelength,300
 Sample Name,fOSp1_1_L45
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"Sintered (Mg,Fe)Al spinel; higher fO2"
 Sample ID,BKR1SP127B
 Original Sample ID,SP-CMP-127-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.47066
 305.0,0.51814

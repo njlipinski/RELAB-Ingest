@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-04-18
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,"California, USA "
 Minimum Wavelength,300
 Sample Name,Los Angeles 
@@ -15,7 +15,7 @@ Material class,Meteorites
 Sample Description,"Coarse crystallize, sand-size particles.497 mg.Stone 1.   Mask 48, Pyx 41, Fay 2.3, Silica 3.2, K-rich feld-glass 1.7 wt%."
 Sample ID,LAMT05
 Original Sample ID,MT-JFM-005
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03689
 305.0,0.0381

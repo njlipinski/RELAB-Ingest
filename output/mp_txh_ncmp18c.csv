@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-12-15
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,Heated Ivuna 500C
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Unheated & heated in a vacuum cell with carbon rod for one week. 500 C
 Sample ID,NCMP18C
 Original Sample ID,MP-TXH-018-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.01493
 305.0,0.01478

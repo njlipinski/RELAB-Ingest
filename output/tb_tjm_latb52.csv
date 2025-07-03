@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-10-19
 Formula,
 Grain Size Description,<44.0um
-Grain Size,"(0.0, 44.0)"
+Grain Size,(0.0 - 44.0)
 Locality,Synthetic 
 Minimum Wavelength,320
 Sample Name,Synthetic CaS 
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,
 Sample ID,LATB52
 Original Sample ID,TB-TJM-052
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.43654
 330.0,0.46462

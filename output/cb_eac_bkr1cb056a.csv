@@ -2,7 +2,7 @@ Composition,
 Date Added,2003-12-09
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Mammoth Mine, Wallace, Idaho, USA"
 Minimum Wavelength,300
 Sample Name,CRB506 <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BKR1CB056A
 Original Sample ID,CB-EAC-056-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.40189
 305.0,0.39856

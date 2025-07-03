@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-09-12
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"Union Co., NM"
 Minimum Wavelength,300
 Sample Name,Pasamonte 
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,USNM 897.   
 Sample ID,BKR1MP087A
 Original Sample ID,MP-TXH-087-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.10623
 305.0,0.11616

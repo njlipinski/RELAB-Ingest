@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-07-22
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Texas 
 Minimum Wavelength,300
 Sample Name,STx-1 montmorillonite
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,See JB-13   
 Sample ID,1290F14
 Original Sample ID,JB-CMP-014
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.36081
 305.0,0.38561

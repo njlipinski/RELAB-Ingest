@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-01-17
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(0.0, 150.0)"
+Grain Size,(0.0 - 150.0)
 Locality,"Zacatecas, NM "
 Minimum Wavelength,300
 Sample Name,Nuevo Mercurio

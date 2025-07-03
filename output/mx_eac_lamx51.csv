@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-08-03
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic 
 Minimum Wavelength,300
 Sample Name,MIX541
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,Palagonite (PAL102x) 95% + Diaspore (OOH012) 5%   Dry-sieved. 
 Sample ID,LAMX51
 Original Sample ID,MX-EAC-051
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03383
 305.0,0.03208

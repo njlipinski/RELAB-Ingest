@@ -2,7 +2,7 @@ Composition,
 Date Added,2018-10-11
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Opal Butte, Oregon"
 Minimum Wavelength,300
 Sample Name,Butte opal <125 um (JB1614e)
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BKR1JBG14E
 Original Sample ID,JB-JLB-G14-E
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.428026
 305.0,0.43793

@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-04-06
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,France
 Minimum Wavelength,320
 Sample Name,Juvinas eucrite <250 um

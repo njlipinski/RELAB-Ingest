@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-10-07
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,"Massif Central, France"
 Minimum Wavelength,900
 Sample Name,HORNBLENDE FR-12
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,NASB78
 Original Sample ID,SB-RGB-078
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.1,0.24248
 900.3,0.24252

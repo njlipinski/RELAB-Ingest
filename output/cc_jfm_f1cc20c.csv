@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-01-12
 Formula,
 Grain Size Description,<20.0um
-Grain Size,"(0.0, 20.0)"
+Grain Size,(0.0 - 20.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,JSC Mars-1 + MgSO4
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,JSC Mars-1 palagonite (CC-18-D) 15-20um + MgSO4 (CC-19) <25 um  SO4 wt% (C)5.93
 Sample ID,F1CC20C
 Original Sample ID,CC-JFM-020-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03724
 305.0,0.03601

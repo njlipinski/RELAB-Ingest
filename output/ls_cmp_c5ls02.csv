@@ -2,7 +2,7 @@ Composition,
 Date Added,1991-02-20
 Formula,
 Grain Size Description,<30.0um
-Grain Size,"(0.0, 30.0)"
+Grain Size,(0.0 - 30.0)
 Locality,Apollo 15 
 Minimum Wavelength,300
 Sample Name,"15555,799"

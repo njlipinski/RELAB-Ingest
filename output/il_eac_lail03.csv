@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-06-15
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Slovakia
 Minimum Wavelength,300
 Sample Name,ILS103
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Illite-smectite mixed layer (70:30 ordered)   Acquired from Source Clay Minerals Repository #ISCz-1 
 Sample ID,LAIL03
 Original Sample ID,IL-EAC-003
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.24924
 305.0,0.27662

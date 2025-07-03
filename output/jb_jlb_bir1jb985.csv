@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-05-13
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,Purchased from Sigma
 Minimum Wavelength,909
 Sample Name,Salt crystals of perchlorate Fe(ClO4)2-nH2O <250 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Spectroscopy of minerals on Mars (MDAP, MFRP, Active Missions, Prop Prep)"
 Sample ID,BIR1JB985
 Original Sample ID,JB-JLB-985
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 909.0,0.04836
 909.2,0.04872

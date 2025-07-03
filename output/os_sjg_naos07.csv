@@ -2,7 +2,7 @@ Composition,
 Date Added,1994-09-01
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,"San Salvador Island, Bahamas"
 Minimum Wavelength,300
 Sample Name,SS-7GL-5B unbleached
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Unbleached coralline red algae  Powdered in ceramic mortar and pestle 
 Sample ID,NAOS07
 Original Sample ID,OS-SJG-007
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.57774
 305.0,0.57856

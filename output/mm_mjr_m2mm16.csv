@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-04-13
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,
 Minimum Wavelength,1800
 Sample Name,MST-1ox3
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,Very glassy sample with ~10% pigeonite; glass strongly affected   by oxidation; has been oxidized for 3 days. 
 Sample ID,M2MM16
 Original Sample ID,MM-MJR-016
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.10067
 1800.7,0.10038

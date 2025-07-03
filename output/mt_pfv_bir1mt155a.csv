@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-12-14
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Allan Hills, Antarctica"
 Minimum Wavelength,800
 Sample Name,"ALH85155,7 (L3.7) <45 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Asteroid-meteorite connection (NASA-F)
 Sample ID,BIR1MT155A
 Original Sample ID,MT-PFV-155-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.14912
 800.0,0.14946

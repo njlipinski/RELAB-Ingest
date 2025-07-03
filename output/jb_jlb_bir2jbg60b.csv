@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-06-02
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(250.0, 1000.0)"
+Grain Size,(250.0 - 1000.0)
 Locality,Melissa Lane
 Minimum Wavelength,833
 Sample Name,"Halite coarse grains >250 um (JB1660b, Melissa Lane SL6)"
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,
 Sample ID,BIR2JBG60B
 Original Sample ID,JB-JLB-G60-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.4,0.33192
 833.5,0.33025

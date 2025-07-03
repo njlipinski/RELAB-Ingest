@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-09-06
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"Foum Tatahouine, Tunisia"
 Minimum Wavelength,1428
 Sample Name,Tatahouine
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,no 1639.  
 Sample ID,BIR1MP088A
 Original Sample ID,MP-TXH-088-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.282349
 1428.82,0.282557

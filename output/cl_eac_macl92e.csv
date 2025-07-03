@@ -2,7 +2,7 @@ Composition,
 Date Added,1996-07-19
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Highvale, Alberta, Canada "
 Minimum Wavelength,1800
 Sample Name,COAL12E 
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Subbituminous   
 Sample ID,MACL92E
 Original Sample ID,CL-EAC-092-E
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.18927
 1800.7,0.18873

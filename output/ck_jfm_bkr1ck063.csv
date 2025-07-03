@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-10-30
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,Miyake-jima anorthite <25 um irradiated with laser for 40 minutes
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Laser irradiation performed by J. J. Gillis-Davis at WISTL
 Sample ID,BKR1CK063
 Original Sample ID,CK-JFM-063
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.6288
 325.0,0.647819

@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-10-11
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Kaso Mine, Tochigi Pref, Japan"
 Minimum Wavelength,300
 Sample Name,PYX181
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Purchased from David Shannon Minerals   
 Sample ID,LAPX04
 Original Sample ID,PX-EAC-004
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.14928
 305.0,0.16225

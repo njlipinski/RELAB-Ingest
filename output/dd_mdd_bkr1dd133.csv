@@ -2,7 +2,7 @@ Composition,
 Date Added,2018-11-01
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Composite lherzolite, Dish Hill, CA"
 Minimum Wavelength,300
 Sample Name,Ba-2-101-E CPX JH
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BKR1DD133
 Original Sample ID,DD-MDD-133
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.095865
 305.0,0.093353

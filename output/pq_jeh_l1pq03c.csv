@@ -2,7 +2,7 @@ Composition,
 Date Added,1996-01-10
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(45.0, 63.0)"
+Grain Size,(45.0 - 63.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,Quartz powder 45-63 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,L1PQ03C
 Original Sample ID,PQ-JEH-003-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.68716
 305.0,0.69595

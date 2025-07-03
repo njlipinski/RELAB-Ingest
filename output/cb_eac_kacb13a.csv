@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-01-07
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Funeral Mtns, Nevada"
 Minimum Wavelength,900
 Sample Name,CRB113 <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,KACB13A
 Original Sample ID,CB-EAC-013-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.0,0.14221
 900.3,0.14233

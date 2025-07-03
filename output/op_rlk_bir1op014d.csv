@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-06-19
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Grieszerof, Austria"
 Minimum Wavelength,833
 Sample Name,Enstatite 700C 24 hrs
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Orthopyroxene heated in a sealed vacuum tube @700C for 24 hrs
 Sample ID,BIR1OP014D
 Original Sample ID,OP-RLK-014-D
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.12931
 833.5,0.12891

@@ -2,7 +2,7 @@ Composition,
 Date Added,2016-08-02
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Transvaal
 Minimum Wavelength,300
 Sample Name,Transvaal vermiculite (JB1599) <125 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BKR1JBF99A
 Original Sample ID,JB-JLB-F99-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.0817
 305.0,0.08409

@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-11-13
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic
 Minimum Wavelength,1428
 Sample Name,Synthetic ilmenite <45 um pellet pressed at 7000 psi irradiated with pulse laser at 20 mJ
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"Laser irradiated at Mizusawa Observatory, Japan"
 Sample ID,BMR1IL007P20
 Original Sample ID,IL-LPK-007-P20
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.10751
 1428.8,0.10744

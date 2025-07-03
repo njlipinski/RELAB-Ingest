@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-08-16
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Arabia District, Pershing Co., NV"
 Minimum Wavelength,300
 Sample Name,SPT115
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Obtained from Minerals Unlimited  Dry-sieved. 
 Sample ID,LASF29A
 Original Sample ID,SF-EAC-029-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.04977
 305.0,0.05184

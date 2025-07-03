@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-09-10
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Thorolfsfell Ridge, Iceland "
 Minimum Wavelength,1000
 Sample Name,Palagonitic Tuff <45 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BIR1JB501E
 Original Sample ID,JB-JLB-501-E
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.24001
 1000.2,0.23988

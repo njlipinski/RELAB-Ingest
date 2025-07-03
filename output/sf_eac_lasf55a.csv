@@ -2,7 +2,7 @@ Composition,
 Date Added,2002-04-22
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Stassfurt, Saxony, Germany"
 Minimum Wavelength,300
 Sample Name,SPT141
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectral properties of possible Mar surface materials
 Sample ID,LASF55A
 Original Sample ID,SF-EAC-055-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03794
 305.0,0.03599

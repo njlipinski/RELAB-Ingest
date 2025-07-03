@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-08-25
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(0.0, 150.0)"
+Grain Size,(0.0 - 150.0)
 Locality,South Africa
 Minimum Wavelength,833
 Sample Name,JB1681: Tonalite KM-Spin4 <150 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,From Eugene Grosch
 Sample ID,BIR1JBG81
 Original Sample ID,JB-JLB-G81
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.4,0.1942
 833.5,0.19319

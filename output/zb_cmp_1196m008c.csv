@@ -2,7 +2,7 @@ Composition,
 Date Added,1996-11-25
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(125.0, 150.0)"
+Grain Size,(125.0 - 150.0)
 Locality,"Beech grove, Guilford, CT "
 Minimum Wavelength,1800
 Sample Name,Beech Grove 
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,B horizon collected at a depth of 5-15cm.
 Sample ID,1196M008C
 Original Sample ID,ZB-CMP-008-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.09716
 1800.7,0.09985

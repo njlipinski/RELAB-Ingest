@@ -2,7 +2,7 @@ Composition,
 Date Added,1991-04-10
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,
 Minimum Wavelength,859
 Sample Name,100% Na exchanged SWy-1
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,041091N01
 Original Sample ID,JB-CMP-008
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 859.5,0.49793
 859.7,0.49622

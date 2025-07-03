@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-06-30
 Formula,
 Grain Size Description,<500.0um
-Grain Size,"(25.0, 500.0)"
+Grain Size,(25.0 - 500.0)
 Locality,
 Minimum Wavelength,833
 Sample Name,80% magnesite (CC-06: 25-75 um) + 5% nontronite (NAu-2: 45-75 um) + 15% olivine (OLV-SC: 250-500 um) layered
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Carbonate mixtures for comparison with CRISM data (PGG, Active missions, Student)"
 Sample ID,BNR1BE050
 Original Sample ID,BE-JFM-050
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.16429
 833.5,0.16453

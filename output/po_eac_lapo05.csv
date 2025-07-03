@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-10-04
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Crystal Park, El Paso Co., CO"
 Minimum Wavelength,300
 Sample Name,OLV112
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Sample somewhat oxidized  
 Sample ID,LAPO05
 Original Sample ID,PO-EAC-005
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03468
 305.0,0.0345

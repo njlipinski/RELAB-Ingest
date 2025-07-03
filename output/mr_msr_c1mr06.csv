@@ -2,7 +2,7 @@ Composition,
 Date Added,2006-07-05
 Formula,
 Grain Size Description,<20.0um
-Grain Size,"(0.0, 20.0)"
+Grain Size,(0.0 - 20.0)
 Locality,"Synthetic, Sigma Aldrich"
 Minimum Wavelength,300
 Sample Name,Ilmenite <20 um

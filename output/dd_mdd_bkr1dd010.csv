@@ -2,7 +2,7 @@ Composition,
 Date Added,2002-12-10
 Formula,
 Grain Size Description,<50.0um
-Grain Size,"(0.0, 50.0)"
+Grain Size,(0.0 - 50.0)
 Locality,Antarctica
 Minimum Wavelength,300
 Sample Name,QUE94201 clinopyroxene
@@ -15,7 +15,7 @@ Material class,Meteorites
 Sample Description,"Separated by hand picking, then ground."
 Sample ID,BKR1DD010
 Original Sample ID,DD-MDD-010
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.05135
 305.0,0.0554

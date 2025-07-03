@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-07-28
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Herja, Crisana-Maramures, Romania "
 Minimum Wavelength,300
 Sample Name,CRO102
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Obtained from Smithsonian Institution (#R7807-4)  Dry-sieved. 
 Sample ID,LACR22
 Original Sample ID,CR-EAC-022
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.04167
 305.0,0.0429

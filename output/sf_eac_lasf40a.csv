@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-08-23
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Alcaparrosa, Chile"
 Minimum Wavelength,300
 Sample Name,SPT126
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Obtained from Mineral Unlimited   
 Sample ID,LASF40A
 Original Sample ID,SF-EAC-040-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.05109
 305.0,0.04571

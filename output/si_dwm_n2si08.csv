@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-03-10
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(63.0, 150.0)"
+Grain Size,(63.0 - 150.0)
 Locality,Equatorial Pacific
 Minimum Wavelength,300
 Sample Name,Silica standard op21
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Silica standard extracted from deep-sea core samples.   Hydrous SiO2. 
 Sample ID,N2SI08
 Original Sample ID,SI-DWM-008-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.2321
 305.0,0.24552

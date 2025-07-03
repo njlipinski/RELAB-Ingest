@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-05-05
 Formula,
 Grain Size Description,<600.0um
-Grain Size,"(0.0, 600.0)"
+Grain Size,(0.0 - 600.0)
 Locality,
 Minimum Wavelength,1428
 Sample Name,Exolith MGS-1 Mars global simulant <600 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Generic basaltic Mars regolith simulant
 Sample ID,BIR1ZL020
 Original Sample ID,ZL-ZAL-020
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.158971
 1428.82,0.158573

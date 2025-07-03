@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-01-02
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Searles Lake, San Bernardino Co., CA "
 Minimum Wavelength,300
 Sample Name,CRB107 <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,LACB07A
 Original Sample ID,CB-EAC-007-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.19986
 305.0,0.19888

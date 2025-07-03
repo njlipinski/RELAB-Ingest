@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-12-11
 Formula,
 Grain Size Description,<124.0um
-Grain Size,"(90.0, 124.0)"
+Grain Size,(90.0 - 124.0)
 Locality,
 Minimum Wavelength,280
 Sample Name,CMS standard ripidolite CCa-2 90-124 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Spectroscopy of clay minerals (MDAP, MFRP, Active Missions)"
 Sample ID,BKR1JB794D
 Original Sample ID,JB-JLB-794-D
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.07761
 285.0,0.06443

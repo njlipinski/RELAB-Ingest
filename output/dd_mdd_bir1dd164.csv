@@ -2,7 +2,7 @@ Composition,
 Date Added,2018-12-27
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Heinoloa, Finland"
 Minimum Wavelength,1428
 Sample Name,NMNH 1218247 opx
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BIR1DD164
 Original Sample ID,DD-MDD-164
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.32399
 1428.82,0.324549

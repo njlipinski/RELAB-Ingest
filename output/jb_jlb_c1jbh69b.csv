@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-11-12
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(250.0, 1000.0)"
+Grain Size,(250.0 - 1000.0)
 Locality,Synthetic by Dominik Talla
 Minimum Wavelength,300
 Sample Name,JB1769b: 60% Mg 40% Fe monohydrated sulfate >250 um

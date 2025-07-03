@@ -2,7 +2,7 @@ Composition,
 Date Added,2006-05-03
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Esmeralda Co., NV"
 Minimum Wavelength,300
 Sample Name,TAL101
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectral properties of possible Mars surface materials.
 Sample ID,BKR1EA015
 Original Sample ID,EA-EAC-015
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.67532
 305.0,0.67626

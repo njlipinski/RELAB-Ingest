@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-07-19
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"Franklin, Sussex Co., New Jersey"
 Minimum Wavelength,900
 Sample Name,Dolomite
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Dry  Crystalline hand sample purchased from Ward's.
 Sample ID,N1CC05A
 Original Sample ID,CC-JFM-005-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.4,0.38478
 901.1,0.38577

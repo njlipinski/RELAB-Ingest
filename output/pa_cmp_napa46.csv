@@ -2,7 +2,7 @@ Composition,
 Date Added,1991-08-20
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,"Grange County, Vermont"
 Minimum Wavelength,900
 Sample Name,TRE-1 
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Pure tremolite (some olivine) bought from Apple Valley Minerals,  Smithfield, RI.Large single crystals ground to powder."
 Sample ID,NAPA46
 Original Sample ID,PA-CMP-046
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.1,0.76784
 900.3,0.7668

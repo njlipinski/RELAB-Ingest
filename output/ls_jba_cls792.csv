@@ -2,7 +2,7 @@ Composition,
 Date Added,1990-12-16
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,Apollo 17 Station 3 
 Minimum Wavelength,547
 Sample Name,"73281,3Q"
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Lt. gray fraction of ""marbled zone"" (5-10cm), ""light mantle"" area   "
 Sample ID,CLS792
 Original Sample ID,LS-JBA-222-P
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 547.0,0.126
 552.0,0.127

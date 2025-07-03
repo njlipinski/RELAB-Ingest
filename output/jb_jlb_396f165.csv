@@ -2,7 +2,7 @@ Composition,
 Date Added,1996-03-30
 Formula,
 Grain Size Description,<90.0um
-Grain Size,"(0.0, 90.0)"
+Grain Size,(0.0 - 90.0)
 Locality,"Mt. Tarawera, New Zealand "
 Minimum Wavelength,300
 Sample Name,NZ-Tarawera #1
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,396F165
 Original Sample ID,JB-JLB-165
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.04296
 305.0,0.04194

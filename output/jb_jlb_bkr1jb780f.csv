@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-10-20
 Formula,
 Grain Size Description,<1500.0um
-Grain Size,"(250.0, 1500.0)"
+Grain Size,(250.0 - 1500.0)
 Locality,"Valdemore, Spain"
 Minimum Wavelength,280
 Sample Name,CMS standard sepiolite >250 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Spectroscopy of clay minerals (MDAP, MFRP, Active Missions)"
 Sample ID,BKR1JB780F
 Original Sample ID,JB-JLB-780-F
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.47039
 285.0,0.40226

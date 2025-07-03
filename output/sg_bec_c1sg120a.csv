@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-07-07
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,"Bushveldt Complex, South Africa"
 Minimum Wavelength,280
 Sample Name,2612 Gabbro melt shot at 5.25 km/s glass-removed <250 um

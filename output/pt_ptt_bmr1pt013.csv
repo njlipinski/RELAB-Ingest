@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-06-03
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,Northern China
 Minimum Wavelength,1428
 Sample Name,Lunar regolith simulant
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Lunar simulant from Dr. Peter Chen (LASER)
 Sample ID,BMR1PT013
 Original Sample ID,PT-PTT-013
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.09247
 1428.8,0.09263

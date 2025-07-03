@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-02-22
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,Synthetic 
 Minimum Wavelength,1800
 Sample Name,MST-12
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,Basalt crystallized at 1 atm and 1050C for 8 days.  Fine grained partially crystallized basalt. 
 Sample ID,M1MM06
 Original Sample ID,MM-MJR-006
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.09891
 1800.7,0.09979

@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-11-05
 Formula,
 Grain Size Description,<90.0um
-Grain Size,"(0.0, 90.0)"
+Grain Size,(0.0 - 90.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,MIX521
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,OLV003 (45-90 um) 90% + CHR103 (<45 um) 10%   
 Sample ID,LAMX21
 Original Sample ID,MX-EAC-021
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.06871
 305.0,0.07436

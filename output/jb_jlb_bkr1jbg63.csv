@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-06-06
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Melissa Lane
 Minimum Wavelength,300
 Sample Name,"Sphalerite fine grains <125 um (JB1663, Melissa Lane I7)"
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BKR1JBG63
 Original Sample ID,JB-JLB-G63
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.06389
 305.0,0.06232

@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-03-05
 Formula,
 Grain Size Description,<400.0um
-Grain Size,"(0.0, 400.0)"
+Grain Size,(0.0 - 400.0)
 Locality,"Long Buffe, Washington"
 Minimum Wavelength,300
 Sample Name,LB-04
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Sub-glacial eruption product
 Sample ID,BKR1WF008
 Original Sample ID,WF-WHF-008
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.04764
 305.0,0.04317

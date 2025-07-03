@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-04-07
 Formula,
 Grain Size Description,<4000.0um
-Grain Size,"(0.0, 4000.0)"
+Grain Size,(0.0 - 4000.0)
 Locality,Sigma-Aldrich
 Minimum Wavelength,300
 Sample Name,CaCl2 hexahydrate bulk (JB1631c)
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,
 Sample ID,BKR2JBG31C
 Original Sample ID,JB-JLB-G31-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.2977
 305.0,0.29335

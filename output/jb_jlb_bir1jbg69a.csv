@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-06-02
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Melissa Lane
 Minimum Wavelength,833
 Sample Name,"Thomsonite fine grains <125 um (JB1669a, Melissa Lane Z158)"
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BIR1JBG69A
 Original Sample ID,JB-JLB-G69-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.4,0.62513
 833.5,0.6217

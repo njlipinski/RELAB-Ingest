@@ -2,7 +2,7 @@ Composition,
 Date Added,2007-02-22
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,
 Minimum Wavelength,1000
 Sample Name,Kieserite 152959
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Spectroscopy of sulfate minerals (MDAP, MFRP)"
 Sample ID,BIR1JB734
 Original Sample ID,JB-JLB-734
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.45741
 1000.2,0.45742

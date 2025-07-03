@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-06-12
 Formula,
 Grain Size Description,<30.0um
-Grain Size,"(0.0, 30.0)"
+Grain Size,(0.0 - 30.0)
 Locality,Apollo 15 
 Minimum Wavelength,300
 Sample Name,"15555,799"
@@ -15,7 +15,7 @@ Material class,Returned Planetary Samples
 Sample Description,Apollo 15 Saw Fines from 15555  
 Sample ID,N2LS02
 Original Sample ID,LS-CMP-002
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.07364
 305.0,0.07318

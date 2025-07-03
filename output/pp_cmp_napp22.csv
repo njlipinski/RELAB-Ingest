@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-06-11
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(45.0, 75.0)"
+Grain Size,(45.0 - 75.0)
 Locality,Hawaii
 Minimum Wavelength,1000
 Sample Name,Cpx 75
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Diopside: Wo 46% En 46% Fs 9%   
 Sample ID,NAPP22
 Original Sample ID,PP-CMP-022
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.16498
 1000.4,0.16451

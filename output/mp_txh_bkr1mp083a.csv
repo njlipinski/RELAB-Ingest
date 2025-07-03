@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-09-06
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"Bauchi, Nigeria "
 Minimum Wavelength,300
 Sample Name,Bununu
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,USNM 1571.  
 Sample ID,BKR1MP083A
 Original Sample ID,MP-TXH-083-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.14573
 305.0,0.148

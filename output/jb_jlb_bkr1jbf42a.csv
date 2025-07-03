@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-04-02
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,"Flagstaff Hill, CA"
 Minimum Wavelength,300
 Sample Name,Brown smectite <250 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Collected by J. Post
 Sample ID,BKR1JBF42A
 Original Sample ID,JB-JLB-F42-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03303
 305.0,0.03099

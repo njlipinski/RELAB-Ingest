@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-01-09
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(45.0, 63.0)"
+Grain Size,(45.0 - 63.0)
 Locality,Hawaii
 Minimum Wavelength,280
 Sample Name,BAS Gl 45-63
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"Mineral mixtures and deriving abundance using VNIR spectroscopy (PGG, MDAP, Active missions, Student)"
 Sample ID,BKR3BE062
 Original Sample ID,BE-JFM-062
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.02387
 285.0,0.02381

@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-04-28
 Formula,
 Grain Size Description,<5.0um
-Grain Size,"(0.0, 5.0)"
+Grain Size,(0.0 - 5.0)
 Locality,Synthetic by Aldrich
 Minimum Wavelength,280
 Sample Name,Nanophase hematite

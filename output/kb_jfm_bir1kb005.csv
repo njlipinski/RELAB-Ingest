@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-11-03
 Formula,
 Grain Size Description,<200.0um
-Grain Size,"(50.0, 200.0)"
+Grain Size,(50.0 - 200.0)
 Locality,"Konya Basin, South-Central Anatolia, Turkey"
 Minimum Wavelength,800
 Sample Name,P03-SL2A (0-12.5 cm depth)
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Classification by de Meester et al. (1970)
 Sample ID,BIR1KB005
 Original Sample ID,KB-JFM-005
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.35165
 800.0,0.35081

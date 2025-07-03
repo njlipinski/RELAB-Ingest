@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-01-21
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Unknown 
 Minimum Wavelength,1000
 Sample Name,OILS100 
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Oilshale  
 Sample ID,NSC104
 Original Sample ID,SC-EAC-104
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.13695
 1000.4,0.13699

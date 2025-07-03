@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-11-04
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Wright Valley, Dry Valleys, Antarctica"
 Minimum Wavelength,300
 Sample Name,"JB1307: Pond VXE-6, core WV42, 4-5 cm depth <125 um"
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,BKR1JBD07
 Original Sample ID,JB-JLB-D07
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.041862
 305.0,0.04092

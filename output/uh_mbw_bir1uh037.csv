@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-03-20
 Formula,
 Grain Size Description,<2000.0um
-Grain Size,"(0.0, 2000.0)"
+Grain Size,(0.0 - 2000.0)
 Locality,"Viti crater lake, within Askja caldera"
 Minimum Wavelength,909
 Sample Name,V5
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Weathering/alteration of topsoil in Martian analog environments (Prop Prep, Student)"
 Sample ID,BIR1UH037
 Original Sample ID,UH-MBW-037
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 909.0,0.10559
 909.2,0.10576

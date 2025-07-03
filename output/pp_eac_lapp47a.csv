@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-10-31
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,PYX110 <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Locality unknown.Univ. of Alberta Geology 330 lab collection #8/4/4.
 Sample ID,LAPP47A
 Original Sample ID,PP-EAC-047-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.23913
 305.0,0.24721

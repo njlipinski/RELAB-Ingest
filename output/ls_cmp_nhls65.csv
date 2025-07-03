@@ -2,7 +2,7 @@ Composition,
 Date Added,1994-03-23
 Formula,
 Grain Size Description,<20.0um
-Grain Size,"(0.0, 20.0)"
+Grain Size,(0.0 - 20.0)
 Locality,"Apollo 16 site, Moon"
 Minimum Wavelength,300
 Sample Name,"61221,126 <20 um"
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,NHLS65
 Original Sample ID,LS-CMP-065-H
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.20393
 305.0,0.20658

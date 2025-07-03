@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-07-08
 Formula,
 Grain Size Description,<2.0um
-Grain Size,"(0.0, 2.0)"
+Grain Size,(0.0 - 2.0)
 Locality,Clays and Clay Minerals Clay Repository
 Minimum Wavelength,1000
 Sample Name,Illite IMt-1 part
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Spectroscopy of mixed-layer clay minerals (Student, GSRP)."
 Sample ID,BIR1ER041
 Original Sample ID,ER-TGS-041
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.19822
 1000.2,0.19837

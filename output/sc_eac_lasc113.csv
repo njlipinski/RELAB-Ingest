@@ -2,7 +2,7 @@ Composition,
 Date Added,1996-07-13
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Near Rifle, Colorado"
 Minimum Wavelength,300
 Sample Name,OILS10E 
@@ -15,7 +15,7 @@ Material class,Organic
 Sample Description,From Minerals Unlimited   
 Sample ID,LASC113
 Original Sample ID,SC-EAC-113
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.05386
 305.0,0.05491

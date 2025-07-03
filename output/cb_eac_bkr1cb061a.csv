@@ -2,7 +2,7 @@ Composition,
 Date Added,2003-12-10
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Chessy Lyon, Rhone, France"
 Minimum Wavelength,300
 Sample Name,CRB511 <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BKR1CB061A
 Original Sample ID,CB-EAC-061-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03962
 305.0,0.03754

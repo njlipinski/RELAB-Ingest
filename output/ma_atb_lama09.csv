@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-10-22
 Formula,
 Grain Size Description,<80.0um
-Grain Size,"(40.0, 80.0)"
+Grain Size,(40.0 - 80.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,N8
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Laser shots at vacuum of 10-2 mmHg  
 Sample ID,LAMA09
 Original Sample ID,MA-ATB-009
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03006
 305.0,0.02994

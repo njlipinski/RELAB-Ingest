@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-10-06
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,STD California
 Minimum Wavelength,900
 Sample Name,GLAUCOPHANE STD 
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,NCSB71
 Original Sample ID,SB-RGB-071
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.1,0.17663
 900.3,0.17832

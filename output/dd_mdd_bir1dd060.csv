@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-03-01
 Formula,
 Grain Size Description,<50.0um
-Grain Size,"(0.0, 50.0)"
+Grain Size,(0.0 - 50.0)
 Locality,"Elephant Moraine, Antarctica"
 Minimum Wavelength,2000
 Sample Name,"EETA79001,596 lith-A olivine"
@@ -15,7 +15,7 @@ Material class,Meteorites
 Sample Description,
 Sample ID,BIR1DD060
 Original Sample ID,DD-MDD-060
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1999.7,0.19577
 2000.5,0.19582

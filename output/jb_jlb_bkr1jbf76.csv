@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-12-17
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,Guadelope-Montserate
 Minimum Wavelength,300
 Sample Name,CG20 <250 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,From Christoph Gross
 Sample ID,BKR1JBF76
 Original Sample ID,JB-JLB-F76
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.08409
 305.0,0.08596

@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-06-24
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Antarctica
 Minimum Wavelength,280
 Sample Name,"Crushed Antarctic basalt <45 um (A-B epoxy, DCM treated)"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"Mounted in A-B epoxy, epoxy dissolved in dichloromethane (DCM).  Residual epoxy flakes"
 Sample ID,BKR1SP040
 Original Sample ID,SP-PJI-040
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.06774
 285.0,0.0586

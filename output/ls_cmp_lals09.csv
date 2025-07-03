@@ -2,7 +2,7 @@ Composition,
 Date Added,1996-03-03
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,Apollo 12 
 Minimum Wavelength,300
 Sample Name,"12063,199"
@@ -15,7 +15,7 @@ Material class,Returned Planetary Samples
 Sample Description,Fine-grained separate from 12063 rock   
 Sample ID,LALS09
 Original Sample ID,LS-CMP-009
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03845
 305.0,0.0339

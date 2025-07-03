@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-01-02
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Snarum, Norway"
 Minimum Wavelength,900
 Sample Name,CRB106 <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,KACB06A
 Original Sample ID,CB-EAC-006-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.0,0.33327
 900.3,0.33325

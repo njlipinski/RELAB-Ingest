@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-01-30
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(0.0, 150.0)"
+Grain Size,(0.0 - 150.0)
 Locality,"Don Juan Pond, Dry Valleys, Antarctica"
 Minimum Wavelength,300
 Sample Name,Don Juan Pond JB1133
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Collected by Everett Gibson (Approximate particle size)
 Sample ID,BKR1JBB33
 Original Sample ID,JB-JLB-B33
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.11582
 305.0,0.11519

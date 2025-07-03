@@ -2,7 +2,7 @@ Composition,
 Date Added,1991-08-21
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,"Berkeley, CA"
 Minimum Wavelength,900
 Sample Name,Berkeley #14785 
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,NAPA51
 Original Sample ID,PA-CMP-051
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.1,0.53983
 900.3,0.53628

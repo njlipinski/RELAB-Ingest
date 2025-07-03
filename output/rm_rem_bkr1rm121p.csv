@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-07-26
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,"Miller Range, Antarctica"
 Minimum Wavelength,300
 Sample Name,"MIL 03368,14 bulk powder"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,HED mixing model study
 Sample ID,BKR1RM121P
 Original Sample ID,RM-REM-121-P
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.05372
 305.0,0.05482

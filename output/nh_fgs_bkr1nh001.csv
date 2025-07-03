@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-07-06
 Formula,
 Grain Size Description,<600.0um
-Grain Size,"(0.45, 600.0)"
+Grain Size,(0.45 - 600.0)
 Locality,"Anasco, Puerto Rico"
 Minimum Wavelength,320
 Sample Name,A1 - suspended sediment from Grande de Anasco River
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Sample water was collected and filtered on 0.45 um filter (Student)
 Sample ID,BKR1NH001
 Original Sample ID,NH-FGS-001
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.06222
 330.0,0.06075

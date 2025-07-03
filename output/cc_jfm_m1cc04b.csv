@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-02-28
 Formula,
 Grain Size Description,<10.0um
-Grain Size,"(5.0, 10.0)"
+Grain Size,(5.0 - 10.0)
 Locality,Clay Mineral Society
 Minimum Wavelength,1800
 Sample Name,SWy-1 
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,M1CC04B
 Original Sample ID,CC-JFM-004-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.43933
 1800.7,0.44049

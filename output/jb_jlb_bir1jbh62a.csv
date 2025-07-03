@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-11-09
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,Synthetic by Dominik Talla
 Minimum Wavelength,833
 Sample Name,JB1762a: 95% Mg 5% Fe monohydrated sulfate <250 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BIR1JBH62A
 Original Sample ID,JB-JLB-H62-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.39,0.328582
 833.45,0.328561

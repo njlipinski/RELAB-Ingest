@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-01-05
 Formula,
 Grain Size Description,<90.0um
-Grain Size,"(45.0, 90.0)"
+Grain Size,(45.0 - 90.0)
 Locality,Unknown 
 Minimum Wavelength,900
 Sample Name,CRB109 45-90 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,University of Alberta GEOL330 laboratory collection
 Sample ID,KACB09B
 Original Sample ID,CB-EAC-009-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.0,0.44965
 900.3,0.4495

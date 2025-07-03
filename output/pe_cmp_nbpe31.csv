@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-06-12
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(45.0, 75.0)"
+Grain Size,(45.0 - 75.0)
 Locality,"Webster, NC "
 Minimum Wavelength,300
 Sample Name,Web 75
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Enstatite: Wo 1% En 87% Fs 12%  
 Sample ID,NBPE31
 Original Sample ID,PE-CMP-031
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.06358
 305.0,0.07416

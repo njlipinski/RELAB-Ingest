@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-06-04
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Aldrich Chemical Co.
 Minimum Wavelength,300
 Sample Name,PIG021
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,
 Sample ID,BKR1EC013
 Original Sample ID,EC-EAC-013
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.79621
 305.0,0.7927

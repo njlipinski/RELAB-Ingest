@@ -2,7 +2,7 @@ Composition,
 Date Added,1991-05-02
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Yamato Mtns, Antarctica "
 Minimum Wavelength,300
 Sample Name,"Y-86720,77 <125 um"

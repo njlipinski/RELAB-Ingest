@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-10-19
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Gash delta, Kassala, Sudan"
 Minimum Wavelength,320
 Sample Name,Khor Temiki 
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,LATB48
 Original Sample ID,TB-TJM-048
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.39659
 330.0,0.40837

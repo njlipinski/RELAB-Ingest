@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-08-06
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,Malinckrodt 
 Minimum Wavelength,300
 Sample Name,MgSO4 Crust Packed

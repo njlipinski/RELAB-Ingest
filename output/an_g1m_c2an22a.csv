@@ -2,7 +2,7 @@ Composition,
 Date Added,2006-10-02
 Formula,
 Grain Size Description,<160.0um
-Grain Size,"(0.0, 160.0)"
+Grain Size,(0.0 - 160.0)
 Locality,"Gillbert Hill, Mumbai, India"
 Minimum Wavelength,300
 Sample Name,LMb-7 <160 um

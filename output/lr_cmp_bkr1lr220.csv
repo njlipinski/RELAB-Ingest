@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-03-02
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Apollo 17 site, Moon"
 Minimum Wavelength,280
 Sample Name,"70035,188 light-brown pyroxene D <45 um"
@@ -15,7 +15,7 @@ Material class,Returned Planetary Samples
 Sample Description,Mineral separate from Apollo 17 basalt (LRMCC)
 Sample ID,BKR1LR220
 Original Sample ID,LR-CMP-220
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.07665
 285.0,0.07504

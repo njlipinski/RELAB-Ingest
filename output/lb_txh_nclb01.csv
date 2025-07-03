@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-11-29
 Formula,
 Grain Size Description,<1.0um
-Grain Size,"(0.0, 1.0)"
+Grain Size,(0.0 - 1.0)
 Locality,Unknown 
 Minimum Wavelength,300
 Sample Name,Carbon lampblack
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,
 Sample ID,NCLB01
 Original Sample ID,LB-TXH-001
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.02538
 305.0,0.02253

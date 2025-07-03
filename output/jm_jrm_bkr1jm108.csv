@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-10-06
 Formula,
 Grain Size Description,<30.0um
-Grain Size,"(2.0, 30.0)"
+Grain Size,(2.0 - 30.0)
 Locality,Unknown 
 Minimum Wavelength,320
 Sample Name,10% KGa-2 + 90% TR-M
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,BKR1JM108
 Original Sample ID,JM-JRM-108
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.21463
 330.0,0.24979

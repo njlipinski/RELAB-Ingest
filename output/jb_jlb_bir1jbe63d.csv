@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-08-28
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(90.0, 125.0)"
+Grain Size,(90.0 - 125.0)
 Locality,"Litchfield Co., Connecticut"
 Minimum Wavelength,833
 Sample Name,Litchfield Co. siderite 90-125 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BIR1JBE63D
 Original Sample ID,JB-JLB-E63-D
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.13721
 833.5,0.13749

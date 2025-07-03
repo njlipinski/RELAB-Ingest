@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-11-21
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Montargis, Loiret, France"
 Minimum Wavelength,280
 Sample Name,Chateau Renard (L6) <125 um pellet irradiated with 5 mJ + 10 mJ + 20 mJ laser

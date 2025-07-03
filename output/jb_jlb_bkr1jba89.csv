@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-07-10
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(0.0, 150.0)"
+Grain Size,(0.0 - 150.0)
 Locality,"Wright Valley, Dry Valleys, Antarctica"
 Minimum Wavelength,300
 Sample Name,Wright Valley Soil Pit #1 JB1089
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Collected by Everett Gibson (Approximate particle size)
 Sample ID,BKR1JBA89
 Original Sample ID,JB-JLB-A89
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.10747
 305.0,0.10911

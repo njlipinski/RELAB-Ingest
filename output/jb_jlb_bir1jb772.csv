@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-05-16
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Laguna Colorado
 Minimum Wavelength,1000
 Sample Name,Hot springs mud near LBI <125 um

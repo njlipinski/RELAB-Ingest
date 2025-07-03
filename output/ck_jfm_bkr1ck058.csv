@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-12-20
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,
 Minimum Wavelength,350
 Sample Name,JGD1 Olivine Fresh
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Experimentally space weathered San Carlos olivine. See Kaluna et al. 2017 for experimentally space weathering procedure
 Sample ID,BKR1CK058
 Original Sample ID,CK-JFM-058
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 350.0,0.40021
 351.0,0.401815

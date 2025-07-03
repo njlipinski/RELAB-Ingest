@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-07-26
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Tagish Lake, Canada "
 Minimum Wavelength,1428
 Sample Name,Tagish Lake <125 um pellet laser-irradiated at 5 mJ + 10 mJ + 5 mJ x 3 + 5 mJ x 3 + 5 mJ x 4
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BMR1MT025L65
 Original Sample ID,MT-TXH-025-L65
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.02631
 1428.8,0.0262

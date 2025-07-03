@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-10-22
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Synthetic
 Minimum Wavelength,833
 Sample Name,Nesquehonite
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,Mars-relevant carbonates
 Sample ID,BIR1CB084
 Original Sample ID,CB-MSG-084
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.43961
 833.5,0.44168

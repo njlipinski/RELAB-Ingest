@@ -2,7 +2,7 @@ Composition,
 Date Added,2003-06-18
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Kodama collection #161
 Minimum Wavelength,300
 Sample Name,K-alunite
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BKR1JB444
 Original Sample ID,JB-JLB-444
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.72334
 305.0,0.72682

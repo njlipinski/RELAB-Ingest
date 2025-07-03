@@ -2,7 +2,7 @@ Composition,
 Date Added,1987-04-14
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(50.0, 1000.0)"
+Grain Size,(50.0 - 1000.0)
 Locality,"Gran Desierto, Mexico "
 Minimum Wavelength,350
 Sample Name,1314.0

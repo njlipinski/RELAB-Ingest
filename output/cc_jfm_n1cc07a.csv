@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-07-19
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"Antigonish Co., Nova Scotia, Canada "
 Minimum Wavelength,900
 Sample Name,Siderite
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Dry  Crystalline hand sample with trace hematite likely as contaminant.
 Sample ID,N1CC07A
 Original Sample ID,CC-JFM-007-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.4,0.27856
 901.1,0.27898

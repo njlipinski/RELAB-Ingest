@@ -2,7 +2,7 @@ Composition,
 Date Added,1996-01-10
 Formula,
 Grain Size Description,<20.0um
-Grain Size,"(15.0, 20.0)"
+Grain Size,(15.0 - 20.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,Quartz powder 15-20 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,LIPQ03
 Original Sample ID,PQ-JEH-003-I
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.61845
 305.0,0.62567

@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-03-05
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,Upper Volta 
 Minimum Wavelength,300
 Sample Name,Bereba

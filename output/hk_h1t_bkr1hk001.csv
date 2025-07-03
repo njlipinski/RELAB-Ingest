@@ -2,7 +2,7 @@ Composition,
 Date Added,2007-06-21
 Formula,
 Grain Size Description,<2000.0um
-Grain Size,"(0.0, 2000.0)"
+Grain Size,(0.0 - 2000.0)
 Locality,"Kohyama, Yamaguchi Prefecture, Japan"
 Minimum Wavelength,300
 Sample Name,Kohyama gabbro bulk
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,For lunar simulant
 Sample ID,BKR1HK001
 Original Sample ID,HK-H1T-001
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.13146
 305.0,0.14199

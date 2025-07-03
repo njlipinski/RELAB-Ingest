@@ -2,7 +2,7 @@ Composition,
 Date Added,2016-05-09
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Santorini, Greece "
 Minimum Wavelength,300
 Sample Name,Santorini altered soil <125 um

@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-12-04
 Formula,
 Grain Size Description,<400.0um
-Grain Size,"(149.0, 400.0)"
+Grain Size,(149.0 - 400.0)
 Locality,Acros P/N: S24/25
 Minimum Wavelength,833
 Sample Name,Quartz - Acros
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Code: 370940010; CAS: 14808-60-7; Lot: A0283719; Bulk sample, no sorting."
 Sample ID,BIR1LF010
 Original Sample ID,LF-NEB-010
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.25278
 833.5,0.25342

@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-08-08
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(45.0, 125.0)"
+Grain Size,(45.0 - 125.0)
 Locality,"Copiapo Jarosite Mine, Dona Ana Co., NM"
 Minimum Wavelength,800
 Sample Name,Jarosite ML-S51 45-125 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Lane sulfate spectroscopy project
 Sample ID,BIR1JBB80B
 Original Sample ID,JB-JLB-B80-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.19472
 800.0,0.1942

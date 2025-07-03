@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-01-07
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(45.0, 75.0)"
+Grain Size,(45.0 - 75.0)
 Locality,Hawaii and Germany
 Minimum Wavelength,800
 Sample Name,90% NG-1 45-75 + 10% BAS Gl 45-75
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Mineral mixtures and deriving abundance using VNIR spectroscopy (PGG, MDAP, Active missions, Student)"
 Sample ID,BIR1BE106
 Original Sample ID,BE-JFM-106
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.25268
 800.0,0.25205

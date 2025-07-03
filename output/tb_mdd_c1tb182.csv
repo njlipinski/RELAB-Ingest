@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-12-09
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Lonewolf Nunatarks, Antarctica"
 Minimum Wavelength,320
 Sample Name,"LON 94100,55 <125 um"

@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-10-23
 Formula,
 Grain Size Description,<35.0um
-Grain Size,"(0.0, 35.0)"
+Grain Size,(0.0 - 35.0)
 Locality,"Al Madinah, Saudi Arabia"
 Minimum Wavelength,300
 Sample Name,Al Rais (CR2)
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"Not sieved, estimate grain size."
 Sample ID,BKR1MT265
 Original Sample ID,MT-KTH-265
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.02346
 305.0,0.02423

@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-10-30
 Formula,
 Grain Size Description,<60.0um
-Grain Size,"(0.0, 60.0)"
+Grain Size,(0.0 - 60.0)
 Locality,Haleakala Crater
 Minimum Wavelength,900
 Sample Name,Banin 91-16
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Prepared by Amos Banin  
 Sample ID,1099S295
 Original Sample ID,JB-JLB-295
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.429,0.137266
 901.0552,0.137323

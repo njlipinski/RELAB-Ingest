@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-12-08
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,Relab 
 Minimum Wavelength,300
 Sample Name,Soil #1 
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,3:1:1med:med:medcfpp27:clpe34:cipo32  
 Sample ID,CAXS01
 Original Sample ID,XS-CMP-001
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.10232
 305.0,0.10293

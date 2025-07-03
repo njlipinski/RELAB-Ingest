@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-02-09
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Garbagna, Allesandria, Italy"
 Minimum Wavelength,1800
 Sample Name,ZEO124
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Smithsonian Inst NMNH #121217   
 Sample ID,MAZE24
 Original Sample ID,ZE-EAC-024
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.3649
 1800.7,0.36499

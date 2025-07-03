@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-04-16
 Formula,
 Grain Size Description,<35.0um
-Grain Size,"(0.0, 35.0)"
+Grain Size,(0.0 - 35.0)
 Locality,"Allan Hills, Antarctica"
 Minimum Wavelength,800
 Sample Name,ALH 83100 (CM1/2) <35 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"Fo 100: 4.9, Fo 90: 3.8 vol%"
 Sample ID,BIR1MT222
 Original Sample ID,MT-JMS-222
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.05589
 800.0,0.0568

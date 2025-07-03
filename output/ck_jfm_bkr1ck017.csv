@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-07-26
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(38.0, 63.0)"
+Grain Size,(38.0 - 63.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,GMM044 Lab45.4545-Olvsc45.4545-Hwgl9.0909
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"45.4545 vol% labradorite, 45.4545 vol% forsterite (San Carlos), 9.0909 vol% Hawaii glass. See Berlanga 2017, LPS XLVIII, Abstract 2255"
 Sample ID,BKR1CK017
 Original Sample ID,CK-JFM-017
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.11735
 305.0,0.132353

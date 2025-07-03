@@ -2,7 +2,7 @@ Composition,
 Date Added,1987-11-25
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,"Oahu, Hawaii"
 Minimum Wavelength,320
 Sample Name,1523.0

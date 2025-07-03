@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-12-10
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,Synthesized by Donald Lindsley at SUNY Stonybrook
 Minimum Wavelength,300
 Sample Name,50% HCP (PX-18) + 50% LCP (PX-17) <25 um

@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-10-01
 Formula,
 Grain Size Description,<90.0um
-Grain Size,"(63.0, 90.0)"
+Grain Size,(63.0 - 90.0)
 Locality,"CMS-SCR and Bergen, Norway"
 Minimum Wavelength,800
 Sample Name,3 wt% SapCap-1 + 97 wt% Bergen enstatite (63-90 um)
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Roush mixture project
 Sample ID,BIR1JBB89
 Original Sample ID,JB-JLB-B89
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.12623
 800.0,0.12742

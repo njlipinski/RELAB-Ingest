@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-11-10
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Pen~a Blanca Spring, TX "
 Minimum Wavelength,320
 Sample Name,Pena Blanca Sp Sulfd

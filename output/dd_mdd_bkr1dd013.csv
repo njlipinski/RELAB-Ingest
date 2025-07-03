@@ -2,7 +2,7 @@ Composition,
 Date Added,2002-12-12
 Formula,
 Grain Size Description,<50.0um
-Grain Size,"(0.0, 50.0)"
+Grain Size,(0.0 - 50.0)
 Locality,"Elephant Moraine, Antarctica"
 Minimum Wavelength,300
 Sample Name,EETA79001 B pyroxene
@@ -15,7 +15,7 @@ Material class,Meteorites
 Sample Description,"Separated by hand picking, then ground (RGB collection)"
 Sample ID,BKR1DD013
 Original Sample ID,DD-MDD-013
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.0584
 305.0,0.06143

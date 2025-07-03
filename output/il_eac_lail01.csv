@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-06-15
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Rochester, NY "
 Minimum Wavelength,300
 Sample Name,ILL101
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Illite (green shale)  Acquired from Ward's (Sample # 46 E 0315) 
 Sample ID,LAIL01
 Original Sample ID,IL-EAC-001
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.11897
 305.0,0.12814

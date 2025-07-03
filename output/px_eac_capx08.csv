@@ -2,7 +2,7 @@ Composition,
 Date Added,2001-08-04
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Unknown
 Minimum Wavelength,300
 Sample Name,PYX168

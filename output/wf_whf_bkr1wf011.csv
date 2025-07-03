@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-03-05
 Formula,
 Grain Size Description,<400.0um
-Grain Size,"(0.0, 400.0)"
+Grain Size,(0.0 - 400.0)
 Locality,"Capitol Reef National Park, Utah"
 Minimum Wavelength,300
 Sample Name,Summerville Fm. gypsum
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1WF011
 Original Sample ID,WF-WHF-011
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.75588
 305.0,0.75704

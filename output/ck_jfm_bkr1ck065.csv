@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-10-30
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,Miyake-jima anorthite <25 um + 5% JSC1AF
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,JSC1AF is a lunar regolith simulant
 Sample ID,BKR1CK065
 Original Sample ID,CK-JFM-065
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.538805
 325.0,0.555402

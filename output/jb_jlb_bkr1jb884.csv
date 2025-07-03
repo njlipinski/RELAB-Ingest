@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-05-20
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Coso Hot Springs, Inyo County, CA"
 Minimum Wavelength,280
 Sample Name,Cristobalite in obsidian from Steve Hillier
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectroscopy of clay minerals
 Sample ID,BKR1JB884
 Original Sample ID,JB-JLB-884
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.34244
 285.0,0.31685

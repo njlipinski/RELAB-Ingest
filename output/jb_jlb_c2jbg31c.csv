@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-04-07
 Formula,
 Grain Size Description,<4000.0um
-Grain Size,"(0.0, 4000.0)"
+Grain Size,(0.0 - 4000.0)
 Locality,Sigma-Aldrich
 Minimum Wavelength,300
 Sample Name,CaCl2 hexahydrate bulk (JB1631c)

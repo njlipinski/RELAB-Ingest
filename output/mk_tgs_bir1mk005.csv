@@ -2,7 +2,7 @@ Composition,
 Date Added,2007-02-09
 Formula,
 Grain Size Description,<106.0um
-Grain Size,"(0.0, 106.0)"
+Grain Size,(0.0 - 106.0)
 Locality,Synthetic 
 Minimum Wavelength,833
 Sample Name,Amorphous SiO2: 0-100
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,Effects of secondary coatings (MFRP)
 Sample ID,BIR1MK005
 Original Sample ID,MK-TGS-005
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.45028
 833.5,0.45027

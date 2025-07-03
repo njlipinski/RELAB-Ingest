@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-03-05
 Formula,
 Grain Size Description,<400.0um
-Grain Size,"(0.0, 400.0)"
+Grain Size,(0.0 - 400.0)
 Locality,"Capitol Reef National Park, Utah"
 Minimum Wavelength,833
 Sample Name,CRf-Sf1
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Iron oxide bearing gypsum vein from Moenkopi Fm.
 Sample ID,BIR1WF009
 Original Sample ID,WF-WHF-009
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.31396
 833.5,0.3151

@@ -2,7 +2,7 @@ Composition,
 Date Added,1990-12-16
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,
 Minimum Wavelength,351
 Sample Name,PLAG 4 LAB 115900 
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Lab 115900  Expanded scale run
 Sample ID,CLS704
 Original Sample ID,SA-JBA-004
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 351.0,0.211
 356.0,0.225

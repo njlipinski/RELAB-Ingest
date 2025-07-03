@@ -2,7 +2,7 @@ Composition,
 Date Added,2002-03-25
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(0.0, 150.0)"
+Grain Size,(0.0 - 150.0)
 Locality,"Walaga Province, Ethiopia"
 Minimum Wavelength,320
 Sample Name,Nejo

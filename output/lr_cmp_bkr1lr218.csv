@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-03-09
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Apollo 17 site, Moon"
 Minimum Wavelength,280
 Sample Name,"70017,535 ilmenite D <45 um"
@@ -15,7 +15,7 @@ Material class,Returned Planetary Samples
 Sample Description,Mineral separate from Apollo 17 basalt (LRMCC)
 Sample ID,BKR1LR218
 Original Sample ID,LR-CMP-218
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.05218
 285.0,0.05303

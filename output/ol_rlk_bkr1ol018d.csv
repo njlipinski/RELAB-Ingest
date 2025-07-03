@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-06-25
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Taos, NM"
 Minimum Wavelength,300
 Sample Name,Olivine 700C 24 hrs <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Olivine heated in vacuum sealed tube at 700C for 24 hours
 Sample ID,BKR1OL018D
 Original Sample ID,OL-RLK-018-D
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.0759
 305.0,0.07729

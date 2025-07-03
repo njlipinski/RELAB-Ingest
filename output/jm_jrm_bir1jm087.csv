@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-10-05
 Formula,
 Grain Size Description,<30.0um
-Grain Size,"(2.0, 30.0)"
+Grain Size,(2.0 - 30.0)
 Locality,Unknown 
 Minimum Wavelength,800
 Sample Name,Li-TR117
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BIR1JM087
 Original Sample ID,JM-JRM-087
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.41201
 800.0,0.41056

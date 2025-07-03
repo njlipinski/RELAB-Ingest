@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-08-22
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(0.0, 150.0)"
+Grain Size,(0.0 - 150.0)
 Locality,South Africa
 Minimum Wavelength,300
 Sample Name,JB1677: Tonalite KM-DUN-b-01 <150 um

@@ -2,7 +2,7 @@ Composition,
 Date Added,1991-10-04
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,Russia
 Minimum Wavelength,700
 Sample Name,Olv + Pyx 
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,A- Unprocessed
 Sample ID,NAMS44
 Original Sample ID,MS-CMP-044-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 700.2,0.52735
 700.4,0.52754

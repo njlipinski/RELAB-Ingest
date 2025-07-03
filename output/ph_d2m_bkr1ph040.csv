@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-04-28
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,"Meteorite Hills, Antarctica"
 Minimum Wavelength,300
 Sample Name,MET01085
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1PH040
 Original Sample ID,PH-D2M-040
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.06537
 305.0,0.06441

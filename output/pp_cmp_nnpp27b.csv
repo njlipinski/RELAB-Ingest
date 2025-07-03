@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-07-29
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(25.0, 75.0)"
+Grain Size,(25.0 - 75.0)
 Locality,Hawaii
 Minimum Wavelength,300
 Sample Name,Cpx 25-75 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,High calcium pyroxene from 1801 volcanic bomb   Diopside: Wo 46%En 46%Fs 9% 
 Sample ID,NNPP27B
 Original Sample ID,PP-CMP-027-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.04475
 305.0,0.04066

@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-02-14
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(45.0, 75.0)"
+Grain Size,(45.0 - 75.0)
 Locality,Mexico
 Minimum Wavelength,800
 Sample Name,GemLabr_1-12 45-75 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"PL-CMP-147-C2 was returned to vial, then anorther split was reloaded into the sample dish and remeasured"
 Sample ID,BIR1PL147C3
 Original Sample ID,PL-CMP-147-C3
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.3998
 800.0,0.39751

@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-07-31
 Formula,
 Grain Size Description,<106.0um
-Grain Size,"(63.0, 106.0)"
+Grain Size,(63.0 - 106.0)
 Locality,"Carapace Nunatak, Antarctica"
 Minimum Wavelength,833
 Sample Name,Carapace sandstone fresh interior 63-106 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Weathering and alteration in Antarctica
 Sample ID,BIR1KC001IP
 Original Sample ID,KC-JFM-001-IP
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.23527
 833.5,0.23547

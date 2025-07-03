@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-09-19
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Spitzkoppe, Namibia "
 Minimum Wavelength,1800
 Sample Name,GRP105
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Acquired from David Shannon Minerals  
 Sample ID,MAGP05
 Original Sample ID,GP-EAC-005
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.06565
 1800.7,0.06559

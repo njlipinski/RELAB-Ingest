@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-07-12
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Grosvenor Mountains, Antarctica"
 Minimum Wavelength,300
 Sample Name,"GRO 95574,20 <125 um"

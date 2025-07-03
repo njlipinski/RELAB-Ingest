@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-02-09
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Crooked Creek, Rome, Malheur Co., OR "
 Minimum Wavelength,1800
 Sample Name,ZEO126
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Smithsonian Inst NMNH #122847   
 Sample ID,MAZE26
 Original Sample ID,ZE-EAC-026
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.37333
 1800.7,0.37207

@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-04-25
 Formula,
 Grain Size Description,<38.0um
-Grain Size,"(25.0, 38.0)"
+Grain Size,(25.0 - 38.0)
 Locality,"Crystal Bay, Minn "
 Minimum Wavelength,1428
 Sample Name,Crystal Bay bytownite 25-38 um wet-sieved
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BIR1PL154S
 Original Sample ID,PL-ECS-154-S
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.39427
 1428.8,0.3943

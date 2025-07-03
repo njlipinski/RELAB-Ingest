@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-08-22
 Formula,
 Grain Size Description,<4.0um
-Grain Size,"(1.0, 4.0)"
+Grain Size,(1.0 - 4.0)
 Locality,
 Minimum Wavelength,800
 Sample Name,22-1144-1145 (Va22-1144-1145)
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,HYDRO-MARS Fe/Mg-clays (+/- admixed salts and in some case FeOx)
 Sample ID,BIR1JM115
 Original Sample ID,JM-JRM-115
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.06077
 800.0,0.06096

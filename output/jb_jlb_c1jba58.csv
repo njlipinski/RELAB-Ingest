@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-09-12
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Borate, Calico Hills, San Bernardino, California"
 Minimum Wavelength,280
 Sample Name,Fibroferrite R7653 <45 um

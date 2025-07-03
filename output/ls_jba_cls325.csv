@@ -2,7 +2,7 @@ Composition,
 Date Added,1985-07-02
 Formula,
 Grain Size Description,<180.0um
-Grain Size,"(0.0, 180.0)"
+Grain Size,(0.0 - 180.0)
 Locality,Apollo 12 
 Minimum Wavelength,351
 Sample Name,"12070,110B"
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Apollo 12 SoilNASA #12070   Crater Rim
 Sample ID,CLS325
 Original Sample ID,LS-JBA-060-M1
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 351.0,0.098033
 354.0,0.0989

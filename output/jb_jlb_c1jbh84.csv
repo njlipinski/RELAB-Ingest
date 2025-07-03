@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-10-26
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,Synthetic
 Minimum Wavelength,300
 Sample Name,JB1784: Dehydrated 50%Fe/50%Mg-MHS JB1771 heated at 300C

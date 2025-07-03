@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-06-19
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Perm Province, Russia"
 Minimum Wavelength,280
 Sample Name,Ochansk (H4) <125 um

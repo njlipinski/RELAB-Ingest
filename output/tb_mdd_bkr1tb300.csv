@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-07-17
 Formula,
 Grain Size Description,<10.0um
-Grain Size,"(0.0, 10.0)"
+Grain Size,(0.0 - 10.0)
 Locality,"Gujarat, India"
 Minimum Wavelength,320
 Sample Name,Dhajala <10 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,USNM 5832
 Sample ID,BKR1TB300
 Original Sample ID,TB-MDD-300
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.115058
 330.0,0.119242

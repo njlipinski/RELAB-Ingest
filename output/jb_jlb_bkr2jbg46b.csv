@@ -2,7 +2,7 @@ Composition,
 Date Added,2018-09-25
 Formula,
 Grain Size Description,<500.0um
-Grain Size,"(125.0, 500.0)"
+Grain Size,(125.0 - 500.0)
 Locality,"Tom Jeute, Idaho"
 Minimum Wavelength,300
 Sample Name,"Synthetic allophane Al/Si = 1, Fe(III) = 5 mol% >125 um (JB1646b)"
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,
 Sample ID,BKR2JBG46B
 Original Sample ID,JB-JLB-G46-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.050372
 305.0,0.042419

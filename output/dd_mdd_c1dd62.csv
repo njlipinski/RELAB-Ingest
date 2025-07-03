@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-04-01
 Formula,
 Grain Size Description,<50.0um
-Grain Size,"(0.0, 50.0)"
+Grain Size,(0.0 - 50.0)
 Locality,"Haute Marne, France"
 Minimum Wavelength,300
 Sample Name,Chassigny olivine (desugared)

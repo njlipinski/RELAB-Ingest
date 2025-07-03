@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-01-15
 Formula,
 Grain Size Description,<400.0um
-Grain Size,"(0.0, 400.0)"
+Grain Size,(0.0 - 400.0)
 Locality,"Pavant Buffe, Utah"
 Minimum Wavelength,833
 Sample Name,PB13-010
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Red-brown palagonite tuff from alcove on west outer rim
 Sample ID,BIR1BU041
 Original Sample ID,BU-WHF-041
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.20777
 833.5,0.20708

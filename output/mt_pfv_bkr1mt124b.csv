@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-11-16
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"MacAlpine Hills, Antarctica"
 Minimum Wavelength,280
 Sample Name,"MAC02747,14 (EL4) <25 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Asteroid-meteorite connection (NASA-F)
 Sample ID,BKR1MT124B
 Original Sample ID,MT-PFV-124-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.0549
 285.0,0.04595

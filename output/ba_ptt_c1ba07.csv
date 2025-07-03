@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-06-05
 Formula,
 Grain Size Description,<50.0um
-Grain Size,"(0.0, 50.0)"
+Grain Size,(0.0 - 50.0)
 Locality,"Luck Stone Quarry, Leesburg, VA"
 Minimum Wavelength,280
 Sample Name,GSC-1

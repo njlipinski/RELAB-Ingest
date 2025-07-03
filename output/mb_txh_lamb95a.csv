@@ -2,7 +2,7 @@ Composition,
 Date Added,1996-10-02
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"Weld County, Colorado "
 Minimum Wavelength,300
 Sample Name,Johnstown <25 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,LAMB95A
 Original Sample ID,MB-TXH-095-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.13129
 305.0,0.13954

@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-08-24
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(0.0, 150.0)"
+Grain Size,(0.0 - 150.0)
 Locality,"Apollo 16 site, Moon"
 Minimum Wavelength,300
 Sample Name,"66031,66 <150 um"
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,BKR1LS114
 Original Sample ID,LS-GJT-114
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.0707
 305.0,0.0703

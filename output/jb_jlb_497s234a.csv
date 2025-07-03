@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-04-21
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,
 Minimum Wavelength,900
 Sample Name,Ethanol coating <45 um
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,Fine
 Sample ID,497S234A
 Original Sample ID,JB-JLB-234-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.0,0.21848
 900.3,0.21814

@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-08-24
 Formula,
 Grain Size Description,<5000.0um
-Grain Size,"(500.0, 5000.0)"
+Grain Size,(500.0 - 5000.0)
 Locality,South Africa
 Minimum Wavelength,833
 Sample Name,JB1676: Tonalite KM-DUN-b-01 >500 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,From Eugene Grosch
 Sample ID,BIR1JBG76
 Original Sample ID,JB-JLB-G76
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.4,0.0971
 833.5,0.09979

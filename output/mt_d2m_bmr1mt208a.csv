@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-04-26
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,"Lewis Cliff, Antarctica"
 Minimum Wavelength,1428
 Sample Name,"LEW 85313,39 <75um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Howardite ground and sieved powder for Dawn mission
 Sample ID,BMR1MT208A
 Original Sample ID,MT-D2M-208-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.19534
 1428.8,0.19642

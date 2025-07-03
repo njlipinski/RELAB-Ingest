@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-02-04
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Cumberland Co., Nova Scotia, Canada"
 Minimum Wavelength,300
 Sample Name,ZEO114
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Smithsonian Inst NMNH #94550  From Cape d'Or
 Sample ID,LAZE14
 Original Sample ID,ZE-EAC-014
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.58789
 305.0,0.5913

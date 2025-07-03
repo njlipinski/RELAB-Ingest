@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-05-08
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,Stillwater #590 
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Stillwater powder was shot at 30.5 GPa and ground again.  
 Sample ID,LASW45
 Original Sample ID,SW-TXH-045
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.12991
 305.0,0.1318

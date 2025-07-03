@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-11-05
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Painted Desert, AZ, Petrified Forest National Park, Teepee Site"
 Minimum Wavelength,300
 Sample Name,Painted Desert soil: Site 2 Stop 25 grey material<125 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Painted Desert project
 Sample ID,BKR1JB865C
 Original Sample ID,JB-JLB-865-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.15957
 305.0,0.15722

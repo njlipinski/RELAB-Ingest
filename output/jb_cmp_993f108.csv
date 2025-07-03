@@ -2,7 +2,7 @@ Composition,
 Date Added,1993-10-01
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Lake Hoare, Antarctica"
 Minimum Wavelength,300
 Sample Name,C-6c
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Depth 14 to 15 cm   
 Sample ID,993F108
 Original Sample ID,JB-CMP-108
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.08359
 305.0,0.09003

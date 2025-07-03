@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-04-22
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(63.0, 125.0)"
+Grain Size,(63.0 - 125.0)
 Locality,"Chihuahua, Mexico "
 Minimum Wavelength,800
 Sample Name,Allende 63-125 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BIR1MB063C
 Original Sample ID,MB-TXH-063-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.03848
 800.0,0.03897

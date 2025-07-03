@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-05-15
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Unknown
 Minimum Wavelength,909
 Sample Name,"Cetco bentonite, RT7333, purified by Steve Hillier"
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectroscopy of clay minerals
 Sample ID,BIR1JB878
 Original Sample ID,JB-JLB-878
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 909.0,0.46072
 909.2,0.4609

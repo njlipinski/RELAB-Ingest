@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-09-30
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Unknown
 Minimum Wavelength,280
 Sample Name,"BM1927,1010(12)"
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"From Javier Cuadros: 33 wt% smectite, 65 wt% glass, max 2 wt% plagioclase (probably albite)"
 Sample ID,BKR1JB587
 Original Sample ID,JB-JLB-587
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.34377
 285.0,0.2333

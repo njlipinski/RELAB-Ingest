@@ -2,7 +2,7 @@ Composition,
 Date Added,2016-08-01
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Northwest Africa
 Minimum Wavelength,1428
 Sample Name,NWA 4024 powder <125 um (treated with ETG)
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Treated with ethanolamine thioglycolate (ETG) for removing terrestrial weathering
 Sample ID,BMR1MT307T
 Original Sample ID,MT-JPE-307-T
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.13293
 1428.8,0.13256

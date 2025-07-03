@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-03-25
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(45.0, 75.0)"
+Grain Size,(45.0 - 75.0)
 Locality,"San Carlos, Arizona and Synthetic"
 Minimum Wavelength,1428
 Sample Name,90% olivine (45-75 um) + 10% FeS (45-75 um) pellet irradiated with 10 mJ laser
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,FeS was purchased from a company
 Sample ID,BMR1MO003L10
 Original Sample ID,MO-SXS-003-L10
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.23211
 1428.8,0.2316

@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-12-06
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(25.0, 45.0)"
+Grain Size,(25.0 - 45.0)
 Locality,Synthetic
 Minimum Wavelength,800
 Sample Name,PL010_25-45
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,0.3% FeO
 Sample ID,BNR1PL117C
 Original Sample ID,PL-CMP-117-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.46456
 800.0,0.46427

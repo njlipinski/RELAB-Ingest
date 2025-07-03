@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-10-02
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Gibeon
 Minimum Wavelength,320
 Sample Name,G-9 
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Troilite from sulfurized Gibeon iron meteorite  
 Sample ID,LATB06
 Original Sample ID,TB-RPB-006
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.06129
 330.0,0.06446

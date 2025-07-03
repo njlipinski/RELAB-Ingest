@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-01-09
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic 
 Minimum Wavelength,833
 Sample Name,Synthetic pigeonite rich sample #3 <45 um
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,Synthetic Pigeonite #3
 Sample ID,BIR1PP101A
 Original Sample ID,PP-MJR-101-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.04247
 833.5,0.04326

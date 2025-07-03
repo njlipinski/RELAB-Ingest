@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-05-11
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(125.0, 1000.0)"
+Grain Size,(125.0 - 1000.0)
 Locality,Purchased from Sigma
 Minimum Wavelength,909
 Sample Name,Salt crystals of nitrate Na(NO3) >125 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Spectroscopy of minerals on Mars (MDAP, MFRP, Active Missions, Prop Prep)"
 Sample ID,BIR1JB997B
 Original Sample ID,JB-JLB-997-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 909.0,0.19848
 909.2,0.19793

@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-08-31
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(0.0, 63.0)"
+Grain Size,(0.0 - 63.0)
 Locality,Antarctica & Australia
 Minimum Wavelength,300
 Sample Name,"EET87503,97 (How) <25 um + 1 wt% Murchison (CM2) <63 um pellet"
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,BKR1MX065P
 Original Sample ID,MX-TXH-065-P
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.20449
 305.0,0.20611

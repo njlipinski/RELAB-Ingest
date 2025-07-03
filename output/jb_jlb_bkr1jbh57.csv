@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-06-03
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Helen Iron Mine, Wawa, Ontario, Canada"
 Minimum Wavelength,300
 Sample Name,Goethite 21717 fine unsorted (Red coating)
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Goethite samples for Kim Seelos project
 Sample ID,BKR1JBH57
 Original Sample ID,JB-JLB-H57
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.045425
 305.0,0.044868

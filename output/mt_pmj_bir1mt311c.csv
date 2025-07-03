@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-10-02
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Bingol, Turkey"
 Minimum Wavelength,833
 Sample Name,Saricicek meteorite <125 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Fell on 9/2/2015
 Sample ID,BIR1MT311C
 Original Sample ID,MT-PMJ-311-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.14326
 833.5,0.14282

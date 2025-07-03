@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-07-14
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Sudan
 Minimum Wavelength,300
 Sample Name,Almahata Sitta 91A-10 <125 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Ground from dark end portion
 Sample ID,BKR1MT319A
 Original Sample ID,MT-CAG-319-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.02484
 305.0,0.02505

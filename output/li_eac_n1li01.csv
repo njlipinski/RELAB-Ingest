@@ -2,7 +2,7 @@ Composition,
 Date Added,1994-11-23
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Graviota Beach, CA"
 Minimum Wavelength,1800
 Sample Name,CA3 
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,N1LI01
 Original Sample ID,LI-EAC-001
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.43181
 1800.7,0.43168

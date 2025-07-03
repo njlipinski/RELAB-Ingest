@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-06-12
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Mauna Kea, Hawaii "
 Minimum Wavelength,300
 Sample Name,CPX 45
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Set of separates from hawaii volcanic bomb Cpx  Diopside: Wo 46% En 46% Fs 9% 
 Sample ID,NBPP21
 Original Sample ID,PP-CMP-021
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.05444
 305.0,0.0561

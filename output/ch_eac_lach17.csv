@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-07-27
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Bonita, San Diego Co., CA"
 Minimum Wavelength,300
 Sample Name,CHM103
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Acquired from Mineral Unlimited.  Dry-sieved. 
 Sample ID,LACH17
 Original Sample ID,CH-EAC-017
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.30836
 305.0,0.30625

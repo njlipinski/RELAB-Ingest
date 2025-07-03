@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-07-08
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,"Allan Hills, Antarctica "
 Minimum Wavelength,320
 Sample Name,ALHA 76005 
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,LATB24
 Original Sample ID,TB-RPB-024
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.11162
 330.0,0.11799

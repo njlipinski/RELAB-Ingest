@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-02-10
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Markey Mine, Red Canyon, San Juan Co., Utah"
 Minimum Wavelength,320
 Sample Name,Melissa Lane S60

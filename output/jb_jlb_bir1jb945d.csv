@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-09-16
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"San Carlos, AZ"
 Minimum Wavelength,909
 Sample Name,Forsterite <125 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Spectroscopy of ureilite mixtures (MDAP, MFRP, Active Missions, Prop Prep)"
 Sample ID,BIR1JB945D
 Original Sample ID,JB-JLB-945-D
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 909.0,0.26713
 909.2,0.26689

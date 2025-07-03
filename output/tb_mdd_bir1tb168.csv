@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-01-09
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"LaPaz Ice Field, Antarctica"
 Minimum Wavelength,1428
 Sample Name,"LAP 02206,74 <125 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BIR1TB168
 Original Sample ID,TB-MDD-168
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.05079
 1428.82,0.051401

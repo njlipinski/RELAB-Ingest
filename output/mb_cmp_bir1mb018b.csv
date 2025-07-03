@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-04-23
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(0.0, 63.0)"
+Grain Size,(0.0 - 63.0)
 Locality,"Belgica Mtns, Antarctica"
 Minimum Wavelength,800
 Sample Name,B-7904 <63 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BIR1MB018B
 Original Sample ID,MB-CMP-018-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.03588
 800.0,0.03547

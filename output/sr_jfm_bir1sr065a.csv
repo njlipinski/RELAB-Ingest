@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-02-17
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(45.0, 150.0)"
+Grain Size,(45.0 - 150.0)
 Locality,
 Minimum Wavelength,1000
 Sample Name,BUR-120A
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,From ASU TES spectral library to contribute to the CRISM spectral library for Mars
 Sample ID,BIR1SR065A
 Original Sample ID,SR-JFM-065-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.32576
 1000.2,0.32543

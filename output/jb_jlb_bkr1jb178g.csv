@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-05-21
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(125.0, 250.0)"
+Grain Size,(125.0 - 250.0)
 Locality,"Landsee, Austria"
 Minimum Wavelength,280
 Sample Name,Landsee soil 125-250 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Clay-bearing soil from Franz Ottner, Boku; green/beige color (MDAP, MFRP, Active Missions, Prop Prep)"
 Sample ID,BKR1JB178G
 Original Sample ID,JB-JLB-178-G
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.11006
 285.0,0.07324

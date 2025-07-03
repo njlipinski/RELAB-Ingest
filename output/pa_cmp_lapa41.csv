@@ -2,7 +2,7 @@ Composition,
 Date Added,2022-07-20
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(0.0, 150.0)"
+Grain Size,(0.0 - 150.0)
 Locality,"Warren County, NJ "
 Minimum Wavelength,300
 Sample Name,Act 9 
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Pure Tremolite, Brown University teaching collection, 338.9   Large, single crystal ground to a bulk powder "
 Sample ID,LAPA41
 Original Sample ID,PA-CMP-041
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.15489
 305.0,0.17375

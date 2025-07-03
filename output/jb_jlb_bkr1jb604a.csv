@@ -2,7 +2,7 @@ Composition,
 Date Added,2003-10-28
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Landmannalaugar, Iceland"
 Minimum Wavelength,320
 Sample Name,"Crushed coarse <45 um fresh tephra, E. Iceland"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1JB604A
 Original Sample ID,JB-JLB-604-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.02284
 325.0,0.02291

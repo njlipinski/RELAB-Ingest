@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-09-08
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,Japan
 Minimum Wavelength,280
 Sample Name,Lunar soil simulant 21 (Basaltic) <1 mm
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Lunar soil simulant from JAXA / Shimizu Corp.
 Sample ID,BKR1JE021
 Original Sample ID,JE-JEE-021
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.05321
 285.0,0.03986

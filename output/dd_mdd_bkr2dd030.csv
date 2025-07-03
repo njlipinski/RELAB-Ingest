@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-03-11
 Formula,
 Grain Size Description,<50.0um
-Grain Size,"(0.0, 50.0)"
+Grain Size,(0.0 - 50.0)
 Locality,"Elephant Moraine, Antarctica"
 Minimum Wavelength,300
 Sample Name,"EETA79001,60 Lith B Black glass"
@@ -15,7 +15,7 @@ Material class,Meteorites
 Sample Description,
 Sample ID,BKR2DD030
 Original Sample ID,DD-MDD-030
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,-0.01415
 305.0,0.01252

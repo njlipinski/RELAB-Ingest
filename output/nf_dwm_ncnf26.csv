@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-05-18
 Formula,
 Grain Size Description,<500.0um
-Grain Size,"(38.0, 500.0)"
+Grain Size,(38.0 - 500.0)
 Locality,"Ceara Rise, Atlantic Ocean"
 Minimum Wavelength,350
 Sample Name,6A 20H-22H mix >38um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Sieved at 38 micron.  
 Sample ID,NCNF26
 Original Sample ID,NF-DWM-026
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 350.0,0.38264
 355.0,0.39356

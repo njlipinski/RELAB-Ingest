@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-12-20
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,Apollo 14 
 Minimum Wavelength,300
 Sample Name,"14259,15"
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Apollo 14 Surface Soil, NASA #14259   "
 Sample ID,NCLS33
 Original Sample ID,LS-CMP-033
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03529
 305.0,0.03489

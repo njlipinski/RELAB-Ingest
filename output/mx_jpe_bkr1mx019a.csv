@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-03-15
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"San Carlos, AZ & Tanzania, Africa"
 Minimum Wavelength,320
 Sample Name,50% San Carlos olivine + 50% Tanzania enstatite mixture <125 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,As a control for terrestrial weathering removal treatment
 Sample ID,BKR1MX019A
 Original Sample ID,MX-JPE-019-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.21319
 330.0,0.25595

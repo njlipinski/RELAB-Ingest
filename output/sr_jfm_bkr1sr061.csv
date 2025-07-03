@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-09-08
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(710.0, 1000.0)"
+Grain Size,(710.0 - 1000.0)
 Locality,
 Minimum Wavelength,320
 Sample Name,BUR-4120
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,From ASU TES spectral library to contribute to the CRISM spectral library for Mars
 Sample ID,BKR1SR061
 Original Sample ID,SR-JFM-061
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.41337
 325.0,0.42004

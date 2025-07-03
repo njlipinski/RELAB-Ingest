@@ -2,7 +2,7 @@ Composition,
 Date Added,2016-07-28
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"MacAlpine Hills, Antarctica"
 Minimum Wavelength,320
 Sample Name,"MAC 88177,53 powder <125 um (treated with ETG)"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Treated with ethanolamine thioglycolate (ETG) for removing terrestrial weathering
 Sample ID,BKR1MT302T
 Original Sample ID,MT-JPE-302-T
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.10564
 330.0,0.12033

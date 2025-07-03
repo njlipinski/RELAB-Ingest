@@ -2,7 +2,7 @@ Composition,
 Date Added,1994-08-31
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,"Troy, NY"
 Minimum Wavelength,300
 Sample Name,OS-C-6
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Powdered conch shell mixed with ~1 wt% cotton.  Conch (SS-9-4) collected in San Salvador, Bahamas."
 Sample ID,NAOS01
 Original Sample ID,OS-SJG-001
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.80807
 305.0,0.81098

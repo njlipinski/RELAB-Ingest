@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-10-02
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,
 Minimum Wavelength,320
 Sample Name,FeS 
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,Synthetic troilite  
 Sample ID,LATB05
 Original Sample ID,TB-RPB-005
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.07904
 330.0,0.08

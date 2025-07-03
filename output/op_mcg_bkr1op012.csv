@@ -2,7 +2,7 @@ Composition,
 Date Added,2003-04-29
 Formula,
 Grain Size Description,<500.0um
-Grain Size,"(250.0, 500.0)"
+Grain Size,(250.0 - 500.0)
 Locality,"Ohaaki Pool, Taupo Volcanic Zone, New Zealand"
 Minimum Wavelength,320
 Sample Name,NZOP7-3
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Collected by Dr. B. Jones.
 Sample ID,BKR1OP012
 Original Sample ID,OP-MCG-012
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.2459
 325.0,0.24418

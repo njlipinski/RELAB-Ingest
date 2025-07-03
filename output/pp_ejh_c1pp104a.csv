@@ -2,7 +2,7 @@ Composition,
 Date Added,2006-07-24
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Georgetown, Ontario, Canada"
 Minimum Wavelength,300
 Sample Name,RV8/32 48 <45 um

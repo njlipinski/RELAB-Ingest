@@ -2,7 +2,7 @@ Composition,
 Date Added,1991-11-27
 Formula,
 Grain Size Description,<400.0um
-Grain Size,"(125.0, 400.0)"
+Grain Size,(125.0 - 400.0)
 Locality,"Westport, MA"
 Minimum Wavelength,900
 Sample Name,Beach Sand #4 
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,From West Beach   
 Sample ID,NASS24
 Original Sample ID,SS-CMP-024
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.0,0.19869
 900.3,0.19593

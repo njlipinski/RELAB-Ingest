@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-01-30
 Formula,
 Grain Size Description,<355.0um
-Grain Size,"(250.0, 355.0)"
+Grain Size,(250.0 - 355.0)
 Locality,
 Minimum Wavelength,800
 Sample Name,Apatite 250-355 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Reddish-brown color  
 Sample ID,BIR1JB324
 Original Sample ID,JB-JLB-324
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.19306
 800.0,0.19369

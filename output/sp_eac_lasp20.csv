@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-11-03
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Franklin, Sussex County, New Jersey "
 Minimum Wavelength,300
 Sample Name,SPI120
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Associated with calcite and willemite.  Acquired from Minerals Unlimited & Excalibur Mineral Co.
 Sample ID,LASP20
 Original Sample ID,SP-EAC-020
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.05255
 305.0,0.05072

@@ -2,7 +2,7 @@ Composition,
 Date Added,2002-11-07
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,"Le Mesuil, St. Denis, Seine-et-Oise"
 Minimum Wavelength,1000
 Sample Name,MNHN 104.599
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BIR2NT001
 Original Sample ID,NT-CXS-001
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.27828
 1000.1,0.27851

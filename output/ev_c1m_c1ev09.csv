@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-04-03
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,"Rio Tinto Mining District, SW Spain"
 Minimum Wavelength,320
 Sample Name,EV9

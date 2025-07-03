@@ -2,7 +2,7 @@ Composition,
 Date Added,1988-06-23
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,MIT 
 Minimum Wavelength,340
 Sample Name,DF39A tro (ph4/7d)

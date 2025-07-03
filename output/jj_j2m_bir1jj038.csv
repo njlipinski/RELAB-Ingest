@@ -2,7 +2,7 @@ Composition,
 Date Added,2007-10-11
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,Synthetic
 Minimum Wavelength,952
 Sample Name,94.7 % Ti isopropoxide -PDMS
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,Photocatalytic materials (Student)
 Sample ID,BIR1JJ038
 Original Sample ID,JJ-J2M-038
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 952.3,0.54533
 952.4,0.54535

@@ -2,7 +2,7 @@ Composition,
 Date Added,1984-12-20
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"See PE-10,PL-05 "
 Minimum Wavelength,600
 Sample Name,Mixture 

@@ -2,7 +2,7 @@ Composition,
 Date Added,1987-11-03
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,"Montauban, Tarn-et-Garonne, France"
 Minimum Wavelength,314
 Sample Name,Orgueil 
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Powdered sample of Orgueil run only in vis during   Gaffey's Nov 1987 visit.
 Sample ID,CORGUE
 Original Sample ID,MR-MJG-017
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 314.0,0.009216
 316.0,0.011864

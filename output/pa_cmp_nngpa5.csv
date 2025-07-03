@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-08-24
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,"Bancroft, Ontario, CANADA "
 Minimum Wavelength,900
 Sample Name,Coarse albite soil
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Particle size mixing ratio unknown
 Sample ID,NNGPA5
 Original Sample ID,PA-CMP-005-G
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.0,0.37862
 900.3,0.37904

@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-07-31
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(45.0, 125.0)"
+Grain Size,(45.0 - 125.0)
 Locality,"Standard Mine, Dividend, Utah"
 Minimum Wavelength,800
 Sample Name,Szomolnokite 104276 45-125 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Lane sulfate spectroscopy project
 Sample ID,BIR1JBB67B
 Original Sample ID,JB-JLB-B67-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.20136
 800.0,0.20036

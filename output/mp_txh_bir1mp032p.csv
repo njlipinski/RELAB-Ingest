@@ -2,7 +2,7 @@ Composition,
 Date Added,2016-04-08
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Yamato Mountain Range, Antarctica "
 Minimum Wavelength,833
 Sample Name,"Y-793595,62 <125 um pellet"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Pressed at 4000 psi
 Sample ID,BIR1MP032P
 Original Sample ID,MP-TXH-032-P
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.09334
 833.5,0.09412

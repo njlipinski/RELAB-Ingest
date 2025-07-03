@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-06-29
 Formula,
 Grain Size Description,<40.0um
-Grain Size,"(0.0, 40.0)"
+Grain Size,(0.0 - 40.0)
 Locality,"St. Urbain, Quebec, Canada"
 Minimum Wavelength,1000
 Sample Name,Andesine anorthosite powder STU06-1688 unshocked
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,95% Ab36-46
 Sample ID,BIR3JJ040
 Original Sample ID,JJ-JRJ-040
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.40553
 1000.2,0.40562

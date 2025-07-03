@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-10-08
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(25.0, 45.0)"
+Grain Size,(25.0 - 45.0)
 Locality,Purchased from vendor
 Minimum Wavelength,280
 Sample Name,MGC 25-45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"For modeling of mixtures (PGG, Active missions)"
 Sample ID,BKR1BE223
 Original Sample ID,BE-JFM-223
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.64077
 285.0,0.68907

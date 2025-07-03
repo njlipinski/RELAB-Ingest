@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-11-06
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Split Rock, MN"
 Minimum Wavelength,280
 Sample Name,95 wt% Anorthite (<45 um) + 5 wt% Ilmenite (<25 um) pellet

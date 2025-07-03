@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-04-11
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Kauai, Hawaii"
 Minimum Wavelength,800
 Sample Name,"Kauai stop 2 yellow-brown, side of trail soil <45 um"
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Spectroscopy of Mars analog materials
 Sample ID,BIR1JBA81A
 Original Sample ID,JB-JLB-A81-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.16251
 800.0,0.16206

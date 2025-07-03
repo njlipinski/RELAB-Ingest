@@ -2,7 +2,7 @@ Composition,
 Date Added,2002-04-11
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,"Tuva, Siberia, Russia"
 Minimum Wavelength,300
 Sample Name,CCH2

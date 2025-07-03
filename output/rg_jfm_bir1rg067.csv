@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-11-10
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(45.0, 125.0)"
+Grain Size,(45.0 - 125.0)
 Locality,India
 Minimum Wavelength,800
 Sample Name,HYD-5-outside 45-125 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"Basalt weathering products (PGG, Active Missions: CRISM, Student)"
 Sample ID,BIR1RG067
 Original Sample ID,RG-JFM-067
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.16172
 800.0,0.16067

@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-06-26
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,
 Minimum Wavelength,350
 Sample Name,WAR-6454
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,WAR-6454 from ASU   
 Sample ID,397F235
 Original Sample ID,JB-JLB-235
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 350.0,0.26684
 355.0,0.27751

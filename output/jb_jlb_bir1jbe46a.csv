@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-06-17
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,
 Minimum Wavelength,800
 Sample Name,Allophane Mixture 2 particulate
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,19% JB-870 + 14% JB-171 + 14% JB-874 + 14% JB-766 + 38% JB-501-F in weight
 Sample ID,BIR1JBE46A
 Original Sample ID,JB-JLB-E46-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.26145
 800.0,0.26103

@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-02-22
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(5.0, 250.0)"
+Grain Size,(5.0 - 250.0)
 Locality,California / Oregon
 Minimum Wavelength,1667
 Sample Name,3923Z20-B
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"Olivine 70~90%, Cpx 0~2%, Spinel ~2%, Serpentine 20~30%."
 Sample ID,BMR1SE004
 Original Sample ID,SE-YLL-004
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1666.7,0.36132
 1667.3,0.36135

@@ -2,7 +2,7 @@ Composition,
 Date Added,1991-07-10
 Formula,
 Grain Size Description,<1.0um
-Grain Size,"(0.0, 1.0)"
+Grain Size,(0.0 - 1.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,DIA101

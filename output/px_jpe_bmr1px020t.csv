@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-03-15
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Tanzania, Africa"
 Minimum Wavelength,1428
 Sample Name,Tanzania enstatite <125 um treated with ETG
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Treated with ethanolamine thioglycolate (ETG)
 Sample ID,BMR1PX020T
 Original Sample ID,PX-JPE-020-T
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.3405
 1428.8,0.34095

@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-06-02
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Melissa Lane
 Minimum Wavelength,833
 Sample Name,"Barrerite fine grains <125 um (JB1667, Melissa Lane Z8)"
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BIR1JBG67
 Original Sample ID,JB-JLB-G67
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.4,0.5939
 833.5,0.59281

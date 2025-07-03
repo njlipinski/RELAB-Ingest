@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-09-02
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Mexico (Brophy collection)
 Minimum Wavelength,909
 Sample Name,Plumbojarosite from Mexico <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Spectroscopy of sulfate minerals (MFRP, NAI, ASTID)"
 Sample ID,BIR1JB705A
 Original Sample ID,JB-JLB-705-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 909.1,0.29844
 909.2,0.29877

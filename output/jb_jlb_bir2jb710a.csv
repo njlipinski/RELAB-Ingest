@@ -2,7 +2,7 @@ Composition,
 Date Added,2006-10-11
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,
 Minimum Wavelength,1000
 Sample Name,R16185 <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectroscopy of sulfate minerals (MFRP)
 Sample ID,BIR2JB710A
 Original Sample ID,JB-JLB-710-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.45633
 1000.2,0.45639

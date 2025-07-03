@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-04-29
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,
 Minimum Wavelength,900
 Sample Name,"300% Fe-exchanged SWy-1, Bottle #9"
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,CR492S09
 Original Sample ID,JB-CMP-009
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.0,0.59636
 900.3,0.59666

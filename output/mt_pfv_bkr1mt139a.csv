@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-12-02
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Grosvenor Mountains, Antarctica"
 Minimum Wavelength,280
 Sample Name,"GRO95502,31 (L3.2) <45 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Asteroid-meteorite connection (NASA-F)
 Sample ID,BKR1MT139A
 Original Sample ID,MT-PFV-139-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.06608
 285.0,0.04665

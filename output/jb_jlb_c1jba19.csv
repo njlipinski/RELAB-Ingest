@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-09-20
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"San Carlos, Arizona and Bergen, Norway"
 Minimum Wavelength,280
 Sample Name,48 wt% Forsterite (JB945D) + 48 wt% Enstatite (JBA14A) + 3-4 wt% graphite (JBA05)

@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-05-13
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,Purchased from Sigma
 Minimum Wavelength,280
 Sample Name,Salt crystals of perchlorate Ca(ClO4)2-4H2O <250 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Spectroscopy of minerals on Mars (MDAP, MFRP, Active Missions, Prop Prep)"
 Sample ID,BKR1JB984
 Original Sample ID,JB-JLB-984
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.38874
 285.0,0.39606

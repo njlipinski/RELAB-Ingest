@@ -2,7 +2,7 @@ Composition,
 Date Added,2006-03-28
 Formula,
 Grain Size Description,<140.0um
-Grain Size,"(0.0, 140.0)"
+Grain Size,(0.0 - 140.0)
 Locality,"Urals, Russia"
 Minimum Wavelength,400
 Sample Name,1a serpentine
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BKR1SP004
 Original Sample ID,SP-VVB-004
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 400.0,0.49214
 405.0,0.48696

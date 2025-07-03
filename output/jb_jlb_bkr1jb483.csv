@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-05-05
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(90.0, 125.0)"
+Grain Size,(90.0 - 125.0)
 Locality,Norway
 Minimum Wavelength,280
 Sample Name,M2 Bronzite 90-125 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"From Jan Harloff, Berlin  "
 Sample ID,BKR1JB483
 Original Sample ID,JB-JLB-483
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.12479
 285.0,0.08675

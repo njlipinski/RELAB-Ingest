@@ -2,7 +2,7 @@ Composition,
 Date Added,1996-01-10
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(25.0, 45.0)"
+Grain Size,(25.0 - 45.0)
 Locality,"Jackson Cty, NC "
 Minimum Wavelength,300
 Sample Name,Olivine 25-45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,LFPO84
 Original Sample ID,PO-JFM-084-F
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.1911
 305.0,0.2078

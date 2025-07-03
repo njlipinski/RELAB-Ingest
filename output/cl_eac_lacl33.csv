@@ -2,7 +2,7 @@ Composition,
 Date Added,1996-07-03
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Blind Canyon Seam, Utah "
 Minimum Wavelength,300
 Sample Name,COAL33
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,High volatile bituminous  
 Sample ID,LACL33
 Original Sample ID,CL-EAC-033
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.01486
 305.0,0.01543

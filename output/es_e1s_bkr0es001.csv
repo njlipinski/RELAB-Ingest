@@ -2,7 +2,7 @@ Composition,
 Date Added,2018-05-31
 Formula,
 Grain Size Description,<500.0um
-Grain Size,"(0.0, 500.0)"
+Grain Size,(0.0 - 500.0)
 Locality,Mid-Ocean Ridge
 Minimum Wavelength,300
 Sample Name,Basalt original powder
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Space weathering study
 Sample ID,BKR0ES001
 Original Sample ID,ES-E1S-001
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.086501
 305.0,0.081413

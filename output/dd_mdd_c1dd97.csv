@@ -2,7 +2,7 @@ Composition,
 Date Added,2006-04-18
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic 
 Minimum Wavelength,300
 Sample Name,Fa 90 Fo 10 <45 um

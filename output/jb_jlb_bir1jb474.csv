@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-05-04
 Formula,
 Grain Size Description,<90.0um
-Grain Size,"(63.0, 90.0)"
+Grain Size,(63.0 - 90.0)
 Locality,Norway
 Minimum Wavelength,909
 Sample Name,M1 Augite 63-90 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"From Jan Harloff, Berlin  "
 Sample ID,BIR1JB474
 Original Sample ID,JB-JLB-474
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 909.0,0.09834
 909.2,0.09822

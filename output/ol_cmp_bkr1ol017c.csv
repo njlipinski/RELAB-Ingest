@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-04-25
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(45.0, 75.0)"
+Grain Size,(45.0 - 75.0)
 Locality,Kiglapait intrusion
 Minimum Wavelength,300
 Sample Name,KigOlv 45-75 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BKR1OL017C
 Original Sample ID,OL-CMP-017-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03902
 305.0,0.03708

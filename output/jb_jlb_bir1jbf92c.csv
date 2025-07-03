@@ -2,7 +2,7 @@ Composition,
 Date Added,2016-05-06
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(250.0, 1000.0)"
+Grain Size,(250.0 - 1000.0)
 Locality,"near I-80, California"
 Minimum Wavelength,833
 Sample Name,Fe-saponite-rich soil >250 um (JB1592c)
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Collected by J. Post
 Sample ID,BIR1JBF92C
 Original Sample ID,JB-JLB-F92-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.4,0.24283
 833.5,0.24132

@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-07-16
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Bushveldt Complex, South Africa"
 Minimum Wavelength,1428
 Sample Name,2608 Gabbro melt shot at 3.22 km/s glass-removed <45 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Small scale effect of impact on asteroidal surfaces (DDAP by MJC)
 Sample ID,BIR1SG116B
 Original Sample ID,SG-BEC-116-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.28128
 1428.8,0.2813

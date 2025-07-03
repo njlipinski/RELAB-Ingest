@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-05-04
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,
 Minimum Wavelength,1428
 Sample Name,Exolith CI-1 simulant
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Based on UCF-DSI CI simulant
 Sample ID,BIR1ZL016
 Original Sample ID,ZL-ZAL-016
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.068452
 1428.82,0.068355

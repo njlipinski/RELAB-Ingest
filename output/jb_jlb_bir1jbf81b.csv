@@ -2,7 +2,7 @@ Composition,
 Date Added,2016-06-21
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(250.0, 1000.0)"
+Grain Size,(250.0 - 1000.0)
 Locality,Purchased from Sigma-Aldrich
 Minimum Wavelength,833
 Sample Name,Zn(NO3)2-6H2O >250 um
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,
 Sample ID,BIR1JBF81B
 Original Sample ID,JB-JLB-F81-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.4,0.14161
 833.5,0.14215

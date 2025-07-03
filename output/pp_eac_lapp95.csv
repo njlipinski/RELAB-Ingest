@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-10-10
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Unknown 
 Minimum Wavelength,300
 Sample Name,PYX167
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Pyroxene sample from gabbro   
 Sample ID,LAPP95
 Original Sample ID,PP-EAC-095
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.19275
 305.0,0.20823

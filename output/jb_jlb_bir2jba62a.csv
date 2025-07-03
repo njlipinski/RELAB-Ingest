@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-09-26
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Island Mountain, Trinity County, California"
 Minimum Wavelength,800
 Sample Name,Roemerite 93825 <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectroscopy of sulfate minerals
 Sample ID,BIR2JBA62A
 Original Sample ID,JB-JLB-A62-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.2804
 800.0,0.27863

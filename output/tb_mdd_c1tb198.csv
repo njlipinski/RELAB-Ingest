@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-12-13
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Pecora Escarpment, Antarctica"
 Minimum Wavelength,320
 Sample Name,"PCA 91020,92 <125 um"

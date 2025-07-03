@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-02-20
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(0.0, 150.0)"
+Grain Size,(0.0 - 150.0)
 Locality,"Lake Hoare, Dry Valleys, Antarctica"
 Minimum Wavelength,300
 Sample Name,Lake Hoare JB1114
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Collected by Everett Gibson (Approximate particle size)
 Sample ID,BKR1JBB14
 Original Sample ID,JB-JLB-B14
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.0987
 305.0,0.09913

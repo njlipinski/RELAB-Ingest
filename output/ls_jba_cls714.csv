@@ -2,7 +2,7 @@ Composition,
 Date Added,1990-12-16
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,Apollo 11 
 Minimum Wavelength,2092
 Sample Name,"10084,66P "
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Apollo 11 Lunar BrecciaNASA #10084  
 Sample ID,CLS714
 Original Sample ID,LS-JBA-006-P1
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 2092.0,0.836
 2097.0,0.837

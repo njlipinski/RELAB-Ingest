@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-10-22
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Gabbs Basic Refractories, Gabbs, Nye County, Nevada"
 Minimum Wavelength,833
 Sample Name,Hydromagnesite
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Mars-relevant carbonates
 Sample ID,BIR1CB093
 Original Sample ID,CB-MSG-093
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.41741
 833.5,0.4164

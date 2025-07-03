@@ -2,7 +2,7 @@ Composition,
 Date Added,2016-05-13
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(125.0, 250.0)"
+Grain Size,(125.0 - 250.0)
 Locality,"Santorini, Greece "
 Minimum Wavelength,300
 Sample Name,Santorini soil 125-250 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,BKR1JB181C
 Original Sample ID,JB-JLB-181-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.02705
 305.0,0.02669

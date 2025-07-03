@@ -2,7 +2,7 @@ Composition,
 Date Added,2022-11-02
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Guadalupe Mountains, NM"
 Minimum Wavelength,320
 Sample Name,LCC2-60-PWDR-LT45

@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-08-05
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Painted Desert, Blue Messa site"
 Minimum Wavelength,833
 Sample Name,JB1743c: Painted Desert Stop 7 red submm particles <125 um (ground)
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,BIR1JBH43C
 Original Sample ID,JB-JLB-H43-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.39,0.239638
 833.45,0.241757

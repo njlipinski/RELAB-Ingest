@@ -2,7 +2,7 @@ Composition,
 Date Added,2002-11-05
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,"Univ. d'Iquaque, Chili"
 Minimum Wavelength,1000
 Sample Name,MNHN 52.247
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,M. Pentland
 Sample ID,BIR1NT002
 Original Sample ID,NT-CXS-002
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.59226
 1000.1,0.59202

@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-07-12
 Formula,
 Grain Size Description,<400.0um
-Grain Size,"(0.0, 400.0)"
+Grain Size,(0.0 - 400.0)
 Locality,"North Menan Buffe, Madison County, Idaho"
 Minimum Wavelength,833
 Sample Name,NMB12-01
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Minimally altered gray tuff from West
 Sample ID,BIR1BU005
 Original Sample ID,BU-WHF-005
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.04831
 833.5,0.04837

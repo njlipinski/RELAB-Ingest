@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-07-22
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Afrikanda, Kola, Russia "
 Minimum Wavelength,1800
 Sample Name,PER124
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Acquired from David Shannon Minerals.   In hornblende with magnetite and titanite.
 Sample ID,M4PV24
 Original Sample ID,PV-EAC-024
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.2511
 1800.7,0.25143

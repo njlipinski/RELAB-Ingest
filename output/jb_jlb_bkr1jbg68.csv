@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-06-02
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Melissa Lane
 Minimum Wavelength,300
 Sample Name,"Stilbite fine grains <125 um (JB1668, Melissa Lane Z10)"
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BKR1JBG68
 Original Sample ID,JB-JLB-G68
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.67505
 305.0,0.6838

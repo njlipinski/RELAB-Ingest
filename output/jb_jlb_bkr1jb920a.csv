@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-09-11
 Formula,
 Grain Size Description,<0.2um
-Grain Size,"(0.0, 0.2)"
+Grain Size,(0.0 - 0.2)
 Locality,"SBld-1, Idaho"
 Minimum Wavelength,280
 Sample Name,Beidellite sample #35 purified by Will Gates <125 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectroscopy of clay minerals
 Sample ID,BKR1JB920A
 Original Sample ID,JB-JLB-920-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.2164
 285.0,0.13353

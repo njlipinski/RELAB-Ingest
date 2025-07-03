@@ -2,7 +2,7 @@ Composition,
 Date Added,2002-11-13
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(500.0, 1000.0)"
+Grain Size,(500.0 - 1000.0)
 Locality,"Phalen Mine, Nova Scotia, Canada"
 Minimum Wavelength,2000
 Sample Name,COAL16f
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,High volatility A bituminous  
 Sample ID,BMR1CL053F
 Original Sample ID,CL-EAC-053-F
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1999.7,0.01828
 2000.5,0.01834

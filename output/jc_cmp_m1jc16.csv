@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-01-19
 Formula,
 Grain Size Description,<1.0um
-Grain Size,"(0.0, 1.0)"
+Grain Size,(0.0 - 1.0)
 Locality,
 Minimum Wavelength,1000
 Sample Name,H CARBON NIR
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,
 Sample ID,M1JC16
 Original Sample ID,JC-CMP-016
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.6,0.00381
 1001.3,0.00383

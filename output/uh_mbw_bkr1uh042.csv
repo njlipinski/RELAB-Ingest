@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-04-16
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,"Northern edge of Vatnajokull icecap, Iceland"
 Minimum Wavelength,320
 Sample Name,Jokul_5254
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Weathering/alteration down-core in Martian analog environments (Prop Prep, Student)"
 Sample ID,BKR1UH042
 Original Sample ID,UH-MBW-042
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.02763
 330.0,0.02969

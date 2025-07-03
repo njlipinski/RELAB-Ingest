@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-10-29
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(125.0, 1000.0)"
+Grain Size,(125.0 - 1000.0)
 Locality,"Mina Alcaparrosa, Tierra Amarilla, II-Region, Atacama Desert, Chile"
 Minimum Wavelength,1000
 Sample Name,Fibroferrite from Mina Alcaparrosa >125 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Spectroscopy of sulfate minerals (MDAP, MFRP, Active Missions)"
 Sample ID,BIR1JB785E
 Original Sample ID,JB-JLB-785-E
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.26317
 1000.2,0.26313

@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-08-10
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(0.0, 150.0)"
+Grain Size,(0.0 - 150.0)
 Locality,"Orne, France"
 Minimum Wavelength,320
 Sample Name,L'Aigle

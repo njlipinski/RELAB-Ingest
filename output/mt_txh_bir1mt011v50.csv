@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-06-11
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,"Tagish Lake, Canada "
 Minimum Wavelength,1428
 Sample Name,Tagish Lake ET01-B <75 um pellet in 5mm Cu dish @ 600 psi + Laser 50 mJ
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BIR1MT011V50
 Original Sample ID,MT-TXH-011-V50
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.088167
 1428.82,0.08752

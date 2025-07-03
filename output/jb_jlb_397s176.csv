@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-03-24
 Formula,
 Grain Size Description,<2.0um
-Grain Size,"(0.0, 2.0)"
+Grain Size,(0.0 - 2.0)
 Locality,"Rokle, Slovakia "
 Minimum Wavelength,1000
 Sample Name,Smectite 176
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Sedimentation fractionation   
 Sample ID,397S176
 Original Sample ID,JB-JLB-176
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.6,0.29809
 1001.3,0.29828

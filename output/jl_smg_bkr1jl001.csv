@@ -2,7 +2,7 @@ Composition,
 Date Added,2003-12-11
 Formula,
 Grain Size Description,<40.0um
-Grain Size,"(0.0, 40.0)"
+Grain Size,(0.0 - 40.0)
 Locality,Synthetic from A. Scheinost
 Minimum Wavelength,400
 Sample Name,Bulk Si gel
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,
 Sample ID,BKR1JL001
 Original Sample ID,JL-SMG-001
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 400.0,0.79225
 402.0,0.79276

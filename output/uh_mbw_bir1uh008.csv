@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-02-04
 Formula,
 Grain Size Description,<2000.0um
-Grain Size,"(0.0, 2000.0)"
+Grain Size,(0.0 - 2000.0)
 Locality,"Basaltic sand dunes between Northern edge of Vatnajokull and Askja volcano, Iceland"
 Minimum Wavelength,909
 Sample Name,3graysand_2_4
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Weathering/alteration down-core in Martian analog environments (Prop Prep, Student)"
 Sample ID,BIR1UH008
 Original Sample ID,UH-MBW-008
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 909.0,0.01655
 909.2,0.01648

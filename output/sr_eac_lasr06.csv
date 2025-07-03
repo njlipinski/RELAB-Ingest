@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-08-02
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Feather River Canyon, Plumas Co., CA "
 Minimum Wavelength,300
 Sample Name,SRP101
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Obtained from Minerals Unlimited  Dry-sieved. 
 Sample ID,LASR06
 Original Sample ID,SR-EAC-006
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.39281
 305.0,0.42006

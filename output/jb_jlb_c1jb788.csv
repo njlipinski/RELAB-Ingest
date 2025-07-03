@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-09-23
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,"Rio Tinto, Spain"
 Minimum Wavelength,320
 Sample Name,"Copiapite (JB787) heated 100C 30 min, 200C 30 min, 250C 30 min, and 300C 30 min"

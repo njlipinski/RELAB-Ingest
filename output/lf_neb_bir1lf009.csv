@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-12-04
 Formula,
 Grain Size Description,<400.0um
-Grain Size,"(149.0, 400.0)"
+Grain Size,(149.0 - 400.0)
 Locality,Fisher P/N: S25-3
 Minimum Wavelength,833
 Sample Name,Quartz - Fisher
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Code: 207 L-10597; CAS: 14808-60-7; Lot: 090625; Bulk sample, no sorting."
 Sample ID,BIR1LF009
 Original Sample ID,LF-NEB-009
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.25376
 833.5,0.25493

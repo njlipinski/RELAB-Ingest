@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-04-16
 Formula,
 Grain Size Description,<35.0um
-Grain Size,"(0.0, 35.0)"
+Grain Size,(0.0 - 35.0)
 Locality,"Meteorite Hills, Antarctica"
 Minimum Wavelength,300
 Sample Name,MET 01070 (CM1) <35 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"Fo 100: 3.65, Fo 90: 2.2 vol%"
 Sample ID,BKR1MT218
 Original Sample ID,MT-JMS-218
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03033
 305.0,0.03121

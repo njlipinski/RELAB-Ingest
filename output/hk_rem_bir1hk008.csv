@@ -2,7 +2,7 @@ Composition,
 Date Added,2016-11-18
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(125.0, 150.0)"
+Grain Size,(125.0 - 150.0)
 Locality,Australia
 Minimum Wavelength,833
 Sample Name,Murchison IOM 125-150 um
@@ -15,7 +15,7 @@ Material class,Organic
 Sample Description,On loan from Conel M. O'D. Alexander
 Sample ID,BIR1HK008
 Original Sample ID,HK-REM-008
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.00637
 833.5,0.00752

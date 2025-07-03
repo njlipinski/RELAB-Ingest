@@ -2,7 +2,7 @@ Composition,
 Date Added,2016-07-28
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Meknès-Tafilalet, Morocco"
 Minimum Wavelength,320
 Sample Name,NWA 725 powder <125 um (treated with ETG)

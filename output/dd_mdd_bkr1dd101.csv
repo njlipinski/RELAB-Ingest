@@ -2,7 +2,7 @@ Composition,
 Date Added,2006-04-14
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"St. Peter's Dome, CO"
 Minimum Wavelength,300
 Sample Name,St. Peter's Dome Fayalite
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Brown olivine investigation.  Full description in M. Schaeffer Ph.D. thesis, MIT, 1979."
 Sample ID,BKR1DD101
 Original Sample ID,DD-MDD-101
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.04973
 305.0,0.04577

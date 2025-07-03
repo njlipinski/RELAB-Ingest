@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-04-07
 Formula,
 Grain Size Description,<200.0um
-Grain Size,"(125.0, 200.0)"
+Grain Size,(125.0 - 200.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,S-2 
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Melted in resistance furnace in vacuum of 10-2 mmHg & cooled slower   
 Sample ID,LAMA18
 Original Sample ID,MA-ATB-018
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.02525
 305.0,0.02522

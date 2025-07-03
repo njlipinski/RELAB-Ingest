@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-03-04
 Formula,
 Grain Size Description,<400.0um
-Grain Size,"(0.0, 400.0)"
+Grain Size,(0.0 - 400.0)
 Locality,"Helgafel hyaloclastite ridge, Iceland"
 Minimum Wavelength,300
 Sample Name,Hf-07
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1WF017
 Original Sample ID,WF-WHF-017
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.01946
 305.0,0.01855

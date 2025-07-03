@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-12-17
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Christmas, Gila Co., AZ"
 Minimum Wavelength,300
 Sample Name,ZEO117
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Smithsonian Inst NMNH #122868   
 Sample ID,LAZE17
 Original Sample ID,ZE-EAC-017
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.25507
 305.0,0.26813

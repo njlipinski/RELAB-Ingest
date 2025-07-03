@@ -2,7 +2,7 @@ Composition,
 Date Added,2006-08-01
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic 
 Minimum Wavelength,1428
 Sample Name,Wo 30 En 17.5 Fs 52.5 (A) <45 um
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,PGG from Don Lindsley
 Sample ID,BIR1DL066A
 Original Sample ID,DL-CMP-066-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.34921
 1428.8,0.34951

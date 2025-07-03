@@ -2,7 +2,7 @@ Composition,
 Date Added,2016-06-23
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(250.0, 1000.0)"
+Grain Size,(250.0 - 1000.0)
 Locality,Purchased from Sigma-Aldrich
 Minimum Wavelength,833
 Sample Name,Fe(NO3)3-9H2O (Oxidized) >250 um
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,
 Sample ID,BIR2JBF79C
 Original Sample ID,JB-JLB-F79-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.4,0.07165
 833.5,0.07215

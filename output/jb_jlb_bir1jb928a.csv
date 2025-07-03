@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-09-16
 Formula,
 Grain Size Description,<2.0um
-Grain Size,"(0.5, 2.0)"
+Grain Size,(0.5 - 2.0)
 Locality,"Binjour Plateau 4a, Queensland, Australia"
 Minimum Wavelength,1000
 Sample Name,Beidellite-montmorillonite sample #43 purified by Will Gates <125 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectroscopy of clay minerals
 Sample ID,BIR1JB928A
 Original Sample ID,JB-JLB-928-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.35696
 1000.2,0.35703

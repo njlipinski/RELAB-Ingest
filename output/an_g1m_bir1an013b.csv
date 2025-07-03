@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-10-17
 Formula,
 Grain Size Description,<80.0um
-Grain Size,"(36.0, 80.0)"
+Grain Size,(36.0 - 80.0)
 Locality,"Phenaimatha, India"
 Minimum Wavelength,800
 Sample Name,SJ-4b
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Spectral reflectance and emittance of rocks and minerals
 Sample ID,BIR1AN013B
 Original Sample ID,AN-G1M-013-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.22058
 800.0,0.22078

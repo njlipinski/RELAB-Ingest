@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-10-19
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,Cariaco Basin 
 Minimum Wavelength,1800
 Sample Name,VCB 340 
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"4:B042.0'N, 64:B056.5'W, 790m water depth   Later Quaternary Age"
 Sample ID,N1AM17
 Original Sample ID,AM-JFM-017
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.3235
 1800.7,0.32341

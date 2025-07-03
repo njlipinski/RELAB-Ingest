@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-04-16
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Nullarbor, Australia"
 Minimum Wavelength,320
 Sample Name,Reid 013 (Brachinite) <45 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1MT344
 Original Sample ID,MT-JMS-344
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.050101
 330.0,0.05407

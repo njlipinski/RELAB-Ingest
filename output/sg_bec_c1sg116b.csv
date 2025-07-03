@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-07-08
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Bushveldt Complex, South Africa"
 Minimum Wavelength,280
 Sample Name,2608 Gabbro melt shot at 3.22 km/s glass-removed <45 um

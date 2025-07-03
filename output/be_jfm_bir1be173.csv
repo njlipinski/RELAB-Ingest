@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-01-07
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(45.0, 250.0)"
+Grain Size,(45.0 - 250.0)
 Locality,Medicine Lake & Germany
 Minimum Wavelength,800
 Sample Name,70 wt% BAS 79-3b 125-250 um + 30 wt% NG-1 45-75 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Spectral mixture modeling (PGG, Active missions, Student)"
 Sample ID,BIR1BE173
 Original Sample ID,BE-JFM-173
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.09125
 800.0,0.0917

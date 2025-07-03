@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-12-03
 Formula,
 Grain Size Description,<32.0um
-Grain Size,"(0.0, 32.0)"
+Grain Size,(0.0 - 32.0)
 Locality,
 Minimum Wavelength,320
 Sample Name,A80E10F10
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Anorthite 80 + Enstatite 10 + Forsterite 10 prepared by Ben Greenhagen.  See Greenhagen et al. (2020) European Lunar Symposium Abstract
 Sample ID,BKR1CK113
 Original Sample ID,CK-JFM-113
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.57253
 330.0,0.629259

@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-07-10
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Manila Bay, The Phillipines "
 Minimum Wavelength,300
 Sample Name,CHR104
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Associated with serpentine.Acquired from Minerals Unlimited.  
 Sample ID,LACR14
 Original Sample ID,CR-EAC-014
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.05227
 305.0,0.05104

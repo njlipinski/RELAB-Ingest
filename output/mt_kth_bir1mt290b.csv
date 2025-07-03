@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-06-09
 Formula,
 Grain Size Description,<35.0um
-Grain Size,"(0.0, 35.0)"
+Grain Size,(0.0 - 35.0)
 Locality,"Dominion Range, Antarctica"
 Minimum Wavelength,833
 Sample Name,DOM 08006 (CO3) B
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"Not sieved, estimate grain size."
 Sample ID,BIR1MT290B
 Original Sample ID,MT-KTH-290-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.0392
 833.5,0.03932

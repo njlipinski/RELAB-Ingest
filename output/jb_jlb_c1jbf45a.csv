@@ -2,7 +2,7 @@ Composition,
 Date Added,2016-05-06
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Burro Creek, AZ"
 Minimum Wavelength,300
 Sample Name,saponite PP#2 <125 um (JB1545a)

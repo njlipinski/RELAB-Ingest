@@ -2,7 +2,7 @@ Composition,
 Date Added,2002-11-25
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Natural ferrihydrite from Enver Murad, dry sieved."
 Minimum Wavelength,300
 Sample Name,Soos-1
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BKR1JB564A
 Original Sample ID,JB-JLB-564-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.02661
 305.0,0.0243

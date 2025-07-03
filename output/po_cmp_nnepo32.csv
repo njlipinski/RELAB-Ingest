@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-07-30
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,Hawaii
 Minimum Wavelength,650
 Sample Name,GSB olivine <25 um (purer)
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Ground from purer portion.
 Sample ID,NNEPO32
 Original Sample ID,PO-CMP-032-E
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 650.1,0.49103
 650.3,0.4878

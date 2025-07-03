@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-04-12
 Formula,
 Grain Size Description,<0.2um
-Grain Size,"(0.0, 0.2)"
+Grain Size,(0.0 - 0.2)
 Locality,"Holland's Quarry, Tasmania, Australia"
 Minimum Wavelength,800
 Sample Name,Nontronite #29 from Holland's Quarry by Will Gates
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectroscopy of Mars analog materials
 Sample ID,BIR1JB914
 Original Sample ID,JB-JLB-914
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.3322
 800.0,0.33249

@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-02-04
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Mexico
 Minimum Wavelength,300
 Sample Name,Hisingerite R2289 Mexico

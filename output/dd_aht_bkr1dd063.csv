@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-11-02
 Formula,
 Grain Size Description,<50.0um
-Grain Size,"(0.0, 50.0)"
+Grain Size,(0.0 - 50.0)
 Locality,Northwest Africa
 Minimum Wavelength,300
 Sample Name,NWA2737 saw fine with contamination
@@ -15,7 +15,7 @@ Material class,Meteorites
 Sample Description,
 Sample ID,BKR1DD063
 Original Sample ID,DD-AHT-063
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.05659
 305.0,0.0649

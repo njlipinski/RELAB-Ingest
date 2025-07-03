@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-02-20
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(45.0, 75.0)"
+Grain Size,(45.0 - 75.0)
 Locality,Labradorite: Mexico; Spinel: Tanzania
 Minimum Wavelength,800
 Sample Name,Plag90-TanzSp10
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,90 wt% PL-CMP-147-C + 10 wt% SP-CMP-122-C on 9 mm dish w/o tapping
 Sample ID,BIR1MX087C
 Original Sample ID,MX-CMP-087-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.38331
 800.0,0.38361

@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-06-17
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(38.0, 63.0)"
+Grain Size,(38.0 - 63.0)
 Locality,"Harcourt Graphite Mine, Cardiff Township, Haliburton Co., On-tario"
 Minimum Wavelength,1428
 Sample Name,Augite 38-63 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"See Byrne et al. 2015, LPS XLVI, Abstract 1504"
 Sample ID,BMR1CK006
 Original Sample ID,CK-JFM-006
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.37,0.183416
 1428.57,0.184595

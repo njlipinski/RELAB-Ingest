@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-05-18
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,"Ceara Rise, Atlantic Ocean"
 Minimum Wavelength,350
 Sample Name,926A 9H mix >1mm
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Sieved into >1 mm, and then ground into approximately <100 micron.  Red color."
 Sample ID,NCNF24
 Original Sample ID,NF-DWM-024
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 350.0,0.04642
 355.0,0.04709

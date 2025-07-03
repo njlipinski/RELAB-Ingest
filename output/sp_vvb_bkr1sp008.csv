@@ -2,7 +2,7 @@ Composition,
 Date Added,2006-03-29
 Formula,
 Grain Size Description,<140.0um
-Grain Size,"(0.0, 140.0)"
+Grain Size,(0.0 - 140.0)
 Locality,"Nyzyn-Kol river, Kuban', Russia"
 Minimum Wavelength,400
 Sample Name,2540 serpentine
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BKR1SP008
 Original Sample ID,SP-VVB-008
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 400.0,0.24013
 405.0,0.23943

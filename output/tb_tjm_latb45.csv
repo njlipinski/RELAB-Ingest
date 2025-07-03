@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-10-12
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Blanca Spring, Marathon, Brewster Co., TX"
 Minimum Wavelength,320
 Sample Name,Pena Blanca Sp. En
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Enstatite in Pen~a Blanc Spring aubrite   
 Sample ID,LATB45
 Original Sample ID,TB-TJM-045
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.37223
 330.0,0.38676

@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-02-15
 Formula,
 Grain Size Description,<10.0um
-Grain Size,"(0.0, 10.0)"
+Grain Size,(0.0 - 10.0)
 Locality,
 Minimum Wavelength,1000
 Sample Name,110907-B
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BIR2NT015
 Original Sample ID,NT-MBW-015
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.20269
 1000.2,0.20258

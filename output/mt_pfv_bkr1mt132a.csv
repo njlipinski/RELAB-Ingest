@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-09-02
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Bates Nunataks, Antarctica"
 Minimum Wavelength,280
 Sample Name,"BTN00302,5 (H3.3) <45 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Asteroid-meteorite connection (NASA-F)
 Sample ID,BKR1MT132A
 Original Sample ID,MT-PFV-132-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.09425
 285.0,0.08763

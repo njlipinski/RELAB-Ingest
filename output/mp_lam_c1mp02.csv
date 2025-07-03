@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-01-13
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(0.0, 63.0)"
+Grain Size,(0.0 - 63.0)
 Locality,"Allan Hills, Antarctica "
 Minimum Wavelength,300
 Sample Name,"ALHA77214,18"

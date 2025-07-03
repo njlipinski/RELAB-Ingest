@@ -2,7 +2,7 @@ Composition,
 Date Added,2002-04-15
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,"Tuva, Siberia, Russia"
 Minimum Wavelength,300
 Sample Name,CCH2
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Preparation of a carbonaceous chondrite analog
 Sample ID,LAMA42
 Original Sample ID,MA-ATB-042
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.21206
 305.0,0.23028

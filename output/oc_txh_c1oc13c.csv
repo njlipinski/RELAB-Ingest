@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-08-13
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Limestone County, Alabama, USA"
 Minimum Wavelength,300
 Sample Name,Athens (LL6) <125 um

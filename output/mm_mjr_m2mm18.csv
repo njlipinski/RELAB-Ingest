@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-04-13
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,
 Minimum Wavelength,1800
 Sample Name,MST-14ox3 
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,Basalt crystallized at 1065C (55% crystallized) and oxidized for  3 days; has pigeonite + augite + plagioclase. 
 Sample ID,M2MM18
 Original Sample ID,MM-MJR-018
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.05923
 1800.7,0.06048

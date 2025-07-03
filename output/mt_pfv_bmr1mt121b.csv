@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-11-16
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"Elephant Moraine, Antarctica"
 Minimum Wavelength,1428
 Sample Name,"EET96341,13 (EH4/5) <25 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Asteroid-meteorite connection (NASA-F)
 Sample ID,BMR1MT121B
 Original Sample ID,MT-PFV-121-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.07323
 1428.8,0.0735

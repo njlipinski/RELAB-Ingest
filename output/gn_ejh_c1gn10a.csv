@@ -2,7 +2,7 @@ Composition,
 Date Added,2006-02-15
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Peavine Mountain, Washoe County, Nevada"
 Minimum Wavelength,320
 Sample Name,AND <45 um

@@ -2,7 +2,7 @@ Composition,
 Date Added,2003-12-11
 Formula,
 Grain Size Description,<40.0um
-Grain Size,"(0.0, 40.0)"
+Grain Size,(0.0 - 40.0)
 Locality,Synthetic from A. Scheinost
 Minimum Wavelength,833
 Sample Name,Fe-Pc-F64 Si get treated with imitazole
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,
 Sample ID,BNR1JL003
 Original Sample ID,JL-SMG-003
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.2807
 833.5,0.27989

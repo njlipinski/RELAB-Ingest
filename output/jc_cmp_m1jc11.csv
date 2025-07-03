@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-11-25
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,
 Minimum Wavelength,1800
 Sample Name,"F LG GLASS, 1.212 % CB"
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,
 Sample ID,M1JC11
 Original Sample ID,JC-CMP-011
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.06622
 1800.7,0.06641

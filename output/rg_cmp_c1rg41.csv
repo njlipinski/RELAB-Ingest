@@ -2,7 +2,7 @@ Composition,
 Date Added,1986-02-25
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,San Marcos
 Minimum Wavelength,350
 Sample Name,San Marcos Drk

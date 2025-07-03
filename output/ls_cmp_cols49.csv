@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-11-05
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,Apollo 11 
 Minimum Wavelength,300
 Sample Name,"10084,1780 <25 um (45-75 um wet-sieved, ground to <25 um)"

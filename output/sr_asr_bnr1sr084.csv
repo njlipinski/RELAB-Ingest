@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-05-09
 Formula,
 Grain Size Description,<480.0um
-Grain Size,"(250.0, 480.0)"
+Grain Size,(250.0 - 480.0)
 Locality,
 Minimum Wavelength,800
 Sample Name,Serpentine #2370 Vial E 250-480 um shocked fragments
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Impact dehydration study (NASA Origins / PGG)
 Sample ID,BNR1SR084
 Original Sample ID,SR-ASR-084
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.11823
 800.0,0.1182

@@ -2,7 +2,7 @@ Composition,
 Date Added,1996-12-16
 Formula,
 Grain Size Description,<40.0um
-Grain Size,"(0.0, 40.0)"
+Grain Size,(0.0 - 40.0)
 Locality,
 Minimum Wavelength,900
 Sample Name,Ferrihydrite <40 um (placed in 5-10 mb CO2 atmos. for 7 days)
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Rerun 11/17 with 11,57 (C) ground to increase surface area"
 Sample ID,N1CCF4
 Original Sample ID,JB-CMP-046-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.4,0.14349
 901.1,0.14334

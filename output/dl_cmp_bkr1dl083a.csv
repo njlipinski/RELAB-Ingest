@@ -2,7 +2,7 @@ Composition,
 Date Added,2007-05-18
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic 
 Minimum Wavelength,300
 Sample Name,Wo 50 Fs 50 (Hd P) <45 um
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"PGG from Don Lindsley.  See Klima, R. L. et al. (2008) Meteoritics & Planetary Science 43, 1591-1604."
 Sample ID,BKR1DL083A
 Original Sample ID,DL-CMP-083-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.04143
 305.0,0.04003

@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-09-27
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,Dhofar 735 (CM anom.) <125 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1MP114
 Original Sample ID,MP-TXH-114
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.0412
 305.0,0.04291

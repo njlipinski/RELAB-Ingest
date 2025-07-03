@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-05-04
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"Station 2A, Apollo 17 site, Moon"
 Minimum Wavelength,300
 Sample Name,"73155,53"

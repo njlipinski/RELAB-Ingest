@@ -2,7 +2,7 @@ Composition,
 Date Added,1989-07-07
 Formula,
 Grain Size Description,<2000.0um
-Grain Size,"(0.0, 2000.0)"
+Grain Size,(0.0 - 2000.0)
 Locality,"Pinacates Field, Sonora, Mexico "
 Minimum Wavelength,300
 Sample Name,EC-Sp 

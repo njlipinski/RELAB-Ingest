@@ -2,7 +2,7 @@ Composition,
 Date Added,1985-03-28
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,"Moses Rock, SE Utah "
 Minimum Wavelength,600
 Sample Name,MRX-6 

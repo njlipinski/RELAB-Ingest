@@ -2,7 +2,7 @@ Composition,
 Date Added,2022-12-08
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Algeria
 Minimum Wavelength,300
 Sample Name,NWA 12562 <125 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Ultramafic achondrite meteorite
 Sample ID,BKR1MT371A
 Original Sample ID,MT-Z1V-371-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.11524
 305.0,0.111965

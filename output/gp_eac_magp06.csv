@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-09-19
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Madagascar
 Minimum Wavelength,1800
 Sample Name,GRP106
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Univ. of Winnipeg mineral collection #M100-6  
 Sample ID,MAGP06
 Original Sample ID,GP-EAC-006
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.07236
 1800.7,0.07275

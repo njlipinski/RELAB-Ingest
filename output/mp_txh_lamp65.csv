@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-11-05
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Thiel Mtns, Antarctica"
 Minimum Wavelength,300
 Sample Name,"TIL 91722,8"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Rusted  
 Sample ID,LAMP65
 Original Sample ID,MP-TXH-065
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.01952
 305.0,0.01881

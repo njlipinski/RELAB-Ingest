@@ -2,7 +2,7 @@ Composition,
 Date Added,1991-07-29
 Formula,
 Grain Size Description,<200.0um
-Grain Size,"(100.0, 200.0)"
+Grain Size,(100.0 - 200.0)
 Locality,
 Minimum Wavelength,1000
 Sample Name,Kerite #12 100-200 um
@@ -15,7 +15,7 @@ Material class,Organic
 Sample Description,
 Sample ID,NAMS21B
 Original Sample ID,MS-CMP-021-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.06221
 1000.4,0.06204

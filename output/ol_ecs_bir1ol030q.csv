@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-05-11
 Formula,
 Grain Size Description,<180.0um
-Grain Size,"(150.0, 180.0)"
+Grain Size,(150.0 - 180.0)
 Locality,"San Carlos, NM"
 Minimum Wavelength,1428
 Sample Name,San Carlos Olivine 150-180 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"See Byrne et al. 2015, LPS XLVI, Abstract 1499"
 Sample ID,BIR1OL030Q
 Original Sample ID,OL-ECS-030-Q
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.202027
 1428.82,0.201635

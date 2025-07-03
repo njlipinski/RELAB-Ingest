@@ -2,7 +2,7 @@ Composition,
 Date Added,2022-07-01
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(5.0, 100.0)"
+Grain Size,(5.0 - 100.0)
 Locality,Alfa Aesar and University of Central Florida
 Minimum Wavelength,1000
 Sample Name,Halite-MGS mixture 5n
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,30% halite + 70% MGS
 Sample ID,BIR1ED003
 Original Sample ID,ED-TDG-003
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.01,0.22922
 1000.2,0.229314

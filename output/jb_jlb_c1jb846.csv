@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-12-15
 Formula,
 Grain Size Description,<200.0um
-Grain Size,"(0.0, 200.0)"
+Grain Size,(0.0 - 200.0)
 Locality,Mid-Ocean Ridge
 Minimum Wavelength,280
 Sample Name,ALVIN 4438 Ba-08-2

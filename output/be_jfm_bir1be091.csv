@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-01-28
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(25.0, 45.0)"
+Grain Size,(25.0 - 45.0)
 Locality,Germany (Clay Mineral Repository)
 Minimum Wavelength,800
 Sample Name,NG-1 25-45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Mineral mixtures and deriving abundance using VNIR spectroscopy (PGG, MDAP, Active missions, Student)"
 Sample ID,BIR1BE091
 Original Sample ID,BE-JFM-091
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.31409
 800.0,0.31382

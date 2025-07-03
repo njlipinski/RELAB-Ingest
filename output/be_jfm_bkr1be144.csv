@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-07-15
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,Iceland
 Minimum Wavelength,280
 Sample Name,Icel009A <25 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"Earth analogues for hydrothermal enviornments seen by CRISM (Active missions, Student)"
 Sample ID,BKR1BE144
 Original Sample ID,BE-JFM-144
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.06805
 290.0,0.03717

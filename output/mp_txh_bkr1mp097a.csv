@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-09-11
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"Yamato Mtns, Antarctice "
 Minimum Wavelength,300
 Sample Name,"Y-7308,142"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1MP097A
 Original Sample ID,MP-TXH-097-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.11836
 305.0,0.12086

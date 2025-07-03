@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-12-07
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"MacAlpine Hills, Antarctica"
 Minimum Wavelength,800
 Sample Name,"MAC88174,17 (H3.5) <45 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Asteroid-meteorite connection (NASA-F)
 Sample ID,BIR1MT146A
 Original Sample ID,MT-PFV-146-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.11279
 800.0,0.11167

@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-08-26
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,D. McCarty
 Minimum Wavelength,833
 Sample Name,D. McCarty S009-008
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,
 Sample ID,BIR1JBF15
 Original Sample ID,JB-JLB-F15
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.4,0.18048
 833.5,0.18066

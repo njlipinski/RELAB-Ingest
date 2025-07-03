@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-02-18
 Formula,
 Grain Size Description,<32.0um
-Grain Size,"(0.0, 32.0)"
+Grain Size,(0.0 - 32.0)
 Locality,"Lemo-Lemo River, Indonesia"
 Minimum Wavelength,833
 Sample Name,LEM-01-E
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Bedload sediment from the Lemo-Lemo River - <32 microns
 Sample ID,BIR1LT081
 Original Sample ID,LT-JFM-081
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.17668
 833.5,0.17696

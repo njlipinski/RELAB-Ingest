@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-08-04
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Near Murchison, Victoria, Australia"
 Minimum Wavelength,833
 Sample Name,Murchison <125 um pellet
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BIR1MT291
 Original Sample ID,MT-S1S-291
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.05279
 833.5,0.05287

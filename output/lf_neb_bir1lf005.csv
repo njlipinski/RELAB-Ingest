@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-11-08
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(710.0, 1000.0)"
+Grain Size,(710.0 - 1000.0)
 Locality,Morocco (30º59.365'N 06º41.972'W)
 Minimum Wavelength,833
 Sample Name,Limestone
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Collected at top of exposed sedimentary deposit. Bulk rock. Crushed and seived.
 Sample ID,BIR1LF005
 Original Sample ID,LF-NEB-005
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.26053
 833.5,0.26106

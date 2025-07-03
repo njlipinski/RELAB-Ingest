@@ -2,7 +2,7 @@ Composition,
 Date Added,1993-05-04
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(0.0, 63.0)"
+Grain Size,(0.0 - 63.0)
 Locality,"Pecora Escarpment, Antarctica"
 Minimum Wavelength,300
 Sample Name,"PCA 91002,13  <63 um"

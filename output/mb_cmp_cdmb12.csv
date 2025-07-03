@@ -2,7 +2,7 @@ Composition,
 Date Added,1990-09-06
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(25.0, 250.0)"
+Grain Size,(25.0 - 250.0)
 Locality,"Cape Province, South Africa "
 Minimum Wavelength,300
 Sample Name,Jackalsfontein light

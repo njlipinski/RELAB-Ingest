@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-10-31
 Formula,
 Grain Size Description,<90.0um
-Grain Size,"(0.0, 90.0)"
+Grain Size,(0.0 - 90.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,MIX516
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,PYX110 (45-90 um) 60% + PAL102 (<45 um) 40%   
 Sample ID,LAMX16
 Original Sample ID,MX-EAC-016
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.04843
 305.0,0.05131

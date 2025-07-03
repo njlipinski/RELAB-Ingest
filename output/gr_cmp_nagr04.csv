@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-12-08
 Formula,
 Grain Size Description,<56.0um
-Grain Size,"(0.0, 56.0)"
+Grain Size,(0.0 - 56.0)
 Locality,"Karnten, Austria"
 Minimum Wavelength,900
 Sample Name,Hematite
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Hematite X01741-3 <56 from C.Wagner   
 Sample ID,NAGR04
 Original Sample ID,GR-CMP-004
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.0,0.06399
 900.3,0.06458

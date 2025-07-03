@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-12-18
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,Ivuna unheated <125 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,NCMP18
 Original Sample ID,MP-TXH-018
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.01938
 305.0,0.01966

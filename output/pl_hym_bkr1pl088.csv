@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-01-23
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(45.0, 125.0)"
+Grain Size,(45.0 - 125.0)
 Locality,Western US/Mexico
 Minimum Wavelength,280
 Sample Name,0022b 45-125 um plag+plag with inlusions+opaques+contaminants 
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Samples is predominently opaques and dark green contaminents. 
 Sample ID,BKR1PL088
 Original Sample ID,PL-HYM-088
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.04064
 285.0,0.0406

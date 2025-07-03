@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-07-28
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Villers-sur-Mer, Calvados, France "
 Minimum Wavelength,300
 Sample Name,GLA103
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Obtained from Smithsonian Institution (#46447)  Dry-sieved. 
 Sample ID,LAEA10
 Original Sample ID,EA-EAC-010
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.05121
 305.0,0.05081

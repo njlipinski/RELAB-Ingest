@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-04-10
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Georgia
 Minimum Wavelength,1000
 Sample Name,"Kaolinite KGa-2, CMS standard"

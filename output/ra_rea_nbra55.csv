@@ -2,7 +2,7 @@ Composition,
 Date Added,1993-11-30
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(63.0, 125.0)"
+Grain Size,(63.0 - 125.0)
 Locality,
 Minimum Wavelength,1000
 Sample Name,TA-5M 63-125 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Varnished   
 Sample ID,NBRA55
 Original Sample ID,RA-REA-055-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.08603
 1000.4,0.08594

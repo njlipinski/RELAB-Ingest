@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-04-13
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,Unknown 
 Minimum Wavelength,300
 Sample Name,Bells #1226B(1) 
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,M. Zolensky Sample  
 Sample ID,NCMB53
 Original Sample ID,MB-TXH-053
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.01881
 305.0,0.01935

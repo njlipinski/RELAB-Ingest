@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-01-07
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic 
 Minimum Wavelength,1800
 Sample Name,Mox-Test1 
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,Oxidized version of MST-1 for 1 week in air at 600C.  Glassy oxidized basalt w/ pigeonite phenocrysts.
 Sample ID,M1MM05
 Original Sample ID,MM-MJR-005
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.06006
 1800.7,0.05984

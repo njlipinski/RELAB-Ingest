@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-10-17
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(125.0, 250.0)"
+Grain Size,(125.0 - 250.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,Kaolinite 
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,NDJB25
 Original Sample ID,JB-CMP-025-D
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.31309
 305.0,0.30518

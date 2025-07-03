@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-10-24
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic
 Minimum Wavelength,800
 Sample Name,FeSp10_1_L45
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"Sintered (Mg,Fe)Al spinel; rapid quench from 1400 C"
 Sample ID,BIR1SP130B
 Original Sample ID,SP-CMP-130-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.18627
 800.0,0.18674

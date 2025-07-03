@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-10-30
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Wright Valley, Dry Valleys, Antarctica"
 Minimum Wavelength,300
 Sample Name,"JB1312: Pond VXE-6, core WV42, 9-10 cm depth <125 um"

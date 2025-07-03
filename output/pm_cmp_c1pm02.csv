@@ -2,7 +2,7 @@ Composition,
 Date Added,1985-10-03
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(0.0, 63.0)"
+Grain Size,(0.0 - 63.0)
 Locality,"Osage, Wyoming USA"
 Minimum Wavelength,600
 Sample Name,Montmorillonite

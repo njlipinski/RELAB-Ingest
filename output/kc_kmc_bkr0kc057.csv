@@ -2,7 +2,7 @@ Composition,
 Date Added,2018-01-12
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(45.0, 75.0)"
+Grain Size,(45.0 - 75.0)
 Locality,The Martian Garden company
 Minimum Wavelength,300
 Sample Name,MM2 (Mojave Mars Simulant) 45-75 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,BKR0KC057
 Original Sample ID,KC-KMC-057
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.07151
 330.0,0.0728

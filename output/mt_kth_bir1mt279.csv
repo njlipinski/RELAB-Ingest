@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-10-17
 Formula,
 Grain Size Description,<35.0um
-Grain Size,"(0.0, 35.0)"
+Grain Size,(0.0 - 35.0)
 Locality,"Oklahoma, USA"
 Minimum Wavelength,833
 Sample Name,Crescent (CM2)
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"Not sieved, estimate grain size."
 Sample ID,BIR1MT279
 Original Sample ID,MT-KTH-279
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.03633
 833.5,0.0363

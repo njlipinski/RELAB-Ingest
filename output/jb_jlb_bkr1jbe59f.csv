@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-08-21
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(250.0, 1000.0)"
+Grain Size,(250.0 - 1000.0)
 Locality,"Minglanilla, Cuenca, Spain"
 Minimum Wavelength,300
 Sample Name,Minglanilla aragonite >250 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BKR1JBE59F
 Original Sample ID,JB-JLB-E59-F
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.39404
 305.0,0.39223

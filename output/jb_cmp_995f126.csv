@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-09-30
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,95% #120 + 5% #129
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,95% #120 <45 micron+5% #129 <5 micron   
 Sample ID,995F126
 Original Sample ID,JB-CMP-126
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.0266
 305.0,0.02272

@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-05-15
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"Ihosy, Madagaskar"
 Minimum Wavelength,909
 Sample Name,Labradorite X01261-3 <25 um heated in vacuum at 500 C for 4 hours
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Heating experiments of labradorite (Active Missions: MESSENGER)
 Sample ID,BIR1PL092
 Original Sample ID,PL-J1H-092
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 909.0,0.38731
 909.2,0.38705

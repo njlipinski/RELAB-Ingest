@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-04-01
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Dar al Gani region, Al Jufrah, Libya"
 Minimum Wavelength,280
 Sample Name,"DaG 1042,05 <125 um"
@@ -15,7 +15,7 @@ Material class,Meteorites
 Sample Description,0.97 g
 Sample ID,BKR1LM052C
 Original Sample ID,LM-H1T-052-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.12778
 285.0,0.11236

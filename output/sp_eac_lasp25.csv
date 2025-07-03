@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-07-08
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Kinkaid Siding, Mineral County, Nevada"
 Minimum Wavelength,300
 Sample Name,SPI125
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Acquired from Excalibur Mineral Co.   
 Sample ID,LASP25
 Original Sample ID,SP-EAC-025
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.07527
 305.0,0.08162

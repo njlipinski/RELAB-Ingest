@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-12-05
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Near Brachina, S. Australia "
 Minimum Wavelength,900
 Sample Name,Brachina <45 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Rusted and crambled 
 Sample ID,KAMT49A
 Original Sample ID,MT-TXH-049-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.0,0.05448
 900.3,0.05429

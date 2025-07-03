@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-02-27
 Formula,
 Grain Size Description,<400.0um
-Grain Size,"(0.0, 400.0)"
+Grain Size,(0.0 - 400.0)
 Locality,"Helgafel tindar, Iceland"
 Minimum Wavelength,300
 Sample Name,Hf-02

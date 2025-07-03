@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-12-12
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Allan Hills, Antarctica"
 Minimum Wavelength,280
 Sample Name,"ALH85121,11 (H3.7) <45 um"

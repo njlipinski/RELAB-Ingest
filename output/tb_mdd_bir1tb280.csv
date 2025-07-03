@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-07-14
 Formula,
 Grain Size Description,<10.0um
-Grain Size,"(0.0, 10.0)"
+Grain Size,(0.0 - 10.0)
 Locality,"Halab, Syria"
 Minimum Wavelength,1428
 Sample Name,Aleppo <10 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,USNM 2026
 Sample ID,BIR1TB280
 Original Sample ID,TB-MDD-280
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.191172
 1428.82,0.191234

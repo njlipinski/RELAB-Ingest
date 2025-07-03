@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-06-04
 Formula,
 Grain Size Description,<20.0um
-Grain Size,"(0.0, 20.0)"
+Grain Size,(0.0 - 20.0)
 Locality,Synthetic 
 Minimum Wavelength,280
 Sample Name,Synthetic amorphous silica <20 um pellet

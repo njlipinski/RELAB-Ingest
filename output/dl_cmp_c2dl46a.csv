@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-07-29
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic 
 Minimum Wavelength,410
 Sample Name,"Wo 15 En 34 Fs 51 (E43-100, 70% cpx) <45 um"

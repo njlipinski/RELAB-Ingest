@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-01-25
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Botswana
 Minimum Wavelength,1428
 Sample Name,Passarge Valley PV04 (Eucrite) <45 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Fell on 6/9/2018 from asteroid 2018 LA
 Sample ID,BIR1MT334A
 Original Sample ID,MT-PMJ-334-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.339012
 1428.82,0.339004

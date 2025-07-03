@@ -2,7 +2,7 @@ Composition,
 Date Added,2001-11-30
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,
 Minimum Wavelength,850
 Sample Name,Cuadras #12
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,
 Sample ID,1101S534
 Original Sample ID,JB-JLB-534
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 850.1,0.42639
 850.4,0.42929

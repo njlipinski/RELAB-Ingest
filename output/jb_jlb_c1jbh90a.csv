@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-11-01
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Laija, Atacama, Chile"
 Minimum Wavelength,300
 Sample Name,JB1790a: Leija-4 soil <125 um

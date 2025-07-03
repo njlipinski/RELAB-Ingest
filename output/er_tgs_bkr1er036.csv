@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-07-08
 Formula,
 Grain Size Description,<2.0um
-Grain Size,"(0.0, 2.0)"
+Grain Size,(0.0 - 2.0)
 Locality,Clays and Clay Minerals Clay Repository
 Minimum Wavelength,280
 Sample Name,I+S 40-60 part (40 wt% IMt-1 + 60 wt% SWy-1)
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Spectroscopy of mixed-layer clay minerals (Student, GSRP)."
 Sample ID,BKR1ER036
 Original Sample ID,ER-TGS-036
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.11188
 285.0,0.08295

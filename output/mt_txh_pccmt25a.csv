@@ -2,7 +2,7 @@ Composition,
 Date Added,2022-01-04
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"Tagish Lake, Canada "
 Minimum Wavelength,400
 Sample Name,Tagish Lake ET01-B + PMO-5c <25 um

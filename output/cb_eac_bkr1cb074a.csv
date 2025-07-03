@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-08-30
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Mt. St. Hilaire, QC, Canada"
 Minimum Wavelength,280
 Sample Name,CRB701 <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectral properties of carbonates
 Sample ID,BKR1CB074A
 Original Sample ID,CB-EAC-074-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.16828
 285.0,0.107

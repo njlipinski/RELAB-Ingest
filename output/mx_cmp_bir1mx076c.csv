@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-02-13
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(45.0, 75.0)"
+Grain Size,(45.0 - 75.0)
 Locality,"Labradorite: Mexico, Olivine: San Carlos"
 Minimum Wavelength,800
 Sample Name,Plag50-SCOlv50
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,50 wt% PL-CMP-147-C + 50 wt% OL-CMP-014-C on 9 mm dish
 Sample ID,BIR1MX076C
 Original Sample ID,MX-CMP-076-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.31094
 800.0,0.31079

@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Mixture for wavelength calibration.   About 50:50 mixture of PP-02 and NO-01
 Sample ID,N1WC01
 Original Sample ID,WC-CMP-001
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 633.1,0.36775
 633.3,0.18213

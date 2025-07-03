@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-02-11
 Formula,
 Grain Size Description,<2000.0um
-Grain Size,"(0.0, 2000.0)"
+Grain Size,(0.0 - 2000.0)
 Locality,"Askja volcano, Iceland"
 Minimum Wavelength,320
 Sample Name,Askja_Oda_Teph_2224
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Weathering/alteration down-core in Martian analog environments (Prop Prep, Student)"
 Sample ID,BKR1UH003
 Original Sample ID,UH-MBW-003
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.05187
 330.0,0.0622

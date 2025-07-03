@@ -2,7 +2,7 @@ Composition,
 Date Added,1991-10-08
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,
 Minimum Wavelength,700
 Sample Name,Elenovka
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,C-Powdered melted/fused grains  
 Sample ID,NCMS41
 Original Sample ID,MS-CMP-041-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 700.2,0.17921
 700.4,0.17924

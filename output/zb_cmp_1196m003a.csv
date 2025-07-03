@@ -2,7 +2,7 @@ Composition,
 Date Added,1996-11-25
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,"India Point Park, Providence, RI"
 Minimum Wavelength,1800
 Sample Name,India Point Eroded
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,A2 Horizon collected at a depth of 5-10 cm.Artificially eroded by   dropping 25 ml water on a 25g specimen and taken top 1mm. 
 Sample ID,1196M003A
 Original Sample ID,ZB-CMP-003-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.20789
 1800.7,0.20862

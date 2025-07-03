@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-02-14
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Synthetic
 Minimum Wavelength,800
 Sample Name,PL25_L125
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,PL15 and PL15b were crushed together and resintered
 Sample ID,BIR1PL149
 Original Sample ID,PL-CMP-149
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.47385
 800.0,0.47431

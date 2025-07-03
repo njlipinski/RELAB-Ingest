@@ -2,7 +2,7 @@ Composition,
 Date Added,2003-04-26
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(74.0, 250.0)"
+Grain Size,(74.0 - 250.0)
 Locality,"Ohaaki Pool, Taupo Volcanic Zone, New Zealand"
 Minimum Wavelength,320
 Sample Name,NZ313-2
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Collected by Dr. B. Jones from an outwash pool, distal discharge apron 50 m from spring, dominant Calothrix cyanobacteria, 25-30C, fabric from bacterial filaments, early stage silicification."
 Sample ID,BKR1OP005
 Original Sample ID,OP-MCG-005
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.39288
 325.0,0.39636

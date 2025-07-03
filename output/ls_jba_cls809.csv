@@ -2,7 +2,7 @@ Composition,
 Date Added,1990-12-16
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,"Apollo 16, Station 11"
 Minimum Wavelength,351
 Sample Name,"67481,13"
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Bulk and Exp. Scl. runs.  Collected from the surface, about 1m from breccia boulders. "
 Sample ID,CLS809
 Original Sample ID,LS-JBA-261
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 351.0,0.29
 356.0,0.296

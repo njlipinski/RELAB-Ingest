@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-06-16
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Wadsworth, Washoe County, Nevada, USA"
 Minimum Wavelength,300
 Sample Name,CEL102
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectral-compositional properties of clays for Mars optical remote sensing
 Sample ID,BKR2EA020A
 Original Sample ID,EA-EAC-020-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.05832
 305.0,0.0648

@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-12-10
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic 
 Minimum Wavelength,2000
 Sample Name,En 25 Fs 75 (C) <45 um
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"PGG from Don Lindsley.  See Klima, R. L. et al. (2007) Meteoritics & Planetary Science 42, 235-253."
 Sample ID,BIR1DL028A
 Original Sample ID,DL-CMP-028-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1999.7,0.08953
 2000.5,0.08956

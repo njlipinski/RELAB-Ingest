@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-10-20
 Formula,
 Grain Size Description,<149.0um
-Grain Size,"(0.0, 149.0)"
+Grain Size,(0.0 - 149.0)
 Locality,Synthetic 
 Minimum Wavelength,320
 Sample Name,Synthetic FeS 
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,
 Sample ID,LBTB53
 Original Sample ID,TB-TJM-053
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.03622
 330.0,0.03423

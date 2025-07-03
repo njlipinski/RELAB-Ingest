@@ -2,7 +2,7 @@ Composition,
 Date Added,1994-11-19
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(0.0, 63.0)"
+Grain Size,(0.0 - 63.0)
 Locality,Alfa Chemical Co. 
 Minimum Wavelength,1800
 Sample Name,WUS101
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Stoichiometric FeO (wustite) powderVial C7  
 Sample ID,N1SC80
 Original Sample ID,SC-EAC-013
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.04486
 1800.7,0.0445

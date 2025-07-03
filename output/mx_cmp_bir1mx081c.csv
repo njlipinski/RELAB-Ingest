@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-02-19
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(45.0, 75.0)"
+Grain Size,(45.0 - 75.0)
 Locality,"Labradorite: Mexico; Opx: Bamble, Norway"
 Minimum Wavelength,800
 Sample Name,Plag85-BambleOpx15
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,85 wt% PL-CMP-147-C + 15 wt% PE-CMP-026-C on 9 mm dish w/o tapping
 Sample ID,BIR1MX081C
 Original Sample ID,MX-CMP-081-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.32015
 800.0,0.31995

@@ -2,7 +2,7 @@ Composition,
 Date Added,2002-12-06
 Formula,
 Grain Size Description,<50.0um
-Grain Size,"(0.0, 50.0)"
+Grain Size,(0.0 - 50.0)
 Locality,"Lewis Cliff, Antarctica"
 Minimum Wavelength,300
 Sample Name,LEW88516 pyroxene
@@ -15,7 +15,7 @@ Material class,Meteorites
 Sample Description,"Separated by hand picking, then ground."
 Sample ID,BKR1DD006
 Original Sample ID,DD-MDD-006
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.09857
 305.0,0.09828

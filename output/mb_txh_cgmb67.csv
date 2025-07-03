@@ -2,7 +2,7 @@ Composition,
 Date Added,1994-07-19
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"Elephant Moraine, Antarctica"
 Minimum Wavelength,300
 Sample Name,"EETA 79002,146 <25 um (wet-sieved)"

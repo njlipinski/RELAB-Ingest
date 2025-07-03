@@ -2,7 +2,7 @@ Composition,
 Date Added,1989-02-24
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(250.0, 1000.0)"
+Grain Size,(250.0 - 1000.0)
 Locality,Bishop Tuff 
 Minimum Wavelength,320
 Sample Name,BT 8865S

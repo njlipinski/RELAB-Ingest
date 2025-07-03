@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-10-03
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Capo di Bova, Antica, Italy "
 Minimum Wavelength,300
 Sample Name,MEL104
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Near Rome.Purchased from Minerals Unlimited.  In levcitite with nepheline.Sample may contain some magnetite.
 Sample ID,LAME04
 Original Sample ID,ME-EAC-004
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.08378
 305.0,0.08668

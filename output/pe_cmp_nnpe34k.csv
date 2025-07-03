@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-08-24
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,"Webster, NC "
 Minimum Wavelength,300
 Sample Name,Fine opx soil
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Enstatite: Wo 1%En 87%Fs 12%  
 Sample ID,NNPE34K
 Original Sample ID,PE-CMP-034-K
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.22839
 305.0,0.24031

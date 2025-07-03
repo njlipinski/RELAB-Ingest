@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-07-22
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Seathwaite Mine, Borrowdale, Cumbria, UK"
 Minimum Wavelength,1800
 Sample Name,GRP104
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Acquired from DAvid Shannon Minerals  
 Sample ID,MAGP04
 Original Sample ID,GP-EAC-004
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.03389
 1800.7,0.03381

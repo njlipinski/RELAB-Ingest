@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-10-03
 Formula,
 Grain Size Description,<1.0um
-Grain Size,"(0.0, 1.0)"
+Grain Size,(0.0 - 1.0)
 Locality,Brown University
 Minimum Wavelength,550
 Sample Name,Carbon black

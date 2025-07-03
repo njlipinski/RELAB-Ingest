@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-03-25
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,
 Minimum Wavelength,900
 Sample Name,RM64 soil 
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Dry sieved.   
 Sample ID,397S210
 Original Sample ID,JB-JLB-210
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.4,0.10567
 901.1,0.10626

@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-04-26
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic
 Minimum Wavelength,1428
 Sample Name,OGV-5 <45 um
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,Apollo 17 orange glass composition (DW-MJR-040) 390 ppm H2O
 Sample ID,BMR1RM140A
 Original Sample ID,RM-REM-140-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.06285
 1428.8,0.06302

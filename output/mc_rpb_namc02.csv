@@ -2,7 +2,7 @@ Composition,
 Date Added,1994-07-25
 Formula,
 Grain Size Description,<500.0um
-Grain Size,"(0.0, 500.0)"
+Grain Size,(0.0 - 500.0)
 Locality,"Lewis Cliff, Antarctica "
 Minimum Wavelength,300
 Sample Name,"LEW 90500,45 "
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,NAMC02
 Original Sample ID,MC-RPB-002
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.01533
 305.0,0.01677

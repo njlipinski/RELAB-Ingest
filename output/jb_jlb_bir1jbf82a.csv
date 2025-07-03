@@ -2,7 +2,7 @@ Composition,
 Date Added,2016-06-21
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(0.0, 150.0)"
+Grain Size,(0.0 - 150.0)
 Locality,Purchased from Sigma-Aldrich
 Minimum Wavelength,833
 Sample Name,NH4NO3 <150 um
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,
 Sample ID,BIR1JBF82A
 Original Sample ID,JB-JLB-F82-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.4,0.38934
 833.5,0.38762

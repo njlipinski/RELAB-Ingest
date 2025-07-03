@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-04-16
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Northwest Africa
 Minimum Wavelength,1428
 Sample Name,NWA 7297 (Brachinite) <45 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BMR1MT346
 Original Sample ID,MT-JMS-346
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.106547
 1428.82,0.106715

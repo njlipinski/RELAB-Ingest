@@ -2,7 +2,7 @@ Composition,
 Date Added,1991-08-21
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,"Cumberland, RI"
 Minimum Wavelength,900
 Sample Name,USNM #44973 
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,NAPA53
 Original Sample ID,PA-CMP-053
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.1,0.17192
 900.3,0.17179

@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-07-10
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"El Dorado, El Dorado Co., CA "
 Minimum Wavelength,300
 Sample Name,CHR103
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Acquired from Minerals Unlimited  Associated with uvorovite garnet
 Sample ID,LACR13
 Original Sample ID,CR-EAC-013
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.05196
 305.0,0.05069

@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-10-14
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(38.0, 63.0)"
+Grain Size,(38.0 - 63.0)
 Locality,"Hershel, Ontario"
 Minimum Wavelength,320
 Sample Name,Hershell diopside 38-63 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"See Byrne et al. 2015, LPS XLVI, Abstract 1505"
 Sample ID,BKR1PX022N
 Original Sample ID,PX-ECS-022-N
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.189568
 340.0,0.314188

@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-02-22
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(150.0, 1000.0)"
+Grain Size,(150.0 - 1000.0)
 Locality,"Zaenal Abidin, Indonesia"
 Minimum Wavelength,300
 Sample Name,"Synthetic imogolite Al/Si = 2, Fe(III) = 5 mol% >150 um (JB1657b)"
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,
 Sample ID,BKR1JBG57B
 Original Sample ID,JB-JLB-G57-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.01862
 305.0,0.0183

@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-07-17
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(45.0, 75.0)"
+Grain Size,(45.0 - 75.0)
 Locality,Hawaii and Germany
 Minimum Wavelength,800
 Sample Name,42% OLV-SC + 16% BAS-Gl + 42% NG-1 (45-75 um)
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Spectral mixture modeling (PGG, MDAP, Active missions, Student)"
 Sample ID,BIR1BE154
 Original Sample ID,BE-JFM-154
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.22317
 800.0,0.22361

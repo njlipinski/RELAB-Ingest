@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-08-31
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Allende, Mexico"
 Minimum Wavelength,280
 Sample Name,Allende dark inclusion MZA <125 um

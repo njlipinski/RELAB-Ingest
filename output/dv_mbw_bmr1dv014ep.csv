@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-05-09
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,"Beacon Valley, Antarctic Dry Valleys"
 Minimum Wavelength,1428
 Sample Name,MS10_BV_01_ext dolerite exterior alteration rind powder <75 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Investigation of alteration rind formation in the Antarctic Dry Valleys
 Sample ID,BMR1DV014EP
 Original Sample ID,DV-MBW-014-EP
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.25242
 1428.8,0.25259

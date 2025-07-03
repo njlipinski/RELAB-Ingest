@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-03-03
 Formula,
 Grain Size Description,<0.06um
-Grain Size,"(0.01, 0.06)"
+Grain Size,(0.01 - 0.06)
 Locality,Synthetic
 Minimum Wavelength,1428
 Sample Name,Hydroxyapatite-coated Fe3O4 nanoparticle (2:1 ratio) 
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"Hydroxyapatite is rod shaped (25 nm wide, 60 nm long) and Fe3O4 is round (10-40 nm diameter) (NSF, Student)"
 Sample ID,BMR1NP030
 Original Sample ID,NP-TJW-030
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.25029
 1428.8,0.24996

@@ -2,7 +2,7 @@ Composition,
 Date Added,2007-07-12
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,Collected on beta cloth with clam shell sampling device near Station 9 boulder
 Minimum Wavelength,1428
 Sample Name,"69003,9 bulk"
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,LSCC
 Sample ID,BIR1LR136
 Original Sample ID,LR-SKN-136
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.09391
 1428.8,0.09363

@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-10-30
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic
 Minimum Wavelength,1428
 Sample Name,K-2295 glass #2 <45 um
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,Lunar analog (LSI)
 Sample ID,BMR1GS036A
 Original Sample ID,GS-MDD-036-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.17644
 1428.8,0.17653

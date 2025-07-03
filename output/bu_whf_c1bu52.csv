@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-07-09
 Formula,
 Grain Size Description,<400.0um
-Grain Size,"(0.0, 400.0)"
+Grain Size,(0.0 - 400.0)
 Locality,"North Menan Buffe, Madison County, Idaho"
 Minimum Wavelength,300
 Sample Name,NMB12-03

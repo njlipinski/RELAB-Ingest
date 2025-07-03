@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-07-09
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Haleakala Crater, Hawaii"
 Minimum Wavelength,900
 Sample Name,Haleakala Soil
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Freshly dry-sieved 6/99   ~1-2 cm depth 
 Sample ID,799S248
 Original Sample ID,JB-JLB-248-D
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.0,0.20019
 900.3,0.20024

@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-12-23
 Formula,
 Grain Size Description,<200.0um
-Grain Size,"(0.0, 200.0)"
+Grain Size,(0.0 - 200.0)
 Locality,Mid-Ocean Ridge
 Minimum Wavelength,909
 Sample Name,ALVIN 4450 CD-08
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"Spectroscopy of sulfate minerals (MDAP, MFRP, Active Missions)"
 Sample ID,BIR1JB848
 Original Sample ID,JB-JLB-848
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 909.0,0.08004
 909.2,0.08037

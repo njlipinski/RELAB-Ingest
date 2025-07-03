@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-07-24
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic
 Minimum Wavelength,300
 Sample Name,Tr.B. 1500C
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,Lunar spinel synthesis
 Sample ID,BKR2JG021
 Original Sample ID,JG-J1G-021
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.38089
 305.0,0.4078

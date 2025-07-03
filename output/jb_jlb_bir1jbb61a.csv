@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-06-18
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic
 Minimum Wavelength,800
 Sample Name,Synthetic Mg-carbonate <45 um
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"From Jung-Fu ""Afu"" Lin (Mg 0.995 Fe 0.003 Mn 0.002 CO3)"
 Sample ID,BIR1JBB61A
 Original Sample ID,JB-JLB-B61-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.46434
 800.0,0.46424

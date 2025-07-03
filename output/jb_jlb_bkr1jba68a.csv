@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-09-26
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Minas Rio Tinto, Hvelva, Andalucia, Spain"
 Minimum Wavelength,280
 Sample Name,Voltaite 158795 <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectroscopy of sulfate minerals
 Sample ID,BKR1JBA68A
 Original Sample ID,JB-JLB-A68-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.05597
 285.0,0.03187

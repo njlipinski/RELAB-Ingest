@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-07-15
 Formula,
 Grain Size Description,<40.0um
-Grain Size,"(0.0, 40.0)"
+Grain Size,(0.0 - 40.0)
 Locality,"Szklary, Lower Silesia, Poland"
 Minimum Wavelength,1000
 Sample Name,Anorthosite #3151 shocked at 21.5 GPa
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BIR3JJ017
 Original Sample ID,JJ-JRJ-017
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.37511
 1000.2,0.3751

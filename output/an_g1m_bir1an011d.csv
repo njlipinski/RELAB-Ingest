@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-10-17
 Formula,
 Grain Size Description,<2000.0um
-Grain Size,"(500.0, 2000.0)"
+Grain Size,(500.0 - 2000.0)
 Locality,"Phenaimatha, India"
 Minimum Wavelength,800
 Sample Name,RJ-1d
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Spectral reflectance and emittance of rocks and minerals
 Sample ID,BIR1AN011D
 Original Sample ID,AN-G1M-011-D
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.08884
 800.0,0.08941

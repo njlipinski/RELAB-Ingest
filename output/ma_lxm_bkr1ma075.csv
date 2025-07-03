@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-04-14
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(100.0, 250.0)"
+Grain Size,(100.0 - 250.0)
 Locality,"Kaidun, South Yemen "
 Minimum Wavelength,300
 Sample Name,Kaidun 100-250 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1MA075
 Original Sample ID,MA-LXM-075
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03508
 305.0,0.03581

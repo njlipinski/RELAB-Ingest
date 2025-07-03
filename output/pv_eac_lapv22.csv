@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-07-23
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Ice River Complex, British Columbia, Can"
 Minimum Wavelength,300
 Sample Name,PER122
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Acquired from Bjarne Gautason.  
 Sample ID,LAPV22
 Original Sample ID,PV-EAC-022
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.07088
 305.0,0.0692

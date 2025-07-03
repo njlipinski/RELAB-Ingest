@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-06-07
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"LaPaz Icefield, Antarctica"
 Minimum Wavelength,300
 Sample Name,"LAP 03979,11 <45 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,HED mixing model study
 Sample ID,BKR1RM131A
 Original Sample ID,RM-REM-131-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.10648
 305.0,0.107

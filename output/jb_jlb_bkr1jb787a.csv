@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-09-26
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Rio Tinto, Spain"
 Minimum Wavelength,280
 Sample Name,Copiapite from Rio Tinto <125 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Spectroscopy of sulfate minerals (MDAP, MFRP, Active Missions)"
 Sample ID,BKR1JB787A
 Original Sample ID,JB-JLB-787-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.05302
 285.0,0.04229

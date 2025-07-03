@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-10-22
 Formula,
 Grain Size Description,<450.0um
-Grain Size,"(120.0, 450.0)"
+Grain Size,(120.0 - 450.0)
 Locality,
 Minimum Wavelength,1428
 Sample Name,Forsterite 5 120-450 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Diviner laboratory comparison (Student, Active Missions)"
 Sample ID,BMR1DH010
 Original Sample ID,DH-MBW-010
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.16054
 1428.8,0.16071

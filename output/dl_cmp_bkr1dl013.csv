@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-08-31
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,Synthetic 
 Minimum Wavelength,300
 Sample Name,"Wo 8 En 46 Fs 46 (E40-1: 99.5% cpx, 0.5% glass, Crist)"
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,Grain size unknown.  PGG.  From Turnock.
 Sample ID,BKR1DL013
 Original Sample ID,DL-CMP-013
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.06103
 305.0,0.05806

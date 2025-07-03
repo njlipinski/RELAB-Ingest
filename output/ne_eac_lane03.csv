@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-07-23
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Dungannon Twonship, Ontario, Canada "
 Minimum Wavelength,300
 Sample Name,NEP103
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Acquired from Minerals Unlimited.   
 Sample ID,LANE03
 Original Sample ID,NE-EAC-003
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.52375
 305.0,0.53464

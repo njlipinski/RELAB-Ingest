@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-10-29
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(45.0, 75.0)"
+Grain Size,(45.0 - 75.0)
 Locality,
 Minimum Wavelength,800
 Sample Name,33 wt% MGC + 33 wt% NG-1 + 33 wt% BAS-Gl (45-75 um)
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Spectral mixture modeling (PGG, Active missions)"
 Sample ID,BIR1BE248
 Original Sample ID,BE-JFM-248
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.2166
 800.0,0.217

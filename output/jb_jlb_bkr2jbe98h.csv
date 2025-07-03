@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-09-30
 Formula,
 Grain Size Description,<2500.0um
-Grain Size,"(1000.0, 2500.0)"
+Grain Size,(1000.0 - 2500.0)
 Locality,"translucent Sands National Monument, New Mexico"
 Minimum Wavelength,300
 Sample Name,D3_R2 Crest >1000 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Gypsum project
 Sample ID,BKR2JBE98H
 Original Sample ID,JB-JLB-E98-H
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.17253
 305.0,0.1783

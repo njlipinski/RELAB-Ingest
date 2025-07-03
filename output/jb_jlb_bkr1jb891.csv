@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-04-23
 Formula,
 Grain Size Description,<0.5um
-Grain Size,"(0.0, 0.5)"
+Grain Size,(0.0 - 0.5)
 Locality,"Ossean, South Africa"
 Minimum Wavelength,300
 Sample Name,Will Gates #6 montmorillonite from Ossean
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectroscopy of phyllosilicates
 Sample ID,BKR1JB891
 Original Sample ID,JB-JLB-891
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.13527
 305.0,0.14896

@@ -2,7 +2,7 @@ Composition,
 Date Added,1994-09-08
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(100.0, 1000.0)"
+Grain Size,(100.0 - 1000.0)
 Locality,Moon
 Minimum Wavelength,300
 Sample Name,2014 Luna 20 soil residual after agglutinate separation 100-1000 um

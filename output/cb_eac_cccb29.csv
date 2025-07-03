@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-02-24
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Snarum, Norway"
 Minimum Wavelength,300
 Sample Name,CRB209Bk <45 um

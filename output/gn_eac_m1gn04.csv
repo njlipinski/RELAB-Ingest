@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-08-08
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Stanley, Graham County, Arizona "
 Minimum Wavelength,1800
 Sample Name,GAR104
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Acquired from Minerals Unlimited.   
 Sample ID,M1GN04
 Original Sample ID,GN-EAC-004
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.44399
 1800.7,0.44541

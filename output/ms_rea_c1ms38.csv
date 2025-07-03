@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-06-22
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(0.0, 150.0)"
+Grain Size,(0.0 - 150.0)
 Locality,"Mauna Kea, Hawaii "
 Minimum Wavelength,300
 Sample Name,PN-9

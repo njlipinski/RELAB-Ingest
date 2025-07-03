@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-12-16
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Elipse Beach, Lake Superior N shore, MN "
 Minimum Wavelength,1800
 Sample Name,ZEO109
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,MAZE09
 Original Sample ID,ZE-EAC-009
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.21792
 1800.7,0.21942

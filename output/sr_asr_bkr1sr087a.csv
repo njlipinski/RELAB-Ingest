@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-07-21
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(0.0, 63.0)"
+Grain Size,(0.0 - 63.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,"Serpentine #2370 Vial H 63-104 um, ground into <63 um"
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Impact dehydration study (NASA Origins / PGG)
 Sample ID,BKR1SR087A
 Original Sample ID,SR-ASR-087-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.1115
 305.0,0.12105

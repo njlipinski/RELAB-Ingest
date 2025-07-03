@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-04-02
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,White gibbsite <250 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Ward's Scientific #49-5941
 Sample ID,BKR2JBF44
 Original Sample ID,JB-JLB-F44
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.78401
 305.0,0.78082

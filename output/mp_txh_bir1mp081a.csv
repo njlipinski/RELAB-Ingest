@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-09-06
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"Gounquel, Mauritania"
 Minimum Wavelength,1428
 Sample Name,Aioun el Atrouss
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,USNM 5929   
 Sample ID,BIR1MP081A
 Original Sample ID,MP-TXH-081-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.387571
 1428.82,0.387048

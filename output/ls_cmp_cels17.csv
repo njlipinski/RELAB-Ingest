@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-07-07
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(250.0, 1000.0)"
+Grain Size,(250.0 - 1000.0)
 Locality,"Apollo 16 Landing Site, Moon"
 Minimum Wavelength,300
 Sample Name,"60019,9004 breccia powder >250 um"

@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-07-25
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(25.0, 75.0)"
+Grain Size,(25.0 - 75.0)
 Locality,"Dripping Springs Mtn., Gila Co., AZ "
 Minimum Wavelength,300
 Sample Name,Gossan
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Wet  Gossan matrix from which jarosite crystals were removed.
 Sample ID,F1CC12B
 Original Sample ID,CC-JFM-012-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.09044
 305.0,0.08738

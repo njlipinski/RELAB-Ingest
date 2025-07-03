@@ -2,7 +2,7 @@ Composition,
 Date Added,1985-07-02
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,Apollo 15 Station 9 
 Minimum Wavelength,351
 Sample Name,"15501,31R "
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Scarp Crater NASA 15501,31  "
 Sample ID,CLS229
 Original Sample ID,LS-JBA-127-N2
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 351.0,0.067
 354.0,0.069

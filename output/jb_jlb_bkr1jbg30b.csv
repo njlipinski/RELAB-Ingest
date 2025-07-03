@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-04-04
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(250.0, 1000.0)"
+Grain Size,(250.0 - 1000.0)
 Locality,The Science Company
 Minimum Wavelength,300
 Sample Name,CaCl2 particles >250 um (JB1630b)
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,
 Sample ID,BKR1JBG30B
 Original Sample ID,JB-JLB-G30-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.70646
 305.0,0.71562

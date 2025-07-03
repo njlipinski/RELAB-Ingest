@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-04-11
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(250.0, 1000.0)"
+Grain Size,(250.0 - 1000.0)
 Locality,Sigma-Aldrich
 Minimum Wavelength,300
 Sample Name,FeCl2 tetrahydrate >250 um (JB1635b)

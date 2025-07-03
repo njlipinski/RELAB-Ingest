@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-10-06
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,Labrador
 Minimum Wavelength,900
 Sample Name,Klein #11B equilibrated at 475C in the presence of FeS2
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Klein #11B. -065-B is heated 14 days at 475c.   See Burns and Greaves, Am. Min., 56, 2010 (1971)"
 Sample ID,NDSB65
 Original Sample ID,SB-RGB-065-D
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.1,0.03841
 900.3,0.0386

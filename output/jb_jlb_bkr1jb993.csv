@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-05-19
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Rublev Colours standards
 Minimum Wavelength,280
 Sample Name,Rublev hematite <125 um
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"Spectroscopy of Mars analogs (MFRP, Active Missions, Prop Prep)"
 Sample ID,BKR1JB993
 Original Sample ID,JB-JLB-993
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.09049
 285.0,0.05596

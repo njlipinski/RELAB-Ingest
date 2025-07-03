@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"CCH5 laser irradiated.  a) >300, b) 200-300, c) 125-200, d) 75-125, e) 40-75, f) <40 um."
 Sample ID,BKR1MA049
 Original Sample ID,MA-ATB-049
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.10329
 305.0,0.11141

@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-11-08
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(710.0, 1000.0)"
+Grain Size,(710.0 - 1000.0)
 Locality,"Kess Kess Mud Mound, Morocco (31º22.791'N 04º01.894'W)"
 Minimum Wavelength,300
 Sample Name,CaCO3
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Collected at top of Kess Kess Devonian Mud Mound. Bulk rock. Crushed and dry sieved.
 Sample ID,BKR1LF001
 Original Sample ID,LF-NEB-001
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.17899
 305.0,0.17894

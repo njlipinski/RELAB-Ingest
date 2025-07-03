@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-03-28
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"LaPaz Ice Field, Antarctica "
 Minimum Wavelength,300
 Sample Name,"LAP031047,10e powder <125 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Impact melt study
 Sample ID,BKR1MT185E2
 Original Sample ID,MT-A1W-185-E2
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.05472
 305.0,0.05512

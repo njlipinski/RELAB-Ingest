@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-07-07
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Norton County, Kansas "
 Minimum Wavelength,300
 Sample Name,MET201
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Opaque-depleted fraction (some iron staining remains).  
 Sample ID,LAEA04B
 Original Sample ID,EA-EAC-004-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.28758
 305.0,0.29118

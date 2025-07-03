@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-07-14
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Purchased from Sigma-Aldrich
 Minimum Wavelength,833
 Sample Name,Pb(NO3)2 <125 um
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,
 Sample ID,BIR1JBF87A
 Original Sample ID,JB-JLB-F87-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.39,0.641789
 833.45,0.642316

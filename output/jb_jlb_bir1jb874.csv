@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-05-15
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Virgin Valley, NV"
 Minimum Wavelength,909
 Sample Name,Opal from Virgin Valley purified by Steve Hillier
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectroscopy of clay minerals
 Sample ID,BIR1JB874
 Original Sample ID,JB-JLB-874
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 909.0,0.34739
 909.2,0.34727

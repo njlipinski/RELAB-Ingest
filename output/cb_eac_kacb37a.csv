@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-03-03
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Valmalenco, Sondrio, Italy"
 Minimum Wavelength,900
 Sample Name,CRB217 <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Cava di Serpentino del Crestun, Torre Santa Maria, Valmalenco   "
 Sample ID,KACB37A
 Original Sample ID,CB-EAC-037-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.0,0.33144
 900.3,0.33155

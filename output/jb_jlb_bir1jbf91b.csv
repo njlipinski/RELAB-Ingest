@@ -2,7 +2,7 @@ Composition,
 Date Added,2016-06-06
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(45.0, 125.0)"
+Grain Size,(45.0 - 125.0)
 Locality,"Santorini, Greece"
 Minimum Wavelength,833
 Sample Name,Santorini (2015) 45-125 um (JB1591-b)
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Collected in 2015
 Sample ID,BIR1JBF91B
 Original Sample ID,JB-JLB-F91-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.4,0.36119
 833.5,0.36226

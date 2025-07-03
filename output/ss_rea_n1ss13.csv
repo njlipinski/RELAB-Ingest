@@ -2,7 +2,7 @@ Composition,
 Date Added,1991-11-18
 Formula,
 Grain Size Description,<850.0um
-Grain Size,"(0.0, 850.0)"
+Grain Size,(0.0 - 850.0)
 Locality,Unknown 
 Minimum Wavelength,1000
 Sample Name,Olivine 
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Separated from mantle xenolith  
 Sample ID,N1SS13
 Original Sample ID,SS-REA-013
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.1,0.16633
 1000.3,0.1668

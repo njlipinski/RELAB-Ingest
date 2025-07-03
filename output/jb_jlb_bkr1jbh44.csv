@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-10-29
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Synthetic by Sigma Aldrich
 Minimum Wavelength,300
 Sample Name,JB1744: Na2CO3 <125 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BKR1JBH44
 Original Sample ID,JB-JLB-H44
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.865344
 305.0,0.867781

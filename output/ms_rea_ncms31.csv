@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-06-28
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(0.0, 150.0)"
+Grain Size,(0.0 - 150.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,95WUMS1 
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Mars simulant: 46% smectite, 17% tephra, 15% plag., 7% kieserite-rich   evaporite, 7% desert sand, 6% BCS 301, 1.5% halite-rich evaporite."
 Sample ID,NCMS31
 Original Sample ID,MS-REA-031
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.0268
 305.0,0.02373

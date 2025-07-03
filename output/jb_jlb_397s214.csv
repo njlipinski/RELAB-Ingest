@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-03-25
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,
 Minimum Wavelength,900
 Sample Name,Olivine <125 um (approximate)
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Clean?  From Enver Murad
 Sample ID,397S214
 Original Sample ID,JB-JLB-214
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.4,0.2733
 901.1,0.27297

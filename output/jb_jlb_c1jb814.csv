@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-10-24
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,
 Minimum Wavelength,280
 Sample Name,40 wt% ferrihydrite (JB499) <125 um + 20 wt% hematite (JB763) <5 um + 20 wt% magnetite (JB764) fine + 20 wt% maghemite (JB301) <125 um

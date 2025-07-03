@@ -2,7 +2,7 @@ Composition,
 Date Added,1991-08-21
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,"Cassion Asbestos Mine, British Colombia "
 Minimum Wavelength,900
 Sample Name,Act-18
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Massive nephrite, compact tough form of tremolite.  Contains uvarovite garnets. "
 Sample ID,NAPA50
 Original Sample ID,PA-CMP-050
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.1,0.54606
 900.3,0.54321

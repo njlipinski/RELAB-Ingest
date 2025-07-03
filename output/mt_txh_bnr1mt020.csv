@@ -2,7 +2,7 @@ Composition,
 Date Added,2003-05-16
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Tagish Lake, Canada "
 Minimum Wavelength,833
 Sample Name,Tagish Lake ET01-B heated at 300C
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Heated in a flowing hydrogen gas for one week at Malcom Rutherford's lab.
 Sample ID,BNR1MT020
 Original Sample ID,MT-TXH-020
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.02667
 833.5,0.02705

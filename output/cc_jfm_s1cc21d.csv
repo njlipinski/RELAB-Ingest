@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-01-14
 Formula,
 Grain Size Description,<20.0um
-Grain Size,"(15.0, 20.0)"
+Grain Size,(15.0 - 20.0)
 Locality,"Haleakala, Hawaii prepared by JSC "
 Minimum Wavelength,900
 Sample Name,JSC Mars-1 brick
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Material CC-JFM-018-D was mixed with water and allowed to dry in a  sample dish, forming a brick.Low cohesion compared to 23 (from 20). "
 Sample ID,S1CC21D
 Original Sample ID,CC-JFM-021-D
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.4,0.26264
 901.1,0.26284

@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-10-06
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Multan, Punjab, Pakistan"
 Minimum Wavelength,320
 Sample Name,Lodran
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,LATB41
 Original Sample ID,TB-TJM-041
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.11023
 330.0,0.12447

@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-04-14
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,"Murray Co. , Kentucky "
 Minimum Wavelength,300
 Sample Name,Murray
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,M. Zolensky sample  
 Sample ID,NCMB56
 Original Sample ID,MB-TXH-056
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.01643
 305.0,0.0164

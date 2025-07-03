@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-03-13
 Formula,
 Grain Size Description,<5000.0um
-Grain Size,"(0.0, 5000.0)"
+Grain Size,(0.0 - 5000.0)
 Locality,"Hverfjall tuff cone slope, Krafla volanic system, Iceland"
 Minimum Wavelength,909
 Sample Name,TuffCone_5052
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Weathering/alteration down-core in Martian analog environments (Prop Prep, Student)"
 Sample ID,BIR1UH027
 Original Sample ID,UH-MBW-027
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 909.0,0.06159
 909.2,0.0619

@@ -2,7 +2,7 @@ Composition,
 Date Added,2022-07-19
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,"Izu Oshima, Japan "
 Minimum Wavelength,300
 Sample Name,Plagioclase <250 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BKR1YY006
 Original Sample ID,YY-S2K-006
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.246037
 305.0,0.263895

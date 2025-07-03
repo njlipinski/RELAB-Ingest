@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-03-31
 Formula,
 Grain Size Description,<3000.0um
-Grain Size,"(0.0, 3000.0)"
+Grain Size,(0.0 - 3000.0)
 Locality,"Southern edge of Vatnajokull icecap, Iceland (grray layer)"
 Minimum Wavelength,320
 Sample Name,Skaftafell sand plains 1 (SSP1)
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Weathering/alteration of the topsoil overlying previously analyzed core material (Prop Prep, Student)"
 Sample ID,BKR1UH021
 Original Sample ID,UH-MBW-021
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.02845
 330.0,0.02984

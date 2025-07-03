@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-04-30
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,Synthetic 
 Minimum Wavelength,300
 Sample Name,En 100

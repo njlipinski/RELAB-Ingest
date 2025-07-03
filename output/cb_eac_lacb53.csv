@@ -2,7 +2,7 @@ Composition,
 Date Added,2002-04-18
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Juanita Mine, Magdalena, Soccoro Co., NM"
 Minimum Wavelength,300
 Sample Name,CRB503 <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectral properties of geologically derived artists' pigments
 Sample ID,LACB53
 Original Sample ID,CB-EAC-053
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03191
 305.0,0.03081

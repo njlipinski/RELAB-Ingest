@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-05-05
 Formula,
 Grain Size Description,<600.0um
-Grain Size,"(0.0, 600.0)"
+Grain Size,(0.0 - 600.0)
 Locality,
 Minimum Wavelength,320
 Sample Name,Exolith MGS-1S Mars sulfate ISRU
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Mars regolith simulant enhanced for ISRU studies
 Sample ID,BKR1ZL022
 Original Sample ID,ZL-ZAL-022
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.104714
 330.0,0.109624

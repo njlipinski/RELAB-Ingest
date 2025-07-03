@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-05-09
 Formula,
 Grain Size Description,<50.0um
-Grain Size,"(0.0, 50.0)"
+Grain Size,(0.0 - 50.0)
 Locality,LPI
 Minimum Wavelength,300
 Sample Name,Epoxy powder for comparison with NWA2737 saw fine

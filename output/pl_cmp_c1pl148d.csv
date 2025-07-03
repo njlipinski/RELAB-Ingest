@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-06-07
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(45.0, 125.0)"
+Grain Size,(45.0 - 125.0)
 Locality,Synthetic
 Minimum Wavelength,300
 Sample Name,PL23_45-125

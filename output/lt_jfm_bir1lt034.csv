@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-01-19
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(0.0, 63.0)"
+Grain Size,(0.0 - 63.0)
 Locality,"Lake Towuti, Indonesia"
 Minimum Wavelength,833
 Sample Name,5A-S5-C6-29-32cm
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Sub-sampled sediment from Lake Towuti, Indonesia Core TOW10-5A-1K-6 from 29 to 32 cm"
 Sample ID,BIR1LT034
 Original Sample ID,LT-JFM-034
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.10012
 833.5,0.09972

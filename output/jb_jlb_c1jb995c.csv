@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-04-29
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Purchased from Sigma
 Minimum Wavelength,280
 Sample Name,Salt crystals of nitrate Fe(NO3)3-9H2O heated at 100C for 1 hr <125 um

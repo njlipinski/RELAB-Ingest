@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-11-02
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Ector County, Texas "
 Minimum Wavelength,300
 Sample Name,MET101
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"Sample MET101, Meteoritic metal, beaten   Odessa Meteorite"
 Sample ID,LASC63
 Original Sample ID,SC-EAC-063
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.07213
 305.0,0.07422

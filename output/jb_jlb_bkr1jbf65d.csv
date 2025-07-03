@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-09-23
 Formula,
 Grain Size Description,<5000.0um
-Grain Size,"(500.0, 5000.0)"
+Grain Size,(500.0 - 5000.0)
 Locality,"Fuertaventura, Canary Is, Spain"
 Minimum Wavelength,300
 Sample Name,JB1565d: Fuertaventura tephra dark brown >500 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,BKR1JBF65D
 Original Sample ID,JB-JLB-F65-D
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.043218
 305.0,0.04399

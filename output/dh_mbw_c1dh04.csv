@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-10-20
 Formula,
 Grain Size Description,<30.0um
-Grain Size,"(0.0, 30.0)"
+Grain Size,(0.0 - 30.0)
 Locality,
 Minimum Wavelength,320
 Sample Name,Augite 1 <30 um

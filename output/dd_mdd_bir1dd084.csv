@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-12-20
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,
 Minimum Wavelength,800
 Sample Name,Ki-5-62 olivine
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,0 % ferric iron
 Sample ID,BIR1DD084
 Original Sample ID,DD-MDD-084
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.39958
 800.0,0.39991

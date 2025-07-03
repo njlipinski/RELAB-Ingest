@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-11-02
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,PAL101A 
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,PAL101 (<45 um separate) baked at ~160C for 2 hours.  Not crushed.Sealed immediately after heating. 
 Sample ID,LAPA06A
 Original Sample ID,PA-EAC-006-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03189
 305.0,0.02882

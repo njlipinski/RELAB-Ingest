@@ -2,7 +2,7 @@ Composition,
 Date Added,1993-07-08
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,"Jackson Cty, NC "
 Minimum Wavelength,900
 Sample Name,Olivine contaminants <250 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Contaminants ol+chrom+serp
 Sample ID,NAPO84I
 Original Sample ID,PO-JFM-084-I
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.0,0.0703
 900.3,0.06954

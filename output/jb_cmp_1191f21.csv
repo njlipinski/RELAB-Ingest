@@ -2,7 +2,7 @@ Composition,
 Date Added,1991-11-13
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Relab 
 Minimum Wavelength,300
 Sample Name,"99.9% SWy, 0.1% C"
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"99.9% SWy,.1% Carbon-Black  "
 Sample ID,1191F21
 Original Sample ID,JB-CMP-021
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.18336
 305.0,0.2116

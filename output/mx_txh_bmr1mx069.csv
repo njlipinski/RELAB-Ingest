@@ -2,7 +2,7 @@ Composition,
 Date Added,2016-07-01
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,
 Minimum Wavelength,1428
 Sample Name,94.3 wt% KBr + 5.7 wt% Tagish Lake (ET01-B + PMO-5c) <25 um
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,
 Sample ID,BMR1MX069
 Original Sample ID,MX-TXH-069
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.30992
 1428.8,0.31053

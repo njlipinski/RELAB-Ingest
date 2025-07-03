@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-06-04
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(45.0, 150.0)"
+Grain Size,(45.0 - 150.0)
 Locality,"Tahawus, Essex Co., NY"
 Minimum Wavelength,320
 Sample Name,BUR-3080A
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,From ASU TES spectral library to contribute to the CRISM spectral library for Mars
 Sample ID,BKR1SR041A
 Original Sample ID,SR-JFM-041-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.16171
 325.0,0.16848

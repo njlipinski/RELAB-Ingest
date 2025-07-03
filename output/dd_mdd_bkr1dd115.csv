@@ -2,7 +2,7 @@ Composition,
 Date Added,2007-05-18
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic 
 Minimum Wavelength,300
 Sample Name,Fa 10.5 Fo 89.5 <45 um (new)
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,From Don Lindsley.
 Sample ID,BKR1DD115
 Original Sample ID,DD-MDD-115
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.33467
 305.0,0.35151

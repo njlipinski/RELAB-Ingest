@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-10-17
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(63.0, 250.0)"
+Grain Size,(63.0 - 250.0)
 Locality,"Bombay, India"
 Minimum Wavelength,800
 Sample Name,Zeol 63-250 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectral reflectance and emittance of rocks and minerals
 Sample ID,BIR1AN016B
 Original Sample ID,AN-G1M-016-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.38925
 800.0,0.38872

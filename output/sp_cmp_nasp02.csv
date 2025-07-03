@@ -2,7 +2,7 @@ Composition,
 Date Added,1991-12-04
 Formula,
 Grain Size Description,<80.0um
-Grain Size,"(0.0, 80.0)"
+Grain Size,(0.0 - 80.0)
 Locality,Iceland 
 Minimum Wavelength,700
 Sample Name,Icelandic Palag.
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,NASP02
 Original Sample ID,SP-CMP-002
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 700.2,0.34065
 700.4,0.34135

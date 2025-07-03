@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-10-28
 Formula,
 Grain Size Description,<212.0um
-Grain Size,"(0.0, 212.0)"
+Grain Size,(0.0 - 212.0)
 Locality,"Stillwater complex, Montana, USA"
 Minimum Wavelength,1428
 Sample Name,Stillwater Mine anorthosite <212 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BIR1ZL026
 Original Sample ID,ZL-ZAL-026
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.303471
 1428.82,0.303923

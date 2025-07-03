@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-02-09
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Northwest Africa
 Minimum Wavelength,1667
 Sample Name,NWA 3118 (CV3) host <125 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BMR1MP129
 Original Sample ID,MP-TXH-129
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1666.7,0.09415
 1667.3,0.09413

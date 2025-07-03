@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-05-02
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Unknown 
 Minimum Wavelength,300
 Sample Name,Cronstedtite
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,From Mike Zolensky  
 Sample ID,NCCR02
 Original Sample ID,CR-TXH-002
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03483
 305.0,0.03554

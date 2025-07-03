@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-02-07
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(45.0, 150.0)"
+Grain Size,(45.0 - 150.0)
 Locality,
 Minimum Wavelength,320
 Sample Name,BUR-4760
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,From ASU TES spectral library to contribute to the CRISM spectral library for Mars
 Sample ID,BKR1SR057A
 Original Sample ID,SR-JFM-057-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.52454
 325.0,0.54215

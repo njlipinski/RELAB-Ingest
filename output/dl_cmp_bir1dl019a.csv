@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-09-27
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic 
 Minimum Wavelength,1667
 Sample Name,"Wo 20 En 56 Fs 24 (EFW12-3, 99.5% cpx) <45 um"
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,PGG from Turnock
 Sample ID,BIR1DL019A
 Original Sample ID,DL-CMP-019-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1666.7,0.28038
 1667.3,0.28035

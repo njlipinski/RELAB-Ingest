@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-06-11
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(45.0, 125.0)"
+Grain Size,(45.0 - 125.0)
 Locality,Synthetic
 Minimum Wavelength,300
 Sample Name,PL23_45-125
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,PL13 and PL13b were crushed together and resintered
 Sample ID,BKR1PL148D
 Original Sample ID,PL-CMP-148-D
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.70067
 305.0,0.70331

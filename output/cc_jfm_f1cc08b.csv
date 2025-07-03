@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-07-25
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(25.0, 75.0)"
+Grain Size,(25.0 - 75.0)
 Locality,"Marysvale, Utah "
 Minimum Wavelength,300
 Sample Name,Alunite 
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Wet  Crystalline to massive hand-sample purchased from Ward's. 
 Sample ID,F1CC08B
 Original Sample ID,CC-JFM-008-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.24177
 305.0,0.25751

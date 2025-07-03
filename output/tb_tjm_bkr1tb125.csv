@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-07-29
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(0.0, 150.0)"
+Grain Size,(0.0 - 150.0)
 Locality,"Allegan County, Michigan, USA"
 Minimum Wavelength,320
 Sample Name,Allegan
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"Ordinary chondrite powder studied by Jarosevich, Meteoritics, 323-337, 1990.  Almost all metal removed.  USNM 7073"
 Sample ID,BKR1TB125
 Original Sample ID,TB-TJM-125
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.14352
 330.0,0.1569

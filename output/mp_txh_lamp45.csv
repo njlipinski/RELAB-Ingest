@@ -2,7 +2,7 @@ Composition,
 Date Added,1996-11-27
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"MacAlpine Hills, Antarctica "
 Minimum Wavelength,300
 Sample Name,"MAC 87300,46"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,LAMP45
 Original Sample ID,MP-TXH-045
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.02376
 305.0,0.02394

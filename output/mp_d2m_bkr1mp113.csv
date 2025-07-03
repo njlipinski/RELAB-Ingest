@@ -2,7 +2,7 @@ Composition,
 Date Added,2003-11-14
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"Isle of Schouwen, Zeeland, Holland"
 Minimum Wavelength,300
 Sample Name,Ellemeet diogenite <25 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1MP113
 Original Sample ID,MP-D2M-113
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.09126
 305.0,0.10115

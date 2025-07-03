@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-07-25
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(25.0, 75.0)"
+Grain Size,(25.0 - 75.0)
 Locality,"Riverside Co., California "
 Minimum Wavelength,300
 Sample Name,Magnesite 25-75 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Wet  Massive hand sample purchased from Ward's.
 Sample ID,F1CC06B
 Original Sample ID,CC-JFM-006-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.69486
 305.0,0.6925

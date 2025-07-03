@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-09-07
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Grosvenor Mountains, Antarctica"
 Minimum Wavelength,1428
 Sample Name,"GRO 95581,17 <45 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BMR1RM185B
 Original Sample ID,RM-REM-185-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.25193
 1428.8,0.25149

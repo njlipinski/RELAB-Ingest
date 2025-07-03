@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-04-28
 Formula,
 Grain Size Description,<212.0um
-Grain Size,"(0.0, 212.0)"
+Grain Size,(0.0 - 212.0)
 Locality,
 Minimum Wavelength,1428
 Sample Name,Anorthosite <212 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"GreenSpar from Hudson Resources, Inc."
 Sample ID,BIR1ZL001
 Original Sample ID,ZL-ZAL-001
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.385608
 1428.82,0.385745

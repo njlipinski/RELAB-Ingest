@@ -2,7 +2,7 @@ Composition,
 Date Added,2007-04-18
 Formula,
 Grain Size Description,<105.0um
-Grain Size,"(75.0, 105.0)"
+Grain Size,(75.0 - 105.0)
 Locality,"Nearshore of N. Stradbroke Island, Queensland, Australia"
 Minimum Wavelength,1428
 Sample Name,Ilmenite 1 (Australia) 75-105 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectral data analysis for SELENE project
 Sample ID,BMR1IL005
 Original Sample ID,IL-M1O-005
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.04269
 1428.8,0.04245

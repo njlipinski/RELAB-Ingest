@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-04-04
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,Baker Chemical
 Minimum Wavelength,900
 Sample Name,Ca(OH)2 
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Reagent grade chemical  
 Sample ID,NCPL28
 Original Sample ID,PL-SJG-028
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.0,0.42715
 900.3,0.4284

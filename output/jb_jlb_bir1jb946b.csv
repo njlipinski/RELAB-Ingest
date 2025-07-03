@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-10-15
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(45.0, 75.0)"
+Grain Size,(45.0 - 75.0)
 Locality,"Brumada Bahia, Brazil"
 Minimum Wavelength,909
 Sample Name,Brumado Bahia magnesite 45-75 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Excalibur Minerals, Spectroscopy of clay mineral mixtures (MDAP, MFRP, Active Missions)"
 Sample ID,BIR1JB946B
 Original Sample ID,JB-JLB-946-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 909.0,0.50046
 909.2,0.50051

@@ -2,7 +2,7 @@ Composition,
 Date Added,1985-07-02
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,Apollo 14 
 Minimum Wavelength,351
 Sample Name,"14259,13R "
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Apollo 14 SoilNASA #14259   Magnetic
 Sample ID,CLS234
 Original Sample ID,LS-JBA-091-M
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 351.0,0.065
 354.0,0.066

@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-08-07
 Formula,
 Grain Size Description,<4000.0um
-Grain Size,"(0.0, 4000.0)"
+Grain Size,(0.0 - 4000.0)
 Locality,"Fazenda Sete, Paragominas, Para, Brazil "
 Minimum Wavelength,350
 Sample Name,Soil #1 (8/94)

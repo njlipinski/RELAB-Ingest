@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-08-23
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Utah
 Minimum Wavelength,300
 Sample Name,SPT127
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Obtained from Univ. of Winnipeg (sample #M168-39)   
 Sample ID,LASF41A
 Original Sample ID,SF-EAC-041-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.80517
 305.0,0.80127

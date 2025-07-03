@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-07-01
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Sterling Hill, New Jersey "
 Minimum Wavelength,300
 Sample Name,SPI112
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Acquired from Tyson's Fine Minerals   
 Sample ID,LASP12
 Original Sample ID,SP-EAC-012
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.05364
 305.0,0.05453

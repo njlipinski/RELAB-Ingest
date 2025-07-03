@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-01-06
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,"Montauban, France "
 Minimum Wavelength,1667
 Sample Name,Orgueil <100 um (remixed)
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,M. Zolensky Sample  
 Sample ID,BMR1MB057R
 Original Sample ID,MB-TXH-057-R
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1666.7,0.04725
 1667.3,0.04716

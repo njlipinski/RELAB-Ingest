@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-10-29
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,
 Minimum Wavelength,1000
 Sample Name,75 wt% ferrihydrite (JB499) <125 um + 25 wt% magnetite (JB764) fine
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Spectroscopy of clay minerals (MDAP, MFRP, Active Missions)"
 Sample ID,BIR1JB811
 Original Sample ID,JB-JLB-811
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.16852
 1000.2,0.16849

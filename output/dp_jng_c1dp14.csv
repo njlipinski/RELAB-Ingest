@@ -2,7 +2,7 @@ Composition,
 Date Added,2007-05-03
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Stevens County, Kansas"
 Minimum Wavelength,300
 Sample Name,M-H5-534 (Hugoton) bulk <125 um

@@ -2,7 +2,7 @@ Composition,
 Date Added,2018-04-13
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(25.0, 45.0)"
+Grain Size,(25.0 - 45.0)
 Locality,"Victoria, Australia "
 Minimum Wavelength,833
 Sample Name,Murchison heated at 500C 25-45 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Heated for 1 week at 500C
 Sample ID,BIR1MB064F2
 Original Sample ID,MB-TXH-064-F2
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.34,0.019073
 833.47,0.01971

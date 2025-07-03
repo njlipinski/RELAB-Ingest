@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-01-06
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,Mallickrodt 
 Minimum Wavelength,900
 Sample Name,MgSO4 
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"99.5% MgSO4, 0.45% LOI.   Anhydrous, reagent grade. "
 Sample ID,S1CC19
 Original Sample ID,CC-JFM-019
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.4,0.36631
 901.1,0.36675

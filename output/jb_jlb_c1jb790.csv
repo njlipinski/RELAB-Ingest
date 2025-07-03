@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-10-03
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,South Australia
 Minimum Wavelength,280
 Sample Name,CMS standard nontronite Nau-1 <125 um

@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-07-03
 Formula,
 Grain Size Description,<50.0um
-Grain Size,"(0.0, 50.0)"
+Grain Size,(0.0 - 50.0)
 Locality,"Potsdam, Germany"
 Minimum Wavelength,300
 Sample Name,Calcite 
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Calcite OFA <50 microns from C.Wagner   
 Sample ID,F1GR01
 Original Sample ID,GR-CMP-001
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.70388
 305.0,0.70591

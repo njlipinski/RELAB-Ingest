@@ -2,7 +2,7 @@ Composition,
 Date Added,2003-03-06
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,
 Minimum Wavelength,320
 Sample Name,Mg carbonate
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"(MgCO3)4 Mg(OH)2 5H2O  dehydrated 1 hr at 105C, then dry-sieved <45 um."
 Sample ID,BKR1JB590
 Original Sample ID,JB-JLB-590
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.82889
 325.0,0.82922

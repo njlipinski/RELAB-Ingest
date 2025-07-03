@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-09-28
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Elephant Moraine, Antarctica"
 Minimum Wavelength,300
 Sample Name,"EET 96029,14 (C2) <125 um"

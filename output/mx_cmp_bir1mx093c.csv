@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-02-22
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(45.0, 75.0)"
+Grain Size,(45.0 - 75.0)
 Locality,"Labradorite: Mexico; Spinel: Amity, New York"
 Minimum Wavelength,800
 Sample Name,Plag93-AmitySp07
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,93 wt% PL-CMP-147-C + 7 wt% SP-CMP-103-C on 9 mm dish w/o tapping
 Sample ID,BIR1MX093C
 Original Sample ID,MX-CMP-093-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.32991
 800.0,0.32957

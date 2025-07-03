@@ -2,7 +2,7 @@ Composition,
 Date Added,2002-12-04
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,
 Minimum Wavelength,833
 Sample Name,Serpentine #3365 shocked at 35.8 GPa
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Impact dehydration study (NASA Origins / PGG)
 Sample ID,BNR1SR033
 Original Sample ID,SR-ASR-033
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.3085
 833.5,0.30779

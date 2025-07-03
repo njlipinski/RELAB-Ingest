@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-11-03
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(32.0, 63.0)"
+Grain Size,(32.0 - 63.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,OL35/OP35/PYH30 
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Olivine 35% + Orthopyroxene 35% + Pyrrhotite 30%  
 Sample ID,LAXT58
 Original Sample ID,XT-LXM-058
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.09875
 305.0,0.09985

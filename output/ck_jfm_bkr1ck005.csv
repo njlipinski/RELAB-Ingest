@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-06-17
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(38.0, 63.0)"
+Grain Size,(38.0 - 63.0)
 Locality,Mexico (maybe Tequila Volcano)
 Minimum Wavelength,300
 Sample Name,Mexico Glass 38-63 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"See Byrne et al. 2015, LPS XLVI, Abstract 1503"
 Sample ID,BKR1CK005
 Original Sample ID,CK-JFM-005
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.153047
 305.0,0.181543

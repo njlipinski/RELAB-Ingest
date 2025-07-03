@@ -2,7 +2,7 @@ Composition,
 Date Added,2018-12-17
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Spinel lherzolite, Harrat al Kishb, Saudi Arabia"
 Minimum Wavelength,300
 Sample Name,H30-82-8 CPX
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BKR1DD147
 Original Sample ID,DD-MDD-147
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.085944
 305.0,0.08256

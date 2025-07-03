@@ -2,7 +2,7 @@ Composition,
 Date Added,2022-03-23
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,
 Minimum Wavelength,833
 Sample Name,"H20 (containing Sr, Mn, Fe traces)"
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"Mg-rich carbonate precipitates (hydromagnesite, Ca-rich dolomite, and sometimes traces of Mg-rich phosphate) from biotic experiments"
 Sample ID,BIR1MG047
 Original Sample ID,MG-JFM-047
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.34,0.503016
 833.47,0.501497

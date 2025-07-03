@@ -2,7 +2,7 @@ Composition,
 Date Added,2018-04-17
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,Atlantic Ocean
 Minimum Wavelength,1351
 Sample Name,JT021
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BMR1JT021
 Original Sample ID,JT-JFM-021
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1351.36,0.251847
 1351.71,0.252108

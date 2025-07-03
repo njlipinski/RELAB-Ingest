@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-05-03
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(38.0, 45.0)"
+Grain Size,(38.0 - 45.0)
 Locality,"Globe, Arizona"
 Minimum Wavelength,1428
 Sample Name,Globe Olivine 38-63 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"See Byrne et al. 2015, LPS XLVI, Abstract 1500"
 Sample ID,BIR1OL029N
 Original Sample ID,OL-ECS-029-N
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.330781
 1428.82,0.330624

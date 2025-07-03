@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-12-03
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Buckley Island, Antarctica"
 Minimum Wavelength,320
 Sample Name,"BUC 10944,10 <125 um"

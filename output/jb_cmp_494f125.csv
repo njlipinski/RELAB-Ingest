@@ -2,7 +2,7 @@ Composition,
 Date Added,1994-05-03
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Gramelkam, Germany"
 Minimum Wavelength,300
 Sample Name,Montmorillonite from Gramelkam <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Dry sieved.   
 Sample ID,494F125
 Original Sample ID,JB-CMP-125
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.11282
 305.0,0.13204

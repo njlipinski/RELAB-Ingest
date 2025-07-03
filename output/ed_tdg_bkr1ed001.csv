@@ -2,7 +2,7 @@ Composition,
 Date Added,2022-07-01
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(5.0, 100.0)"
+Grain Size,(5.0 - 100.0)
 Locality,Alfa Aesar
 Minimum Wavelength,320
 Sample Name,Halite (Alfa Aesar spectroscopy grade)
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,Pure halite
 Sample ID,BKR1ED001
 Original Sample ID,ED-TDG-001
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.880135
 330.0,0.873667

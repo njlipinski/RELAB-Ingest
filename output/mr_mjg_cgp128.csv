@@ -2,7 +2,7 @@ Composition,
 Date Added,1987-07-01
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,"Mekensk, Terek, Caucasus, USSR"
 Minimum Wavelength,351
 Sample Name,Grosnaja
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"tvj, ps<0.075mm   Fell June 28, 1861"
 Sample ID,CGP128
 Original Sample ID,MR-MJG-119-P1
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 351.0,0.055769
 356.0,0.056877

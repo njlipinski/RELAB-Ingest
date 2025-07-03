@@ -2,7 +2,7 @@ Composition,
 Date Added,1991-03-14
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(20.0, 250.0)"
+Grain Size,(20.0 - 250.0)
 Locality,"Washington County, Kansas, USA"
 Minimum Wavelength,750
 Sample Name,Farmington powder dark portion
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,NDMH03
 Original Sample ID,MH-CMP-003-D
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 750.0,0.18447
 750.1,0.1845

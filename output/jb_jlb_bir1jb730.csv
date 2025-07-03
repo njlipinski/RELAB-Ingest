@@ -2,7 +2,7 @@ Composition,
 Date Added,2006-12-05
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,
 Minimum Wavelength,1000
 Sample Name,"Biotite, mica-Fe"
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Spectroscopy of clay minerals (MDAP, MFRP)"
 Sample ID,BIR1JB730
 Original Sample ID,JB-JLB-730
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.15221
 1000.2,0.15216

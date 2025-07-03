@@ -2,7 +2,7 @@ Composition,
 Date Added,2022-08-11
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(25.0, 45.0)"
+Grain Size,(25.0 - 45.0)
 Locality,"San Carlos, AZ"
 Minimum Wavelength,1428
 Sample Name,EFCM_SCOlivine 25-45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Clear green polished/tumbled grains of ~1 cm were obtained from Etsy.com and cleaned via sonication in distilled water before grinding.
 Sample ID,BMR1EF003B
 Original Sample ID,EF-CMP-003-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.290787
 1428.82,0.291535

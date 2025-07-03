@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-04-28
 Formula,
 Grain Size Description,<212.0um
-Grain Size,"(0.0, 212.0)"
+Grain Size,(0.0 - 212.0)
 Locality,
 Minimum Wavelength,1428
 Sample Name,Attapulgite <212 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Mg-Al phylosilicate, also called palygorskite"
 Sample ID,BIR1ZL002
 Original Sample ID,ZL-ZAL-002
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.371885
 1428.82,0.372826

@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-07-29
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(38.0, 63.0)"
+Grain Size,(38.0 - 63.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,GMM026 Byt40-Aug40-Hwgl20
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"40 vol% bytownite, 40 vol% augite, 20 vol% Hawaii glass. See Berlanga 2017, LPS XLVIII, Abstract 2255"
 Sample ID,BKR1CK023
 Original Sample ID,CK-JFM-023
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.077574
 305.0,0.086358

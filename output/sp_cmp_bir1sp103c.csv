@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-02-14
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(45.0, 75.0)"
+Grain Size,(45.0 - 75.0)
 Locality,"Amity, NY"
 Minimum Wavelength,800
 Sample Name,Amity_Sp 45-75 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Several single crystal spinel, washed in HCl for several hours to remove adhering calcite, then crushed and wet-sieved with DI water"
 Sample ID,BIR1SP103C
 Original Sample ID,SP-CMP-103-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.1478
 800.0,0.14734

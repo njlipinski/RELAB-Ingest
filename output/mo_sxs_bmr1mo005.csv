@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-03-25
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,"San Carlos, Arizona and Synthetic"
 Minimum Wavelength,1428
 Sample Name,95% olivine (45-75 um) + 5% FeS (<45 um) pellet
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,FeS was purchased from a company
 Sample ID,BMR1MO005
 Original Sample ID,MO-SXS-005
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.28123
 1428.8,0.27992

@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-12-13
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Roberts Massif, Antarctica"
 Minimum Wavelength,320
 Sample Name,"RBT 04133,46 <125 um"

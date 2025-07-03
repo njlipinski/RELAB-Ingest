@@ -2,7 +2,7 @@ Composition,
 Date Added,2018-11-01
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Composite lherzolite, Dish Hill, CA"
 Minimum Wavelength,1428
 Sample Name,Ba-2-101-B OPX JH
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BIR1DD130
 Original Sample ID,DD-MDD-130
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.364947
 1428.82,0.364437

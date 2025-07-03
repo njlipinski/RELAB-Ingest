@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-12-13
 Formula,
 Grain Size Description,<200.0um
-Grain Size,"(5.0, 200.0)"
+Grain Size,(5.0 - 200.0)
 Locality,"Trinity, Northern CA"
 Minimum Wavelength,300
 Sample Name,3828Z04-A
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"Olivine > 60%, Serpentine ~30%, Opx ~10%, Spinel ~2%."
 Sample ID,BKR1SE001
 Original Sample ID,SE-YLL-001
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.06695
 310.0,0.07003

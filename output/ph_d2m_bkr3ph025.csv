@@ -2,7 +2,7 @@ Composition,
 Date Added,2003-11-07
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,"Grosvenor Mountains, Antarctica"
 Minimum Wavelength,300
 Sample Name,GRO95575
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR3PH025
 Original Sample ID,PH-D2M-025
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.05171
 305.0,0.05118

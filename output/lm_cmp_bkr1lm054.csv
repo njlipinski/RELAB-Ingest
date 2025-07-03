@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-03-01
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Queen Alexandria Range, Antarctica"
 Minimum Wavelength,300
 Sample Name,"QUE93069,58 bulk piece D <45 um"
@@ -15,7 +15,7 @@ Material class,Meteorites
 Sample Description,
 Sample ID,BKR1LM054
 Original Sample ID,LM-CMP-054
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.114789
 305.0,0.115646

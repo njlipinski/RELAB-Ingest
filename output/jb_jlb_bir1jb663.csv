@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-04-14
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Lake Fryxell, Dry Valleys, Antarctica"
 Minimum Wavelength,909
 Sample Name,LVA-3 edge
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Collected by Brandy Anglen (MFRP, Active Missions, Prop Prep)"
 Sample ID,BIR1JB663
 Original Sample ID,JB-JLB-663
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 909.0,0.19021
 909.2,0.18962

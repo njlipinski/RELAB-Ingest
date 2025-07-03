@@ -2,7 +2,7 @@ Composition,
 Date Added,2007-04-03
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,"Apollo 16 site, Moon"
 Minimum Wavelength,300
 Sample Name,"66041,128"
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,SELENE Multiband Imager calibration
 Sample ID,BKR1LS103
 Original Sample ID,LS-M1O-103
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.07115
 305.0,0.08112

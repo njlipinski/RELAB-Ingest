@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-08-15
 Formula,
 Grain Size Description,<30.0um
-Grain Size,"(1.0, 30.0)"
+Grain Size,(1.0 - 30.0)
 Locality,Guymas Basin
 Minimum Wavelength,800
 Sample Name,Turtle Pits - FeX (Turtle Pits)
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,HYDRO-MARS Fe/Mg-clays (+/- admixed salts and in some case FeOx)
 Sample ID,BIR1JM113
 Original Sample ID,JM-JRM-113
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.2102
 800.0,0.20797

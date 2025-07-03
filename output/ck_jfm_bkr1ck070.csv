@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-11-22
 Formula,
 Grain Size Description,<32.0um
-Grain Size,"(0.0, 32.0)"
+Grain Size,(0.0 - 32.0)
 Locality,
 Minimum Wavelength,320
 Sample Name,A6 F94
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Anorthite 6 + Forsterite 94 prepared by Ben Greenhagen.  See Greenhagen et al. (2020) European Lunar Symposium Abstract
 Sample ID,BKR1CK070
 Original Sample ID,CK-JFM-070
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.389607
 330.0,0.444315

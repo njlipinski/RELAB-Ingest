@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-02-23
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,"Lee County, SC"
 Minimum Wavelength,320
 Sample Name,Bishopville-red 
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Grain size is estmiated.With red weathering product.  
 Sample ID,LATB11
 Original Sample ID,TB-RPB-011
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.12353
 330.0,0.12192

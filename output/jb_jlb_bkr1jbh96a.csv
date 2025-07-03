@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-12-06
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Salar de Pajonales, Atacama, Chile"
 Minimum Wavelength,300
 Sample Name,JB1796a: Bill's Hill white section <125 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1JBH96A
 Original Sample ID,JB-JLB-H96-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.615915
 305.0,0.619271

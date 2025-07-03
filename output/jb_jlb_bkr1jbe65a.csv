@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-10-21
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Unknown
 Minimum Wavelength,300
 Sample Name,Quartz <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BKR1JBE65A
 Original Sample ID,JB-JLB-E65-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.68979
 305.0,0.69757

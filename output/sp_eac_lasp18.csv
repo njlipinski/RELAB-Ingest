@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-07-03
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Near Stratford, Alleghany Co., NC"
 Minimum Wavelength,300
 Sample Name,SPI118
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Associated with quartz.Some iron oxide staining.  Aquired from Minerals Unlimited.
 Sample ID,LASP18
 Original Sample ID,SP-EAC-018
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.10907
 305.0,0.11566

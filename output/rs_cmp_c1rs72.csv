@@ -2,7 +2,7 @@ Composition,
 Date Added,1988-11-04
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(500.0, 1000.0)"
+Grain Size,(500.0 - 1000.0)
 Locality,USSR
 Minimum Wavelength,350
 Sample Name,Impact Powder #2

@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-10-27
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,Synthetic
 Minimum Wavelength,300
 Sample Name,JB1783: Dehydrated szomolnokite JB1781 heated at 300C
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BKR1JBH83
 Original Sample ID,JB-JLB-H83
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.042383
 305.0,0.040657

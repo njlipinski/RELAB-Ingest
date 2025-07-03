@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-07-01
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(75.0, 250.0)"
+Grain Size,(75.0 - 250.0)
 Locality,
 Minimum Wavelength,320
 Sample Name,Magnesite 75-250 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BKR1LH029
 Original Sample ID,LH-JFM-029
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.46895
 330.0,0.49033

@@ -2,7 +2,7 @@ Composition,
 Date Added,2007-03-09
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Shadey, Polk Co., Arkansas"
 Minimum Wavelength,320
 Sample Name,Kidwellite P18
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Spectroscopy of phosphate minerals (MDAP, MFRP)"
 Sample ID,BKR1JB744
 Original Sample ID,JB-JLB-744
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.0501
 325.0,0.05327

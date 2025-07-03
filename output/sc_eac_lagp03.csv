@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-09-19
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Dillon, Beaverhead County, Montana"
 Minimum Wavelength,300
 Sample Name,GRP103
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Acquired from Mineral Unlimited.  
 Sample ID,LAGP03
 Original Sample ID,SC-EAC-111
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.06731
 305.0,0.06826

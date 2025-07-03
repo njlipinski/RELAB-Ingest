@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-04-10
 Formula,
 Grain Size Description,<1.0um
-Grain Size,"(0.0, 1.0)"
+Grain Size,(0.0 - 1.0)
 Locality,Brown University
 Minimum Wavelength,1428
 Sample Name,Carbon black
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,albedo/hydration tests
 Sample ID,BMR1RM091
 Original Sample ID,RM-JFM-091
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.00577
 1428.8,0.00536

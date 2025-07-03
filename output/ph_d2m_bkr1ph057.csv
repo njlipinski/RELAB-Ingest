@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-07-01
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,"Frontier Mountains, Antarctica"
 Minimum Wavelength,300
 Sample Name,FRO99040
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1PH057
 Original Sample ID,PH-D2M-057
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.04904
 305.0,0.05067

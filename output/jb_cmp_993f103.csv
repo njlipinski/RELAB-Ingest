@@ -2,7 +2,7 @@ Composition,
 Date Added,1993-10-01
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Lake Hoare, Antarctica"
 Minimum Wavelength,300
 Sample Name,C-1 
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Depth 1 to 2 cm   
 Sample ID,993F103
 Original Sample ID,JB-CMP-103
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.05888
 305.0,0.06125

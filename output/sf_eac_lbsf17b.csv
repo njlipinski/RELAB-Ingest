@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-05-18
 Formula,
 Grain Size Description,<90.0um
-Grain Size,"(45.0, 90.0)"
+Grain Size,(45.0 - 90.0)
 Locality,"The Geysers, Sonoma Co., CA"
 Minimum Wavelength,300
 Sample Name,SPT103B 
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Acquired from Minerals Unlimited.   
 Sample ID,LBSF17B
 Original Sample ID,SF-EAC-017-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.17953
 305.0,0.18107

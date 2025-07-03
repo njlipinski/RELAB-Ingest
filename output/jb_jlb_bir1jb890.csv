@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-04-19
 Formula,
 Grain Size Description,<0.2um
-Grain Size,"(0.0, 0.2)"
+Grain Size,(0.0 - 0.2)
 Locality,"Arizona, USA"
 Minimum Wavelength,800
 Sample Name,Will Gates #5 montmorillonite SAz-1
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectroscopy of phyllosilicates
 Sample ID,BIR1JB890
 Original Sample ID,JB-JLB-890
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.35134
 800.0,0.35124

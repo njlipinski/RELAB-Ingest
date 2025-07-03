@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-11-05
 Formula,
 Grain Size Description,<20.0um
-Grain Size,"(0.0, 20.0)"
+Grain Size,(0.0 - 20.0)
 Locality,"Near Lewis Cliff, Antarctica"
 Minimum Wavelength,909
 Sample Name,Station A Soil <20 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Alteration of the Ferrar dolerite (Mars analog lithology) (Cosmochemistry)
 Sample ID,BIR1DB003
 Original Sample ID,DB-ACM-003
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 909.0,0.38344
 909.2,0.38322

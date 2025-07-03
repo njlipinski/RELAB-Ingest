@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-02-04
 Formula,
 Grain Size Description,<300.0um
-Grain Size,"(180.0, 300.0)"
+Grain Size,(180.0 - 300.0)
 Locality,"Crystal Bay, Minn "
 Minimum Wavelength,320
 Sample Name,Crystal Bay bytownite 180-300 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BKR1PL154G
 Original Sample ID,PL-ECS-154-G
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.22094
 330.0,0.28746

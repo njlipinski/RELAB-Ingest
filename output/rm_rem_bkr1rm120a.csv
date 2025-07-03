@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-06-05
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Queen Alexandra Range, Antarctica"
 Minimum Wavelength,300
 Sample Name,"QUE 99050,7 <45 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,HED mixing model study
 Sample ID,BKR1RM120A
 Original Sample ID,RM-REM-120-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.18494
 305.0,0.1905

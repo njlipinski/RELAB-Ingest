@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-02-25
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,"Haleakala Volcano, Hawaii "
 Minimum Wavelength,900
 Sample Name,HK-3b 
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,<250 weathered volcanic glass collected by WHF  
 Sample ID,N1RB52
 Original Sample ID,RB-JFM-052
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.4,0.1033
 901.1,0.10329

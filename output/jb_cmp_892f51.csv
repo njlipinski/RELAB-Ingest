@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-09-04
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,Lepidocrocite-1 
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,PH poorly constrained   
 Sample ID,892F51
 Original Sample ID,JB-CMP-051
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.0162
 305.0,0.01512

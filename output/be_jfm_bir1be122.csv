@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-06-23
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(0.0, 150.0)"
+Grain Size,(0.0 - 150.0)
 Locality,Iceland
 Minimum Wavelength,800
 Sample Name,Hvalfj025C <150 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"Earth analogues for hydrothermal enviornments seen by CRISM (Active missions, Student)"
 Sample ID,BIR1BE122
 Original Sample ID,BE-JFM-122
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.11452
 800.0,0.11341

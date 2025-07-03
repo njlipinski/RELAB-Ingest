@@ -2,7 +2,7 @@ Composition,
 Date Added,2007-05-01
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic 
 Minimum Wavelength,1428
 Sample Name,Fa 100 Fo 0 <45 um pellet
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"From Don Lindsley.  Pressed by Tim Glotch.  See Dyar, M. D. et al. (2009) American Mineralogist, 94, 883-898."
 Sample ID,BIR1DD098P
 Original Sample ID,DD-MDD-098-P
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.09426
 1428.8,0.09399

@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-11-29
 Formula,
 Grain Size Description,<32.0um
-Grain Size,"(0.0, 32.0)"
+Grain Size,(0.0 - 32.0)
 Locality,
 Minimum Wavelength,320
 Sample Name,E75 F25
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Enstatite 75 + Forsterite 25 prepared by Ben Greenhagen.  See Greenhagen et al. (2020) European Lunar Symposium Abstract
 Sample ID,BKR1CK083
 Original Sample ID,CK-JFM-083
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.34754
 330.0,0.399502

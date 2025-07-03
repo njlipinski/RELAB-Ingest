@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-11-02
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"San Carlos, AZ"
 Minimum Wavelength,300
 Sample Name,OLV003 <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,(see also entry for OLV003 size 45-90 microns [SC-EAC-002])   FOR 90.4% -- FAY 9.6% 
 Sample ID,LAPO50
 Original Sample ID,PO-EAC-050
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.24741
 305.0,0.25126

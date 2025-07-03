@@ -2,7 +2,7 @@ Composition,
 Date Added,2003-06-12
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Cold Springs, Iceland "
 Minimum Wavelength,400
 Sample Name,Cold Springs <45 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Collected near Landmannalaugar campsite   
 Sample ID,BKR1JB499A
 Original Sample ID,JB-JLB-499-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 400.0,0.02571
 405.0,0.02701

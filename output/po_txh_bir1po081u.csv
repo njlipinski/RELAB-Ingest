@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-11-02
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,
 Minimum Wavelength,714
 Sample Name,Green olivine <75 um pellet for UV irradiation
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Purchased from Ward
 Sample ID,BIR1PO081U
 Original Sample ID,PO-TXH-081-U
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 714.2,0.35055
 714.3,0.35067

@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-03-02
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(45.0, 125.0)"
+Grain Size,(45.0 - 125.0)
 Locality,Synthetic
 Minimum Wavelength,280
 Sample Name,"PL15-b, 45-125 (0.22 wt% FeO)"
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,Sintered at 1300 C
 Sample ID,BKR1PL135D
 Original Sample ID,PL-CMP-135-D
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.47
 285.0,0.41406

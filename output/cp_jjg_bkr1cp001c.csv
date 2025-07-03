@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-08-01
 Formula,
 Grain Size Description,<53.0um
-Grain Size,"(45.0, 53.0)"
+Grain Size,(45.0 - 53.0)
 Locality,Czech
 Minimum Wavelength,320
 Sample Name,C-Px 45-53 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BKR1CP001C
 Original Sample ID,CP-JJG-001-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.07319
 330.0,0.08946

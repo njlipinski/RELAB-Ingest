@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-08-12
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,"Shocked diopside #3494 (1.096 km/s, 428 Kbs)"
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BKR1DD071
 Original Sample ID,DD-MDD-071
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.21234
 305.0,0.24077

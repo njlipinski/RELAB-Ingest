@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-04-30
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Allende, Mexico"
 Minimum Wavelength,320
 Sample Name,Allende <45 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"Effects of slab vs. powder for Allende (DDAP, Student)."
 Sample ID,BKR1MT092C
 Original Sample ID,MT-BEC-092-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.04246
 330.0,0.04619

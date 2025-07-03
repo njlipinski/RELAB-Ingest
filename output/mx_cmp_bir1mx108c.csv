@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-04-24
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(45.0, 75.0)"
+Grain Size,(45.0 - 75.0)
 Locality,Labradorite: Mexico; Olivine: Kiglapait intrusion
 Minimum Wavelength,800
 Sample Name,Plag90-KigOlv10
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,90 wt% PL-CMP-147-C + 10 wt% OL-CMP-017-C on 9 mm dish w/o tapping
 Sample ID,BIR1MX108C
 Original Sample ID,MX-CMP-108-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.27813
 800.0,0.2785

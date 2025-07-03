@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-10-15
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Norbestos, Quebec, Canada"
 Minimum Wavelength,800
 Sample Name,Nor3-1_back_white <125 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Mars analog with hyperspectral imaging
 Sample ID,BIR1RG077
 Original Sample ID,RG-JFM-077
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.23687
 800.0,0.23711

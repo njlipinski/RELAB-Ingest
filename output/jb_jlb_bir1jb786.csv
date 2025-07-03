@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-09-26
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,"Mina Alcaparrosa, Tierra Amarilla, II-Region, Atacama Desert, Chile"
 Minimum Wavelength,1000
 Sample Name,"Fibroferrite (JB785) heated 100C 30 min, 200C 30 min, 250C 30 min, 300C 30 min"
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Spectroscopy of sulfate minerals (MDAP, MFRP, Active Missions)"
 Sample ID,BIR1JB786
 Original Sample ID,JB-JLB-786
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.38533
 1000.2,0.38551

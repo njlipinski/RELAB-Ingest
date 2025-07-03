@@ -2,7 +2,7 @@ Composition,
 Date Added,2006-03-31
 Formula,
 Grain Size Description,<10.0um
-Grain Size,"(0.0, 10.0)"
+Grain Size,(0.0 - 10.0)
 Locality,Synthetic
 Minimum Wavelength,1000
 Sample Name,Synthetic hematite
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"Crystal size <5~10 um, aggregate size <125 um (MFRP)"
 Sample ID,BIR1JB708
 Original Sample ID,JB-JLB-708
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.18555
 1000.2,0.18586

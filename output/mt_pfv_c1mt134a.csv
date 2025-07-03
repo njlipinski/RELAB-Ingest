@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-10-14
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Mt. Wisting, Antarctica"
 Minimum Wavelength,280
 Sample Name,"WSG95300,64 (H3.3) <45 um"

@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-12-22
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Erfoud, Morocco"
 Minimum Wavelength,280
 Sample Name,NWA 5218 eucrite Spot C powder <125 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Impact melt study
 Sample ID,BKR1MT115C2
 Original Sample ID,MT-A1W-115-C2
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.07877
 285.0,0.06318

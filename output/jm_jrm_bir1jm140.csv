@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-08-17
 Formula,
 Grain Size Description,<30.0um
-Grain Size,"(1.0, 30.0)"
+Grain Size,(1.0 - 30.0)
 Locality,Red Sea
 Minimum Wavelength,800
 Sample Name,3-150-153 (Va3-150-153)
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,HYDRO-MARS Fe/Mg-clays (+/- admixed salts and in some case FeOx)
 Sample ID,BIR1JM140
 Original Sample ID,JM-JRM-140
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.04651
 800.0,0.0461

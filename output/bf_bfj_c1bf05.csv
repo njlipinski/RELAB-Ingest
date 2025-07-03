@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-04-07
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,Ortenberg 
 Minimum Wavelength,320
 Sample Name,BP-5

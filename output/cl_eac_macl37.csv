@@ -2,7 +2,7 @@ Composition,
 Date Added,1996-07-07
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Pocahontas #3, Virginia "
 Minimum Wavelength,1800
 Sample Name,COAL37
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Low volatile bituminous   
 Sample ID,MACL37
 Original Sample ID,CL-EAC-037
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1800.0,0.15079
 1800.7,0.15091

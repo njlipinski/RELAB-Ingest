@@ -2,7 +2,7 @@ Composition,
 Date Added,1994-08-10
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(100.0, 250.0)"
+Grain Size,(100.0 - 250.0)
 Locality,Moon
 Minimum Wavelength,300
 Sample Name,2014 Luna 20 soil 100-250 um

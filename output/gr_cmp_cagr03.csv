@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-12-08
 Formula,
 Grain Size Description,<56.0um
-Grain Size,"(0.0, 56.0)"
+Grain Size,(0.0 - 56.0)
 Locality,"Steiermark, Austria "
 Minimum Wavelength,300
 Sample Name,Siderite
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Siderite XX03101-3 <56 from C.Wagner  
 Sample ID,CAGR03
 Original Sample ID,GR-CMP-003
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.06002
 305.0,0.06073

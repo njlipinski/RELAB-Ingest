@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-02-07
 Formula,
 Grain Size Description,<0.2um
-Grain Size,"(0.0, 0.2)"
+Grain Size,(0.0 - 0.2)
 Locality,"Redhill, England, UK"
 Minimum Wavelength,300
 Sample Name,Smectite #15 from Redhill by Will Gates
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectroscopy of Mars analog materials
 Sample ID,BKR1JB900
 Original Sample ID,JB-JLB-900
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.0472
 305.0,0.04816

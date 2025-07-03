@@ -2,7 +2,7 @@ Composition,
 Date Added,2006-04-25
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,"Mourne Mountains, Ireland"
 Minimum Wavelength,300
 Sample Name,Mourne Mountains Fayalite
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Brown olivine investigation.  Full description in M. Schaeffer Ph.D. thesis, MIT, 1979."
 Sample ID,BKR1DD100
 Original Sample ID,DD-MDD-100
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.0344
 305.0,0.03697

@@ -2,7 +2,7 @@ Composition,
 Date Added,2021-03-31
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"Larkman Nunatak, Antarctica"
 Minimum Wavelength,1428
 Sample Name,"LAR 12326,84 <25 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BIR1MT363A
 Original Sample ID,MT-MDL-363-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.268265
 1428.82,0.268333

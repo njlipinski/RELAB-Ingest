@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-02-07
 Formula,
 Grain Size Description,<50.0um
-Grain Size,"(0.0, 50.0)"
+Grain Size,(0.0 - 50.0)
 Locality,"Cheney, WA"
 Minimum Wavelength,320
 Sample Name,CheWA nontronite

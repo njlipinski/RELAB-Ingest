@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-10-01
 Formula,
 Grain Size Description,<106.0um
-Grain Size,"(75.0, 106.0)"
+Grain Size,(75.0 - 106.0)
 Locality,Medicine Lake
 Minimum Wavelength,800
 Sample Name,BAS 79-3b 75-106
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"Mineral mixtures and deriving abundance using VNIR spectroscopy (PGG, MDAP, Active missions, Student)"
 Sample ID,BIR1BE074
 Original Sample ID,BE-JFM-074
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.09197
 800.0,0.09141

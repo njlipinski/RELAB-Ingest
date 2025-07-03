@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-03-28
 Formula,
 Grain Size Description,<180.0um
-Grain Size,"(0.0, 180.0)"
+Grain Size,(0.0 - 180.0)
 Locality,"Lincolnshire, UK"
 Minimum Wavelength,300
 Sample Name,LIO301
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"Lincolnshire iron ore, British Chemical Standard No. 301/1  "
 Sample ID,NCIO01
 Original Sample ID,IO-RVM-001
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.04398
 305.0,0.02887

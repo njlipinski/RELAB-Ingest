@@ -2,7 +2,7 @@ Composition,
 Date Added,1987-09-03
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(500.0, 1000.0)"
+Grain Size,(500.0 - 1000.0)
 Locality,JSC Labs
 Minimum Wavelength,320
 Sample Name,Altered Pyroxe

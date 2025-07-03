@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-06-17
 Formula,
 Grain Size Description,<3000.0um
-Grain Size,"(1000.0, 3000.0)"
+Grain Size,(1000.0 - 3000.0)
 Locality,
 Minimum Wavelength,800
 Sample Name,Allophane Mixture 1 crust
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,20% JB-870 + 10% JB-171 + 10% JB-874 + 20% JB-761 + 40% JB-501-F in weight
 Sample ID,BIR1JBE45C
 Original Sample ID,JB-JLB-E45-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.21381
 800.0,0.2135

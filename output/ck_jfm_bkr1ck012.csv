@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-07-25
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(38.0, 63.0)"
+Grain Size,(38.0 - 63.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,GMM083 Byt25-Olvsc25-Hwgl50 
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"25 vol% bytownite, 25 vol% forsterite (San Carlos), 50 vol% Hawaii glass, See Berlanga 2017, LPS XLVIII, Abstract 2255"
 Sample ID,BKR1CK012
 Original Sample ID,CK-JFM-012
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.072187
 305.0,0.077988

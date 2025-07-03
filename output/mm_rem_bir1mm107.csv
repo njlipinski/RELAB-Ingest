@@ -2,7 +2,7 @@ Composition,
 Date Added,2022-05-06
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Guadalupe Mountains, NM"
 Minimum Wavelength,833
 Sample Name,BONE-SPRING-SS-PWDR-LT45
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"Selected Whole Rock Sedimentary Sandstone Sample, Guadalupe Mountains, Ground and Seived to less than 45 um"
 Sample ID,BIR1MM107
 Original Sample ID,MM-REM-107
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.34,0.435326
 833.47,0.435563

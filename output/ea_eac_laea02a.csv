@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-07-02
 Formula,
 Grain Size Description,<90.0um
-Grain Size,"(45.0, 90.0)"
+Grain Size,(45.0 - 90.0)
 Locality,ESPI Corp.
 Minimum Wavelength,300
 Sample Name,TRO202 45-90 um
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,
 Sample ID,LAEA02A
 Original Sample ID,EA-EAC-002-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.01989
 305.0,0.02347

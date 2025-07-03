@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-12-26
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Eden Mills, VT"
 Minimum Wavelength,300
 Sample Name,Antigorite 200C 
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Heated for 1 week in a vacuum sealed glass  
 Sample ID,LAAT04
 Original Sample ID,AT-TXH-004
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.25228
 305.0,0.28115

@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-01-20
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(125.0, 250.0)"
+Grain Size,(125.0 - 250.0)
 Locality,Medicine Lake
 Minimum Wavelength,280
 Sample Name,BAS 79-3b 125-250 um

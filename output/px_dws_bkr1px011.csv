@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-04-28
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(50.0, 100.0)"
+Grain Size,(50.0 - 100.0)
 Locality,"Ravensworth (nr.), New South Wales, Australia"
 Minimum Wavelength,320
 Sample Name,Clinoferrosilite (NMNH 145787)
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Source asteroids for unequilibrated ordinary chondrites (UOC) (PGG, Cosmochemistry, Student)"
 Sample ID,BKR1PX011
 Original Sample ID,PX-DWS-011
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.1508
 330.0,0.16854

@@ -2,7 +2,7 @@ Composition,
 Date Added,2002-11-19
 Formula,
 Grain Size Description,<40.0um
-Grain Size,"(0.0, 40.0)"
+Grain Size,(0.0 - 40.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,Tsarev <40 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1MA056
 Original Sample ID,MA-ATB-056
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.08722
 305.0,0.09144

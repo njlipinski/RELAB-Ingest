@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-01-04
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,
 Minimum Wavelength,1000
 Sample Name,SPT154
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Multi-spectral analyses of sulfate minerals
 Sample ID,BIR1SF065A
 Original Sample ID,SF-EAC-065-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.52553
 1000.2,0.52541

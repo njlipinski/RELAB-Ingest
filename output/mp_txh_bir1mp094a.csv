@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-09-18
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"Asuka, Antarctica "
 Minimum Wavelength,1428
 Sample Name,"A-87272,96"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BIR1MP094A
 Original Sample ID,MP-TXH-094-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.341296
 1428.82,0.3411

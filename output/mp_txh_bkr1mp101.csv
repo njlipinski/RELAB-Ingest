@@ -2,7 +2,7 @@ Composition,
 Date Added,2003-06-19
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Yamato Mtns, Antarctica "
 Minimum Wavelength,300
 Sample Name,"Y-791538,101 Ureilite"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1MP101
 Original Sample ID,MP-TXH-101
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.06811
 305.0,0.07085

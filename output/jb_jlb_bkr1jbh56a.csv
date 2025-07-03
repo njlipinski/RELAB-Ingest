@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-08-19
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Makena State Park, Maui"
 Minimum Wavelength,300
 Sample Name,JB1756a: MSP-6a altered ash wall <125 um (ground)
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,BKR1JBH56A
 Original Sample ID,JB-JLB-H56-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.042661
 305.0,0.040849

@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-07-02
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,Antarctica
 Minimum Wavelength,320
 Sample Name,"LAP91900,29 "
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,LATB18
 Original Sample ID,TB-RPB-018
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.0997
 330.0,0.11251

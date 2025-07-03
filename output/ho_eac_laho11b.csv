@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-10-22
 Formula,
 Grain Size Description,<90.0um
-Grain Size,"(45.0, 90.0)"
+Grain Size,(45.0 - 90.0)
 Locality,"Orange Free State, South Africa "
 Minimum Wavelength,320
 Sample Name,OOH011
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Postmasburg, Orange Free State, South Africa  "
 Sample ID,LAHO11B
 Original Sample ID,HO-EAC-011-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.2575
 325.0,0.27616

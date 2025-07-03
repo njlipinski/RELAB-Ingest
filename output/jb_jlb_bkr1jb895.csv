@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-04-23
 Formula,
 Grain Size Description,<0.1um
-Grain Size,"(0.0, 0.1)"
+Grain Size,(0.0 - 0.1)
 Locality,"Yamagata, Japan"
 Minimum Wavelength,300
 Sample Name,Will Gates #10 montmorillonite from Yamagata
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectroscopy of phyllosilicates
 Sample ID,BKR1JB895
 Original Sample ID,JB-JLB-895
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.11546
 305.0,0.12746

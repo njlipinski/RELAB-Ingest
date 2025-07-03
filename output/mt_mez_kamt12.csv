@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-12-21
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Tagish Lake, Canada "
 Minimum Wavelength,300
 Sample Name,Tagish Lake PMO 5c
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Weathered portion   
 Sample ID,KAMT12
 Original Sample ID,MT-MEZ-012
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.00343
 310.0,0.01468

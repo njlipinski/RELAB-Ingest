@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-06-23
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"Apollo 16 site, Moon"
 Minimum Wavelength,833
 Sample Name,"61221,175 <25 um"
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,BIR1LS139A
 Original Sample ID,LS-GJT-139-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.23694
 833.5,0.23653

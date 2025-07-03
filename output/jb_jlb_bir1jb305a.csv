@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-10-10
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,
 Minimum Wavelength,833
 Sample Name,Heated 600% Fe-exchanged SWy-1 <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Synthetic sample 004, 600% Fe-exchanged Swy montmorillonite  Heated 20 hours at 44C, then 55 min at 800C (1990)"
 Sample ID,BIR1JB305A
 Original Sample ID,JB-JLB-305-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.4,0.34001
 833.5,0.33887

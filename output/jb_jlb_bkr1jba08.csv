@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-10-15
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,
 Minimum Wavelength,280
 Sample Name,2 wt% graphite (JBA05) + 98 wt% Swy-2 montmorillonite (JB784)
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Spectroscopy of carbon-clay mixtures (MDAP, MFRP, Active Missions, Prop Prep)"
 Sample ID,BKR1JBA08
 Original Sample ID,JB-JLB-A08
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.16292
 285.0,0.11341

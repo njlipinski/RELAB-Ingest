@@ -2,7 +2,7 @@ Composition,
 Date Added,2018-10-11
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Josephine Opal Mine, Oregon"
 Minimum Wavelength,833
 Sample Name,Josephine Mine opal <125 um (JB1601f)
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BIR1JBG01F
 Original Sample ID,JB-JLB-G01-F
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.39,0.361893
 833.45,0.362238

@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-03-28
 Formula,
 Grain Size Description,<140.0um
-Grain Size,"(0.0, 140.0)"
+Grain Size,(0.0 - 140.0)
 Locality,"Urals, Russia"
 Minimum Wavelength,1000
 Sample Name,28 serpentine bulk
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BNR1SP005
 Original Sample ID,SP-VVB-005
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.30039
 1000.2,0.30041

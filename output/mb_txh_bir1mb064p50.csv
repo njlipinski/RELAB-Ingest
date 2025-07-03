@@ -2,7 +2,7 @@ Composition,
 Date Added,2019-06-11
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,"Victoria, Australia "
 Minimum Wavelength,1428
 Sample Name,Murchison <75 um 5.5-mm 500-psi pellet + Laser 50 mJ
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BIR1MB064P50
 Original Sample ID,MB-TXH-064-P50
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.055616
 1428.82,0.056886

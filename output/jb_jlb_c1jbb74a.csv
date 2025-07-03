@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-08-01
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Near Cerritos Bay, Alcaparrosa, Chile"
 Minimum Wavelength,300
 Sample Name,Rhomboclase ML-S84 <125 um

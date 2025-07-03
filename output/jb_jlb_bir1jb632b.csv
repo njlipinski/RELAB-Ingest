@@ -2,7 +2,7 @@ Composition,
 Date Added,2004-09-10
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Kilauea Crater, HI"
 Minimum Wavelength,1000
 Sample Name,JB632-B
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BIR1JB632B
 Original Sample ID,JB-JLB-632-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.46013
 1000.2,0.4602

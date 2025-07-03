@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-12-06
 Formula,
 Grain Size Description,<200.0um
-Grain Size,"(125.0, 200.0)"
+Grain Size,(125.0 - 200.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,N6
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Laser shots at vacuum of 10-2 mmHg  
 Sample ID,LAMA19
 Original Sample ID,MA-ATB-019
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03163
 305.0,0.03082

@@ -2,7 +2,7 @@ Composition,
 Date Added,2018-01-12
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(45.0, 75.0)"
+Grain Size,(45.0 - 75.0)
 Locality,Johnson Space Center / Orbitec
 Minimum Wavelength,833
 Sample Name,JSC (JSC Mars-1) 45-75 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,BIR1KC058
 Original Sample ID,KC-KMC-058
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.20716
 833.5,0.20708

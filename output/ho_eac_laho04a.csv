@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-09-28
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Minas Gerais, Brazil"
 Minimum Wavelength,320
 Sample Name,OOH004
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,LAHO04A
 Original Sample ID,HO-EAC-004-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.56669
 325.0,0.57072

@@ -2,7 +2,7 @@ Composition,
 Date Added,2002-10-29
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(70.0, 150.0)"
+Grain Size,(70.0 - 150.0)
 Locality,Synthetic 
 Minimum Wavelength,300
 Sample Name,"SG25.5R (15 nm, 0.5 N, Reduced Fe)"

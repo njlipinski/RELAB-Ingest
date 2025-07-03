@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-09-17
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic 
 Minimum Wavelength,300
 Sample Name,TRO203A 
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,Acquired from Alfa Aesar (Sample #15569).   98% purity FeS composition assumed. 
 Sample ID,LAEA09A
 Original Sample ID,EA-EAC-009-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.04422
 305.0,0.04776

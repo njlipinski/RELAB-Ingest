@@ -2,7 +2,7 @@ Composition,
 Date Added,2022-03-24
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,
 Minimum Wavelength,300
 Sample Name,LE-4a solid
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"Mg-rich carbonate precipitates (hydromagnesite, Ca-rich dolomite, and sometimes traces of Mg-rich phosphate) from biotic experiments"
 Sample ID,BKR1MG052
 Original Sample ID,MG-JFM-052
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.507961
 305.0,0.502676

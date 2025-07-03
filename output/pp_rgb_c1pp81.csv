@@ -2,7 +2,7 @@ Composition,
 Date Added,1989-03-16
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,"Barachois, Quebec "
 Minimum Wavelength,300
 Sample Name,OPX 600C/7HRS 

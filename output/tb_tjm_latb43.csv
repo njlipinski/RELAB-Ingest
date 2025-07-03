@@ -2,7 +2,7 @@ Composition,
 Date Added,2000-10-12
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"El Quemado Colony, Guerrero, Mexico "
 Minimum Wavelength,320
 Sample Name,Acapulco
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,LATB43
 Original Sample ID,TB-TJM-043
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.06144
 330.0,0.06494

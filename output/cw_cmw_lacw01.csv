@@ -2,7 +2,7 @@ Composition,
 Date Added,1999-07-19
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,"Bishop Tuff, Long Valley, CA"
 Minimum Wavelength,300
 Sample Name,L. V. #3
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,LACW01
 Original Sample ID,CW-CMW-001
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.1674
 305.0,0.17182

@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-04-12
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic 
 Minimum Wavelength,300
 Sample Name,"Wo 50 En 20 Fs 30 (D6-14, 95% aug, 5% bust) <45 um"
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,PGG from Turnock
 Sample ID,BKR1DL036A
 Original Sample ID,DL-CMP-036-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.04881
 305.0,0.04884

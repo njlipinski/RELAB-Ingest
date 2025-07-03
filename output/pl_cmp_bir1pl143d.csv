@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-06-13
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(45.0, 125.0)"
+Grain Size,(45.0 - 125.0)
 Locality,Northern Ontario
 Minimum Wavelength,800
 Sample Name,"Shawmere anorthosite, 45-125 um"
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Bulk anorthosite
 Sample ID,BIR1PL143D
 Original Sample ID,PL-CMP-143-D
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.1902
 800.0,0.18982

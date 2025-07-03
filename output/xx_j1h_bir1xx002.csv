@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-05-13
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,Unknown
 Minimum Wavelength,909
 Sample Name,PEL Planet X tektite <25 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Sampled provided by DLR for Planet X soil challenge
 Sample ID,BIR1XX002
 Original Sample ID,XX-J1H-002
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 909.0,0.32022
 909.2,0.31998

@@ -2,7 +2,7 @@ Composition,
 Date Added,2009-05-28
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(45.0, 75.0)"
+Grain Size,(45.0 - 75.0)
 Locality,Hawaii and Arizona
 Minimum Wavelength,800
 Sample Name,95% OLV-SC + 5% BAS Gl (45-75 um)
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Mineral mixtures and deriving abundance using VNIR spectroscopy (PGG, Active missions, Student)"
 Sample ID,BIR1BE130
 Original Sample ID,BE-JFM-130
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.22446
 800.0,0.22505

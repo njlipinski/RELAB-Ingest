@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-10-15
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,
 Minimum Wavelength,909
 Sample Name,5 wt% C nanopowder (JBA07) + 95 wt% Swy-2 montmorillonite (JB784)
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,"Spectroscopy of carbon-clay mixtures (MDAP, MFRP, Active Missions, Prop Prep)"
 Sample ID,BIR1JBA13
 Original Sample ID,JB-JLB-A13
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 909.0,0.01644
 909.2,0.01636

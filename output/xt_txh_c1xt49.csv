@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-11-01
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,Brown University
 Minimum Wavelength,300
 Sample Name,PE-41:PO-81:PA-60 = 1:1:4

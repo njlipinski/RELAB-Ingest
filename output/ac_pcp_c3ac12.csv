@@ -2,7 +2,7 @@ Composition,
 Date Added,2003-07-21
 Formula,
 Grain Size Description,<2000.0um
-Grain Size,"(500.0, 2000.0)"
+Grain Size,(500.0 - 2000.0)
 Locality,"Flagstaff Cinder Sales, AZ"
 Minimum Wavelength,320
 Sample Name,TuG4

@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-06-05
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,Melissa Lane
 Minimum Wavelength,300
 Sample Name,Sinjarite medium grains (JB1661a)

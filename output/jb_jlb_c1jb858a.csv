@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-10-17
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Painted Desert, AZ, Navajo territory"
 Minimum Wavelength,300
 Sample Name,Painted Desert soil: Site 1 Stop 11 <125 um

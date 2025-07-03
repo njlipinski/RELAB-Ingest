@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-09-20
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(20.0, 45.0)"
+Grain Size,(20.0 - 45.0)
 Locality,CMS-SCR
 Minimum Wavelength,800
 Sample Name,Saponite SapCap-1 20-45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Roush mixture project
 Sample ID,BIR1JBB84A
 Original Sample ID,JB-JLB-B84-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.45702
 800.0,0.45543

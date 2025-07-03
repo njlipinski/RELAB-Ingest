@@ -2,7 +2,7 @@ Composition,
 Date Added,1993-09-02
 Formula,
 Grain Size Description,<63.0um
-Grain Size,"(0.0, 63.0)"
+Grain Size,(0.0 - 63.0)
 Locality,"Chihuahua, Mexico "
 Minimum Wavelength,300
 Sample Name,Allende 1100C <63 um

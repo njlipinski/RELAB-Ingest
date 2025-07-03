@@ -2,7 +2,7 @@ Composition,
 Date Added,2006-10-13
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic 
 Minimum Wavelength,300
 Sample Name,Wustite BB2 <45 um
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,From Don Lindsley.
 Sample ID,BKR1DD105
 Original Sample ID,DD-MDD-105
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.04964
 305.0,0.06315

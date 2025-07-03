@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-10-30
 Formula,
 Grain Size Description,<150.0um
-Grain Size,"(0.0, 150.0)"
+Grain Size,(0.0 - 150.0)
 Locality,"Wright Valley, Dry Valleys, Antarctica"
 Minimum Wavelength,300
 Sample Name,JB1126: Core 2074 heated at 85C for 1 hour <150 um
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Light encrustations on surfac eof evaporite ponds
 Sample ID,BKR1JBB26
 Original Sample ID,JB-JLB-B26
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.070796
 305.0,0.070096

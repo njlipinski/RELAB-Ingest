@@ -2,7 +2,7 @@ Composition,
 Date Added,1991-11-13
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Relab 
 Minimum Wavelength,300
 Sample Name,"99.5% SWy, 0.5% C"
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,99.5% Montmorillonite .5% Carbon Black  
 Sample ID,1191F22
 Original Sample ID,JB-CMP-022
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.15782
 305.0,0.1802

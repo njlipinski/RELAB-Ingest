@@ -2,7 +2,7 @@ Composition,
 Date Added,2003-04-04
 Formula,
 Grain Size Description,<50.0um
-Grain Size,"(0.0, 50.0)"
+Grain Size,(0.0 - 50.0)
 Locality,"Harrat al Kishb, Saudi Arabia"
 Minimum Wavelength,833
 Sample Name,H30-B4a (Unprocessed)
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Effect of Mossbauer sugar
 Sample ID,BIR1DD015
 Original Sample ID,DD-MDD-015
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.37052
 833.5,0.37088

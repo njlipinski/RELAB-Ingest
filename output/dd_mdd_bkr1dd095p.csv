@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-05-29
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic 
 Minimum Wavelength,280
 Sample Name,Fa 70 Fo 30 <45 um pellet

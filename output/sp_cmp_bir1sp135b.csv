@@ -2,7 +2,7 @@ Composition,
 Date Added,2014-01-08
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,Synthetic
 Minimum Wavelength,833
 Sample Name,CrSp4_5_L45
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,Rehomogenized stoichiometric Mg-Fe-Cr spinel series
 Sample ID,BIR1SP135B
 Original Sample ID,SP-CMP-135-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.3,0.3792
 833.5,0.37964

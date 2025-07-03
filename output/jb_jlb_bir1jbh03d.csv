@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-08-10
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Salt pond off Lake King, Norseman Road, Western Australia"
 Minimum Wavelength,833
 Sample Name,JB1703d: Site 5 white/grey surface crust <125 um (ground)
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,
 Sample ID,BIR1JBH03D
 Original Sample ID,JB-JLB-H03-D
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 833.39,0.362259
 833.45,0.362054

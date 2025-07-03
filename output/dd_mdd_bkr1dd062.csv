@@ -2,7 +2,7 @@ Composition,
 Date Added,2005-04-07
 Formula,
 Grain Size Description,<50.0um
-Grain Size,"(0.0, 50.0)"
+Grain Size,(0.0 - 50.0)
 Locality,"Haute Marne, France"
 Minimum Wavelength,300
 Sample Name,Chassigny olivine (desugared)
@@ -15,7 +15,7 @@ Material class,Meteorites
 Sample Description,"Two vials combined, desugared."
 Sample ID,BKR1DD062
 Original Sample ID,DD-MDD-062
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03975
 305.0,0.04046

@@ -2,7 +2,7 @@ Composition,
 Date Added,1991-03-14
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(25.0, 250.0)"
+Grain Size,(25.0 - 250.0)
 Locality,"Cape Province, South Africa "
 Minimum Wavelength,750
 Sample Name,Jackalsfontein light
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,"BM1908,43, Dark fraction (D)  Thin section P. 4565, BM1908,431. At Brit. Mus. of Nat. History."
 Sample ID,NDMB12
 Original Sample ID,MB-CMP-012-D
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 750.0,0.11899
 750.1,0.11906

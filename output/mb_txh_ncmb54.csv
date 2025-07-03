@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-04-14
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,"Lewis Cliff, Anarctica "
 Minimum Wavelength,300
 Sample Name,LEW90500
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,M. Zolensky Sample  
 Sample ID,NCMB54
 Original Sample ID,MB-TXH-054
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.01758
 305.0,0.0183

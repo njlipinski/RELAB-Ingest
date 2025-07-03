@@ -2,7 +2,7 @@ Composition,
 Date Added,1994-05-03
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Steinegg, Austria "
 Minimum Wavelength,300
 Sample Name,Montmorillonite 123 
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,494F123
 Original Sample ID,JB-CMP-123
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.02242
 305.0,0.02171

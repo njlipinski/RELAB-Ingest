@@ -2,7 +2,7 @@ Composition,
 Date Added,2007-03-09
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"Helen Beryl Mine, Custer Co., SD"
 Minimum Wavelength,1000
 Sample Name,Alluaudite P40
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Spectroscopy of phosphate minerals (MDAP, MFRP)"
 Sample ID,BIR1JB748
 Original Sample ID,JB-JLB-748
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1000.0,0.21575
 1000.2,0.21572

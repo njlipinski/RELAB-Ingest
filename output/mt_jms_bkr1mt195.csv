@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-10-05
 Formula,
 Grain Size Description,<35.0um
-Grain Size,"(0.0, 35.0)"
+Grain Size,(0.0 - 35.0)
 Locality,Dem. Rep. Congo
 Minimum Wavelength,320
 Sample Name,Essebi (C2-ung) <35 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Infrared & visible characterization of CM meteorites
 Sample ID,BKR1MT195
 Original Sample ID,MT-JMS-195
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.02155
 325.0,0.02224

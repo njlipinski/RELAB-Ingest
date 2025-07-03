@@ -2,7 +2,7 @@ Composition,
 Date Added,2003-04-26
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(74.0, 250.0)"
+Grain Size,(74.0 - 250.0)
 Locality,"Ohaaki Pool, Taupo Volcanic Zone, New Zealand"
 Minimum Wavelength,320
 Sample Name,NZ152-2
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Collected by Dr. B. Jones from an outwash pool, distal low temperature setting.  For study of opal-A from hydrothermal environments."
 Sample ID,BKR1OP002
 Original Sample ID,OP-MCG-002
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.34437
 325.0,0.35171

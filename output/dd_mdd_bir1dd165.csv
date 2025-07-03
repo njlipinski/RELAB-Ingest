@@ -2,7 +2,7 @@ Composition,
 Date Added,2018-12-28
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Hopen, Austuagov, Lofoten Isl., Norway"
 Minimum Wavelength,1428
 Sample Name,NMNH 134665 cpx
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,BIR1DD165
 Original Sample ID,DD-MDD-165
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.42,0.276195
 1428.82,0.275796

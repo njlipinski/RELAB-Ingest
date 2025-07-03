@@ -2,7 +2,7 @@ Composition,
 Date Added,1992-10-06
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,"Bancroft, Ontario, Canada "
 Minimum Wavelength,900
 Sample Name,Hornblende equilibrated at 475C in Ni/NiO buffer
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Cambridge Univ #613. -068-B is heated 14 days at 475c  See Burns and Greaves, Am. Min., 56, 2010 (1971)"
 Sample ID,NCSB68
 Original Sample ID,SB-RGB-068-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 900.1,0.02184
 900.3,0.02216

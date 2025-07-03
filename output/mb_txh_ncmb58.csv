@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-05-08
 Formula,
 Grain Size Description,<100.0um
-Grain Size,"(0.0, 100.0)"
+Grain Size,(0.0 - 100.0)
 Locality,"Ferrara, Italy"
 Minimum Wavelength,300
 Sample Name,Renazzo 
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,M. Zolensky Sample  
 Sample ID,NCMB58
 Original Sample ID,MB-TXH-058
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.02887
 305.0,0.03086

@@ -2,7 +2,7 @@ Composition,
 Date Added,2013-11-07
 Formula,
 Grain Size Description,<400.0um
-Grain Size,"(0.0, 400.0)"
+Grain Size,(0.0 - 400.0)
 Locality,"Pavant Buffe, Utah"
 Minimum Wavelength,300
 Sample Name,PB13-004B

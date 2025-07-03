@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-10-17
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,Synthetic 
 Minimum Wavelength,800
 Sample Name,"Magnesium chloride, ultra dry, 99.99% under Argon (MgCl2)"
@@ -15,7 +15,7 @@ Material class,Synthetic
 Sample Description,"By Alfa Aesar (Stock #42850, Lot # A18X002)"
 Sample ID,BIR2WV001
 Original Sample ID,WV-JWH-001
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.32492
 800.0,0.32482

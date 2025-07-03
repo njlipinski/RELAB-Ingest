@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-03-18
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Sudan
 Minimum Wavelength,1428
 Sample Name,Almahata Sitta #16 (EH) <125 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Impact and recovery of 2008 TC3 (Astronomy)
 Sample ID,BMR1MT112C
 Original Sample ID,MT-PMJ-112-C
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 1428.4,0.07135
 1428.8,0.07189

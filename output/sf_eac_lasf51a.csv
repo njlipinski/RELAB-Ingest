@@ -2,7 +2,7 @@ Composition,
 Date Added,2002-04-18
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Coso Hot Springs, Inyo Co., CA"
 Minimum Wavelength,300
 Sample Name,SPT137
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Spectral properties of possible Mar surface materials
 Sample ID,LASF51A
 Original Sample ID,SF-EAC-051-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.03737
 305.0,0.03041

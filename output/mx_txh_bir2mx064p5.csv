@@ -2,7 +2,7 @@ Composition,
 Date Added,2015-08-06
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,France & Tanzania
 Minimum Wavelength,800
 Sample Name,Orgueil + Ivuna (CI1) <125 um pellet irradiated with 5-mJ laser
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BIR2MX064P5
 Original Sample ID,MX-TXH-064-P5
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 799.9,0.02836
 800.0,0.02769

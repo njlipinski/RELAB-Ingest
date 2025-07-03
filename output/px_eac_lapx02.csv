@@ -2,7 +2,7 @@ Composition,
 Date Added,1997-10-11
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Santa Teressa Mtns, Graham Co., AZ "
 Minimum Wavelength,300
 Sample Name,PYX174
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,Purchased from David Shannon Minerals.  Iron Cap prospect 
 Sample ID,LAPX02
 Original Sample ID,PX-EAC-002
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.0801
 305.0,0.08819

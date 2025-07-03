@@ -2,7 +2,7 @@ Composition,
 Date Added,2010-11-10
 Formula,
 Grain Size Description,<25.0um
-Grain Size,"(0.0, 25.0)"
+Grain Size,(0.0 - 25.0)
 Locality,"Klein Glacier, Antarctica"
 Minimum Wavelength,280
 Sample Name,"KLE98300,33 (EH3) <25 um"

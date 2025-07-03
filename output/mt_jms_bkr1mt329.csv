@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-07-21
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Elephant Moraine, Antarctica"
 Minimum Wavelength,320
 Sample Name,EET 99402 (Brachinite) <45 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR1MT329
 Original Sample ID,MT-JMS-329
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 320.0,0.07572
 330.0,0.08755

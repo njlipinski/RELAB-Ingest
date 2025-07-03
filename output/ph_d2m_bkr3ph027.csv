@@ -2,7 +2,7 @@ Composition,
 Date Added,2003-11-07
 Formula,
 Grain Size Description,<75.0um
-Grain Size,"(0.0, 75.0)"
+Grain Size,(0.0 - 75.0)
 Locality,"Allan Hills, Antarctica"
 Minimum Wavelength,300
 Sample Name,ALHA77257
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,BKR3PH027
 Original Sample ID,PH-D2M-027
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.06174
 305.0,0.06191

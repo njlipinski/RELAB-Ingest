@@ -2,7 +2,7 @@ Composition,
 Date Added,1998-12-29
 Formula,
 Grain Size Description,<90.0um
-Grain Size,"(45.0, 90.0)"
+Grain Size,(45.0 - 90.0)
 Locality,"Washington County, Utah "
 Minimum Wavelength,300
 Sample Name,CRB102 45-90 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,
 Sample ID,LACB02B
 Original Sample ID,CB-EAC-002-B
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.55853
 305.0,0.56111

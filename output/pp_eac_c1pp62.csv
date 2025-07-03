@@ -2,7 +2,7 @@ Composition,
 Date Added,1988-12-16
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Jefferson Co., CO "
 Minimum Wavelength,300
 Sample Name,PYX025

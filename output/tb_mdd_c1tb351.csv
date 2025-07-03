@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-08-25
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"LaPaz Ice Field, Antarctica"
 Minimum Wavelength,320
 Sample Name,"LAP 02238,5 <125 um"

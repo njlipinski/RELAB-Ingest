@@ -2,7 +2,7 @@ Composition,
 Date Added,2008-12-10
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Synthetic
 Minimum Wavelength,280
 Sample Name,Synthetic copiapite MAC-7

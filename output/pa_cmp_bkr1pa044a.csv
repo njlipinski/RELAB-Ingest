@@ -2,7 +2,7 @@ Composition,
 Date Added,2007-02-27
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Lee, Massachusetts"
 Minimum Wavelength,300
 Sample Name,Act 12 <45 um
@@ -15,7 +15,7 @@ Material class,Mineral
 Sample Description,"Pure tremolite from Brown University teaching collection, 338.38  Large, single crystal ground to bulk powder "
 Sample ID,BKR1PA044A
 Original Sample ID,PA-CMP-044-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.16077
 305.0,0.18475

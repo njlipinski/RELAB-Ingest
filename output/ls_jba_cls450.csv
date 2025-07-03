@@ -2,7 +2,7 @@ Composition,
 Date Added,1985-07-02
 Formula,
 Grain Size Description,<1000.0um
-Grain Size,"(0.0, 1000.0)"
+Grain Size,(0.0 - 1000.0)
 Locality,Apollo 15 Station 6 
 Minimum Wavelength,351
 Sample Name,"15271,59Q "
@@ -15,7 +15,7 @@ Material class,Mixture
 Sample Description,Apennine Front surface soilNASA #15271  
 Sample ID,CLS450
 Original Sample ID,LS-JBA-119-N2
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 351.0,0.077
 354.0,0.08

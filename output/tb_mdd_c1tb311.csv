@@ -2,7 +2,7 @@ Composition,
 Date Added,2020-07-17
 Formula,
 Grain Size Description,<10.0um
-Grain Size,"(0.0, 10.0)"
+Grain Size,(0.0 - 10.0)
 Locality,"Parana, Brazil"
 Minimum Wavelength,320
 Sample Name,Ipiranga <10 um

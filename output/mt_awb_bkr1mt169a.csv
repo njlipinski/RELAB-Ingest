@@ -2,7 +2,7 @@ Composition,
 Date Added,2011-12-02
 Formula,
 Grain Size Description,<45.0um
-Grain Size,"(0.0, 45.0)"
+Grain Size,(0.0 - 45.0)
 Locality,"Graves Nunataks, Antarctica"
 Minimum Wavelength,280
 Sample Name,GRA98108 <45 um
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,Reference for use in the Dawn Mission
 Sample ID,BKR1MT169A
 Original Sample ID,MT-AWB-169-A
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 280.0,0.2728
 285.0,0.19212

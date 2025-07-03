@@ -2,7 +2,7 @@ Composition,
 Date Added,1988-10-20
 Formula,
 Grain Size Description,<1.0um
-Grain Size,"(0.0, 1.0)"
+Grain Size,(0.0 - 1.0)
 Locality,Johnson Matthey 
 Minimum Wavelength,340
 Sample Name,LCA101

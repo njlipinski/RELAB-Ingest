@@ -2,7 +2,7 @@ Composition,
 Date Added,1995-04-16
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,Anarctica 
 Minimum Wavelength,300
 Sample Name,"EET 87507,27 "
@@ -15,7 +15,7 @@ Material class,Rock
 Sample Description,
 Sample ID,NCMB92
 Original Sample ID,MB-TXH-092
-Viewing Geometry,unknown
+Viewing Geometry,Unknown
 Wavelength,Response
 300.0,0.04378
 305.0,0.04433

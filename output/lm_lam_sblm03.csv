@@ -2,7 +2,7 @@ Composition,
 Date Added,1986-10-31
 Formula,
 Grain Size Description,<250.0um
-Grain Size,"(0.0, 250.0)"
+Grain Size,(0.0 - 250.0)
 Locality,Moon
 Minimum Wavelength,400
 Sample Name,"Y-791197,90 "

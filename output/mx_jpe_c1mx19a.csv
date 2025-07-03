@@ -2,7 +2,7 @@ Composition,
 Date Added,2017-03-10
 Formula,
 Grain Size Description,<125.0um
-Grain Size,"(0.0, 125.0)"
+Grain Size,(0.0 - 125.0)
 Locality,"San Carlos, AZ & Tanzania, Africa"
 Minimum Wavelength,320
 Sample Name,50% San Carlos olivine + 50% Tanzania enstatite mixture <125 um
