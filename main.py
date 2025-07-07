@@ -46,15 +46,15 @@ def get_sample_type(id, source, genType1, genType2, type1, type2, subtype):
         if 'standard' in type1.lower(): return 'Reference'
         else : return 'Synthetic'
     
-    if source.lower() in meteorites:
-        if 'other-met' in source.lower and 'biological' in genType1.lower(): return 'Organic'
+    if source.lower() in meteorites.lower():
+        if 'other-met' in source.lower() and 'biological' in genType1.lower(): return 'Organic'
         else : return 'Meteorites'
 
     if 'moon-ret' in source.lower(): return 'Returned Planetary Samples'
     if 'mixture' in type1.lower(): return 'Mixture'
 
     # General Type 1 classifications (Blue loop)
-    if genType1 in material_classes: 
+    if genType1.lower() in material_classes.lower(): 
         if genType1.lower() == 'mineral' and type1.lower() == 'mixture': 
             return 'Mixture'
         if genType1.lower() == 'sediment' and type1.lower() == 'mixture': 
@@ -62,7 +62,7 @@ def get_sample_type(id, source, genType1, genType2, type1, type2, subtype):
         else: return genType1
     if genType1 == 'Glass' and type1 == 'Mixture':
         return 'Mixture'
-    if genType1 in sediments: return 'Sediment' # should be ~22000 entries
+    if genType1 in sediments: return 'Sediment'
     if genType1 in organics: return 'Organic'
     if genType1 in minerals: return 'Mineral'
     if genType1 in rocks: return 'Rock'
@@ -212,7 +212,7 @@ if __name__ == "__main__":
                 elif max_val > 0.0 and min_grain == "": # range can be from 0 to max
                     grain_size = str(max_val)
                 else:
-                    grain_size = f"({min_val} - {max_val})" # default case, min - max
+                    grain_size = f"{min_val} - {max_val} um" # default case, min - max
             except ValueError as e:
                 if any(keyword in name_lower for keyword in keywords):
                     grain_size = "Whole Object"
