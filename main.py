@@ -16,8 +16,10 @@ data_dir = "../RelabDatabase2024Dec31/data/"
 
 
 # classifies the sample type of sample based on metadata
-# changed to "Sample type" -- VISOR has additonal field for "Material class" but Sample type is used for consistency
-def get_sample_type(id, source, genType1, gen_type_2, type1, type2, subtype):
+# VISOR has additonal field for "Material class" but Sample type is used for consistency
+# Currently assigns value to Material class field, which is copied to Sample type field in the database
+# Waiting to hear back from Million Concepts about altering this approach (July 2025)
+def get_sample_type(id, source, genType1, genType2, type1, type2, subtype):
 
     # hard coded id classifications
     match id:
@@ -30,29 +32,6 @@ def get_sample_type(id, source, genType1, gen_type_2, type1, type2, subtype):
         case 'SS-CMP-004': return 'Rock'
         case 'TT-CMP-001': return 'Synthetic'
     
-    if 'sediment' in genType1.lower(): return 'Mixture'
-    if 'standard' in type1.lower(): return 'Reference'
-    if 'synthetic' in source.lower(): return 'Synthetic'
-    if 'biological' in genType1.lower(): return 'Organic'
-        
-    if source in meteorites: return 'Meteorites'
-
-    if 'moon-ret' in source.lower(): return 'Returned Planetary Samples'
-    if 'mixture' in type1.lower(): return 'Mixture'
-    if 'dune sand' in type1.lower(): return 'Sediment'
-
-    if genType1 in material_classes: return genType1
-
-    if 'mixture' in gen_type_2.lower(): return 'Mixture'
-    
-    if genType1 in sediments: return 'Sediment'
-    if genType1 in organics: return 'Organic'
-    if genType1 in minerals: return 'Mineral'
-    if genType1 in rocks: return 'Rock'
-    if genType1 in synthetics: return 'Synthetic'
-
-    if 'quartz kbr' in subtype.lower(): return 'Rock'
-
     # outlier (hard coded) classifications
     sample_attributes = f'{genType1}, {type1}, {subtype}'
     if sample_attributes in minerals_o: return 'Mineral'
@@ -60,6 +39,39 @@ def get_sample_type(id, source, genType1, gen_type_2, type1, type2, subtype):
     if sample_attributes in organics_o: return 'Organic'
     if sample_attributes in rocks_o: return 'Rock'
     if sample_attributes in sediments_o: return 'Sediment'
+
+    # Source-based classifications (Orange loop)
+    if 'synthetic' in source.lower():
+        if 'sediment' in genType1.lower(): return 'Mixture'
+        if 'standard' in type1.lower(): return 'Reference'
+        else : return 'Synthetic'
+    
+    if source.lower() in meteorites:
+        if 'other-met' in source.lower and 'biological' in genType1.lower(): return 'Organic'
+        else : return 'Meteorites'
+
+    if 'moon-ret' in source.lower(): return 'Returned Planetary Samples'
+    if 'mixture' in type1.lower(): return 'Mixture'
+
+    # General Type 1 classifications (Blue loop)
+    if genType1 in material_classes: 
+        if genType1.lower() == 'mineral' and type1.lower() == 'mixture': 
+            return 'Mixture'
+        if genType1.lower() == 'sediment' and type1.lower() == 'mixture': 
+            return 'Mixture'
+        else: return genType1
+    if genType1 == 'Glass' and type1 == 'Mixture':
+        return 'Mixture'
+    if genType1 in sediments: return 'Sediment' # should be ~22000 entries
+    if genType1 in organics: return 'Organic'
+    if genType1 in minerals: return 'Mineral'
+    if genType1 in rocks: return 'Rock'
+    if genType1 in synthetics: return 'Synthetic'
+
+    # other classifications (Purple loop)
+    if 'dune sand' in type1.lower(): return 'Sediment'
+    if 'mixture' in genType2.lower(): return 'Mixture'
+    if 'quartz kbr' in subtype.lower(): return 'Rock' # outliers, some quartz KBr samples are classified as mixtures first
 
     # default case
     return None

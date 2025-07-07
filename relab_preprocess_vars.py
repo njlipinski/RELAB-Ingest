@@ -7,7 +7,7 @@ material_classes = {
 
 # defined classifications  
 meteorites = {
-    'Mars-Met', 'Moon-Met', 'Other-Ast', 'Other-Qet', 'Other-Vet'
+    'Mars-Met', 'Moon-Met', 'Other-Ast', 'Other-Qet', 'Other-Vet', 'Other-Met'
 }
 
 sediments = {
