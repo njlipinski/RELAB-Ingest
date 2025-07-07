@@ -46,7 +46,7 @@ def get_sample_type(id, source, genType1, genType2, type1, type2, subtype):
         if 'standard' in type1.lower(): return 'Reference'
         else : return 'Synthetic'
     
-    if source.lower() in meteorites.lower():
+    if source in meteorites:
         if 'other-met' in source.lower() and 'biological' in genType1.lower(): return 'Organic'
         else : return 'Meteorites'
 
