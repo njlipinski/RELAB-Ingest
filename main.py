@@ -172,7 +172,7 @@ if __name__ == "__main__":
             reference = spectra_cat.cell_value(rowx=spectra, colx=22)
             
             date_added = xlrd.xldate_as_datetime(date_added, 1).date().isoformat()
-            view_geo = f'{source_angle}° / {detect_angle}°' if (source_angle!="NA" and detect_angle!="NA") else "Unknown"
+            view_geo = f'i = {source_angle}° / e = {detect_angle}°' if (source_angle!="NA" and detect_angle!="NA") else "Unknown"
 
             # get sample info
             sample_id = spectra_cat.cell_value(rowx=spectra, colx=1)
@@ -193,33 +193,14 @@ if __name__ == "__main__":
             other_info = chem_analysis[chem_num]["OtherInfo"] if (chem_num!="0" and chem_num!='') else ""
             refs = chem_analysis[chem_num]["References"] if (chem_num!="0" and chem_num!='') else ""
 
-            # prepare grain size metadata
-            grain_size = 'Unknown'
-            min_grain = spectra_sample_data["min_grain_size"]
-            max_grain = spectra_sample_data["max_grain_size"]
+            # sample name, description, other info
             sample_name = spectra_sample_data["sample_name"]
             name_lower = str(sample_name).lower()
-            keywords = ["chip", "slab", "rock", "cube"]
-            try:
-                min_val = float(min_grain)
-                max_val = float(max_grain)
-                if any(keyword in name_lower for keyword in keywords):
-                    grain_size = "Whole Object"
-                elif min_val == 0.0 and max_val == 0.0:
-                    grain_size = "Unknown"
-                elif min_val > 0.0 and (max_val == 0.0 or max_grain == ""):
-                    grain_size = str(min_val)
-                elif max_val > 0.0 and min_grain == "": # range can be from 0 to max
-                    grain_size = str(max_val)
-                else:
-                    grain_size = f"{min_val} - {max_val} um" # default case, min - max
-            except ValueError as e:
-                if any(keyword in name_lower for keyword in keywords):
-                    grain_size = "Whole Object"
-                else:
-                    grain_size = "Unknown"
+            sample_type = spectra_sample_data["SampleType"]
+            sample_description = spectra_sample_data["SampleDescription"] or ""
+            sample_description_lower = str(sample_description).lower()
 
-            #composite header strings
+           #composite header strings
             other_info_str = ""
             other_info = other_info or ""
             sub_type_info = sub_type_info or ""
@@ -240,6 +221,38 @@ if __name__ == "__main__":
             if reference != "":
                 ref_str += reference
 
+            # prepare grain size metadata
+            grain_size = 'Unknown'
+            min_grain = spectra_sample_data["min_grain_size"]
+            max_grain = spectra_sample_data["max_grain_size"]
+            keywords = ["chip", "slab", "rock", "cube"]
+            keywords_rocks = ["polished", "slab"]
+            other_info_str_lower = other_info_str.lower()
+
+            try:
+                min_val = float(min_grain)
+                max_val = float(max_grain)
+                if any(keyword in name_lower for keyword in keywords):
+                    grain_size = "Whole Object"
+                if sample_type == "Reference":
+                    grain_size = "Whole Object"
+                elif min_val == 0.0 and max_val == 0.0:
+                    if sample_type == "Rock" and any(keyword in name_lower for keyword in keywords_rocks) : grain_size = "Whole Object"
+                    elif sample_type == "Rock" and any(keyword in sample_description_lower for keyword in keywords_rocks) : grain_size = "Whole Object"
+                    elif sample_type == "Rock" and any(keyword in other_info_str_lower for keyword in keywords_rocks) : grain_size = "Whole Object"
+                    else : grain_size = "Unknown"
+                elif min_val > 0.0 and (max_val == 0.0 or max_grain == ""):
+                    grain_size = f"{min_val}"
+                elif max_val > 0.0 and min_grain == "": # range can be from 0 to max
+                    grain_size = f"{max_val}"
+                else:
+                    grain_size = f"{min_val} - {max_val}" # default case, min - max
+            except ValueError as e:
+                if any(keyword in name_lower for keyword in keywords):
+                    grain_size = "Whole Object"
+                else:
+                    grain_size = "Unknown"
+
             # prepare header
             header = [
                 ["Composition", ""],
@@ -255,8 +268,8 @@ if __name__ == "__main__":
                 ["Other Information", other_info_str or ""],
                 ["References", ref_str or ""],
                 ["Resolution", resolution or ""],
-                ["Material class", spectra_sample_data["SampleType"] or ""],
-                ["Sample Description", spectra_sample_data["SampleDescription"] or ""],
+                ["Material class", sample_type or ""],
+                ["Sample Description", sample_description or ""],
                 ["Sample ID", spectra_id or ""],
                 ["Original Sample ID", sample_id or ""],
                 ["Viewing Geometry", view_geo or ""],
