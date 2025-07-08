@@ -54,7 +54,7 @@ def get_sample_type(id, source, genType1, genType2, type1, type2, subtype):
     if 'mixture' in type1.lower(): return 'Mixture'
 
     # General Type 1 classifications (Blue loop)
-    if genType1.lower() in material_classes.lower(): 
+    if genType1 in material_classes: 
         if genType1.lower() == 'mineral' and type1.lower() == 'mixture': 
             return 'Mixture'
         if genType1.lower() == 'sediment' and type1.lower() == 'mixture': 
