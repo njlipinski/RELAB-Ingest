@@ -3,3 +3,4 @@ __pycache__
 *.ipynb
 RelabDatabase2024Dec31
 output
+*.csv

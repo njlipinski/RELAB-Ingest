@@ -253,11 +253,10 @@ if __name__ == "__main__":
                 else:
                     grain_size = "Unknown"
 
-            # prepare header
+            # prepare header (Removed Compostion and Formula; we were not using them)
+            """ Trying out new header construction
             header = [
-                ["Composition", ""],
                 ["Date Added", date_added or ""],
-                ["Formula", ""],
                 ["Grain Size Description", f'<{spectra_sample_data["max_grain_size"]}um' or ""],
                 ["Grain Size", grain_size or ""],
                 ["Locality", spectra_sample_data["Origin"] or ""],
@@ -275,6 +274,35 @@ if __name__ == "__main__":
                 ["Viewing Geometry", view_geo or ""],
                 ["Wavelength", "Response"] # Wavelength must go at end of header; used by split_data_and_metadata function during ingest
             ]
+"""
+            header = []
+
+            # Helper function to conditionally add rows
+            def add_row(label, value):
+                if value:  # excludes None, empty strings, and False
+                    header.append([label, value])
+
+            add_row("Date Added", date_added)
+            add_row("Grain Size Description", f'<{spectra_sample_data["max_grain_size"]}um' if spectra_sample_data.get("max_grain_size") else "")
+            add_row("Grain Size", grain_size)
+            add_row("Locality", spectra_sample_data.get("Origin"))
+            add_row("Minimum Wavelength", min_wavelength)
+            add_row("Sample Name", spectra_sample_data.get("sample_name"))
+            add_row("Maximum Wavelength", max_wavelength)
+            add_row("Database of Origin", spectra_sample_data.get("Location"))
+            add_row("Other Information", other_info_str)
+            add_row("References", ref_str)
+            add_row("Resolution", resolution)
+            add_row("Material class", sample_type)
+            add_row("Sample Description", sample_description)
+            add_row("Sample ID", spectra_id)
+            add_row("Original Sample ID", sample_id)
+            add_row("Viewing Geometry", view_geo)
+
+            # Always include the Wavelength header at the end
+            header.append(["Wavelength", "Response"])
+
+
             
             # compute location of spectral data
             pi_initials = sample_id.split("-")[1].lower()
