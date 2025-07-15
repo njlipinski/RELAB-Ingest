@@ -166,12 +166,12 @@ if __name__ == "__main__":
             min_wavelength = int(spectra_cat.cell_value(rowx=spectra, colx=5))
             max_wavelength = int(spectra_cat.cell_value(rowx=spectra, colx=6))
             resolution = spectra_cat.cell_value(rowx=spectra, colx=7)
-            date_added = spectra_cat.cell_value(rowx=spectra, colx=2)
+            date_added = spectra_cat.cell_value(rowx=spectra, colx=2) # TODO: Date data was collected
             source_angle = spectra_cat.cell_value(rowx=spectra, colx=8)
             detect_angle = spectra_cat.cell_value(rowx=spectra, colx=9)
             reference = spectra_cat.cell_value(rowx=spectra, colx=22)
             
-            date_added = xlrd.xldate_as_datetime(date_added, 1).date().isoformat()
+            date_added = xlrd.xldate_as_datetime(date_added, 1).date().isoformat() # TODO: Date added to VISOR
             view_geo = f'i = {source_angle}° / e = {detect_angle}°' if (source_angle!="NA" and detect_angle!="NA") else "Unknown"
 
             # get sample info
@@ -236,7 +236,7 @@ if __name__ == "__main__":
                     grain_size = "Whole Object"
                 if sample_type == "Reference":
                     grain_size = "Whole Object"
-                elif min_val == 0.0 and max_val == 0.0:
+                elif min_val == 0.0 and max_val == 0.0: # TODO: Don't check sample type -- not just "Rock"
                     if sample_type == "Rock" and any(keyword in name_lower for keyword in keywords_rocks) : grain_size = "Whole Object"
                     elif sample_type == "Rock" and any(keyword in sample_description_lower for keyword in keywords_rocks) : grain_size = "Whole Object"
                     elif sample_type == "Rock" and any(keyword in other_info_str_lower for keyword in keywords_rocks) : grain_size = "Whole Object"
@@ -281,9 +281,10 @@ if __name__ == "__main__":
             def add_row(label, value):
                 if value:  # excludes None, empty strings, and False
                     header.append([label, value])
-
+            # These two fields don't currently show up in VISOR; remove them?
             add_row("Date Added", date_added)
             add_row("Grain Size Description", f'<{spectra_sample_data["max_grain_size"]}um' if spectra_sample_data.get("max_grain_size") else "")
+            # Valid header fields added if present, if not will be omitted so they show up as blank in VISOR
             add_row("Grain Size", grain_size)
             add_row("Locality", spectra_sample_data.get("Origin"))
             add_row("Minimum Wavelength", min_wavelength)
