@@ -99,7 +99,7 @@ def load_sample_data():
         max_grain_size = sample_cat.cell_value(rowx=sample, colx=13)
         origin         = sample_cat.cell_value(rowx=sample, colx=16)
         # location       = sample_cat.cell_value(rowx=sample, colx=17)
-        location       = 'RELAB' # Changed from ReLab
+        location       = 'RELAB'
         chem_num       = sample_cat.cell_value(rowx=sample, colx=18)
         text           = sample_cat.cell_value(rowx=sample, colx=19)
 
@@ -225,8 +225,7 @@ if __name__ == "__main__":
             grain_size = 'Unknown'
             min_grain = spectra_sample_data["min_grain_size"]
             max_grain = spectra_sample_data["max_grain_size"]
-            keywords = ["chip", "slab", "rock", "cube"]
-            keywords_rocks = ["polished", "slab"]
+            keywords = ["chip", "slab", "rock", "cube", "polished"]
             other_info_str_lower = other_info_str.lower()
 
             try:
@@ -236,10 +235,10 @@ if __name__ == "__main__":
                     grain_size = "Whole Object"
                 if sample_type == "Reference":
                     grain_size = "Whole Object"
-                elif min_val == 0.0 and max_val == 0.0: # TODO: Don't check sample type -- not just "Rock"
-                    if sample_type == "Rock" and any(keyword in name_lower for keyword in keywords_rocks) : grain_size = "Whole Object"
-                    elif sample_type == "Rock" and any(keyword in sample_description_lower for keyword in keywords_rocks) : grain_size = "Whole Object"
-                    elif sample_type == "Rock" and any(keyword in other_info_str_lower for keyword in keywords_rocks) : grain_size = "Whole Object"
+                elif min_val == 0.0 and max_val == 0.0: # Checks sample name for chip/slab/rock/cube and assigns grain size as whole object
+                    if any(keyword in name_lower for keyword in keywords) : grain_size = "Whole Object"
+                    elif any(keyword in sample_description_lower for keyword in keywords) : grain_size = "Whole Object"
+                    elif any(keyword in other_info_str_lower for keyword in keywords) : grain_size = "Whole Object"
                     else : grain_size = "Unknown"
                 elif min_val > 0.0 and (max_val == 0.0 or max_grain == ""):
                     grain_size = f"{min_val}"
@@ -254,34 +253,15 @@ if __name__ == "__main__":
                     grain_size = "Unknown"
 
             # prepare header (Removed Compostion and Formula; we were not using them)
-            """ Trying out new header construction
-            header = [
-                ["Date Added", date_added or ""],
-                ["Grain Size Description", f'<{spectra_sample_data["max_grain_size"]}um' or ""],
-                ["Grain Size", grain_size or ""],
-                ["Locality", spectra_sample_data["Origin"] or ""],
-                ["Minimum Wavelength", min_wavelength or ""],
-                ["Sample Name", spectra_sample_data["sample_name"] or ""],
-                ["Maximum Wavelength", max_wavelength or ""],
-                ["Database of Origin", spectra_sample_data["Location"] or ""],
-                ["Other Information", other_info_str or ""],
-                ["References", ref_str or ""],
-                ["Resolution", resolution or ""],
-                ["Material class", sample_type or ""],
-                ["Sample Description", sample_description or ""],
-                ["Sample ID", spectra_id or ""],
-                ["Original Sample ID", sample_id or ""],
-                ["Viewing Geometry", view_geo or ""],
-                ["Wavelength", "Response"] # Wavelength must go at end of header; used by split_data_and_metadata function during ingest
-            ]
-"""
+  
             header = []
 
             # Helper function to conditionally add rows
             def add_row(label, value):
                 if value:  # excludes None, empty strings, and False
                     header.append([label, value])
-            # These two fields don't currently show up in VISOR; remove them?
+                    
+            # These two fields don't currently show up in VISOR, but do in exported CSVs
             add_row("Date Added", date_added)
             add_row("Grain Size Description", f'<{spectra_sample_data["max_grain_size"]}um' if spectra_sample_data.get("max_grain_size") else "")
             # Valid header fields added if present, if not will be omitted so they show up as blank in VISOR
@@ -300,10 +280,8 @@ if __name__ == "__main__":
             add_row("Original Sample ID", sample_id)
             add_row("Viewing Geometry", view_geo)
 
-            # Always include the Wavelength header at the end
+            # Always include the Wavelength header at the end -- VISOR uses this to tell when the data starts
             header.append(["Wavelength", "Response"])
-
-
             
             # compute location of spectral data
             pi_initials = sample_id.split("-")[1].lower()
