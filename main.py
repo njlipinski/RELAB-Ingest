@@ -172,7 +172,7 @@ if __name__ == "__main__":
             reference = spectra_cat.cell_value(rowx=spectra, colx=22)
             
             date_added = xlrd.xldate_as_datetime(date_added, 1).date().isoformat() # TODO: Date added to VISOR
-            view_geo = f'i = {source_angle}° / e = {detect_angle}°' if (source_angle!="NA" and detect_angle!="NA") else "Unknown"
+            view_geo = f'i{int(source_angle)} e{int(detect_angle)}' if (source_angle!="NA" and detect_angle!="NA") else "Unknown"
 
             # get sample info
             sample_id = spectra_cat.cell_value(rowx=spectra, colx=1)
@@ -252,9 +252,10 @@ if __name__ == "__main__":
                 else:
                     grain_size = "Unknown"
 
-            # prepare header (Removed Compostion and Formula; we were not using them)
-  
+            # prepare header
             header = []
+            if sample_name == "":
+                sample_name = other_info_str_lower
 
             # Helper function to conditionally add rows
             def add_row(label, value):
@@ -262,13 +263,13 @@ if __name__ == "__main__":
                     header.append([label, value])
                     
             # These two fields don't currently show up in VISOR, but do in exported CSVs
-            add_row("Date Added", date_added)
+            add_row("Date Added to VISOR", date_added)
             add_row("Grain Size Description", f'<{spectra_sample_data["max_grain_size"]}um' if spectra_sample_data.get("max_grain_size") else "")
             # Valid header fields added if present, if not will be omitted so they show up as blank in VISOR
             add_row("Grain Size", grain_size)
             add_row("Locality", spectra_sample_data.get("Origin"))
             add_row("Minimum Wavelength", min_wavelength)
-            add_row("Sample Name", spectra_sample_data.get("sample_name"))
+            add_row("Sample Name", sample_name)
             add_row("Maximum Wavelength", max_wavelength)
             add_row("Database of Origin", spectra_sample_data.get("Location"))
             add_row("Other Information", other_info_str)
@@ -276,7 +277,7 @@ if __name__ == "__main__":
             add_row("Resolution", resolution)
             add_row("Material class", sample_type)
             add_row("Sample Description", sample_description)
-            add_row("Sample ID", spectra_id)
+            add_row("Spectrum ID", spectra_id)
             add_row("Original Sample ID", sample_id)
             add_row("Viewing Geometry", view_geo)
 
