@@ -232,7 +232,8 @@ if __name__ == "__main__":
                 min_val = float(min_grain)
                 max_val = float(max_grain)
                 if any(keyword in name_lower for keyword in keywords):
-                    grain_size = "Whole Object"
+                    if sample_type != "Sediment":
+                        grain_size = "Whole Object"
                 if sample_type == "Reference":
                     grain_size = "Whole Object"
                 elif min_val == 0.0 and max_val == 0.0: # Checks sample name for chip/slab/rock/cube and assigns grain size as whole object
